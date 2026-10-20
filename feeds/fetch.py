@@ -6,7 +6,7 @@ import html
 import logging
 import re
 import time
-from dataclasses import dataclass, field
+from dataclasses import dataclass, field, replace
 from datetime import datetime, timedelta, timezone
 from typing import Optional
 from urllib.parse import quote, urlparse
@@ -44,6 +44,7 @@ class FetchResult:
     error: Optional[str] = None
     raw_count: int = 0
     feed_title: str = ""
+    fallback: Optional[str] = None  # why the feed failed, when items came from the search fallback
 
 
 def clean_text(raw: str, limit: int = 250) -> str:
@@ -192,7 +193,34 @@ def source_url(src: Source, settings: dict) -> str:
     return (src.url or "").replace("{yesterday}", yesterday)
 
 
-async def fetch_one(client, src: Source, settings: dict, now: datetime, sem: asyncio.Semaphore) -> FetchResult:
+def fallback_query(src: Source) -> Optional[str]:
+    """Google News query to use when a source's feed is blocked or empty.
+
+    Some publishers (Substack, Indian Express, ESPN) refuse or return empty feeds to
+    datacenter IPs such as GitHub Actions; their posts are still indexed by Google News.
+    """
+    if src.fallback:
+        return src.fallback
+    host = norm_domain(urlparse(src.url or "").hostname or "")
+    if src.type == "rss" and host.endswith(".substack.com"):
+        return f"site:{host}"
+    return None
+
+
+async def fetch_one(client, src: Source, settings: dict, now: datetime, sems: dict) -> FetchResult:
+    res = await _fetch_direct(client, src, settings, now, sems[src.type])
+    query = fallback_query(src) if (res.error or not res.items) else None
+    if not query:
+        return res
+    fb = await _fetch_direct(client, replace(src, type="gnews", query=query), settings, now, sems["gnews"])
+    if not fb.items:
+        return res
+    log.info("%s: feed failed (%s), used search fallback", src.id, res.error or "no items")
+    fb.fallback = res.error or "no items"
+    return fb
+
+
+async def _fetch_direct(client, src: Source, settings: dict, now: datetime, sem: asyncio.Semaphore) -> FetchResult:
     async with sem:
         url = source_url(src, settings)
         try:
@@ -227,7 +255,7 @@ async def fetch_sources(sources: list[Source], settings: dict) -> dict[str, Fetc
             "gnews": asyncio.Semaphore(3), "arxiv": asyncio.Semaphore(1)}
     limits = httpx.Limits(max_connections=20, max_keepalive_connections=10)
     async with httpx.AsyncClient(headers=HEADERS, timeout=TIMEOUT, follow_redirects=True, limits=limits) as client:
-        tasks = [fetch_one(client, s, settings, now, sems[s.type]) for s in sources]
+        tasks = [fetch_one(client, s, settings, now, sems) for s in sources]
         results = await asyncio.gather(*tasks)
     return {r.source_id: r for r in results}
 

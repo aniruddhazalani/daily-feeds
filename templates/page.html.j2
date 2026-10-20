@@ -107,6 +107,12 @@
     <ul class="problems">{% for p in day.problems %}<li><code>{{ p.id }}</code> {{ p.name }} — {{ p.error }}</li>{% endfor %}</ul>
   </details>
   {% endif %}
+  {% if day.fallbacks %}
+  <details>
+    <summary>{{ day.fallbacks | length }} feed{{ 's' if day.fallbacks | length != 1 }} blocked, followed through Google News instead</summary>
+    <ul class="problems">{% for p in day.fallbacks %}<li><code>{{ p.id }}</code> {{ p.name }} — feed: {{ p.error }}</li>{% endfor %}</ul>
+  </details>
+  {% endif %}
 </footer>
 <script src="{{ base }}app.js"></script>
 </body>

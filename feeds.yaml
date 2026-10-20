@@ -12,6 +12,7 @@
 #   weight:  optional override (defaults: official 3, news 2, blog 2, paper 2, search 1)
 #   topical: true if every post is on-topic for the sections that list it (+3 score)
 #   paywall: true to show a lock next to its headlines
+#   fallback: Google News query used when the feed is blocked/empty (automatic for *.substack.com)
 #
 # Section fields:
 #   include:     {term: weight}  terms matched case-insensitively on word boundaries
@@ -94,8 +95,8 @@ sources:
 
   # ---------- Politics: India ----------
   thehindu_national: { type: rss, kind: news, name: The Hindu, url: "https://www.thehindu.com/news/national/feeder/default.rss" }
-  ie_political_pulse: { type: rss, kind: news, name: Indian Express, url: "https://indianexpress.com/section/political-pulse/feed/", topical: true }
-  ie_india:         { type: rss, kind: news, name: Indian Express, url: "https://indianexpress.com/section/india/feed/" }
+  ie_political_pulse: { type: rss, kind: news, name: Indian Express, url: "https://indianexpress.com/section/political-pulse/feed/", topical: true, fallback: "site:indianexpress.com/article/political-pulse" }
+  ie_india:         { type: rss, kind: news, name: Indian Express, url: "https://indianexpress.com/section/india/feed/", fallback: "site:indianexpress.com/article/india" }
   theprint_politics: { type: rss, kind: news, name: ThePrint, url: "https://theprint.in/category/politics/feed/", topical: true }
   scroll:           { type: rss, kind: news, name: Scroll, url: "https://feeds.feedburner.com/ScrollinArticles.rss" }
   ht_india:         { type: rss, kind: news, name: Hindustan Times, url: "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml" }
@@ -167,7 +168,7 @@ sources:
   # ---------- AI: funding, startups, VC ----------
   techcrunch_ai:    { type: rss, kind: news, name: TechCrunch, url: "https://techcrunch.com/category/artificial-intelligence/feed/" }
   crunchbase_news:  { type: rss, kind: news, name: Crunchbase News, url: "https://news.crunchbase.com/feed/" }
-  venturebeat_ai:   { type: rss, kind: news, name: VentureBeat, url: "https://venturebeat.com/category/ai/feed/" }
+  venturebeat_ai:   { type: rss, kind: news, name: VentureBeat, url: "https://venturebeat.com/category/ai/feed/", fallback: "site:venturebeat.com" }
   cbinsights:       { type: gnews, kind: blog, name: CB Insights, query: "site:cbinsights.com research" }
   newcomer:         { type: rss, kind: blog, name: Newcomer, url: "https://www.newcomer.co/feed" }
   the_information:  { type: rss, kind: news, name: The Information, url: "https://www.theinformation.com/feed", paywall: true }
@@ -254,7 +255,7 @@ sources:
   # ---------- Football (soccer) ----------
   bbc_football:     { type: rss, kind: news, name: BBC Sport, url: "https://feeds.bbci.co.uk/sport/football/rss.xml", topical: true }
   guardian_football: { type: rss, kind: news, name: The Guardian, url: "https://www.theguardian.com/football/rss", topical: true }
-  espn_fc:          { type: rss, kind: news, name: ESPN FC, url: "https://www.espn.com/espn/rss/soccer/news", topical: true }
+  espn_fc:          { type: rss, kind: news, name: ESPN FC, url: "https://www.espn.com/espn/rss/soccer/news", topical: true, fallback: "site:espn.com/soccer" }
   sky_football:     { type: rss, kind: news, name: Sky Sports, url: "https://www.skysports.com/rss/12040", topical: true }
   athletic_football: { type: gnews, kind: news, name: The Athletic, query: "site:nytimes.com/athletic football", paywall: true }
   opta_analyst:     { type: gnews, kind: blog, name: Opta Analyst, query: "site:theanalyst.com football", topical: true }
@@ -282,8 +283,8 @@ sources:
   bbc_athletics:    { type: rss, kind: news, name: BBC Sport, url: "https://feeds.bbci.co.uk/sport/athletics/rss.xml", topical: true }
   world_athletics:  { type: gnews, kind: official, name: World Athletics, query: "site:worldathletics.org news", topical: true }
   olympics:         { type: gnews, kind: official, name: Olympics.com, query: "site:olympics.com news", topical: true }
-  espn_nfl:         { type: rss, kind: news, name: ESPN, url: "https://www.espn.com/espn/rss/nfl/news", topical: true }
-  espn_nba:         { type: rss, kind: news, name: ESPN, url: "https://www.espn.com/espn/rss/nba/news", topical: true }
+  espn_nfl:         { type: rss, kind: news, name: ESPN, url: "https://www.espn.com/espn/rss/nfl/news", topical: true, fallback: "site:espn.com/nfl" }
+  espn_nba:         { type: rss, kind: news, name: ESPN, url: "https://www.espn.com/espn/rss/nba/news", topical: true, fallback: "site:espn.com/nba" }
   sportstar:        { type: rss, kind: news, name: Sportstar, url: "https://sportstar.thehindu.com/feeder/default.rss", topical: true }
 
 # ---------------------------------------------------------------------------

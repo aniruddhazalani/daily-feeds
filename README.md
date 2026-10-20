@@ -36,6 +36,7 @@ Other commands:
 - `kind` is one of `official | news | blog | paper | search`. It sets the badge, the time window and the default weight.
 - `topical: true` means every post is on-topic for its sections (+3 score). Only use it for single-subject sources.
 - If a site has no RSS, use `type: gnews` with `query: "site:example.com"`.
+- Some publishers block GitHub's servers even though their feeds work from your Mac. Add `fallback: "site:example.com"` and the app will follow that publication through Google News whenever the feed fails. Substack feeds do this automatically.
 - Run `python -m feeds check-sources --only my_blog` to confirm it works.
 
 **Add a section or feed:** copy an existing block under `feeds:`. A section needs `title`, `sources` and `include` keywords; `exclude`, `require_any`, `min_score` and `max_items` are optional. Feeds and sections are only ever created here, never by the app.

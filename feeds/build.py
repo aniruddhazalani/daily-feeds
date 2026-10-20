@@ -76,11 +76,13 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
     else:
         new_sources = discover.report(cfg, load_discovered(), today)
 
-    problems = []
+    problems, fallbacks = [], []
     for sid, r in sorted(results.items()):
+        src = cfg.sources[sid]
         if r.error or not r.items:
-            src = cfg.sources[sid]
             problems.append({"id": sid, "name": src.name or sid, "error": r.error or "no items"})
+        elif r.fallback:
+            fallbacks.append({"id": sid, "name": src.name or sid, "error": r.fallback})
 
     snapshot = {
         "date": today,
@@ -90,6 +92,7 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
         "feeds": feeds_out,
         "new_sources": new_sources,
         "problems": problems,
+        "fallbacks": fallbacks,
         "stats": {"sources": len(results), "sources_ok": len(results) - len(problems), "items": len(items),
                   "kept": len(kept), "stories": len(clusters),
                   "shown": sum(len(sec[b]) for f in feeds_out for sec in f["sections"] for b in ("news", "analysis", "papers"))},

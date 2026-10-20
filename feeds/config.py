@@ -35,6 +35,7 @@ class Source:
     topical: bool = False
     paywall: bool = False
     max_results: int = 100
+    fallback: Optional[str] = None  # Google News query used if the feed is blocked
     discovered: bool = False
     meta: dict = field(default_factory=dict)  # discovery bookkeeping
 
@@ -124,7 +125,7 @@ def _source(sid: str, raw: dict, discovered: bool = False) -> Source:
         raise ConfigError(f"source {sid}: {stype} needs url")
     if stype in ("gnews", "arxiv") and not raw.get("query"):
         raise ConfigError(f"source {sid}: {stype} needs query")
-    known = {"type", "kind", "weight", "name", "url", "query", "topical", "paywall", "max_results"}
+    known = {"type", "kind", "weight", "name", "url", "query", "topical", "paywall", "max_results", "fallback"}
     meta = {k: v for k, v in raw.items() if k not in known}
     return Source(
         id=sid,
@@ -137,6 +138,7 @@ def _source(sid: str, raw: dict, discovered: bool = False) -> Source:
         topical=bool(raw.get("topical", False)),
         paywall=bool(raw.get("paywall", False)),
         max_results=int(raw.get("max_results", 100)),
+        fallback=raw.get("fallback"),
         discovered=discovered,
         meta=meta,
     )
