@@ -1,6 +1,6 @@
 {
  "date": "2026-10-20",
- "generated_at": "2026-10-20T16:08:03.385475+00:00",
+ "generated_at": "2026-10-20T16:10:41.699733+00:00",
  "timezone": "Asia/Kolkata",
  "site_title": "Daily Feeds",
  "feeds": [
@@ -23,7 +23,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 11.77,
+       "score": 11.76,
        "tag": null,
        "upvotes": 0
       },
@@ -65,7 +65,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.88,
+       "score": 9.87,
        "tag": null,
        "upvotes": 0
       },
@@ -135,7 +135,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 7.84,
+       "score": 7.83,
        "tag": null,
        "upvotes": 0
       },
@@ -163,7 +163,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 7.72,
+       "score": 7.71,
        "tag": null,
        "upvotes": 0
       },
@@ -289,20 +289,6 @@
        "upvotes": 0
       },
       {
-       "title": "H-1B visa crackdown: Cloudera breaks silence as US bars tech giant from sponsoring Green Cards: ‘We don't discriminate’ | Hindustan Times",
-       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMWhoWTVvYjVfdTlrNWFJUE5qNllDX3Y2c0JuTThfa0xBTnVWdXhmRHRuV3Awcm1qOEZtVVpKdFpfc1E4REhkR0xITjRJQ0FrdFF4UnI4ZzVndEZ1WV8xQlNxZFBmN0puM1FSUnl1MFBoRjdic0paYTJjVzl4N2NOLWZiUlZNY1Racl9IMFMzZ0xuaEZxQVUtcnNnSVFEY3hzcnpqZmNzZWNKX3RWV2ZIX0N2X2VhQ09oMENBa2tOeHgtLWxXZ0VIdHVHZjlIQUc4dF93UTZWUTRCMXhwZ3JuaEFzeHFLbHRXeW1qcjNPSHlCRDJmUXI5ZnJlRTBhdFctZG40SFg3alNIUzBsZ2FGTlFB0gGXAkFVX3lxTE9Obi1DZFJFM3VZdzE2WjBrdWtaeWZvOVMzX0hLdTlvQXFxOEc0ZHJSOTFINm11Yml4UENaTHpsSmZiSldTOXAzMDlMNHpiYTJwM045TjBfejhOcVZ2Qm5DTFZXNmFwemQwbUtHa1BxaW9KcW9fRWtDMDJ5TGFBZE1fY0hSOU1oeGhWVE1UNEN0akN0SmxvaGpvclFRaHNIWEdNWHk1eW9pWko1bkpwek5fM2UzN3pTOFdDWWVsOE9ENUplTVJtTnA1cktBOG9kQUJ3RERiTzhRZDdnMmJJNDMzVFF0VzMwUEJsbE9NMWNYR3FBNzVmR2xGQlpKVHFuOF80aEYyMjZZV2xmUG5ONUZZSEtKX1VZVQ?oc=5",
-       "outlet": "Hindustan Times",
-       "kind": "search",
-       "published": "2026-10-20T12:59:12+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 10.74,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
        "title": "U.S. Immigration Appeals Board Tightens Rules on Reopening Deportation Orders",
        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hdWtvbGI3dUZ3M0lsMUpsSWJZczhPd0NwX0pzMG9hbFl6ZVExSUhveFZCYkZwMDF6YWt5Uzg4dDNHV25YTVVnVVRxdVc1b2NoRW5yUUJYTVg?oc=5",
        "outlet": "CubaHeadlines",
@@ -313,6 +299,20 @@
        "also_more": 0,
        "paywall": false,
        "score": 10.74,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "H-1B visa crackdown: Cloudera breaks silence as US bars tech giant from sponsoring Green Cards: ‘We don't discriminate’ | Hindustan Times",
+       "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPMWhoWTVvYjVfdTlrNWFJUE5qNllDX3Y2c0JuTThfa0xBTnVWdXhmRHRuV3Awcm1qOEZtVVpKdFpfc1E4REhkR0xITjRJQ0FrdFF4UnI4ZzVndEZ1WV8xQlNxZFBmN0puM1FSUnl1MFBoRjdic0paYTJjVzl4N2NOLWZiUlZNY1Racl9IMFMzZ0xuaEZxQVUtcnNnSVFEY3hzcnpqZmNzZWNKX3RWV2ZIX0N2X2VhQ09oMENBa2tOeHgtLWxXZ0VIdHVHZjlIQUc4dF93UTZWUTRCMXhwZ3JuaEFzeHFLbHRXeW1qcjNPSHlCRDJmUXI5ZnJlRTBhdFctZG40SFg3alNIUzBsZ2FGTlFB0gGXAkFVX3lxTE9Obi1DZFJFM3VZdzE2WjBrdWtaeWZvOVMzX0hLdTlvQXFxOEc0ZHJSOTFINm11Yml4UENaTHpsSmZiSldTOXAzMDlMNHpiYTJwM045TjBfejhOcVZ2Qm5DTFZXNmFwemQwbUtHa1BxaW9KcW9fRWtDMDJ5TGFBZE1fY0hSOU1oeGhWVE1UNEN0akN0SmxvaGpvclFRaHNIWEdNWHk1eW9pWko1bkpwek5fM2UzN3pTOFdDWWVsOE9ENUplTVJtTnA1cktBOG9kQUJ3RERiTzhRZDdnMmJJNDMzVFF0VzMwUEJsbE9NMWNYR3FBNzVmR2xGQlpKVHFuOF80aEYyMjZZV2xmUG5ONUZZSEtKX1VZVQ?oc=5",
+       "outlet": "Hindustan Times",
+       "kind": "search",
+       "published": "2026-10-20T12:59:12+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 10.73,
        "tag": null,
        "upvotes": 0
       },
@@ -370,7 +370,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.34,
+       "score": 9.33,
        "tag": null,
        "upvotes": 0
       },
@@ -440,7 +440,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.08,
+       "score": 9.07,
        "tag": null,
        "upvotes": 0
       }
@@ -645,7 +645,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 11.73,
+       "score": 11.72,
        "tag": null,
        "upvotes": 0
       },
@@ -748,7 +748,21 @@
        ],
        "also_more": 0,
        "paywall": false,
-       "score": 11.59,
+       "score": 11.58,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "S&P 500 Today LIVE: Index Climbs 0.36% as Healthcare Stocks Rally, Oil Tops $110, Nvidia Earnings, Tech Sell Off Amid Fed Rate Hike Outlook | Check Top Gainers-Losers, Why S&P 500 Is Higher Today",
+       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPZkJDbjZIN1kxVWxZdDNCRmZPZXVNeWZTcXAzTlRxeTdIQ2hJbzF3STFoVDNYejh4ODdGS1QxSzFyLUNLVnJySGRqaEROR3lmeHVqVTBWYXc1QkdpYzhTZUJDZnBKcFk2SlMxdzFBZ2hUenhraWdsQ1ZHS2JPbVA4Yl81cTBtSlByd0NJQi1sVWVoUl9GaXhqQnhwQVZNY05Jc2ZaeEVGdWduSzEta2JnU3dnUU9Gck1JNUpBUzJ2TkxPWG04ZUIwczk4TThFOThXZjRNYm1wNmZVbTg2OXNPYkpzU0tvZUh5ZW1heFBuWFdiSm5jWVFYZ1VWb3AyUnBiS05tSFUwMUNyZWFtcmtMRkk1bGVJbE1lY1hmeUx4VkZwdGFUTmpLRW9XMzRhdkxIZEJRUmZKaFBzZmtYQXFlRm9XakhGcUZWUXFBSzdfVUzSAdYCQVVfeXFMTVdLLXUzbHhwMmVTYUloRXpLM2NyZ1N5Q0hOZkdNNXNDYTl3LWJNY1laZ0F5RHlFeUxNOU5HU19qQWRBQnB5aG1YNmE2Z0JXVFdrc3puRWNDZmlKRDN5SVlmLThYSUR5elEtY1dza3AwX2hvZUlMMkxRQk1IRVU1djQycW5hU0JGUzRqOHY2QnRtU0YyTlhCZmNIVk1SR0o3SjFGMjNUZnRpdl9yLVNlWDM1cjhHVWdDZHdhM1VWU3JvTy1nN3lyLTNmbVQ0RktQTzR0R3VhNzFqUWtDWFk4WndmTTQ4VGtKdHBJeVEwMm5jOEN0VHZab1VpcXRhdFFYUERGSXJXRmxuZEotZGE1eVRBTVlQNUxNRjlvVWpaQzQ3TmFJWlZLdGxoYVBlZ1FBZ0sxdS1ObW92Rk1zWlBxamxLcVdDU3p3bmRENVFxa2MtNkx0SlR3?oc=5",
+       "outlet": "The Sunday Guardian",
+       "kind": "search",
+       "published": "2026-10-20T15:59:37+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 10.98,
        "tag": null,
        "upvotes": 0
       },
@@ -804,7 +818,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.61,
+       "score": 10.6,
        "tag": null,
        "upvotes": 0
       },
@@ -818,7 +832,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.54,
+       "score": 10.53,
        "tag": null,
        "upvotes": 0
       },
@@ -832,7 +846,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.45,
+       "score": 10.44,
        "tag": null,
        "upvotes": 0
       },
@@ -860,7 +874,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.02,
+       "score": 10.01,
        "tag": null,
        "upvotes": 0
       },
@@ -869,26 +883,12 @@
        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63833",
        "outlet": "RBI",
        "kind": "official",
-       "published": "2026-10-20T16:08:03.385739+00:00",
+       "published": "2026-10-20T16:10:41.700014+00:00",
        "snippet": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Wednesday, October 21, 2026, as under: Sl. No. Notified Amount (₹ crore) Tenor (day) Window Timing Date…",
        "also": [],
        "also_more": 0,
        "paywall": false,
        "score": 10.0,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-       "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261016a.htm",
-       "outlet": "Federal Reserve",
-       "kind": "official",
-       "published": "2026-10-16T15:00:00+00:00",
-       "snippet": "Federal Reserve Board announces termination of enforcement actions with Gardner Bancshares, Inc. and Small Business Bank",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 9.98,
        "tag": null,
        "upvotes": 0
       }
@@ -960,7 +960,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.41,
+       "score": 8.4,
        "tag": null,
        "upvotes": 0
       },
@@ -1023,7 +1023,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.66,
+       "score": 10.65,
        "tag": null,
        "upvotes": 0
       },
@@ -1058,22 +1058,6 @@
        "upvotes": 0
       },
       {
-       "title": "PBO trims economic forecast for 2026 and 2027 amid new U.S. tariffs",
-       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUIxLUVFS3VBMVdUcmF1aDdLbDk3MGRvTUZjMkx5LWJ0TEpzZVpqWi1weWFSX2NoeURCWE80eEoyaDJ3Q0dja1pIWC1iOWhual9pOEtKb1oyekhZUng0bm1JN3hJM3pRT2U4X1VHWlZXOV82a2czbmpTUzMtVlZSN2N3UC1xX01CNjczdU56UkgzRENnNS11b3JOT2dpdnNM?oc=5",
-       "outlet": "Penticton Herald",
-       "kind": "search",
-       "published": "2026-10-20T13:56:30+00:00",
-       "snippet": "",
-       "also": [
-        "Toronto Star"
-       ],
-       "also_more": 0,
-       "paywall": false,
-       "score": 9.86,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
        "title": "IMF and World Bank Group Release ‘Bangkok Blueprint’ to Combat Cyber-Enabled Fraud in Digital Finance",
        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVElIbk1hOFo5QzlVUDRaWC03S0F6aHJudVhuRURhYVdvT2xVMzFybzVyUjVsWTdiMkdDVFhnR1dERVdwZ3doUG5aWXA4WkdWRk83LW1RYnlDN2dQejJVcDJ6RjV0bTBhVDJkYTlHQ0IzTUZDVUx2cWhDcExaZlYxMGViTVVHQXEyTWlIRkl4eU9EN1JQQ3k5bUFwWkFYYzV0aUtObk43T0NLTWZJbUdNZHJtcjdRVVN3X1hBM0NMVTFMaXRacDNLVlFONXg1alROVkNtS0hyZHNiQQ?oc=5",
        "outlet": "IMF",
@@ -1102,6 +1086,20 @@
        "upvotes": 0
       },
       {
+       "title": "PBO trims economic forecast for 2026 and 2027 amid new U.S. tariffs",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWUIxLUVFS3VBMVdUcmF1aDdLbDk3MGRvTUZjMkx5LWJ0TEpzZVpqWi1weWFSX2NoeURCWE80eEoyaDJ3Q0dja1pIWC1iOWhual9pOEtKb1oyekhZUng0bm1JN3hJM3pRT2U4X1VHWlZXOV82a2czbmpTUzMtVlZSN2N3UC1xX01CNjczdU56UkgzRENnNS11b3JOT2dpdnNM?oc=5",
+       "outlet": "Penticton Herald",
+       "kind": "search",
+       "published": "2026-10-20T13:56:30+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 8.81,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "Small businesses split on economy as inflation, tariffs remain key concerns",
        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPTFNGd2FPb242SEZIU3luSU1UTGhtcUI1cWN3RlZsdjlBSTZXbHV6YmllZG9BbDRQeXl1cmhNTXUtNWg3VHFHckJrbEtvRklHTFN3RXVkZ2JBSTU0c3MwUG1xOFQtZ3RVOEN1dkg0aEpOdWhtRmNKUFpMYXJKbWtsWnJ6VUMtTXRYS0dqSmtVenQtbExGbzYtWmRhWXNTRC1zZjRqRlhiMnJoQ01PWVJkQ2tRZjVlczZpZnVGUVdPTndHcEFpZ3IxYm9ueDB5SzZoNmtPSkpaU2xleEV4Q0RYbENoZm5zNkVC?oc=5",
        "outlet": "cbs19.tv",
@@ -1125,7 +1123,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.18,
+       "score": 8.17,
        "tag": null,
        "upvotes": 0
       },
@@ -1153,7 +1151,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 7.98,
+       "score": 7.97,
        "tag": null,
        "upvotes": 0
       }
@@ -1226,7 +1224,7 @@
        ],
        "also_more": 0,
        "paywall": false,
-       "score": 12.11,
+       "score": 12.1,
        "tag": null,
        "upvotes": 0
       },
@@ -1261,6 +1259,22 @@
        "upvotes": 0
       },
       {
+       "title": "Brent Crude Holds Near Five-Month High on Middle East Tension",
+       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNHFiNkVPTXVYWHN0U2VackZmS0VBV3h0cG1nSmt3QkREcmp6SWpVbGpyWVpWSGpCMXR0enhYYXdhVTdSSzBnRkthc0hSd3dWTjE3QTQ3aFZmQldQSklQdjVRRHZlUE04LS1YQXd5elEzdzBCUUVHNWtuSTdhRndWNmsySFU3aVRvY25nQi1WdmZWV2hWbzEyTGd0eUZ3dllZNEdxTw?oc=5",
+       "outlet": "ASHARQ AL-AWSAT English",
+       "kind": "search",
+       "published": "2026-10-20T06:29:47+00:00",
+       "snippet": "",
+       "also": [
+        "Fresno Bee"
+       ],
+       "also_more": 0,
+       "paywall": false,
+       "score": 11.23,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "WTI and Brent crude oil prices rise amid supply draws and geopolitical tensions near $100 and $111 respectively.",
        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU0VtUjNGUGQ5cU9oT0ZCM2k0ZzA2cjBkUVpLS092YkxNY2ZYSWY5eDFBRXdVOGlyQTE2X3hHRU1wZ1lDS1FQRngtcmdTc3ZZOGtWbXpDRXE2cUIwTnhLZm9NbjRjR29YTmppd1g5dl9zNTFvclZoaTI5NTh2bkJLU3NCV3pqSmVaUkYydWJ6cFhyNk1q?oc=5",
        "outlet": "Pluang",
@@ -1275,6 +1289,20 @@
        "upvotes": 0
       },
       {
+       "title": "Brent crude drops as US sanctions waiver on Russian oil exports pressures prices",
+       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMlVKaXowYmR0OVFkVXJKMmNmaHpZb1RzR1AzLXdycUV4aXhJbmNHZVd6Q3ZCUVNEdE1NUWtkeFJUTU5yczdpQkdwWU16WWM3elFFbWNIRjR4alBtNnl3bTdib2hDUHprUWNKYnlQLWRSamp5dlA2YnYwWnN2ZHNRcmdqUUhIQkhOUlhMWWtZc3h3QQ?oc=5",
+       "outlet": "Traders Union",
+       "kind": "search",
+       "published": "2026-10-20T15:08:32+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 10.91,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "Are higher oil prices the new normal? Future contracts for Brent reach highest level ever",
        "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMHFFRkJsN2dDZzBFX0QyZzVSeUNvbU1jTDhEZ3ZJOTdMR2pRT1ZVYXdzYTZocGRPejZzdjZ2QjNyQ0Rub21Xb2sxQ2g0bkJWNHF1OV9pUzJlSjMwTmQ4aU5EaWVmazJVcVFVX1BQa3dnQlZhMFRQTDkyS3otOEdJTmdad3FsTk5wM280Y19VTExnUUdxMHpDcmVJY20wbWEzVUljSWt1dmNNNTQteDdGVG5vQ3NDZXVVb0sxZHRTZ1p4cU1QUTdudTc5TDhBNEhPYnFZMEVCdkVuUWlMUE4tZnlidW5QUQ?oc=5",
        "outlet": "TradingView",
@@ -1285,6 +1313,20 @@
        "also_more": 0,
        "paywall": false,
        "score": 10.79,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Crude Oil Prices Climb Above $111 as Middle East Supply Risks Intensify",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUEyckFmcUZJMWxDd1NvNms2N3pFMFJYSks1ZnRkSFlFOHBvZ3RMMXhDZ1JidV9rd2xXcDJ4VWRDLS0zYmFHUThxWHNUSWdRVnhsa3lRZDMxRkFiQS1VOGE3Mmo4Y0VBblVfcFFjZk1RXzYzd2Y0MmQxRHBYSTRYTFZ6WHRYRGVmSkpsNDJ0cmQ0ZVNaVHlNYjZqSEZkMXlGbHlNaUo5YUlKaFZSdm9WSHFR0gGyAUFVX3lxTFAxQTJyQWZxRkkxbEN3U282azY3ekUwUlhKSzVmdGRIWUU4cG9ndEwxeENnUmJ1X2t3bFdwMnhVZEMtLTNiYUdROHFYc1RJZ1FWeGxreVFkMzFGQWJBLVU4YTcyajhjRUFuVV9wUWNmTVFfNjN3ZjQyZDFEcFhJNFhMVnpYdFhEZWZKSmw0MnRyZDRlU1pUeU1iNmpIRmQxeUZseU1pSjlhSUpoVlJ2b1ZIcVE?oc=5",
+       "outlet": "Investors King",
+       "kind": "search",
+       "published": "2026-10-20T13:30:39+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 10.78,
        "tag": null,
        "upvotes": 0
       },
@@ -1311,8 +1353,8 @@
        "snippet": "",
        "also": [
         "CNBC",
-        "RTE.ie",
-        "شبكة تواصل الإخبارية"
+        "Investing.com",
+        "RTE.ie"
        ],
        "also_more": 0,
        "paywall": false,
@@ -1330,63 +1372,21 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.7,
+       "score": 10.69,
        "tag": null,
        "upvotes": 0
       },
       {
-       "title": "Brent crude holds near five-month high on Middle East tension",
-       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZWFsQzF6S2VSMkcyQ29HbFl2aFg5di1HMnhVUHZwUXZKSlRURUd1dFp1QU1wazFxclJqbjRtRTNjZVdXQWZTR3Q4c2hnSHY0Y3BBS3d5amF0MExWOHJjQTExZ1hRSWk2QlJmUEw3N1VpMUZHQzdkWW5OUkpjYVR1OThTRnlZcWh6NzdxTi1UdGlYSGVIVjJTOQ?oc=5",
-       "outlet": "CNBC Africa",
+       "title": "Houthi Forces Attack Saudi Energy Facilities; Brent Crude Tops $110 to Hit Five-Month High",
+       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85YXVNMThhUFJSYXNyUkJuR2M5Q2xpNGhaVTljYnEzRWVTV1RNSmpzbmNzUGwwclBIendSOVNIZzhneDNqaGwzZlZUVHpSTkg1VTd0ZnpCQnUzUEt1WFlZYjRKZFlzdEVuY2tUQ1dqeTFxN2VTbVE?oc=5",
+       "outlet": "BigGo Finance",
        "kind": "search",
-       "published": "2026-10-20T12:16:27+00:00",
+       "published": "2026-10-20T12:05:00+00:00",
        "snippet": "",
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.68,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Why Dangote Refinery Lacks Enough Crude Oil – Presidency",
-       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU01NUG9nUmFmOUVwZEJQNC1DRTgwTVJQb3I1Qy1BUEp5ZXQ0VU5BYVVPWDdLb0FqTURFZVNGaEpMX2tNb2JENmtxSU9BbmctWWNENVltNUtNeTJwRjRFSjBrTk1fSzRrQmhCS0oxY1pGZ3Z1dDJHY3JGQkxlNHdEdEtjQUVQT0h3bFFnaQ?oc=5",
-       "outlet": "Daily Trust",
-       "kind": "search",
-       "published": "2026-10-20T12:18:33+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 10.68,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Oil prices rise as Strait of Hormuz tanker attacks escalate",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wNThNdGREZG9pVlpmMVhOMHhpdUZscFlLdEhqWHNFQXpIeEl3Q3dla2c0MnBCZDBWV1FXTTI3ZnNkWjhRZ0U1OVQzbmh3UHEwbEpyYVlDWHVOUXNod3p3dmZlNnpuZTNOTWpabnZMTVZiOWdibkE?oc=5",
-       "outlet": "Quartz",
-       "kind": "search",
-       "published": "2026-10-20T11:50:21+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 10.64,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Oil Prices Surge as Middle East Attacks Push Brent Above $111 and WTI Back Above $100",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdURHSi1GVFk2U1EtUjF5ZzNVNmh1WDQyTXBuU0otM0pBcGZhVFQ1bTJGTXRVbndQNWl0TmxjWFBZR0FUQk9qQ0MtNG1hVEdzMUNkOFFIYWIwT3hZYU5TN0Z0NUE5MFBnSERhdTRCMXh0MEhwZDY0V3d6M0xpaHc1SFBwWm9vVmFRZ2hVREdrS2dPdXFGZkI1dEliWTdLRTNuWFJOLUhBSURkZk5FU0V3M3g4SEc?oc=5",
-       "outlet": "EnergyNow.com",
-       "kind": "search",
-       "published": "2026-10-20T11:35:00+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 10.62,
+       "score": 10.66,
        "tag": null,
        "upvotes": 0
       }
@@ -1493,7 +1493,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.82,
+       "score": 8.81,
        "tag": null,
        "upvotes": 0
       },
@@ -1542,6 +1542,20 @@
        "upvotes": 0
       },
       {
+       "title": "Yuan Ranks Third in International Payments Under Broader Count",
+       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHQTI4UENMdmh1STgzbmZ1QTloS0c4NXRVckpMMHFEc0pyVUZkdzh2dXVkUVQ5WExDSUxzdDU1QW9RYV8yM28zQ1R1OC1Kd240OEN5Y2Zfa1FlUEk?oc=5",
+       "outlet": "www.tokenpost.com",
+       "kind": "search",
+       "published": "2026-10-20T09:29:56+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 4.44,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "Direct yuan settlement to ease Sri Lanka-China trade payments",
        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUNjUTU1RzhPMXBQdEx4VlN3eURrNU9WU0M4QzFOd2k4dGoyZU1lTTY3eTNqM21feDBPV3Bac1ZxT2FCZ2JkY1R2cFZmMkMzTVZCUUdEMkR5dUZ1SFRwMTVxc1JPT3U5N051QlFGMWo2WUhLVlk0blpXajdUMW5QbjgxOVp3Yk1fa2hyRHZiNUZyQVNhb1BnYkhka2V2aVZJY0ZrMUpjVVVxTnB5b0hDTVNxNA?oc=5",
        "outlet": "Daily Mirror - Sri Lanka",
@@ -1551,7 +1565,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 4.2,
+       "score": 4.19,
        "tag": null,
        "upvotes": 0
       }
@@ -1657,7 +1671,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.42,
+       "score": 9.41,
        "tag": null,
        "upvotes": 0
       },
@@ -1857,7 +1871,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.78,
+       "score": 8.77,
        "tag": null,
        "upvotes": 0
       },
@@ -1886,20 +1900,6 @@
        "also_more": 0,
        "paywall": false,
        "score": 8.47,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "UNDP and the Ministry of Finance and Economy of Turkmenistan Launch the Fourth Phase of a Joint Project on the Implementation of the Sustainable Development Goals",
-       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYTFrMllNWWR1N3UxRjY1b2plMnVjcjNBSTBsSksybWhBd0t2cHhsVS1kbjVYMXBVNE9yZmtVS1VjUE52b0FVV0FTT0JaZ0dyX1FEbWxISVE4bXFpVnVCVl9JbDNjMWZVUUFqYUtoWDBXaDFjZWZPbUdOX2RKc2QxSGNQM0pMR3E4NkJPVmRTSVc3T0ljZTRrWE5adU9nRGFkcHJhY1JES0N5TUJLRXJ6bGRPcWtUd3pKYlRlYUtndWFaM3p0?oc=5",
-       "outlet": "Turkmenportal.com",
-       "kind": "search",
-       "published": "2026-10-20T07:19:02+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 8.27,
        "tag": null,
        "upvotes": 0
       },
@@ -1957,7 +1957,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 5.17,
+       "score": 5.16,
        "tag": null,
        "upvotes": 0
       }
@@ -1977,18 +1977,18 @@
      "title": "Funding & hot startups",
      "news": [
       {
-       "title": "AI startup ASI valued at $3 billion in latest funding round By Reuters",
-       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLTVQaW5rWTBOSlh5MmNENmpJb2lXV1VUZE92Z0hZanVOUXZpM0stdm9NMTlfaGNvYjluVHA3WTZMSWR3Ym5BVUVsOEdnSVhDUVVOMHFVdXM2SDNTUHVvMldzQVRhZ0VWY1plRGtlbmVINFUtSkhwRXI3dnR4ajM2ZGFOQTJ6Z3dGMmFsVXpaVGh0cTBkYjFwbHJlS0hjZkMyQzhCbEhjZGpSUDRWSkZWcGxUSVBBUQ?oc=5",
-       "outlet": "Investing.com",
+       "title": "AI startup ASI valued at $3 billion in latest funding round",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNS3NHVkFzMWZPaFQ3MkM0T3ZDSXhGSWdyaTNnVEtHMWZHSkNTTzFsRHlPaWViOXd0UG03YlQwalRHUGtIdWtpYkhxYmE1UkJkZ2FVbHVpU1RhYUh0MDIzYV96QktjbDRoMUFzR2NUWHg1STlRTFFNMlNyeFF5X2pxc0NxbHRxQ0lMMUF2TURCNGZaQzVhV0RObks5blJoX2RiWHRoQTlqVEx0OFpVWklISEJTUWo5VXUzTGp4dV9EUGlIbGswUVU3emZWc2lyb1VCSFJkd2tsclnSAd4BQVVfeXFMTk80YjhfSVFzRHVlRXc3VFZXUTdaXzBZZ29OT0Yxd2l1VXItbGNvQVNqWEFEM3VpNU14U1JLenZpdmVQMGlyZjdvNXcwQmV6QVNhQ2pvSjJ3QWFHY3UzSzlKZWJnTE9Rbnp2YXdtRVI3ZmlwYmgzOFA1MVVjTnhPYU9RSHIzNUZnOHBsaENsNUFfWTBzUUFOc0FFRHlzU1NQOEgyWEFqdXJaVVdHdEg4Sm1pNXA2Z2xlek9QclZIcE9jaE55N3JSNGpnTTRFdXZ1aW5yZjUwMFFURFpFNXZ3?oc=5",
+       "outlet": "The Economic Times",
        "kind": "search",
-       "published": "2026-10-20T15:57:07+00:00",
+       "published": "2026-10-20T16:03:12+00:00",
        "snippet": "",
        "also": [
         "TradingView"
        ],
        "also_more": 0,
        "paywall": false,
-       "score": 12.02,
+       "score": 12.03,
        "tag": null,
        "upvotes": 0
       },
@@ -2023,7 +2023,7 @@
        ],
        "also_more": 0,
        "paywall": false,
-       "score": 11.25,
+       "score": 11.24,
        "tag": null,
        "upvotes": 0
       },
@@ -2037,7 +2037,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 11.0,
+       "score": 10.99,
        "tag": null,
        "upvotes": 0
       },
@@ -2051,7 +2051,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.85,
+       "score": 10.84,
        "tag": null,
        "upvotes": 0
       },
@@ -2121,7 +2121,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.66,
+       "score": 10.65,
        "tag": null,
        "upvotes": 0
       },
@@ -2135,7 +2135,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.66,
+       "score": 10.65,
        "tag": null,
        "upvotes": 0
       },
@@ -2149,7 +2149,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.48,
+       "score": 10.47,
        "tag": null,
        "upvotes": 0
       }
@@ -2188,7 +2188,7 @@
        ],
        "also_more": 0,
        "paywall": false,
-       "score": 11.95,
+       "score": 11.94,
        "tag": null,
        "upvotes": 0
       },
@@ -2244,21 +2244,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.95,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "SpaceX earnings: AI revenue, financing needs and Tesla merger talks in focus",
-       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVZ3WG9CSUQ1U0F1YVVpYWR3VzIwN2FXWkxRNnNQbndycWszSUFCc0NIODR5MTNPeVQyNnAxMWtzZU9wQThwcnFXMFpRY1RsM0hUZ202ZE1FWGxTaXlOalJDOWg5MFY5R2VkN0FqbllWcS0wbHB2TTc5Qk5KclFqajJwclpwV0c3SDA3RldCVy1iWkNkbnZDLWo0SGVfWmNZZUFraWtLRExKczJFTGp3MEFMRQ?oc=5",
-       "outlet": "Invezz",
-       "kind": "search",
-       "published": "2026-10-20T13:19:06+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 8.77,
+       "score": 8.94,
        "tag": null,
        "upvotes": 0
       },
@@ -2272,7 +2258,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.69,
+       "score": 8.68,
        "tag": null,
        "upvotes": 0
       },
@@ -2286,7 +2272,7 @@
        "also": [],
        "also_more": 0,
        "paywall": true,
-       "score": 8.68,
+       "score": 8.67,
        "tag": null,
        "upvotes": 0
       },
@@ -2300,7 +2286,21 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.65,
+       "score": 8.64,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "SpaceX earnings: AI revenue, financing needs and Tesla merger talks in focus",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNFI4N2xuX19vcUwwelQxd0VSdm1KWmVib1pkdDJJemFVMi1XNFU2WFFnal9xekcxdnhUTHkzSThBLTV6cW1uYVQtUE4wdDBXT3MxZEN1a2Q1aWtZUkVTMFZIdzZqZWl1Q3JMOTd0ck5aQmVORXpiUjlqWWZJU2JrdTc1UG1FeHNGUU5tMzJuXzQya1VfUnhFUGU0bXFmQ1hyclY2ZkU2RzdxdUhmLWRB?oc=5",
+       "outlet": "Invezz",
+       "kind": "search",
+       "published": "2026-10-20T08:15:58+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 8.34,
        "tag": null,
        "upvotes": 0
       },
@@ -2314,7 +2314,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.24,
+       "score": 8.23,
        "tag": null,
        "upvotes": 0
       },
@@ -2342,7 +2342,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.22,
+       "score": 8.21,
        "tag": null,
        "upvotes": 0
       }
@@ -2407,7 +2407,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.28,
+       "score": 8.27,
        "tag": null,
        "upvotes": 0
       },
@@ -2435,7 +2435,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 4.5,
+       "score": 4.49,
        "tag": null,
        "upvotes": 0
       },
@@ -2449,7 +2449,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 4.4,
+       "score": 4.39,
        "tag": null,
        "upvotes": 0
       },
@@ -2463,7 +2463,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 3.96,
+       "score": 3.95,
        "tag": null,
        "upvotes": 0
       }
@@ -2479,7 +2479,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 12.96,
+       "score": 12.95,
        "tag": null,
        "upvotes": 0
       },
@@ -2526,6 +2526,20 @@
        "upvotes": 0
       },
       {
+       "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+       "url": "https://huggingface.co/blog/allenai/fairstress",
+       "outlet": "Hugging Face",
+       "kind": "blog",
+       "published": "2026-10-20T16:09:19+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 10.0,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
        "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
        "outlet": "Hugging Face",
@@ -2538,20 +2552,6 @@
        "score": 9.7,
        "tag": null,
        "upvotes": 0
-      },
-      {
-       "title": "Claude Sonnet 5.5 and Haiku 5.5 give developers fast, highly capable alternatives to Opus 5.5",
-       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zSXB6N1RCT1ZVZDdkdkh4ZUVwVUxSVUQ4NElZWnJuai1FRWs5SWdSeWRqZzg0TXA1eU43dG1NWTlVRk83bjc2M0RYSnpVRmhPaGQ1LWpBU1EzUWpwMFR5NGM5V0EtcHlPQVhUemJWZlJ1Q2o0aG5BbDNQUQ?oc=5",
-       "outlet": "The Batch",
-       "kind": "blog",
-       "published": "2026-10-16T15:00:58+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 8.98,
-       "tag": null,
-       "upvotes": 0
       }
      ],
      "papers": [
@@ -2560,7 +2560,7 @@
        "url": "https://huggingface.co/papers/2610.23479",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-20T04:08:03.385739+00:00",
+       "published": "2026-10-20T04:10:41.700014+00:00",
        "snippet": "Agents built on vision language models (VLMs) now compete with learned policies on robot manipulation leaderboards. We ask how far a coding agent can go when it controls a robot instead of a computer, and where it stops. Our system, HexaShell, keeps…",
        "also": [],
        "also_more": 0,
@@ -2574,7 +2574,7 @@
        "url": "https://huggingface.co/papers/2610.09872",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-20T04:08:03.385739+00:00",
+       "published": "2026-10-20T04:10:41.700014+00:00",
        "snippet": "Evaluating agents by outcomes alone can obscure the capabilities that produce them. This problem is especially pronounced in evolving environments, where outcomes reflect a closed-loop interaction between agent behavior and changing external…",
        "also": [],
        "also_more": 0,
@@ -2588,21 +2588,21 @@
        "url": "https://huggingface.co/papers/2610.20424",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-20T04:08:03.385739+00:00",
+       "published": "2026-10-20T04:10:41.700014+00:00",
        "snippet": "Existing long-horizon agent benchmarks often emphasize final task success while providing limited assessment of intermediate execution validity. Yet real-world business operations require agents to navigate extensive, potentially outdated or…",
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 15.46,
+       "score": 15.47,
        "tag": null,
-       "upvotes": 388
+       "upvotes": 389
       },
       {
        "title": "Tree-Aware Posterior Distillation for Long-Horizon Agentic Reinforcement Learning",
        "url": "https://huggingface.co/papers/2610.23181",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-20T04:08:03.385739+00:00",
+       "published": "2026-10-20T04:10:41.700014+00:00",
        "snippet": "Reinforcement learning with verifiable rewards has become a scalable post-training paradigm for large language models. However, training agents over long-horizon interactions presents two challenges: using only terminal rewards makes turn-level…",
        "also": [],
        "also_more": 0,
@@ -2616,7 +2616,7 @@
        "url": "https://huggingface.co/papers/2610.23787",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-20T04:08:03.385739+00:00",
+       "published": "2026-10-20T04:10:41.700014+00:00",
        "snippet": "Speculative decoding has become a mainstream technique for accelerating large language model (LLM) inference by using a lightweight draft model to generate candidate tokens that are subsequently verified by the target model. However, agentic…",
        "also": [],
        "also_more": 0,
@@ -2630,7 +2630,7 @@
        "url": "https://huggingface.co/papers/2610.19159",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-20T04:08:03.385739+00:00",
+       "published": "2026-10-20T04:10:41.700014+00:00",
        "snippet": "Can AI agents carry out research on open scientific problems? We introduce Into the Unknown, a benchmark that provides an agent with a science paper along with a research direction to pursue and tasks it to write a follow-up paper. We work with…",
        "also": [],
        "also_more": 0,
@@ -2644,7 +2644,7 @@
        "url": "https://huggingface.co/papers/2610.05114",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-20T04:08:03.385739+00:00",
+       "published": "2026-10-20T04:10:41.700014+00:00",
        "snippet": "Large language models (LLMs) progressively revise their predictions across Transformer layers, yet we typically observe only the final output, discarding the trajectory through which it is formed. We introduce Belief-Trajectory Energy(BTE), a…",
        "also": [],
        "also_more": 0,
@@ -2658,7 +2658,7 @@
        "url": "https://huggingface.co/papers/2610.22428",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-20T04:08:03.385739+00:00",
+       "published": "2026-10-20T04:10:41.700014+00:00",
        "snippet": "In a small language model the vocabulary is the single largest part. In Gemma 3 270M the embedding table holds 168M of 268M parameters, and because quantisation methods leave the embedding in 16-bit, it is also most of the file once the rest of the…",
        "also": [],
        "also_more": 0,
@@ -2756,7 +2756,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 11.08,
+       "score": 11.07,
        "tag": null,
        "upvotes": 0
       },
@@ -2784,7 +2784,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.75,
+       "score": 10.74,
        "tag": null,
        "upvotes": 0
       },
@@ -2826,7 +2826,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.55,
+       "score": 10.54,
        "tag": null,
        "upvotes": 0
       },
@@ -2874,7 +2874,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.24,
+       "score": 10.23,
        "tag": null,
        "upvotes": 0
       },
@@ -2916,7 +2916,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 6.16,
+       "score": 6.15,
        "tag": null,
        "upvotes": 0
       },
@@ -2932,7 +2932,7 @@
        ],
        "also_more": 0,
        "paywall": false,
-       "score": 5.66,
+       "score": 5.65,
        "tag": null,
        "upvotes": 0
       },
@@ -2946,7 +2946,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 5.17,
+       "score": 5.16,
        "tag": null,
        "upvotes": 0
       },
@@ -3016,7 +3016,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 4.41,
+       "score": 4.4,
        "tag": null,
        "upvotes": 0
       },
@@ -3053,24 +3053,6 @@
        "also_more": 0,
        "paywall": false,
        "score": 13.08,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "YYForce AI Humanoid Housekeepers to be trained in Novotel Hotel",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa2ZNUDdtb0JlMThTdXM1bm5MYzJPeTIxWFNfRGEwWkQ2WWhYWEwzOENyU0QtN1hNUnJ3Qlp5cjNYSFBPWG1OYkVUNWl6emYwMHp3VXZ6ZUh0bWFXTU1ZQTNzVWFzdzhSMTZMWW5abVlOakJfOVhGdlFWcFp5dDlMcnlXblFJV2xiTHVuZFZWMXlrOEh1NkstZkZzUEM?oc=5",
-       "outlet": "wahanariau.com",
-       "kind": "search",
-       "published": "2026-10-20T15:11:12+00:00",
-       "snippet": "",
-       "also": [
-        "PR Newswire",
-        "The Malaysian Reserve",
-        "The Manila Times"
-       ],
-       "also_more": 0,
-       "paywall": false,
-       "score": 13.0,
        "tag": null,
        "upvotes": 0
       },
@@ -3117,6 +3099,23 @@
        "upvotes": 0
       },
       {
+       "title": "YYForce AI Humanoid Housekeepers to be trained in Novotel Hotel",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVU10d0MtbklCSGEydDE1QVBGMmNJbklGYlFsak5VLURIb0hzVXRHSUFMcVc3X1FXZktIY290MmU5cC0wNlZ6M2tkWUZKYWJUckkyNXE1WFVUNzJ5aEpSOFZyVkRZRVF4UE1PNThPckI2UXNZaFdTMnBnZWI4MDBGQkdUZ0ZhR01mOFFDNDdGbGlBNFQyU1prS0xjNXBjanZRMkpBeHJfdFdhSXYzSW5OUg?oc=5",
+       "outlet": "The Malaysian Reserve",
+       "kind": "search",
+       "published": "2026-10-20T11:32:31+00:00",
+       "snippet": "",
+       "also": [
+        "PR Newswire",
+        "The Manila Times"
+       ],
+       "also_more": 0,
+       "paywall": false,
+       "score": 12.26,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "Eka is worth $1.45B thanks to a physical AI model that has experts raving",
        "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
        "outlet": "TechCrunch",
@@ -3142,23 +3141,7 @@
        ],
        "also_more": 0,
        "paywall": false,
-       "score": 11.72,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Robot Wars – How China Has the Robotics Industry in Its Grip",
-       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVU1ZyQmk5RTd5aEZmc1h0Rmd0bVVCZzFoUVBYdTYxYjBNZEMyQXotZWttMFpqU1FoVWVXbHc5VGVrZVNKcVFua0ZGcFM2NFRRZHRkNGxEZTQ2VmdKMjdRNC1FSnJfR2FoZWMyaF8wS19pRGJRVjRnYTI4MNIBe0FVX3lxTFBVU1ZyQmk5RTd5aEZmc1h0Rmd0bVVCZzFoUVBYdTYxYjBNZEMyQXotZWttMFpqU1FoVWVXbHc5VGVrZVNKcVFua0ZGcFM2NFRRZHRkNGxEZTQ2VmdKMjdRNC1FSnJfR2FoZWMyaF8wS19pRGJRVjRnYTI4MA?oc=5",
-       "outlet": "Baystreet.ca",
-       "kind": "search",
-       "published": "2026-10-20T11:12:00+00:00",
-       "snippet": "",
-       "also": [
-        "OilPrice.com"
-       ],
-       "also_more": 0,
-       "paywall": false,
-       "score": 11.63,
+       "score": 11.71,
        "tag": null,
        "upvotes": 0
       },
@@ -3174,7 +3157,7 @@
        ],
        "also_more": 0,
        "paywall": false,
-       "score": 11.33,
+       "score": 11.32,
        "tag": null,
        "upvotes": 0
       },
@@ -3218,7 +3201,21 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.94,
+       "score": 10.93,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "OpenAI Announces Humanoid Robot Debut For 2027",
+       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3VtbGdKUjF6Q0lrelY5VU4xbXNpQ0NkQTlpNmhwZnB1djNYVW9VdUFOVkVXRkludGFaOXczWnZwRUVLSmE1dE1VUzR2Zm1lNUNUUzVkMXdLSXVpdk50YnU5WXZsQ3VPczk3eUFjTTdDV2JjVnd2Wk81c1lyalZTbV9ZU203cnhJ?oc=5",
+       "outlet": "Ubergizmo",
+       "kind": "search",
+       "published": "2026-10-20T15:00:39+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 10.9,
        "tag": null,
        "upvotes": 0
       }
@@ -3248,7 +3245,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 8.91,
+       "score": 8.9,
        "tag": null,
        "upvotes": 0
       },
@@ -3378,7 +3375,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.79,
+       "score": 10.78,
        "tag": null,
        "upvotes": 0
       }
@@ -3454,7 +3451,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.71,
+       "score": 10.7,
        "tag": null,
        "upvotes": 0
       },
@@ -3629,16 +3626,16 @@
        "upvotes": 0
       },
       {
-       "title": "Measuring What Medical AI Can Actually Do",
-       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QQ3ZxUjkybVI0Wko2S0R6WVJQM0FEUmhYb0dpNlY4dm4tRW0zLTdVeDMwMWRIRGg1TU1sdTlGV01aYzE3SFJ3U2M3ZE9EZ2ZqNGttdjN4MUFDOE9zZVNnWmk5cnRZVjVpSElGNmhiWXo3cndCV3NPbTY3NA?oc=5",
+       "title": "Confronting Our AI Future: Hope, Fear, and the Choices Ahead",
+       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTndkOXZQb1luNHpRbDhMN2l3SEhBNlczQUJFYlF3NHJ0Y19XYUxiRVA3bEx5NlAtUjdTblRpVVQ0SV9RVksyS1p2UTMtT1NWSVFLSkhrTU4ybUx6ZGtoUTlKa1hid19vTENpUW9qVGNyV2tRRnZ2M0s1Ykx1Y3JZanZKcFVXQms3clRxbTlBcWYzVXduTWo0RXRENllCaG14Y3lKOEF1MA?oc=5",
        "outlet": "Stanford HAI",
        "kind": "blog",
-       "published": "2026-10-20T00:11:23+00:00",
+       "published": "2026-10-20T14:46:07+00:00",
        "snippet": "",
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 6.67,
+       "score": 6.97,
        "tag": null,
        "upvotes": 0
       }
@@ -3688,7 +3685,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 12.93,
+       "score": 12.92,
        "tag": null,
        "upvotes": 0
       },
@@ -3702,21 +3699,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 11.89,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Man City cheated because Premier League was built to be unfair",
-       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOE9ORW96VVNKOGVDd21jX29EVERPLS1kSFpkM2l6OXlRMER0M3BrOVFPbGxPeGZwb1VpMDFDeGRyamtOR0Z4YkVNWTJycThvYUJPQWFTT2lwQW5Oa0dqODZPZjhtTDBmajAtc0hfRDdRSElEejdMZmRnTjhCMjI3TjlCTFVvbU1wMkVsNWdtcmJvSWp1QjdQeEQxdE4?oc=5",
-       "outlet": "ESPN FC",
-       "kind": "news",
-       "published": "2026-10-20T10:20:00+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 10.52,
+       "score": 11.88,
        "tag": null,
        "upvotes": 0
       },
@@ -3730,7 +3713,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.5,
+       "score": 10.49,
        "tag": null,
        "upvotes": 0
       },
@@ -3758,7 +3741,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.23,
+       "score": 10.22,
        "tag": null,
        "upvotes": 0
       },
@@ -3772,7 +3755,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.87,
+       "score": 9.86,
        "tag": null,
        "upvotes": 0
       },
@@ -3800,7 +3783,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.23,
+       "score": 9.22,
        "tag": null,
        "upvotes": 0
       },
@@ -3814,7 +3797,7 @@
        "also": [],
        "also_more": 0,
        "paywall": true,
-       "score": 8.65,
+       "score": 8.64,
        "tag": null,
        "upvotes": 0
       },
@@ -3843,6 +3826,20 @@
        "also_more": 0,
        "paywall": false,
        "score": 8.45,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Dejan Kulusevski explains why he is 'different' after Tottenham injury hell",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM0dKcmE3LWxxM1dDTG9iUnNCeVl5bm9QWjZSdUE1eW1IUTRPNWRMOFZPWElaVkFSYzB4TEdNbjByazBxV3ZZM0pWSHlZYzNQNEFVM2JnemNqeG53bndTQ0stYnR1Mkt6ODBRNUdTd0ktWm1nUE5aSXZiTnFhYWdKekNJdE5RMlJERmZKc0RCWDBoNHRyUnNZOW83LTU5Q2J0R1FHWnl0RnlrbnFUR0E?oc=5",
+       "outlet": "ESPN FC",
+       "kind": "news",
+       "published": "2026-10-20T09:08:00+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 8.41,
        "tag": null,
        "upvotes": 0
       }
@@ -3908,7 +3905,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.9,
+       "score": 10.89,
        "tag": null,
        "upvotes": 0
       },
@@ -3922,7 +3919,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.71,
+       "score": 10.7,
        "tag": null,
        "upvotes": 0
       },
@@ -3936,7 +3933,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.54,
+       "score": 10.53,
        "tag": null,
        "upvotes": 0
       },
@@ -3964,7 +3961,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.08,
+       "score": 10.07,
        "tag": null,
        "upvotes": 0
       },
@@ -3978,7 +3975,7 @@
        "also": [],
        "also_more": 0,
        "paywall": true,
-       "score": 9.75,
+       "score": 9.74,
        "tag": null,
        "upvotes": 0
       },
@@ -4006,7 +4003,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.41,
+       "score": 9.4,
        "tag": null,
        "upvotes": 0
       },
@@ -4020,7 +4017,7 @@
        "also": [],
        "also_more": 0,
        "paywall": true,
-       "score": 9.35,
+       "score": 9.34,
        "tag": null,
        "upvotes": 0
       }
@@ -4126,7 +4123,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 12.75,
+       "score": 12.74,
        "tag": null,
        "upvotes": 0
       },
@@ -4154,7 +4151,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.96,
+       "score": 9.95,
        "tag": null,
        "upvotes": 0
       },
@@ -4168,7 +4165,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.4,
+       "score": 9.39,
        "tag": null,
        "upvotes": 0
       },
@@ -4196,7 +4193,7 @@
        "also": [],
        "also_more": 0,
        "paywall": true,
-       "score": 7.89,
+       "score": 7.88,
        "tag": null,
        "upvotes": 0
       }
@@ -4323,7 +4320,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 14.01,
+       "score": 14.0,
        "tag": "other",
        "upvotes": 0
       },
@@ -4365,7 +4362,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 12.57,
+       "score": 12.56,
        "tag": "other",
        "upvotes": 0
       },
@@ -4379,22 +4376,8 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 11.93,
+       "score": 11.92,
        "tag": "cricket",
-       "upvotes": 0
-      },
-      {
-       "title": "Zheng wins eight of final 10 games to reach China Open final on home soil",
-       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHZDMGViVTJjZEFVenVUZ2RFajFqNlpxNVJfRmtxQTNROWJLajdVSC1SNk5PaHp6WXh0NDRQVFdadE16bHpGd2JCRUNrN0ZFYlZvZGljc1ZWWGlDbGhPOTVENkstZ3YzOFVrdDVQZlp6RF83MV9uZjZSTzZlaGVSRjJ5UWgyVlhWckFvSXEzODR0TmFsODNOUk82dFM3OURhUkRPVzdCMnV1Szgzd0dGRUtnMXQ?oc=5",
-       "outlet": "WTA",
-       "kind": "official",
-       "published": "2026-10-20T03:53:28+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 11.74,
-       "tag": "tennis",
        "upvotes": 0
       },
       {
@@ -4423,6 +4406,20 @@
        "paywall": false,
        "score": 11.52,
        "tag": "athletics",
+       "upvotes": 0
+      },
+      {
+       "title": "Zheng wins eight of final 10 games to reach China Open final on home soil",
+       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSHZDMGViVTJjZEFVenVUZ2RFajFqNlpxNVJfRmtxQTNROWJLajdVSC1SNk5PaHp6WXh0NDRQVFdadE16bHpGd2JCRUNrN0ZFYlZvZGljc1ZWWGlDbGhPOTVENkstZ3YzOFVrdDVQZlp6RF83MV9uZjZSTzZlaGVSRjJ5UWgyVlhWckFvSXEzODR0TmFsODNOUk82dFM3OURhUkRPVzdCMnV1Szgzd0dGRUtnMXQ?oc=5",
+       "outlet": "WTA",
+       "kind": "official",
+       "published": "2026-10-19T07:00:00+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 11.31,
+       "tag": "tennis",
        "upvotes": 0
       },
       {
@@ -4477,7 +4474,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.85,
+       "score": 10.84,
        "tag": "other",
        "upvotes": 0
       },
@@ -4491,7 +4488,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.81,
+       "score": 10.8,
        "tag": "other",
        "upvotes": 0
       },
@@ -4519,7 +4516,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.2,
+       "score": 10.19,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -4533,7 +4530,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 10.18,
+       "score": 10.17,
        "tag": "other",
        "upvotes": 0
       },
@@ -4575,21 +4572,7 @@
        "also": [],
        "also_more": 0,
        "paywall": false,
-       "score": 9.86,
-       "tag": "cricket",
-       "upvotes": 0
-      },
-      {
-       "title": "Familiar foes get serious in ODI World Cup build-up",
-       "url": "https://www.cricinfo.com/ci/content/story/1559050.html?ex_cid=OTC-RSS",
-       "outlet": "ESPNcricinfo",
-       "kind": "news",
-       "published": "2026-10-19T13:49:34+00:00",
-       "snippet": "England take confidence from summer of 50-over progress; Pakistan buoyed by SL win",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "score": 9.81,
+       "score": 9.85,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -4605,6 +4588,20 @@
        "paywall": false,
        "score": 9.81,
        "tag": "athletics",
+       "upvotes": 0
+      },
+      {
+       "title": "Familiar foes get serious in ODI World Cup build-up",
+       "url": "https://www.cricinfo.com/ci/content/story/1559050.html?ex_cid=OTC-RSS",
+       "outlet": "ESPNcricinfo",
+       "kind": "news",
+       "published": "2026-10-19T13:49:34+00:00",
+       "snippet": "England take confidence from summer of 50-over progress; Pakistan buoyed by SL win",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "score": 9.8,
+       "tag": "cricket",
        "upvotes": 0
       },
       {
@@ -4839,9 +4836,9 @@
  "stats": {
   "sources": 194,
   "sources_ok": 192,
-  "items": 7051,
-  "kept": 3796,
-  "stories": 3624,
+  "items": 7057,
+  "kept": 3811,
+  "stories": 3638,
   "shown": 318
  }
 }
