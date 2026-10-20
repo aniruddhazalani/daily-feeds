@@ -64,7 +64,7 @@ RSS URLs are checked in build step 4. A blog with no feed falls back to a Google
 
 **Indian politics (in depth)**
 - News: The Hindu, Indian Express, ThePrint, Scroll, Hindustan Times, NDTV, Mint politics, PIB press releases
-- Analysis and newsletters: India Inside Out (Rohan Venkat), Indialogue (Aman Thakker), Anticipating the Unintended, Carnegie India, ORF (Observer Research Foundation), EPW, The Wire (left-leaning) + Swarajya (right-leaning), kept as a balanced pair
+- Analysis and newsletters: Carnegie India, ORF (Observer Research Foundation), EPW, The Wire (left-leaning) + Swarajya (right-leaning), kept as a balanced pair
 
 ### 2. Finance (macro)
 **Central banks & rates**
@@ -250,7 +250,7 @@ Guardrails: at most 5 new sources per day, at most 40 discovered sources active 
 7. README: how to add a feed or section, promote or mute a source, and tune a section.
 
 ## Build notes (what changed during implementation)
-- **Sources checked on 2026-10-20:** all 193 return items. Sites that block bots or return HTML (ECFR, IMF, Brookings, AdExchanger, OIES, Mainly Macro, Total Football Analysis) use `site:` searches instead. Dropped because they are inactive or not indexed: Indialogue (no posts since 2021), IISD SDG hub, Chip Huyen (no posts in ~2 years), The Cricket Monthly, Shaped, Immigration Impact, Mobile Dev Memo.
+- **Sources checked on 2026-10-20:** all 193 return items. Sites that block bots or return HTML (ECFR, IMF, Brookings, AdExchanger, OIES, Mainly Macro, Total Football Analysis) use `site:` searches instead. Dropped because they are inactive or not indexed: Indialogue (no posts since 2021), IISD SDG hub, Chip Huyen (no posts in ~2 years), The Cricket Monthly, Shaped, Immigration Impact, Mobile Dev Memo. India Inside Out and Anticipating the Unintended were removed later: Substack blocks GitHub's servers and Google News doesn't index them.
 - Feeds are fetched with a browser user agent, falling back to a feed-reader user agent (ESPN only serves the latter).
 - HF Daily Papers is queried for yesterday's date, and upvotes add `ln(1 + upvotes)` to a paper's score.
 - Each section shows up to three lists: **Headlines**, **Analysis & blogs**, **Papers**, each capped separately (`max_items`, `max_analysis`, `max_papers`), so papers never crowd out news.

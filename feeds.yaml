@@ -103,8 +103,6 @@ sources:
   ndtv_india:       { type: rss, kind: news, name: NDTV, url: "https://feeds.feedburner.com/ndtvnews-india-news" }
   mint_politics:    { type: rss, kind: news, name: Mint, url: "https://www.livemint.com/rss/politics", topical: true }
   pib:              { type: rss, kind: official, name: PIB, url: "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3" }
-  india_inside_out: { type: rss, kind: blog, name: India Inside Out, url: "https://rohanvenkat.substack.com/feed", topical: true }
-  anticipating_unintended: { type: rss, kind: blog, name: Anticipating the Unintended, url: "https://publicpolicy.substack.com/feed", topical: true }
   carnegie_india:   { type: gnews, kind: blog, name: Carnegie India, query: "site:carnegieendowment.org india", topical: true }
   orf:              { type: gnews, kind: blog, name: ORF, query: "site:orfonline.org" }
   epw:              { type: gnews, kind: blog, name: EPW, query: "site:epw.in" }
@@ -321,7 +319,7 @@ feeds:
       india:
         title: Indian politics
         sources: [thehindu_national, ie_political_pulse, ie_india, theprint_politics, scroll, ht_india, ndtv_india,
-                  mint_politics, pib, india_inside_out, anticipating_unintended, carnegie_india, orf,
+                  mint_politics, pib, carnegie_india, orf,
                   epw, the_wire, swarajya]
         include: { BJP: 3, Congress: 3, Modi: 3, "Rahul Gandhi": 3, "Lok Sabha": 3, "Rajya Sabha": 3, Parliament: 2,
                    election: 2, elections: 2, "Election Commission": 3, assembly: 2, "chief minister": 3, CM: 2,
