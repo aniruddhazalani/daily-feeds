@@ -1,0 +1,17 @@
+# Written by the app. Promote a source by copying it into feeds.yaml; mute it via ignore_sources.
+sources:
+- id: disc_ft_com
+  type: rss
+  url: https://www.ft.com/opinion?format=rss
+  name: ft.com
+  sections:
+  - politics.world
+  kind: discovered
+  domain: ft.com
+  reason: cited by Newcomer, Phillips O'Brien, Platformer
+  added: '2026-10-20'
+  last_qualified: '2026-10-20'
+  samples:
+  - Data centres need protection from drone warfare
+  - Zelenskyy, Europe and the end of Trump whispering
+  - US rate rises are being amplified in global markets

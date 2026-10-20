@@ -1,0 +1,528 @@
+# Daily Feeds configuration
+#
+# Feeds and sections are defined ONLY here. Sources listed here are "trusted".
+# The app may add "discovered" sources on its own (data/discovered_sources.yaml);
+# promote one by copying it here, or mute it by adding its domain to ignore_sources.
+#
+# Source fields:
+#   type:    rss | gnews | arxiv | hf_papers
+#   url:     feed URL (rss), or API URL (hf_papers)
+#   query:   Google News query (gnews) or arXiv search_query (arxiv)
+#   kind:    official | news | blog | paper | search      (sets time window, badge, default weight)
+#   weight:  optional override (defaults: official 3, news 2, blog 2, paper 2, search 1)
+#   topical: true if every post is on-topic for the sections that list it (+3 score)
+#   paywall: true to show a lock next to its headlines
+#
+# Section fields:
+#   include:     {term: weight}  terms matched case-insensitively on word boundaries
+#   exclude:     [terms]          any match drops the item from this section
+#   require_any: [terms]          item must match at least one of these (optional)
+#   min_score / max_items / max_analysis / max_papers: optional overrides
+
+settings:
+  site_title: Daily Feeds
+  timezone: Asia/Kolkata
+  windows_hours: { news: 36, search: 36, paper: 96, blog: 168, official: 168, discovered: 72 }
+  default_min_score: 3
+  default_max_items: 12
+  default_max_analysis: 6
+  default_max_papers: 8
+  show_first: 5
+  # Titles matching any of these are dropped everywhere (job ads, archive pages, empty titles).
+  junk_titles:
+    - '^\s*[-–|]'
+    - '\bArchives\b'
+    - '^[^:]{0,80}\b(Engineer|Scientist|Researcher|Designer|Manager|Intern|Recruiter|Director|Specialist|Staff)\b[^:]{0,60}\bat [A-Z]'
+    - '\((R|REQ|JR)\d{3,}\)'
+    - '^(Jobs|Careers|Home|Page \d+)\b'
+    - '\bPage \d+ of \d+'
+    - '- (Full Commentary|Live Stream|Live Score|Match News|Scorecard|Live Cricket Score)\s*$'
+    - '\bOdds\b.*\bBookmakers\b'
+    - '\bPredictions?,? Odds\b|\bBest Bets\b|\bBetting Tips\b'
+  dedupe_threshold: 88
+  archive_days: 60
+  seen_days: 14
+  discovery:
+    enabled: true
+    window_days: 14
+    search_hits: 6        # qualifying items from Google News results…
+    search_days: 3        # …seen on at least this many different days
+    citations: 2          # distinct trusted sources linking to the domain
+    max_new_per_day: 5
+    max_active: 40
+    retire_days: 30
+    new_badge_days: 7
+
+ignore_sources: []
+
+# ---------------------------------------------------------------------------
+sources:
+  # ---------- Politics: world & geopolitics ----------
+  bbc_world:        { type: rss, kind: news, name: BBC World, url: "https://feeds.bbci.co.uk/news/world/rss.xml" }
+  aljazeera:        { type: rss, kind: news, name: Al Jazeera, url: "https://www.aljazeera.com/xml/rss/all.xml" }
+  guardian_world:   { type: rss, kind: news, name: The Guardian, url: "https://www.theguardian.com/world/rss" }
+  gn_ap_world:      { type: gnews, kind: search, query: "site:apnews.com world" }
+  gn_reuters_world: { type: gnews, kind: search, query: "site:reuters.com world" }
+  the_diplomat:     { type: rss, kind: news, name: The Diplomat, url: "https://thediplomat.com/feed/" }
+  lowy:             { type: gnews, kind: blog, name: Lowy Interpreter, query: "site:lowyinstitute.org/the-interpreter", topical: true }
+  warontherocks:    { type: rss, kind: blog, name: War on the Rocks, url: "https://warontherocks.com/feed/", topical: true }
+  foreign_affairs:  { type: rss, kind: blog, name: Foreign Affairs, url: "https://www.foreignaffairs.com/rss.xml", topical: true, paywall: true }
+  foreign_policy:   { type: rss, kind: blog, name: Foreign Policy, url: "https://foreignpolicy.com/feed/", topical: true, paywall: true }
+  csis:             { type: gnews, kind: blog, name: CSIS, query: "site:csis.org analysis", topical: true }
+  carnegie:         { type: gnews, kind: blog, name: Carnegie Endowment, query: "site:carnegieendowment.org", topical: true }
+  brookings:        { type: gnews, kind: blog, name: Brookings, query: "site:brookings.edu foreign policy OR geopolitics OR war" }
+  chatham_house:    { type: gnews, kind: blog, name: Chatham House, query: "site:chathamhouse.org", topical: true }
+  ecfr:             { type: gnews, kind: blog, name: ECFR, query: "site:ecfr.eu", topical: true }
+  lawfare:          { type: gnews, kind: blog, name: Lawfare, query: "site:lawfaremedia.org" }
+  isw:              { type: gnews, kind: blog, name: ISW, query: "site:understandingwar.org", topical: true }
+  chinatalk:        { type: rss, kind: blog, name: ChinaTalk, url: "https://www.chinatalk.media/feed", topical: true }
+  phillips_obrien:  { type: rss, kind: blog, name: Phillips O'Brien, url: "https://phillipspobrien.substack.com/feed", topical: true }
+  geopolitical_futures: { type: rss, kind: blog, name: Geopolitical Futures, url: "https://geopoliticalfutures.com/feed/", topical: true, paywall: true }
+
+  # ---------- Politics: US immigration ----------
+  uscis:            { type: gnews, kind: official, name: USCIS, query: "site:uscis.gov" }
+  gn_visa_bulletin: { type: gnews, kind: search, query: '"visa bulletin"' }
+  dhs:              { type: gnews, kind: official, name: DHS, query: "site:dhs.gov news" }
+  mpi:              { type: gnews, kind: blog, name: Migration Policy Institute, query: "site:migrationpolicy.org", topical: true }
+  cato_immigration: { type: gnews, kind: blog, name: Cato Institute, query: "site:cato.org immigration", topical: true }
+  cis:              { type: gnews, kind: blog, name: Center for Immigration Studies, query: "site:cis.org", topical: true }
+  murthy:           { type: gnews, kind: blog, name: Murthy Law Firm, query: "site:murthy.com", topical: true }
+  fragomen:         { type: gnews, kind: blog, name: Fragomen, query: "site:fragomen.com", topical: true }
+  boundless:        { type: gnews, kind: blog, name: Boundless, query: "site:boundless.com immigration", topical: true }
+  gn_h1b:           { type: gnews, kind: search, query: '(H-1B OR H1B OR "green card" OR OPT OR "STEM OPT" OR "H-4") (USCIS OR visa OR rule OR policy)' }
+  gn_us_immigration: { type: gnews, kind: search, query: '("immigration policy" OR deportation OR "travel ban" OR "birthright citizenship" OR "executive order" immigration OR asylum) United States' }
+
+  # ---------- Politics: India ----------
+  thehindu_national: { type: rss, kind: news, name: The Hindu, url: "https://www.thehindu.com/news/national/feeder/default.rss" }
+  ie_political_pulse: { type: rss, kind: news, name: Indian Express, url: "https://indianexpress.com/section/political-pulse/feed/", topical: true }
+  ie_india:         { type: rss, kind: news, name: Indian Express, url: "https://indianexpress.com/section/india/feed/" }
+  theprint_politics: { type: rss, kind: news, name: ThePrint, url: "https://theprint.in/category/politics/feed/", topical: true }
+  scroll:           { type: rss, kind: news, name: Scroll, url: "https://feeds.feedburner.com/ScrollinArticles.rss" }
+  ht_india:         { type: rss, kind: news, name: Hindustan Times, url: "https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml" }
+  ndtv_india:       { type: rss, kind: news, name: NDTV, url: "https://feeds.feedburner.com/ndtvnews-india-news" }
+  mint_politics:    { type: rss, kind: news, name: Mint, url: "https://www.livemint.com/rss/politics", topical: true }
+  pib:              { type: rss, kind: official, name: PIB, url: "https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=3" }
+  india_inside_out: { type: rss, kind: blog, name: India Inside Out, url: "https://rohanvenkat.substack.com/feed", topical: true }
+  anticipating_unintended: { type: rss, kind: blog, name: Anticipating the Unintended, url: "https://publicpolicy.substack.com/feed", topical: true }
+  carnegie_india:   { type: gnews, kind: blog, name: Carnegie India, query: "site:carnegieendowment.org india", topical: true }
+  orf:              { type: gnews, kind: blog, name: ORF, query: "site:orfonline.org" }
+  epw:              { type: gnews, kind: blog, name: EPW, query: "site:epw.in" }
+  the_wire:         { type: gnews, kind: news, name: The Wire, query: "site:thewire.in politics" }
+  swarajya:         { type: gnews, kind: news, name: Swarajya, query: "site:swarajyamag.com politics" }
+
+  # ---------- Finance: central banks & rates ----------
+  fed_press:        { type: rss, kind: official, name: Federal Reserve, url: "https://www.federalreserve.gov/feeds/press_all.xml", topical: true }
+  ecb_press:        { type: rss, kind: official, name: ECB, url: "https://www.ecb.europa.eu/rss/press.html", topical: true }
+  rbi_press:        { type: rss, kind: official, name: RBI, url: "https://www.rbi.org.in/pressreleases_rss.xml" }
+  boe_news:         { type: rss, kind: official, name: Bank of England, url: "https://www.bankofengland.co.uk/rss/news", topical: true }
+  boj_news:         { type: rss, kind: official, name: Bank of Japan, url: "https://www.boj.or.jp/en/rss/whatsnew.xml", topical: true }
+  bis_press:        { type: gnews, kind: official, name: BIS, query: "site:bis.org" }
+  liberty_street:   { type: rss, kind: blog, name: Liberty Street Economics, url: "https://libertystreeteconomics.newyorkfed.org/feed/", topical: true }
+  stlouisfed:       { type: gnews, kind: blog, name: St. Louis Fed, query: "site:stlouisfed.org on-the-economy", topical: true }
+  fedguy:           { type: rss, kind: blog, name: Fed Guy, url: "https://fedguy.com/feed/", topical: true }
+  ing_think:        { type: gnews, kind: blog, name: ING Think, query: "site:think.ing.com", topical: true }
+  mainly_macro:     { type: gnews, kind: blog, name: Mainly Macro, query: "site:mainlymacro.blogspot.com", topical: true }
+  voxeu:            { type: gnews, kind: blog, name: VoxEU / CEPR, query: "site:cepr.org voxeu", topical: true }
+  piie:             { type: gnews, kind: blog, name: PIIE, query: "site:piie.com", topical: true }
+  employ_america:   { type: rss, kind: blog, name: Employ America, url: "https://www.employamerica.org/feed/", topical: true }
+  apricitas:        { type: rss, kind: blog, name: Apricitas Economics, url: "https://www.apricitas.io/feed", topical: true }
+  gn_rates:         { type: gnews, kind: search, query: '("rate decision" OR "rate cut" OR "rate hike" OR "holds rates" OR "policy rate" OR "bond yields") (Fed OR ECB OR RBI OR "Bank of England" OR "Bank of Japan" OR PBOC)' }
+
+  # ---------- Finance: fiscal ----------
+  imf_news:         { type: gnews, kind: official, name: IMF, query: "site:imf.org news" }
+  hutchins:         { type: gnews, kind: blog, name: Brookings Hutchins Center, query: "site:brookings.edu fiscal OR monetary", topical: true }
+  bruegel:          { type: gnews, kind: blog, name: Bruegel, query: "site:bruegel.org", topical: true }
+  gn_fiscal:        { type: gnews, kind: search, query: '(tariffs OR "fiscal policy" OR "budget deficit" OR "trade deal" OR stimulus OR "IMF outlook") economy' }
+
+  # ---------- Finance: oil ----------
+  eia:              { type: rss, kind: official, name: EIA, url: "https://www.eia.gov/rss/todayinenergy.xml", topical: true }
+  opec:             { type: gnews, kind: official, name: OPEC, query: "site:opec.org" }
+  iea:              { type: gnews, kind: official, name: IEA, query: "site:iea.org oil" }
+  commodity_context: { type: rss, kind: blog, name: Commodity Context, url: "https://www.commoditycontext.com/feed", topical: true }
+  oies:             { type: gnews, kind: blog, name: Oxford Institute for Energy Studies, query: "site:oxfordenergy.org", topical: true }
+  oilprice:         { type: rss, kind: news, name: OilPrice.com, url: "https://oilprice.com/rss/main" }
+  javier_blas:      { type: gnews, kind: blog, name: Javier Blas, query: "Javier Blas oil site:bloomberg.com", paywall: true, topical: true }
+  gn_oil:           { type: gnews, kind: search, query: '(OPEC OR Brent OR "crude oil" OR "oil output" OR "oil prices") (sanctions OR war OR supply OR production OR Hormuz)' }
+
+  # ---------- Finance: de-dollarization ----------
+  setser:           { type: gnews, kind: blog, name: "Brad Setser (CFR)", query: "site:cfr.org Setser", topical: true }
+  atlantic_geoecon: { type: gnews, kind: blog, name: Atlantic Council GeoEconomics, query: "site:atlanticcouncil.org dollar OR geoeconomics OR sanctions", topical: true }
+  pettis:           { type: gnews, kind: blog, name: Michael Pettis, query: "Michael Pettis China", topical: true }
+  omfif:            { type: gnews, kind: blog, name: OMFIF, query: "site:omfif.org", topical: true }
+  gn_dedollar:      { type: gnews, kind: search, query: '(de-dollarization OR dedollarization OR "dollar dominance" OR "reserve currency" OR "BRICS currency" OR mBridge OR CIPS OR "yuan settlement" OR "central bank gold")' }
+
+  # ---------- Finance: US debt ----------
+  treasury_press:   { type: gnews, kind: official, name: US Treasury, query: "site:home.treasury.gov" }
+  cbo:              { type: rss, kind: official, name: CBO, url: "https://www.cbo.gov/publications/all/rss.xml", topical: true }
+  crfb:             { type: gnews, kind: blog, name: CRFB, query: "site:crfb.org", topical: true }
+  peterson:         { type: gnews, kind: blog, name: Peterson Foundation, query: '"Peterson Foundation" debt OR deficit', topical: true }
+  bpc:              { type: gnews, kind: blog, name: Bipartisan Policy Center, query: "site:bipartisanpolicy.org debt OR budget", topical: true }
+  gn_us_debt:       { type: gnews, kind: search, query: '("Treasury auction" OR "debt ceiling" OR "national debt" OR "interest costs" OR "interest payments" OR "credit rating" OR "Treasury refunding") US' }
+
+  # ---------- Finance: Project 2025 / Agenda 2030 ----------
+  un_sdg:           { type: rss, kind: official, name: UN SDGs, url: "https://www.un.org/sustainabledevelopment/feed/", topical: true }
+  gn_project2025:   { type: gnews, kind: search, query: '"Project 2025"' }
+  gn_agenda2030:    { type: gnews, kind: search, query: '"Agenda 2030" OR "Sustainable Development Goals"' }
+
+  # ---------- AI: funding, startups, VC ----------
+  techcrunch_ai:    { type: rss, kind: news, name: TechCrunch, url: "https://techcrunch.com/category/artificial-intelligence/feed/" }
+  crunchbase_news:  { type: rss, kind: news, name: Crunchbase News, url: "https://news.crunchbase.com/feed/" }
+  venturebeat_ai:   { type: rss, kind: news, name: VentureBeat, url: "https://venturebeat.com/category/ai/feed/" }
+  cbinsights:       { type: gnews, kind: blog, name: CB Insights, query: "site:cbinsights.com research" }
+  newcomer:         { type: rss, kind: blog, name: Newcomer, url: "https://www.newcomer.co/feed" }
+  the_information:  { type: rss, kind: news, name: The Information, url: "https://www.theinformation.com/feed", paywall: true }
+  a16z:             { type: gnews, kind: blog, name: a16z, query: "site:a16z.com" }
+  sequoia:          { type: gnews, kind: blog, name: Sequoia, query: "site:sequoiacap.com" }
+  bessemer:         { type: gnews, kind: blog, name: Bessemer Atlas, query: "site:bvp.com atlas" }
+  greylock:         { type: gnews, kind: blog, name: Greylock, query: "site:greylock.com" }
+  nfx:              { type: gnews, kind: blog, name: NFX, query: "site:nfx.com" }
+  elad_gil:         { type: rss, kind: blog, name: Elad Gil, url: "https://blog.eladgil.com/feed" }
+  tunguz:           { type: rss, kind: blog, name: Tomasz Tunguz, url: "https://tomtunguz.com/index.xml" }
+  yc_blog:          { type: gnews, kind: blog, name: Y Combinator, query: "site:ycombinator.com/blog" }
+  stratechery:      { type: rss, kind: blog, name: Stratechery, url: "https://stratechery.com/feed/", paywall: true }
+  semianalysis:     { type: rss, kind: blog, name: SemiAnalysis, url: "https://newsletter.semianalysis.com/feed", paywall: true }
+  ben_evans:        { type: rss, kind: blog, name: Benedict Evans, url: "https://www.ben-evans.com/benedictevans?format=rss" }
+  exponential_view: { type: rss, kind: blog, name: Exponential View, url: "https://www.exponentialview.co/feed" }
+  bens_bites:       { type: rss, kind: blog, name: "Ben's Bites", url: "https://www.bensbites.com/feed" }
+  gn_ai_funding:    { type: gnews, kind: search, query: '(AI OR "artificial intelligence") startup (raises OR funding OR "Series A" OR "Series B" OR "Series C" OR valuation)' }
+  gn_ai_revenue:    { type: gnews, kind: search, query: '(AI OR "artificial intelligence") ("annualized revenue" OR ARR OR "revenue run rate" OR "AI revenue")' }
+
+  # ---------- AI: LLMs ----------
+  interconnects:    { type: rss, kind: blog, name: Interconnects, url: "https://www.interconnects.ai/feed", topical: true }
+  ahead_of_ai:      { type: rss, kind: blog, name: Ahead of AI, url: "https://magazine.sebastianraschka.com/feed", topical: true }
+  latent_space:     { type: rss, kind: blog, name: Latent Space, url: "https://www.latent.space/feed", topical: true }
+  simon_willison:   { type: rss, kind: blog, name: Simon Willison, url: "https://simonwillison.net/atom/everything/" }
+  import_ai:        { type: rss, kind: blog, name: Import AI, url: "https://importai.substack.com/feed", topical: true }
+  the_batch:        { type: gnews, kind: blog, name: The Batch, query: "site:deeplearning.ai the-batch", topical: true }
+  lilianweng:       { type: rss, kind: blog, name: "Lil'Log", url: "https://lilianweng.github.io/index.xml", topical: true }
+  epoch_ai:         { type: gnews, kind: blog, name: Epoch AI, query: "site:epoch.ai", topical: true }
+  hf_blog:          { type: rss, kind: blog, name: Hugging Face, url: "https://huggingface.co/blog/feed.xml" }
+  arxiv_cl:         { type: arxiv, kind: paper, name: arXiv cs.CL, query: "cat:cs.CL", max_results: 150 }
+  arxiv_lg_llm:     { type: arxiv, kind: paper, name: arXiv cs.LG, query: 'cat:cs.LG AND (abs:"language model" OR abs:LLM OR abs:transformer)', max_results: 80 }
+  hf_papers:        { type: hf_papers, kind: paper, name: HF Daily Papers, url: "https://huggingface.co/api/daily_papers?date={yesterday}" }
+
+  # ---------- AI: recommendation systems ----------
+  eugene_yan:       { type: rss, kind: blog, name: Eugene Yan, url: "https://eugeneyan.com/rss/", topical: true }
+  netflix_tech:     { type: rss, kind: blog, name: Netflix Tech Blog, url: "https://netflixtechblog.com/feed" }
+  spotify_research: { type: rss, kind: blog, name: Spotify Research, url: "https://research.atspotify.com/feed/" }
+  pinterest_eng:    { type: rss, kind: blog, name: Pinterest Engineering, url: "https://medium.com/feed/pinterest-engineering" }
+  meta_eng:         { type: rss, kind: blog, name: Meta Engineering, url: "https://engineering.fb.com/feed/" }
+  linkedin_eng:     { type: gnews, kind: blog, name: LinkedIn Engineering, query: "site:linkedin.com/blog/engineering" }
+  airbnb_tech:      { type: rss, kind: blog, name: Airbnb Tech, url: "https://medium.com/feed/airbnb-engineering" }
+  doordash_eng:     { type: gnews, kind: blog, name: DoorDash Engineering, query: "site:careersatdoordash.com engineering" }
+  instacart_tech:   { type: rss, kind: blog, name: Instacart Tech, url: "https://tech.instacart.com/feed" }
+  uber_eng:         { type: gnews, kind: blog, name: Uber Engineering, query: '"Uber Engineering" blog' }
+  nvidia_tech:      { type: rss, kind: blog, name: NVIDIA Technical Blog, url: "https://developer.nvidia.com/blog/feed" }
+  arxiv_ir:         { type: arxiv, kind: paper, name: arXiv cs.IR, query: "cat:cs.IR", max_results: 80 }
+
+  # ---------- AI: ads & social media ----------
+  adexchanger:      { type: gnews, kind: news, name: AdExchanger, query: "site:adexchanger.com" }
+  digiday:          { type: rss, kind: news, name: Digiday, url: "https://digiday.com/feed/" }
+  platformer:       { type: rss, kind: blog, name: Platformer, url: "https://www.platformer.news/rss/" }
+  social_media_today: { type: rss, kind: news, name: Social Media Today, url: "https://www.socialmediatoday.com/feeds/news/" }
+  google_ads_blog:  { type: rss, kind: official, name: Google Ads & Commerce, url: "https://blog.google/products/ads-commerce/rss/" }
+  amazon_ads:       { type: gnews, kind: official, name: Amazon Ads, query: "site:advertising.amazon.com" }
+  gn_ai_ads:        { type: gnews, kind: search, query: '(AI OR "generative AI") (advertising OR "ad tech" OR adtech OR "social media") (Meta OR Google OR TikTok OR YouTube OR Amazon OR Snap OR Pinterest)' }
+
+  # ---------- AI: robotics ----------
+  robot_report:     { type: rss, kind: news, name: The Robot Report, url: "https://www.therobotreport.com/feed/", topical: true }
+  ieee_robotics:    { type: rss, kind: news, name: IEEE Spectrum, url: "https://spectrum.ieee.org/feeds/topic/robotics.rss", topical: true }
+  robohub:          { type: rss, kind: blog, name: Robohub, url: "https://robohub.org/feed/", topical: true }
+  arxiv_ro:         { type: arxiv, kind: paper, name: arXiv cs.RO, query: "cat:cs.RO", max_results: 60 }
+  gn_robotics:      { type: gnews, kind: search, query: '(humanoid OR "robotics startup" OR "robot foundation model" OR "embodied AI")' }
+
+  # ---------- AI: big lab research ----------
+  openai:           { type: rss, kind: official, name: OpenAI, url: "https://openai.com/news/rss.xml", topical: true }
+  anthropic:        { type: gnews, kind: official, name: Anthropic, query: "site:anthropic.com", topical: true }
+  deepmind:         { type: rss, kind: official, name: Google DeepMind, url: "https://deepmind.google/blog/rss.xml", topical: true }
+  google_research:  { type: rss, kind: official, name: Google Research, url: "https://research.google/blog/rss/", topical: true }
+  meta_ai:          { type: gnews, kind: official, name: Meta AI, query: "site:ai.meta.com blog", topical: true }
+  msr:              { type: rss, kind: official, name: Microsoft Research, url: "https://www.microsoft.com/en-us/research/feed/", topical: true }
+  apple_ml:         { type: rss, kind: official, name: Apple ML Research, url: "https://machinelearning.apple.com/rss.xml", topical: true }
+  ai2:              { type: gnews, kind: official, name: Ai2, query: "site:allenai.org blog", topical: true }
+  mistral:          { type: gnews, kind: official, name: Mistral AI, query: "site:mistral.ai news", topical: true }
+  qwen:             { type: gnews, kind: official, name: Qwen, query: "site:qwen.ai OR site:qwenlm.github.io", topical: true }
+  thinking_machines: { type: gnews, kind: official, name: Thinking Machines, query: "site:thinkingmachines.ai", topical: true }
+  bair:             { type: rss, kind: blog, name: BAIR, url: "https://bair.berkeley.edu/blog/feed.xml", topical: true }
+  stanford_hai:     { type: gnews, kind: blog, name: Stanford HAI, query: "site:hai.stanford.edu news", topical: true }
+
+  # ---------- AI: conferences ----------
+  neurips_blog:     { type: rss, kind: blog, name: NeurIPS Blog, url: "https://blog.neurips.cc/feed/", topical: true }
+  iclr_blog:        { type: rss, kind: blog, name: ICLR Blog, url: "https://blog.iclr.cc/feed/", topical: true }
+  gn_conferences:   { type: gnews, kind: search, query: '(NeurIPS OR ICML OR ICLR OR CVPR OR EMNLP OR "ACL 2026" OR "ACL 2027" OR KDD OR RecSys OR SIGIR OR MLSys) (paper OR award OR accepted OR conference)' }
+
+  # ---------- Football (soccer) ----------
+  bbc_football:     { type: rss, kind: news, name: BBC Sport, url: "https://feeds.bbci.co.uk/sport/football/rss.xml", topical: true }
+  guardian_football: { type: rss, kind: news, name: The Guardian, url: "https://www.theguardian.com/football/rss", topical: true }
+  espn_fc:          { type: rss, kind: news, name: ESPN FC, url: "https://www.espn.com/espn/rss/soccer/news", topical: true }
+  sky_football:     { type: rss, kind: news, name: Sky Sports, url: "https://www.skysports.com/rss/12040", topical: true }
+  athletic_football: { type: gnews, kind: news, name: The Athletic, query: "site:nytimes.com/athletic football", paywall: true }
+  opta_analyst:     { type: gnews, kind: blog, name: Opta Analyst, query: "site:theanalyst.com football", topical: true }
+  statsbomb:        { type: gnews, kind: blog, name: Hudl StatsBomb, query: "site:statsbomb.com OR site:hudl.com statsbomb", topical: true }
+  spielverlagerung: { type: rss, kind: blog, name: Spielverlagerung, url: "https://spielverlagerung.com/feed/", topical: true }
+  total_football_analysis: { type: gnews, kind: blog, name: Total Football Analysis, query: "site:totalfootballanalysis.com", topical: true }
+  swiss_ramble:     { type: rss, kind: blog, name: Swiss Ramble, url: "https://swissramble.substack.com/feed", topical: true }
+  off_the_pitch:    { type: gnews, kind: blog, name: Off The Pitch, query: "site:offthepitch.com", topical: true }
+  gn_transfers:     { type: gnews, kind: search, query: '(transfer OR signing OR "agreed fee" OR "loan move") (Premier League OR "La Liga" OR "Serie A" OR Bundesliga OR "Ligue 1")' }
+
+  # ---------- Other sports ----------
+  cricinfo:         { type: rss, kind: news, name: ESPNcricinfo, url: "https://www.espncricinfo.com/rss/content/story/feeds/0.xml", topical: true }
+  cricbuzz:         { type: gnews, kind: news, name: Cricbuzz, query: "site:cricbuzz.com", topical: true }
+  bbc_cricket:      { type: rss, kind: news, name: BBC Sport, url: "https://feeds.bbci.co.uk/sport/cricket/rss.xml", topical: true }
+  wisden:           { type: rss, kind: blog, name: Wisden, url: "https://www.wisden.com/feed", topical: true }
+  cricverse:        { type: rss, kind: blog, name: The Cricverse, url: "https://cricverse.substack.com/feed", topical: true }
+  bbc_tennis:       { type: rss, kind: news, name: BBC Sport, url: "https://feeds.bbci.co.uk/sport/tennis/rss.xml", topical: true }
+  atp:              { type: gnews, kind: official, name: ATP Tour, query: "site:atptour.com news", topical: true }
+  wta:              { type: gnews, kind: official, name: WTA, query: "site:wtatennis.com news", topical: true }
+  tennis_com:       { type: gnews, kind: news, name: Tennis.com, query: "site:tennis.com", topical: true }
+  bbc_f1:           { type: rss, kind: news, name: BBC Sport, url: "https://feeds.bbci.co.uk/sport/formula1/rss.xml", topical: true }
+  formula1:         { type: rss, kind: official, name: Formula 1, url: "https://www.formula1.com/content/fom-website/en/latest/all.xml", topical: true }
+  the_race:         { type: rss, kind: news, name: The Race, url: "https://www.the-race.com/rss/", topical: true }
+  motorsport_f1:    { type: rss, kind: news, name: Motorsport.com, url: "https://www.motorsport.com/rss/f1/news/", topical: true }
+  bbc_athletics:    { type: rss, kind: news, name: BBC Sport, url: "https://feeds.bbci.co.uk/sport/athletics/rss.xml", topical: true }
+  world_athletics:  { type: gnews, kind: official, name: World Athletics, query: "site:worldathletics.org news", topical: true }
+  olympics:         { type: gnews, kind: official, name: Olympics.com, query: "site:olympics.com news", topical: true }
+  espn_nfl:         { type: rss, kind: news, name: ESPN, url: "https://www.espn.com/espn/rss/nfl/news", topical: true }
+  espn_nba:         { type: rss, kind: news, name: ESPN, url: "https://www.espn.com/espn/rss/nba/news", topical: true }
+  sportstar:        { type: rss, kind: news, name: Sportstar, url: "https://sportstar.thehindu.com/feeder/default.rss", topical: true }
+
+# ---------------------------------------------------------------------------
+feeds:
+  politics:
+    title: Politics
+    sections:
+      world:
+        title: World & geopolitics
+        sources: [bbc_world, aljazeera, guardian_world, gn_ap_world, gn_reuters_world, the_diplomat, lowy,
+                  warontherocks, foreign_affairs, foreign_policy, csis, carnegie, brookings, chatham_house,
+                  ecfr, lawfare, isw, chinatalk, phillips_obrien, geopolitical_futures]
+        include: { war: 2, ceasefire: 3, sanctions: 2, NATO: 3, "Security Council": 3, summit: 2, election: 1,
+                   coup: 3, missile: 2, strike: 1, invasion: 3, diplomacy: 2, diplomatic: 2, treaty: 2, Ukraine: 2,
+                   Russia: 2, China: 2, Taiwan: 2, Israel: 2, Gaza: 2, Iran: 2, "North Korea": 2, "South China Sea": 3,
+                   "Middle East": 2, EU: 1, G7: 2, G20: 2, BRICS: 2, military: 2, troops: 2, "foreign minister": 2,
+                   president: 1, "prime minister": 1, geopolitical: 3, geopolitics: 3, nuclear: 2, alliance: 2,
+                   "peace talks": 3, Putin: 2, Xi: 2, Trump: 1, Netanyahu: 2, Zelensky: 2, Modi: 1, defence: 1, defense: 1 }
+        exclude: [football, cricket, celebrity, recipe, horoscope, "box office", tennis, "Premier League"]
+
+      us_immigration:
+        title: US policy affecting immigration
+        sources: [uscis, gn_visa_bulletin, dhs, mpi, cato_immigration, cis, murthy, fragomen,
+                  boundless, gn_h1b, gn_us_immigration, guardian_world, bbc_world]
+        include: { immigration: 3, immigrant: 2, immigrants: 2, H-1B: 4, H1B: 4, "green card": 4, visa: 2, visas: 2,
+                   USCIS: 4, OPT: 3, "STEM OPT": 4, F-1: 3, H-4: 3, L-1: 2, EB-2: 3, EB-3: 3, EB-5: 3, "priority date": 3,
+                   "visa bulletin": 4, asylum: 2, deportation: 2, deported: 2, ICE: 2, border: 1, naturalization: 3,
+                   citizenship: 2, birthright: 3, "travel ban": 3, "work permit": 3, EAD: 3, refugee: 1, DACA: 3,
+                   "international students": 3, "skilled workers": 3, "Gold Card": 3 }
+        require_any: [immigration, immigrant, immigrants, H-1B, H1B, "green card", visa, visas, USCIS, OPT, asylum,
+                      deportation, deported, ICE, naturalization, citizenship, "travel ban", "work permit", DACA,
+                      refugee, migrants, "international students", border, EAD, "Gold Card"]
+
+      india:
+        title: Indian politics
+        sources: [thehindu_national, ie_political_pulse, ie_india, theprint_politics, scroll, ht_india, ndtv_india,
+                  mint_politics, pib, india_inside_out, anticipating_unintended, carnegie_india, orf,
+                  epw, the_wire, swarajya]
+        include: { BJP: 3, Congress: 3, Modi: 3, "Rahul Gandhi": 3, "Lok Sabha": 3, "Rajya Sabha": 3, Parliament: 2,
+                   election: 2, elections: 2, "Election Commission": 3, assembly: 2, "chief minister": 3, CM: 2,
+                   minister: 1, "Supreme Court": 2, governor: 2, cabinet: 2, AAP: 3, TMC: 3, DMK: 3, AIADMK: 3,
+                   NDA: 3, "INDIA bloc": 3, "Shiv Sena": 3, NCP: 3, "JD(U)": 3, RJD: 3, BSP: 3, "Samajwadi": 3,
+                   bill: 1, ordinance: 2, coalition: 2, opposition: 2, polls: 2, MP: 1, MLA: 2, Centre: 1,
+                   "Amit Shah": 3, Kejriwal: 3, Mamata: 3, Kharge: 3, Yogi: 2, delimitation: 3, "One Nation": 2,
+                   policy: 1, reform: 1, "foreign policy": 2, "Jaishankar": 2 }
+        exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket]
+
+  finance:
+    title: Finance
+    sections:
+      central_banks:
+        title: Central banks & rates
+        sources: [fed_press, ecb_press, rbi_press, boe_news, boj_news, bis_press, liberty_street, stlouisfed, fedguy,
+                  ing_think, mainly_macro, voxeu, piie, employ_america, apricitas, gn_rates]
+        include: { Fed: 3, "Federal Reserve": 3, FOMC: 4, ECB: 3, Lagarde: 2, RBI: 3, MPC: 3, "repo rate": 4,
+                   "Bank of England": 3, BoE: 3, "Bank of Japan": 3, BoJ: 3, PBOC: 3, "rate cut": 4, "rate cuts": 4,
+                   "rate hike": 4, "interest rate": 3, "interest rates": 3, "policy rate": 3, inflation: 2, CPI: 2,
+                   yields: 2, "bond yields": 3, "monetary policy": 3, "quantitative": 2, "balance sheet": 2,
+                   "basis points": 2, "central bank": 3, "central banks": 3, liquidity: 1, "neutral rate": 3, "Fed chair": 3 }
+
+      fiscal:
+        title: Government fiscal & economic policy
+        sources: [imf_news, hutchins, bruegel, gn_fiscal, bbc_world, guardian_world, mint_politics]
+        include: { budget: 2, deficit: 2, fiscal: 3, tariff: 3, tariffs: 3, "trade deal": 3, "trade war": 3,
+                   stimulus: 3, tax: 1, taxes: 1, IMF: 3, "World Bank": 2, GDP: 3, recession: 3, sovereign: 2,
+                   "spending bill": 3, economy: 1, economic: 1, growth: 1, "industrial policy": 3, subsidies: 2 }
+        require_any: [budget, deficit, fiscal, tariff, tariffs, "trade deal", "trade war", stimulus, tax, taxes, IMF,
+                      "World Bank", GDP, recession, economy, economic, subsidies]
+
+      oil:
+        title: Oil — supply, OPEC+, war impact
+        sources: [eia, opec, iea, commodity_context, oies, oilprice, javier_blas, gn_oil, bbc_world, aljazeera]
+        include: { OPEC: 3, "OPEC+": 4, Brent: 4, WTI: 4, crude: 3, "oil price": 4, "oil prices": 4, barrel: 2,
+                   barrels: 2, "oil output": 4, "oil production": 4, sanctions: 1, "Strait of Hormuz": 4, Hormuz: 3,
+                   refinery: 2, LNG: 2, "natural gas": 2, "Saudi Aramco": 3, Aramco: 3, shale: 3, "rig count": 3,
+                   "energy prices": 3, "oil exports": 3, tanker: 2, "price cap": 3, SPR: 3, "oil market": 4 }
+        exclude: ["olive oil", "essential oil", "cooking oil", "palm oil", "oil painting"]
+        require_any: [oil, crude, OPEC, Brent, WTI, LNG, "natural gas", barrel, barrels, refinery, Aramco, energy]
+
+      dedollarization:
+        title: De-dollarization & BRICS payment rails
+        sources: [setser, atlantic_geoecon, pettis, omfif, gn_dedollar, bis_press]
+        include: { "de-dollarization": 5, dedollarization: 5, "dollar dominance": 5, "reserve currency": 4,
+                   BRICS: 3, yuan: 2, renminbi: 3, "rupee trade": 4, "local currency": 3, "local currencies": 3,
+                   mBridge: 5, CIPS: 4, SWIFT: 3, "gold reserves": 4, "central bank gold": 4, gold: 1, CBDC: 2,
+                   petroyuan: 5, "dollar's": 2, dollar: 1, "payment system": 3, "cross-border payments": 3,
+                   "capital flows": 2, "Treasury holdings": 3 }
+        require_any: [dollar, "dollar's", BRICS, yuan, renminbi, rupee, "reserve currency", "local currency",
+                      "local currencies", mBridge, CIPS, SWIFT, gold, CBDC, "cross-border payments", "capital flows"]
+
+      us_debt:
+        title: US debt & interest costs
+        sources: [treasury_press, cbo, crfb, peterson, bpc, gn_us_debt, liberty_street]
+        include: { Treasury: 2, "Treasury auction": 4, "debt ceiling": 5, "debt limit": 5, "national debt": 5,
+                   "federal debt": 5, "interest costs": 4, "interest payments": 4, "net interest": 4, deficit: 3,
+                   auction: 2, refunding: 4, "bond market": 3, Moody's: 3, Fitch: 3, "credit rating": 4,
+                   "term premium": 4, "T-bills": 3, "bills": 1, CBO: 3, borrowing: 2, "Treasuries": 3, "10-year": 2 }
+
+      agendas:
+        title: Project 2025 / UN Agenda 2030
+        sources: [gn_project2025, gn_agenda2030, un_sdg]
+        include: { "Project 2025": 6, "Heritage Foundation": 3, "Agenda 2030": 6, "Sustainable Development Goals": 4,
+                   SDG: 3, SDGs: 3, "2030 Agenda": 6 }
+        min_score: 5
+
+  ai:
+    title: AI
+    sections:
+      funding:
+        title: Funding & hot startups
+        sources: [techcrunch_ai, crunchbase_news, venturebeat_ai, the_information, newcomer, cbinsights, gn_ai_funding]
+        include: { raises: 4, raised: 3, funding: 3, "Series A": 4, "Series B": 4, "Series C": 4, "Series D": 4,
+                   "Series E": 4, seed: 2, "seed round": 4, valuation: 3, valued: 2, unicorn: 3, investors: 2,
+                   "led by": 2, venture: 2, IPO: 3, acquisition: 3, acquires: 3, acquired: 2, startup: 2, startups: 2,
+                   "funding round": 4, "billion": 1, "million": 1 }
+        require_any: [AI, "artificial intelligence", LLM, "machine learning", agents, agentic, model, models, robotics, GPU, chips, inference]
+
+      vc_revenue:
+        title: VC views & AI revenue
+        sources: [a16z, sequoia, bessemer, greylock, nfx, elad_gil, tunguz, yc_blog, stratechery, semianalysis,
+                  ben_evans, exponential_view, bens_bites, gn_ai_revenue, the_information]
+        include: { revenue: 3, ARR: 4, "run rate": 4, "run-rate": 4, margins: 3, "gross margin": 4, pricing: 2,
+                   "business model": 3, VC: 3, VCs: 3, investors: 2, "venture capital": 3, thesis: 3, market: 1,
+                   enterprise: 2, adoption: 2, capex: 3, "data center": 2, "data centers": 2, compute: 2, GPU: 2,
+                   AI: 1, agents: 1, SaaS: 2, valuation: 2, bubble: 3 }
+        require_any: [AI, "artificial intelligence", LLM, agents, agentic, model, models, compute, GPU, inference, OpenAI, Anthropic]
+
+      llms:
+        title: LLMs
+        sources: [interconnects, ahead_of_ai, latent_space, simon_willison, import_ai, the_batch, lilianweng,
+                  epoch_ai, hf_blog, arxiv_cl, arxiv_lg_llm, hf_papers, techcrunch_ai, venturebeat_ai]
+        include: { LLM: 4, LLMs: 4, "language model": 4, "language models": 4, GPT: 3, Claude: 3, Gemini: 3,
+                   Llama: 3, Qwen: 3, DeepSeek: 3, Mistral: 3, Grok: 2, transformer: 2, reasoning: 3, "fine-tuning": 3,
+                   RLHF: 4, "post-training": 4, pretraining: 4, "pre-training": 4, inference: 2, "context window": 3,
+                   "long context": 3, agent: 2, agents: 2, agentic: 3, benchmark: 2, benchmarks: 2, "open-weight": 4,
+                   "open weights": 4, "open-source model": 3, MoE: 3, "mixture of experts": 4, distillation: 3,
+                   alignment: 2, "reinforcement learning": 2, tokens: 1, "chain-of-thought": 3, RAG: 2, "coding agent": 3,
+                   prompt: 1, "reward model": 3, scaling: 2, "test-time": 3 }
+
+      recsys:
+        title: Recommendation systems
+        sources: [eugene_yan, netflix_tech, spotify_research, pinterest_eng, meta_eng, linkedin_eng, airbnb_tech,
+                  doordash_eng, instacart_tech, uber_eng, nvidia_tech, arxiv_ir, hf_papers]
+        include: { recommendation: 5, recommendations: 4, recommender: 5, recsys: 5, ranking: 3, retrieval: 3,
+                   personalization: 4, personalized: 3, embedding: 2, embeddings: 2, "two-tower": 5,
+                   "collaborative filtering": 5, CTR: 4, "click-through": 4, "feed ranking": 5, "search ranking": 4,
+                   "generative retrieval": 5, "generative recommendation": 5, "user modeling": 4, "sequential recommendation": 5,
+                   "candidate generation": 5, reranking: 3, "learning to rank": 5, "user engagement": 2, "cold-start": 4,
+                   "cold start": 4, "semantic ids": 4, discovery: 1, search: 1 }
+        min_score: 4
+
+      ads_social:
+        title: AI in ads & social media
+        sources: [adexchanger, digiday, platformer, social_media_today, google_ads_blog, amazon_ads, gn_ai_ads]
+        include: { advertising: 3, ads: 3, "ad tech": 3, adtech: 3, programmatic: 3, ROAS: 4, "Advantage+": 4,
+                   "Performance Max": 4, attribution: 3, Meta: 2, TikTok: 2, Instagram: 2, YouTube: 2, Snap: 2,
+                   Pinterest: 2, Reddit: 2, "social media": 2, creator: 2, creators: 2, "generative ads": 5,
+                   marketing: 2, marketers: 2, "retail media": 3, CTV: 2, targeting: 2, algorithm: 2, feed: 1 }
+        require_any: [AI, "artificial intelligence", "machine learning", generative, GenAI, LLM, chatbot, agent, agents,
+                      agentic, algorithm, algorithms, automation, automated, model, models, Gemini, ChatGPT, Llama]
+
+      robotics:
+        title: Robotics
+        sources: [robot_report, ieee_robotics, robohub, arxiv_ro, gn_robotics, techcrunch_ai]
+        include: { robot: 3, robots: 3, robotics: 4, humanoid: 5, humanoids: 5, Figure: 1, Optimus: 4,
+                   "Boston Dynamics": 4, autonomous: 2, embodied: 4, manipulation: 3, VLA: 4, "vision-language-action": 5,
+                   drone: 2, drones: 2, "self-driving": 3, Waymo: 3, "foundation model": 2, "physical AI": 4, gripper: 3,
+                   locomotion: 3, "sim-to-real": 4, teleoperation: 3 }
+
+      labs:
+        title: Big lab research & releases
+        sources: [openai, anthropic, deepmind, google_research, meta_ai, msr, apple_ml, ai2, mistral, qwen,
+                  thinking_machines, bair, stanford_hai, nvidia_tech, hf_blog]
+        include: { model: 2, models: 2, research: 2, release: 2, releases: 2, launch: 2, launches: 2, introducing: 3,
+                   paper: 2, safety: 2, interpretability: 3, alignment: 2, reasoning: 2, open: 1, benchmark: 2,
+                   agents: 2, multimodal: 2, AI: 1, "system card": 3, evaluation: 2, frontier: 2 }
+
+      conferences:
+        title: Conferences
+        sources: [neurips_blog, iclr_blog, gn_conferences, arxiv_cl, arxiv_ir, arxiv_lg_llm, hf_papers]
+        include: { NeurIPS: 5, NIPS: 5, ICML: 5, ICLR: 5, CVPR: 5, ICCV: 5, ECCV: 5, ACL: 4, EMNLP: 5, NAACL: 5,
+                   KDD: 5, RecSys: 5, SIGIR: 5, WWW: 3, "Web Conference": 5, MLSys: 5, AAAI: 4, IJCAI: 4, COLM: 5,
+                   "best paper": 5, "oral": 2, "spotlight": 2, accepted: 2, workshop: 2, "test of time": 5 }
+        require_any: [NeurIPS, NIPS, ICML, ICLR, CVPR, ICCV, ECCV, ACL, EMNLP, NAACL, KDD, RecSys, SIGIR, WWW,
+                      "Web Conference", MLSys, AAAI, IJCAI, COLM]
+        exclude: [basketball, football, cricket, sports, championship, tournament]
+        min_score: 5
+
+  football:
+    title: Football
+    sections:
+      top:
+        title: Top stories
+        sources: [bbc_football, guardian_football, espn_fc, sky_football, athletic_football]
+        include: { "Premier League": 2, "La Liga": 2, "Serie A": 2, Bundesliga: 2, "Ligue 1": 2, ISL: 2, "World Cup": 3,
+                   manager: 1, sacked: 3, injury: 1, "title race": 3, derby: 2, win: 1, defeat: 1, draw: 1,
+                   Arsenal: 1, Liverpool: 1, "Manchester City": 1, "Man City": 1, "Manchester United": 1, "Man Utd": 1,
+                   Chelsea: 1, Tottenham: 1, "Real Madrid": 1, Barcelona: 1, Bayern: 1, PSG: 1, Inter: 1, Juventus: 1,
+                   "Ballon d'Or": 3, FIFA: 2 }
+
+      transfers:
+        title: Transfers
+        sources: [bbc_football, guardian_football, espn_fc, sky_football, athletic_football, gn_transfers]
+        include: { transfer: 4, transfers: 4, signing: 4, signs: 3, sign: 2, "agreed fee": 5, fee: 2, loan: 3, bid: 3,
+                   "release clause": 5, "here we go": 5, medical: 3, "personal terms": 5, contract: 2, "new deal": 3,
+                   "free agent": 4, "January window": 5, "transfer window": 5, target: 2, "in talks": 3 }
+        min_score: 6
+
+      europe:
+        title: Champions League & Europe
+        sources: [bbc_football, guardian_football, espn_fc, sky_football, athletic_football]
+        include: { "Champions League": 5, "Europa League": 5, "Conference League": 5, UEFA: 3, "group stage": 3,
+                   "league phase": 4, "knockout": 3, "round of 16": 4, "quarter-final": 3, "semi-final": 3 }
+        min_score: 7
+
+      analysis:
+        title: Tactics & analysis
+        sources: [opta_analyst, statsbomb, spielverlagerung, total_football_analysis, swiss_ramble, off_the_pitch]
+        include: { tactics: 3, tactical: 3, analysis: 2, xG: 3, data: 1, pressing: 3, "build-up": 3, finances: 3,
+                   revenue: 2, accounts: 2, scouting: 3, recruitment: 3 }
+        exclude: [FCS, FBS, NFL, "college football", betting, bookmakers]
+
+  other_sports:
+    title: Other Sports
+    tags:
+      cricket: [ESPNcricinfo, Cricbuzz, Wisden, cricket, IPL, Test, ODI, T20, T20I, BCCI, ICC, Ashes, wicket, wickets, batter, bowler, "Ranji", innings, century]
+      tennis: ["ATP Tour", Tennis.com, tennis, ATP, WTA, Wimbledon, "US Open", "French Open", "Roland Garros", "Australian Open", "Grand Slam", Djokovic, Alcaraz, Sinner, Sabalenka, Swiatek]
+      f1: ["The Race", F1, "Formula 1", "Formula One", "Grand Prix", Verstappen, Hamilton, Norris, Leclerc, Piastri, McLaren, Ferrari, "Red Bull", Mercedes, FIA]
+      athletics: [athletics, marathon, sprint, "Diamond League", "World Athletics", "Neeraj Chopra", "javelin", Olympics, Olympic]
+      nfl: [NFL, quarterback, touchdown, "Super Bowl", Chiefs, Eagles, Cowboys]
+      nba: [NBA, Lakers, Celtics, Warriors, LeBron, playoffs]
+    sections:
+      all:
+        title: All other sports
+        sources: [cricinfo, cricbuzz, bbc_cricket, wisden, cricverse, bbc_tennis, atp, wta, tennis_com,
+                  bbc_f1, formula1, the_race, motorsport_f1, bbc_athletics, world_athletics, olympics, espn_nfl, espn_nba,
+                  sportstar]
+        include: { final: 2, semi-final: 2, champion: 2, championship: 2, record: 2, title: 1, win: 1, wins: 1,
+                   victory: 1, squad: 1, series: 1, "World Cup": 3, injury: 1, retire: 2, retirement: 2, India: 2 }
+        exclude: ["Premier League", "Champions League", "La Liga", soccer, UEFA, FIFA, "Indian Super League", "Ballon d'Or"]
+        max_items: 25
+        min_score: 3

@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ day.site_title }} — {{ day.date }}</title>
+<meta name="description" content="Daily headlines: politics, finance, AI, football and other sports.">
+<link rel="stylesheet" href="{{ base }}style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23c2410c'/><path d='M9 10h14M9 16h14M9 22h9' stroke='white' stroke-width='3' stroke-linecap='round'/></svg>">
+</head>
+<body>
+{% macro item_row(it, hidden) %}
+<li class="item{% if hidden %} more{% endif %}"{% if it.tag %} data-tag="{{ it.tag }}"{% endif %}>
+  <a class="title" href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>
+  <div class="meta">
+    {% if it.kind | badge %}<span class="badge b-{{ it.kind }}">{{ it.kind | badge }}</span>{% endif %}
+    {% if it.tag and it.tag != 'other' %}<span class="badge b-tag">{{ it.tag }}</span>{% endif %}
+    <span class="outlet">{{ it.outlet }}</span>
+    {% if it.paywall %}<span class="lock" title="Paywalled">🔒</span>{% endif %}
+    <span class="dot">·</span><time datetime="{{ it.published }}">{{ it.published | local }}</time>
+    {% if it.upvotes %}<span class="dot">·</span><span class="up" title="Hugging Face upvotes">▲ {{ it.upvotes }}</span>{% endif %}
+    {% if it.also %}<span class="dot">·</span><span class="also">also {{ it.also | join(', ') }}{% if it.also_more %} +{{ it.also_more }}{% endif %}</span>{% endif %}
+  </div>
+  {% if it.snippet %}<p class="snippet">{{ it.snippet }}</p>{% endif %}
+</li>
+{% endmacro %}
+{% macro item_list(items, label) %}
+{% if items %}
+{% if label %}<h3 class="sub">{{ label }}</h3>{% endif %}
+<ul class="items">
+  {% for it in items %}{{ item_row(it, loop.index > show_first) }}{% endfor %}
+</ul>
+{% if items | length > show_first %}<button class="show-more" type="button" data-more="{{ items | length - show_first }}">Show {{ items | length - show_first }} more</button>{% endif %}
+{% endif %}
+{% endmacro %}
+
+<header class="top">
+  <div class="wrap top-row">
+    <div>
+      <h1>{{ day.site_title }}</h1>
+      <p class="date">{{ pretty_date }} · updated {{ day.generated_at | local('%H:%M') }} {{ 'IST' if day.timezone == 'Asia/Kolkata' else day.timezone }}{% if not latest %} · <a href="{{ base }}index.html">back to today</a>{% endif %}</p>
+    </div>
+    <label class="archive">
+      <span class="sr">Archive</span>
+      <select id="archive" aria-label="Open another day">
+        {% for d in dates %}<option value="{{ base }}archive/{{ d }}.html"{% if d == day.date %} selected{% endif %}>{{ d }}</option>{% endfor %}
+      </select>
+    </label>
+  </div>
+  <nav class="tabs wrap" role="tablist">
+    {% for f in day.feeds %}
+    {% set n = namespace(c=0) %}{% for s in f.sections %}{% set n.c = n.c + s.news|length + s.analysis|length + s.papers|length %}{% endfor %}
+    <button role="tab" class="tab" data-tab="{{ f.id }}" aria-selected="false">{{ f.title }} <span class="count">{{ n.c }}</span></button>
+    {% endfor %}
+    {% if day.new_sources %}<button role="tab" class="tab" data-tab="new-sources" aria-selected="false">New sources <span class="count hot">{{ day.new_sources | length }}</span></button>{% endif %}
+  </nav>
+</header>
+
+<main class="wrap">
+{% for f in day.feeds %}
+<section class="panel" id="panel-{{ f.id }}" data-panel="{{ f.id }}" hidden>
+  <div class="jump">
+    {% for s in f.sections %}<a href="#{{ f.id }}-{{ s.id }}" class="chip">{{ s.title }}</a>{% endfor %}
+  </div>
+  {% if f.tags | length > 1 %}
+  <div class="filters" data-filter-group>
+    <button class="chip on" data-filter="all" type="button">All</button>
+    {% for t in f.tags %}<button class="chip" data-filter="{{ t }}" type="button">{{ t }}</button>{% endfor %}
+  </div>
+  {% endif %}
+  {% for s in f.sections %}
+  {% set total = s.news|length + s.analysis|length + s.papers|length %}
+  <details class="section" id="{{ f.id }}-{{ s.id }}" open>
+    <summary><h2>{{ s.title }}</h2><span class="count">{{ total }}</span></summary>
+    {% if total == 0 %}
+      <p class="empty">Nothing new in the last 24 hours.</p>
+    {% else %}
+      {{ item_list(s.news, '' if not (s.analysis or s.papers) else 'Headlines') }}
+      {{ item_list(s.analysis, 'Analysis & blogs') }}
+      {{ item_list(s.papers, 'Papers') }}
+    {% endif %}
+  </details>
+  {% endfor %}
+</section>
+{% endfor %}
+
+{% if day.new_sources %}
+<section class="panel" id="panel-new-sources" data-panel="new-sources" hidden>
+  <p class="lede">Sources the app found on its own this week. They're already included at low weight with a <span class="badge b-new">New source</span> badge. To trust one, paste its line into <code>feeds.yaml</code>; to mute it, add the domain to <code>ignore_sources</code>.</p>
+  {% for n in day.new_sources %}
+  <article class="card">
+    <h3>{{ n.name }} <span class="domain">{{ n.domain }}</span></h3>
+    <p class="meta">Added {{ n.added }} · {{ n.reason }} · joined {{ n.sections | join(', ') }}</p>
+    {% if n.samples %}<ul class="samples">{% for t in n.samples %}<li>{{ t }}</li>{% endfor %}</ul>{% endif %}
+    <pre><code>{{ n.yaml }}</code></pre>
+  </article>
+  {% endfor %}
+</section>
+{% endif %}
+</main>
+
+<footer class="wrap foot">
+  <p>{{ day.stats.shown }} stories from {{ day.stats.sources_ok }}/{{ day.stats.sources }} sources ({{ day.stats.items }} items fetched, {{ day.stats.stories }} unique stories in window).</p>
+  {% if day.problems %}
+  <details>
+    <summary>{{ day.problems | length }} source{{ 's' if day.problems | length != 1 }} failed or returned nothing</summary>
+    <ul class="problems">{% for p in day.problems %}<li><code>{{ p.id }}</code> {{ p.name }} — {{ p.error }}</li>{% endfor %}</ul>
+  </details>
+  {% endif %}
+</footer>
+<script src="{{ base }}app.js"></script>
+</body>
+</html>

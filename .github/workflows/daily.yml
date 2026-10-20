@@ -1,0 +1,62 @@
+name: Daily feeds
+
+on:
+  schedule:
+    # 00:00 UTC = 05:30 IST. GitHub may start scheduled runs 5–20 min late, so this
+    # leaves room for the page to be ready by 06:00 IST.
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # commit data/ (archive, seen list, discovered sources)
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-feeds
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Tests
+        run: python -m unittest discover tests
+
+      - name: Build feeds
+        run: python -m feeds build
+
+      - name: Commit data
+        run: |
+          git config user.name "daily-feeds-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if ! git diff --cached --quiet; then
+            git commit -m "data: $(TZ=Asia/Kolkata date +%F)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
