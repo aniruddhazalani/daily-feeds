@@ -100,7 +100,7 @@
 </main>
 
 <footer class="wrap foot">
-  <p>{{ day.stats.shown }} stories from {{ day.stats.sources_ok }}/{{ day.stats.sources }} sources ({{ day.stats.items }} items fetched, {{ day.stats.stories }} unique stories in window).</p>
+  <p>{{ day.stats.shown }} stories from {{ day.stats.sources_ok }}/{{ day.stats.sources }} sources ({{ day.stats["items"] }} items fetched, {{ day.stats.stories }} unique stories in window).</p>
   {% if day.problems %}
   <details>
     <summary>{{ day.problems | length }} source{{ 's' if day.problems | length != 1 }} failed or returned nothing</summary>
