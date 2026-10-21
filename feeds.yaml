@@ -159,7 +159,7 @@ sources:
   toi_india:        { type: rss, kind: news, name: Times of India, url: "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms" }
   india_today:      { type: rss, kind: news, name: India Today, url: "https://www.indiatoday.in/rss/1206578" }
   news18_politics:  { type: rss, kind: news, name: News18, url: "https://www.news18.com/rss/politics.xml", topical: true }
-  firstpost_india:  { type: rss, kind: news, name: Firstpost, url: "https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml" }
+  firstpost_india:  { type: rss, kind: news, name: Firstpost, url: "https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml", fallback: "site:firstpost.com/india" }
   republic:         { type: gnews, kind: news, name: Republic, query: "site:republicworld.com india" }
   opindia:          { type: rss, kind: news, name: OpIndia, url: "https://www.opindia.com/feed/", fallback: "site:opindia.com" }
   pioneer:          { type: gnews, kind: news, name: The Pioneer, query: "site:dailypioneer.com" }
