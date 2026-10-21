@@ -15,3 +15,48 @@ sources:
   - Data centres need protection from drone warfare
   - Zelenskyy, Europe and the end of Trump whispering
   - US rate rises are being amplified in global markets
+- id: disc_euronews_com
+  type: rss
+  url: https://www.euronews.com/rss
+  name: Euronews.com
+  sections:
+  - politics.world
+  kind: discovered
+  domain: euronews.com
+  reason: cited by FDD, UnHerd
+  added: '2026-10-21'
+  last_qualified: '2026-10-21'
+  samples:
+  - '''Time to make a deal,'' Trump tells Zelenskyy as he complains US has got ''nothing back'' from Ukraine'
+  - 'Investment summit: German government strikes AI deal with Nvidia'
+  - EU Parliament approves standard form for claiming refunds on disrupted travel
+- id: disc_kyivindependent_com
+  type: rss
+  url: https://kyivindependent.com/news-archive/rss/
+  name: The Kyiv Independent
+  sections:
+  - politics.world
+  kind: discovered
+  domain: kyivindependent.com
+  reason: cited by Phillips O'Brien, UnHerd
+  added: '2026-10-21'
+  last_qualified: '2026-10-21'
+  samples:
+  - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
+  - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
+  - Russian drones strike Kyiv hospital, injure 12 across the city
+- id: disc_federalregister_gov
+  type: rss
+  url: https://www.federalregister.gov/api/v1/documents.rss?conditions[sections][]=news&order=newest
+  name: Federal Register Documents published on or after 09/20/2026
+  sections:
+  - politics.world
+  kind: discovered
+  domain: federalregister.gov
+  reason: cited by Exponential View, FDD
+  added: '2026-10-21'
+  last_qualified: '2026-10-21'
+  samples:
+  - Submission for OMB Review; Comment Request
+  - Proposed Collection; Comment Request
+  - Small Vertical Shaft Engines From China; Determinations

@@ -19,6 +19,39 @@
     "source_id": "chinatalk"
    }
   ],
+  "aa.com.tr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-thaw-in-u-s-ethiopia-relations-has-gone-far-enough/",
+    "source_id": "fdd"
+   }
+  ],
+  "abc7chicago.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "abcnews.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/trump-has-triggered-the-ukrainian-endgame/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "abl.org.lb": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
+   }
+  ],
   "about.fb.com": [
    {
     "date": "2026-10-20",
@@ -62,6 +95,20 @@
     "source_id": "wisden"
    }
   ],
+  "adamsmith.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "adf-magazine.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
   "aeaweb.org": [
    {
     "date": "2026-10-20",
@@ -76,11 +123,53 @@
     "source_id": "phillips_obrien"
    }
   ],
+  "afintl.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/pakistan-taliban-border-clashes-continue-amid-diplomatic-efforts/",
+    "source_id": "fdd"
+   }
+  ],
+  "africa.businessinsider.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-thaw-in-u-s-ethiopia-relations-has-gone-far-enough/",
+    "source_id": "fdd"
+   }
+  ],
+  "africaupdates.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-thaw-in-u-s-ethiopia-relations-has-gone-far-enough/",
+    "source_id": "fdd"
+   }
+  ],
+  "afsa.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
+  "agda.ac.ae": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/how-the-us-can-help-the-gulf-states-build-economic-resilience",
+    "source_id": "national_interest"
+   }
+  ],
   "agentmail.to": [
    {
     "date": "2026-10-20",
     "post": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
     "source_id": "bens_bites"
+   }
+  ],
+  "agerpres.ro": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
    }
   ],
   "ai.engineer": [
@@ -119,6 +208,39 @@
     "source_id": "latent_space"
    }
   ],
+  "airpac.navy.mil": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-navy-received-first-c-130j-30-super-hercules-for-tacamo-transition-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
+  "al-monitor.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
+   }
+  ],
+  "aljadeed.tv": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-israel-can-turn-hezbollahs-blunder-into-lasting-defeat/",
+    "source_id": "fdd"
+   }
+  ],
+  "almodon.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
+   }
+  ],
   "already-clean.goodfire.com": [
    {
     "date": "2026-10-20",
@@ -131,11 +253,51 @@
     "source_id": "latent_space"
    }
   ],
+  "amazon.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "americanprogress.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "amnesty.org": [
    {
     "date": "2026-10-20",
     "post": "https://www.wisden.com/cricket-news/by-entering-the-apl-draft-english-players-have-chosen-to-associate-themselves-with-the-taliban",
     "source_id": "wisden"
+   }
+  ],
+  "amu.tv": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/pakistan-taliban-border-clashes-continue-amid-diplomatic-efforts/",
+    "source_id": "fdd"
+   }
+  ],
+  "amwaj.media": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
+   }
+  ],
+  "annahar.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
    }
   ],
   "ant-ling.com": [
@@ -152,11 +314,63 @@
     "source_id": "chinatalk"
    }
   ],
+  "arabnews.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-thaw-in-u-s-ethiopia-relations-has-gone-far-enough/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   }
+  ],
+  "archive.assafir.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
+   }
+  ],
   "archive.is": [
    {
     "date": "2026-10-20",
     "post": "https://rohanvenkat.substack.com/p/links-modis-grip-on-power-what-repression",
     "source_id": "india_inside_out"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "armedservices.house.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
+   }
+  ],
+  "armscontrolcenter.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/washington-reportedly-limits-funding-to-key-wmd-verification-agencies/",
+    "source_id": "fdd"
+   }
+  ],
+  "army.mil": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/its-official-fort-benning-going-nuclear-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
+  "arthurbrooks.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/i-turned-myself-into-an-ai-model",
+    "source_id": "free_press"
    }
   ],
   "artifactshub.ai": [
@@ -183,6 +397,13 @@
     "date": "2026-10-20",
     "post": "https://stratechery.com/2026/home-at-last/",
     "source_id": "stratechery"
+   }
+  ],
+  "asiasentinel.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/america-south-korea-practicing-removing-naval-mines-together-ps-102026",
+    "source_id": "national_interest"
    }
   ],
   "asml.com": [
@@ -216,6 +437,30 @@
     "date": "2026-10-20",
     "post": "https://stratechery.com/2026/do-you-trust-apple/",
     "source_id": "stratechery"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "bakerinstitute.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/how-the-us-can-help-the-gulf-states-build-economic-resilience",
+    "source_id": "national_interest"
+   }
+  ],
+  "baqiatollah.net": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
    }
   ],
   "barrett-jackson.com": [
@@ -230,6 +475,36 @@
     "date": "2026-10-20",
     "post": "https://www.wisden.com/cricket-news/by-entering-the-apl-draft-english-players-have-chosen-to-associate-themselves-with-the-taliban",
     "source_id": "wisden"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-is-britain-blocking-ai/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/the-doge-revolution-isnt-over/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/britains-teddy-bear-morality-paddington-winnie-the-pooh/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/bon-courage-to-the-french-protesters/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "bbc.com": [
@@ -252,6 +527,45 @@
     "date": "2026-10-20",
     "post": "https://www.wisden.com/cricket-features/sahibzadas-success-is-worth-savouring",
     "source_id": "wisden"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/why-isnt-america-giving-ukraine-missiles-it-paid-for-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/uks-flagship-aircraft-carrier-headed-somewhere-very-cold-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/a-dangerous-push-to-criminalize-sex/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/zohran-mamdanis-hollow-revolution/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "bdl.gov.lb": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
+   }
+  ],
+  "beirut24.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
+    "source_id": "fdd"
    }
   ],
   "bensbites.substack.com": [
@@ -273,11 +587,60 @@
     "source_id": "latent_space"
    }
   ],
+  "blackwells.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "blog.cosmos-institute.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/inside-the-anthropic-hq/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "blog.syzgroup.com": [
    {
     "date": "2026-10-20",
     "post": "https://tomtunguz.com/what-if-they-are-all-clouds/",
     "source_id": "tunguz"
+   }
+  ],
+  "bookshop.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/do-great-men-actually-matter-with",
+    "source_id": "free_press"
+   }
+  ],
+  "brandeiscenter.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/in_the_news/fdd-joins-brandeis-center-to-urge-federal-court-to-allow-disclosure-of-foreign-funders-of-u-s-universities/",
+    "source_id": "fdd"
+   }
+  ],
+  "britannica.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/douglas-murray-france-stares-down-riots",
+    "source_id": "free_press"
+   }
+  ],
+  "britishbeautycouncil.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "bsi.com.qa": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
    }
   ],
   "businessinsider.com": [
@@ -299,6 +662,11 @@
     "date": "2026-10-20",
     "post": "https://rohanvenkat.substack.com/p/links-modis-grip-on-power-what-repression",
     "source_id": "india_inside_out"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "camral.github.io": [
@@ -306,6 +674,13 @@
     "date": "2026-10-20",
     "post": "https://robohub.org/robot-talk-episode-166-evolving-robot-bodies-and-brains-with-rika-antonova/",
     "source_id": "robohub"
+   }
+  ],
+  "capitalfm.africa": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
    }
   ],
   "caravanmagazine.in": [
@@ -322,6 +697,13 @@
     "source_id": "airbnb_tech"
    }
   ],
+  "casebook.icrc.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-israel-can-turn-hezbollahs-blunder-into-lasting-defeat/",
+    "source_id": "fdd"
+   }
+  ],
   "cassandra.apache.org": [
    {
     "date": "2026-10-20",
@@ -329,11 +711,55 @@
     "source_id": "netflix_tech"
    }
   ],
+  "cbc.ca": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/meet-canadas-wild-west-secessionists/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "cbsnews.com": [
    {
     "date": "2026-10-20",
     "post": "https://phillipspobrien.substack.com/p/midweek-update-31-paying-the-price",
     "source_id": "phillips_obrien"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-israel-can-turn-hezbollahs-blunder-into-lasting-defeat/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/trumps-turn-toward-moscow-plus-paris-fires-douglas-murray",
+    "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/the-french-republic-is-under-attack",
+    "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/do-my-classmates-want-me-dead/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "cdc.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/the-anatomy-of-a-maga-smear-talarico-midterms-election",
+    "source_id": "free_press"
    }
   ],
   "census.gov": [
@@ -341,6 +767,13 @@
     "date": "2026-10-20",
     "post": "https://www.exponentialview.co/p/monday-data-who-won-the-trade-war",
     "source_id": "exponential_view"
+   }
+  ],
+  "cepa.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
    }
   ],
   "cerebralvalley.ai": [
@@ -371,6 +804,20 @@
     "source_id": "platformer"
    }
   ],
+  "citizensforethics.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "cityandstateny.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/a-dangerous-push-to-criminalize-sex/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "claude.ai": [
    {
     "date": "2026-10-20",
@@ -397,6 +844,43 @@
     "source_id": "simon_willison"
    }
   ],
+  "clearancejobs.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/america-south-korea-practicing-removing-naval-mines-together-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/uss-abraham-lincoln-has-new-home-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/its-official-fort-benning-going-nuclear-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/why-isnt-america-giving-ukraine-missiles-it-paid-for-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-air-force-spending-2-billion-bring-b-21-texas-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/uks-flagship-aircraft-carrier-headed-somewhere-very-cold-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-navy-received-first-c-130j-30-super-hercules-for-tacamo-transition-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
   "clydeco.com": [
    {
     "date": "2026-10-20",
@@ -414,6 +898,40 @@
     "date": "2026-10-20",
     "post": "https://tomtunguz.com/what-if-they-are-all-clouds/",
     "source_id": "tunguz"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/inside-the-anthropic-hq/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "cnews.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/the-french-republic-is-under-attack-democracy-tyranny-unrest",
+    "source_id": "free_press"
+   }
+  ],
+  "cnn.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "code.claude.com": [
@@ -421,6 +939,13 @@
     "date": "2026-10-21",
     "post": "https://simonwillison.net/2026/Oct/20/battledrones/",
     "source_id": "simon_willison"
+   }
+  ],
+  "coldwarhistory.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-navy-received-first-c-130j-30-super-hercules-for-tacamo-transition-ps-102026",
+    "source_id": "national_interest"
    }
   ],
   "colorfigures.vercel.app": [
@@ -437,6 +962,13 @@
     "source_id": "stratechery"
    }
   ],
+  "columbiaspectator.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/do-my-classmates-want-me-dead/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "congress.gov": [
    {
     "date": "2026-10-20",
@@ -449,11 +981,25 @@
     "source_id": "chinatalk"
    }
   ],
+  "conorfitzgerald.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "courtdocket.org": [
    {
     "date": "2026-10-20",
     "post": "https://www.platformer.news/openai-states-lawsuit-liability/",
     "source_id": "platformer"
+   }
+  ],
+  "cpreview.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/do-my-classmates-want-me-dead/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "craftai.world": [
@@ -522,6 +1068,20 @@
     "source_id": "stratechery"
    }
   ],
+  "darioamodei.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-is-britain-blocking-ai/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "data.1381.online": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "datacenters.atmeta.com": [
    {
     "date": "2026-10-20",
@@ -541,6 +1101,25 @@
     "date": "2026-10-20",
     "post": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
     "source_id": "stratechery"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "defenceukraine.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/why-isnt-america-giving-ukraine-missiles-it-paid-for-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
+  "demdigest.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
    }
   ],
   "developer.mozilla.org": [
@@ -562,6 +1141,25 @@
     "source_id": "simon_willison"
    }
   ],
+  "digitallibrary.un.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-israel-can-turn-hezbollahs-blunder-into-lasting-defeat/",
+    "source_id": "fdd"
+   }
+  ],
+  "diplomatie.gouv.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   }
+  ],
   "dithering.passport.online": [
    {
     "date": "2026-10-20",
@@ -576,11 +1174,44 @@
     "source_id": "meta_eng"
    }
   ],
+  "docs.un.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
+   }
+  ],
+  "dominiccummings.substack.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/brussels-will-destroy-andy-burnham/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "dumbmatter.com": [
    {
     "date": "2026-10-20",
     "post": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
     "source_id": "simon_willison"
+   }
+  ],
+  "dvidshub.net": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/america-south-korea-practicing-removing-naval-mines-together-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-air-force-spending-2-billion-bring-b-21-texas-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
+  "dyess.af.mil": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-air-force-spending-2-billion-bring-b-21-texas-ps-102026",
+    "source_id": "national_interest"
    }
   ],
   "dyna.co": [
@@ -597,11 +1228,44 @@
     "source_id": "latent_space"
    }
   ],
+  "ebsco.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
+   }
+  ],
   "ec26.sigecom.org": [
    {
     "date": "2026-10-20",
     "post": "https://netflixtechblog.com/measuring-the-impact-of-personalized-recommendations-4c26be3a4d96?source=rss----2615bd06b42e---4",
     "source_id": "netflix_tech"
+   }
+  ],
+  "ed.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/your-burning-questions-about-title-ix-cornell-7",
+    "source_id": "free_press"
+   }
+  ],
+  "edition.cnn.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/why-isnt-america-giving-ukraine-missiles-it-paid-for-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
+  "eeas.europa.eu": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/pakistan-taliban-border-clashes-continue-amid-diplomatic-efforts/",
+    "source_id": "fdd"
    }
   ],
   "electronicsweekly.com": [
@@ -618,6 +1282,53 @@
     "source_id": "simon_willison"
    }
   ],
+  "en.iz.ru": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
+  "en.mehrnews.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
+   }
+  ],
+  "energy.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/how-the-us-can-help-the-gulf-states-build-economic-resilience",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/nuclear-recycling-needs-new-technology-not-government-subsidies",
+    "source_id": "national_interest"
+   }
+  ],
+  "energycapitalhtx.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-is-britain-blocking-ai/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "english.adnkronos.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
+   }
+  ],
+  "english.alarabiya.net": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
   "entergy.com": [
    {
     "date": "2026-10-20",
@@ -630,6 +1341,32 @@
     "date": "2026-10-20",
     "post": "https://www.wisden.com/cricket-news/west-indies-ceo-hopes-for-more-womens-tests-after-ecb-funding-offer-chris-dehring",
     "source_id": "wisden"
+   }
+  ],
+  "esquire.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/sally-rooney-hates-novels-sarah-ditum",
+    "source_id": "free_press"
+   }
+  ],
+  "eur-lex.europa.eu": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
+   }
+  ],
+  "euronews.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/bon-courage-to-the-french-protesters/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "every.to": [
@@ -665,11 +1402,37 @@
     "source_id": "wisden"
    }
   ],
+  "fastcompany.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "fdd-new.cmail20.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/in_the_news/fdd-joins-brandeis-center-to-urge-federal-court-to-allow-disclosure-of-foreign-funders-of-u-s-universities/",
+    "source_id": "fdd"
+   }
+  ],
   "federalregister.gov": [
    {
     "date": "2026-10-20",
     "post": "https://www.exponentialview.co/p/monday-data-who-won-the-trade-war",
     "source_id": "exponential_view"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/washington-reportedly-limits-funding-to-key-wmd-verification-agencies/",
+    "source_id": "fdd"
+   }
+  ],
+  "fee.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/brussels-will-destroy-andy-burnham/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "feeds.npr.org": [
@@ -684,6 +1447,18 @@
     "date": "2026-10-20",
     "post": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
     "source_id": "bens_bites"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/inside-the-anthropic-hq/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "financialpost.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
    }
   ],
   "flink.apache.org": [
@@ -693,6 +1468,13 @@
     "source_id": "netflix_tech"
    }
   ],
+  "flow.db.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "fly.io": [
    {
     "date": "2026-10-21",
@@ -700,11 +1482,72 @@
     "source_id": "simon_willison"
    }
   ],
+  "forbes.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/america-south-korea-practicing-removing-naval-mines-together-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/uss-abraham-lincoln-has-new-home-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/its-official-fort-benning-going-nuclear-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/why-isnt-america-giving-ukraine-missiles-it-paid-for-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-air-force-spending-2-billion-bring-b-21-texas-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/uks-flagship-aircraft-carrier-headed-somewhere-very-cold-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-navy-received-first-c-130j-30-super-hercules-for-tacamo-transition-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "fortune.com": [
    {
     "date": "2026-10-20",
     "post": "https://www.platformer.news/openai-states-lawsuit-liability/",
     "source_id": "platformer"
+   }
+  ],
+  "foxnews.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "france24.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
    }
   ],
   "frbsf.org": [
@@ -743,6 +1586,20 @@
     "source_id": "simon_willison"
    }
   ],
+  "genevasolutions.news": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
+   }
+  ],
+  "geograph.org.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "geosuper.tv": [
    {
     "date": "2026-10-20",
@@ -771,6 +1628,20 @@
     "source_id": "netflix_tech"
    }
   ],
+  "globalnews.ca": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/this-week-in-canada-breaking-up-is-hard-to-do",
+    "source_id": "free_press"
+   }
+  ],
+  "globaltrademag.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/how-the-us-can-help-the-gulf-states-build-economic-resilience",
+    "source_id": "national_interest"
+   }
+  ],
   "goat.passport.online": [
    {
     "date": "2026-10-20",
@@ -778,11 +1649,46 @@
     "source_id": "stratechery"
    }
   ],
+  "gomo.army.mil": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/its-official-fort-benning-going-nuclear-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
   "goodreads.com": [
    {
     "date": "2026-10-20",
     "post": "https://www.commoditycontext.com/p/ocw42w26",
     "source_id": "commodity_context"
+   }
+  ],
+  "gov.il": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-israel-can-turn-hezbollahs-blunder-into-lasting-defeat/",
+    "source_id": "fdd"
+   }
+  ],
+  "gov.scot": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "gov.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "govinfo.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/tyler-cowen-elizabeth-holmes",
+    "source_id": "free_press"
    }
   ],
   "gulfnews.com": [
@@ -806,11 +1712,32 @@
     "source_id": "phillips_obrien"
    }
   ],
+  "historylink.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "hollywoodreporter.com": [
    {
     "date": "2026-10-20",
     "post": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
     "source_id": "stratechery"
+   }
+  ],
+  "horninstitute.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
+   }
+  ],
+  "hotnews.ro": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
    }
   ],
   "houseofstrauss.com": [
@@ -837,6 +1764,34 @@
     "source_id": "latent_space"
    }
   ],
+  "i24news.tv": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
+   }
+  ],
+  "iaea.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/washington-reportedly-limits-funding-to-key-wmd-verification-agencies/",
+    "source_id": "fdd"
+   }
+  ],
+  "iapps.courts.state.ny.us": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/a-dangerous-push-to-criminalize-sex/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "id.elsevier.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/the-british-grannies-going-to-turkey-for-sex/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "idealab.ai": [
    {
     "date": "2026-10-20",
@@ -858,6 +1813,13 @@
     "source_id": "chinatalk"
    }
   ],
+  "igad.int": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-thaw-in-u-s-ethiopia-relations-has-gone-far-enough/",
+    "source_id": "fdd"
+   }
+  ],
   "ign.com": [
    {
     "date": "2026-10-21",
@@ -870,6 +1832,13 @@
     "date": "2026-10-20",
     "post": "https://www.wisden.com/series/odi-tri-series-in-uae-2026/cricket-news/why-a-dropped-towel-saved-a-zimbabwe-batter-brian-bennett-from-dismissal",
     "source_id": "wisden"
+   }
+  ],
+  "imdb.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "imfconnect.org": [
@@ -893,11 +1862,46 @@
     "source_id": "bens_bites"
    }
   ],
+  "info-res.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
+  "information.tv5monde.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
+   }
+  ],
+  "inkandquill.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "interconnect.substack.com": [
    {
     "date": "2026-10-20",
     "post": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
     "source_id": "interconnects"
+   }
+  ],
+  "interfax.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
+  "interieur.gouv.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
    }
   ],
   "investmentbrief.ai": [
@@ -919,11 +1923,32 @@
     "source_id": "semianalysis"
    }
   ],
+  "islingtontribune.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "israelpolicyforum.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/the-violent-settlers-bringing-shame",
+    "source_id": "free_press"
+   }
+  ],
   "issta.org": [
    {
     "date": "2026-10-20",
     "post": "https://engineering.fb.com/2026/10/15/developer-tools/sapienz-issta-2026-impact-paper-award-meta/",
     "source_id": "meta_eng"
+   }
+  ],
+  "jamestown.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
    }
   ],
   "jasonma2016.github.io": [
@@ -938,6 +1963,27 @@
     "date": "2026-10-20",
     "post": "https://netflixtechblog.com/behind-the-scenes-evolving-netflixs-ads-event-pipeline-for-live-part-ii-826ebf9ad9fb?source=rss----2615bd06b42e---4",
     "source_id": "netflix_tech"
+   }
+  ],
+  "jpmorgan.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "jstor.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "kabulnow.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/pakistan-taliban-border-clashes-continue-amid-diplomatic-efforts/",
+    "source_id": "fdd"
    }
   ],
   "kafka.apache.org": [
@@ -961,11 +2007,37 @@
     "source_id": "exponential_view"
    }
   ],
+  "klyszcz.substack.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
   "kyivindependent.com": [
    {
     "date": "2026-10-20",
     "post": "https://phillipspobrien.substack.com/p/weekend-update-207-the-us-russia",
     "source_id": "phillips_obrien"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/trump-has-triggered-the-ukrainian-endgame/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "labour.org.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/surprise-britains-right-wing-budget/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "latribune.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
    }
   ],
   "lawsuitinformer.com": [
@@ -996,11 +2068,73 @@
     "source_id": "latent_space"
    }
   ],
+  "lebanonlaws.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
+   }
+  ],
+  "lemonde.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-thaw-in-u-s-ethiopia-relations-has-gone-far-enough/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
+   }
+  ],
+  "leparisien.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/the-french-republic-is-under-attack-democracy-tyranny-unrest",
+    "source_id": "free_press"
+   }
+  ],
+  "lithub.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/sally-rooney-hates-novels-sarah-ditum",
+    "source_id": "free_press"
+   }
+  ],
   "lobste.rs": [
    {
     "date": "2026-10-20",
     "post": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
     "source_id": "simon_willison"
+   }
+  ],
+  "longwarjournal.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/pakistan-taliban-border-clashes-continue-amid-diplomatic-efforts/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-israel-can-turn-hezbollahs-blunder-into-lasting-defeat/",
+    "source_id": "fdd"
+   }
+  ],
+  "lrb.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/brussels-will-destroy-andy-burnham/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "magicpatterns.com": [
@@ -1017,11 +2151,46 @@
     "source_id": "stratechery"
    }
   ],
+  "marinelink.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
+   }
+  ],
+  "marketwatch.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "marxists.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "mediaite.com": [
    {
     "date": "2026-10-20",
     "post": "https://phillipspobrien.substack.com/p/weekend-update-207-the-us-russia",
     "source_id": "phillips_obrien"
+   }
+  ],
+  "meforum.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-thaw-in-u-s-ethiopia-relations-has-gone-far-enough/",
+    "source_id": "fdd"
+   }
+  ],
+  "melenchon.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
    }
   ],
   "meta.com": [
@@ -1038,11 +2207,46 @@
     "source_id": "phillips_obrien"
    }
   ],
+  "mickryan.substack.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/can-ukraine-win-war-with-russia-without-america-putin-trump",
+    "source_id": "free_press"
+   }
+  ],
   "microsoft.ai": [
    {
     "date": "2026-10-20",
     "post": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
     "source_id": "interconnects"
+   }
+  ],
+  "middleeasteye.net": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
+   }
+  ],
+  "middleeastmonitor.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
+   }
+  ],
+  "migflug.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
+   }
+  ],
+  "millingmea.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
    }
   ],
   "mimo.xiaomi.com": [
@@ -1052,11 +2256,46 @@
     "source_id": "interconnects"
    }
   ],
+  "mofa.gov.qa": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
+    "source_id": "fdd"
+   }
+  ],
+  "monde-diplomatique.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/bon-courage-to-the-french-protesters/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "motherjones.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "ms.now": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "napier.ac.uk": [
    {
     "date": "2026-10-20",
     "post": "https://www.chinatalk.media/p/saif-khan-the-case-for-duv-controls",
     "source_id": "chinatalk"
+   }
+  ],
+  "nato.int": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
    }
   ],
   "nature.com": [
@@ -1066,11 +2305,23 @@
     "source_id": "meta_eng"
    }
   ],
+  "navy.mil": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/uss-abraham-lincoln-has-new-home-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
   "nbcnews.com": [
    {
     "date": "2026-10-20",
     "post": "https://www.platformer.news/openai-states-lawsuit-liability/",
     "source_id": "platformer"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "nber.org": [
@@ -1078,6 +2329,20 @@
     "date": "2026-10-20",
     "post": "https://libertystreeteconomics.newyorkfed.org/2026/10/has-the-ai-boom-impacted-the-u-s-current-account/",
     "source_id": "liberty_street"
+   }
+  ],
+  "neimagazine.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
+  "nemetona.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "netflix.com": [
@@ -1106,11 +2371,69 @@
     "source_id": "netflix_tech"
    }
   ],
+  "news.clearancejobs.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/america-south-korea-practicing-removing-naval-mines-together-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/uss-abraham-lincoln-has-new-home-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/its-official-fort-benning-going-nuclear-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/why-isnt-america-giving-ukraine-missiles-it-paid-for-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-air-force-spending-2-billion-bring-b-21-texas-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/uks-flagship-aircraft-carrier-headed-somewhere-very-cold-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-navy-received-first-c-130j-30-super-hercules-for-tacamo-transition-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
+  "news.lockheedmartin.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-navy-received-first-c-130j-30-super-hercules-for-tacamo-transition-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
   "news.mit.edu": [
    {
     "date": "2026-10-20",
     "post": "https://robohub.org/powered-by-muscle-cells-a-paper-thin-robot-swims-through-watery-maze/",
     "source_id": "robohub"
+   }
+  ],
+  "news.sbs.co.kr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/how-the-us-can-help-the-gulf-states-build-economic-resilience",
+    "source_id": "national_interest"
+   }
+  ],
+  "news.sky.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "news.smol.ai": [
@@ -1145,6 +2468,25 @@
     "source_id": "latent_space"
    }
   ],
+  "news.un.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/britains-teddy-bear-morality-paddington-winnie-the-pooh/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "news.usni.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/america-south-korea-practicing-removing-naval-mines-together-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
   "news.ycombinator.com": [
    {
     "date": "2026-10-20",
@@ -1167,11 +2509,44 @@
     "source_id": "simon_willison"
    }
   ],
+  "newscentraltv.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
+  "newsday.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/zohran-mamdanis-hollow-revolution/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "newslaundry.com": [
    {
     "date": "2026-10-20",
     "post": "https://rohanvenkat.substack.com/p/links-modis-grip-on-power-what-repression",
     "source_id": "india_inside_out"
+   }
+  ],
+  "newstatesman.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/sally-rooney-hates-novels-sarah-ditum",
+    "source_id": "free_press"
+   }
+  ],
+  "newyorker.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "newyorkfed.org": [
@@ -1191,6 +2566,27 @@
     "date": "2026-10-20",
     "post": "https://www.chinatalk.media/p/why-a-chinese-ai-labs-product-lead",
     "source_id": "chinatalk"
+   }
+  ],
+  "nidaalwatan.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanon-revokes-iranian-banks-license-amid-us-pressure-over-hezbollah-financing/",
+    "source_id": "fdd"
+   }
+  ],
+  "northropgrumman.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/us-navy-received-first-c-130j-30-super-hercules-for-tacamo-transition-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
+  "noticiascaracol.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/terror-groups-are-handing-venezuelas-critical-minerals-over-to-china/",
+    "source_id": "fdd"
    }
   ],
   "notion.com": [
@@ -1215,6 +2611,30 @@
     "date": "2026-10-21",
     "post": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
     "source_id": "interconnects"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/how-the-us-can-help-the-gulf-states-build-economic-resilience",
+    "source_id": "national_interest"
+   }
+  ],
+  "nrc.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/its-official-fort-benning-going-nuclear-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
+  "nsa.gov.iq": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
    }
   ],
   "nvidia.com": [
@@ -1224,11 +2644,53 @@
     "source_id": "meta_eng"
    }
   ],
+  "nyc.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/zohran-mamdanis-hollow-revolution/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "nydailynews.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/zohran-mamdanis-hollow-revolution/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "odessa-journal.com": [
    {
     "date": "2026-10-20",
     "post": "https://phillipspobrien.substack.com/p/weekend-update-207-the-us-russia",
     "source_id": "phillips_obrien"
+   }
+  ],
+  "oecdedutoday.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/what-liberals-get-wrong-about-social-media/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "ofac.treasury.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
+   }
+  ],
+  "omvpetrom.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
+   }
+  ],
+  "opcw.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/washington-reportedly-limits-funding-to-key-wmd-verification-agencies/",
+    "source_id": "fdd"
    }
   ],
   "opencompute.org": [
@@ -1266,6 +2728,13 @@
     "source_id": "latent_space"
    }
   ],
+  "pakistantoday.com.pk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
+   }
+  ],
   "paperinstruments.com": [
    {
     "date": "2026-10-20",
@@ -1287,11 +2756,49 @@
     "source_id": "latent_space"
    }
   ],
+  "pbs.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/the-doge-revolution-isnt-over/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "peacekeeping.un.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   }
+  ],
   "penguinrandomhouse.com": [
    {
     "date": "2026-10-20",
     "post": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
     "source_id": "stratechery"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/what-liberals-get-wrong-about-social-media/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "people.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/tyler-cowen-elizabeth-holmes",
+    "source_id": "free_press"
+   }
+  ],
+  "pina.com.fj": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
    }
   ],
   "pisanchynlawfirm.com": [
@@ -1325,11 +2832,56 @@
     "source_id": "chinatalk"
    }
   ],
+  "politico.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/zohran-mamdanis-hollow-revolution/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/the-diplomat-dividing-trump-world/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "politico.eu": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
+   }
+  ],
   "popcar.bearblog.dev": [
    {
     "date": "2026-10-20",
     "post": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games/",
     "source_id": "simon_willison"
+   }
+  ],
+  "presidency.gov.lb": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   }
+  ],
+  "press.un.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
+   }
+  ],
+  "presstv.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
    }
   ],
   "preview.redd.it": [
@@ -1344,11 +2896,46 @@
     "source_id": "latent_space"
    }
   ],
+  "progressive.international": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/bon-courage-to-the-french-protesters/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "project-syndicate.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/bon-courage-to-the-french-protesters/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "promontrose.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "propublica.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "prosperiti.substack.com": [
    {
     "date": "2026-10-20",
     "post": "https://rohanvenkat.substack.com/p/links-modis-grip-on-power-what-repression",
     "source_id": "india_inside_out"
+   }
+  ],
+  "psbooks.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "public-inspection.federalregister.gov": [
@@ -1365,11 +2952,25 @@
     "source_id": "meta_eng"
    }
   ],
+  "qatarfund.org.qa": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
+    "source_id": "fdd"
+   }
+  ],
   "qna.org.qa": [
    {
     "date": "2026-10-20",
     "post": "https://phillipspobrien.substack.com/p/midweek-update-31-paying-the-price",
     "source_id": "phillips_obrien"
+   }
+  ],
+  "radiantnuclear.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/its-official-fort-benning-going-nuclear-ps-102026",
+    "source_id": "national_interest"
    }
   ],
   "ramp.com": [
@@ -1387,6 +2988,13 @@
     "date": "2026-10-20",
     "post": "https://tomtunguz.com/what-if-they-are-all-clouds/",
     "source_id": "tunguz"
+   }
+  ],
+  "realclearpolling.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/texas-ken-paxton-james-talarico",
+    "source_id": "free_press"
    }
   ],
   "recursion.com": [
@@ -1453,11 +3061,65 @@
     "source_id": "interconnects"
    }
   ],
+  "reutersconnect.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
+   }
+  ],
   "rferl.org": [
    {
     "date": "2026-10-20",
     "post": "https://phillipspobrien.substack.com/p/weekend-update-207-the-us-russia",
     "source_id": "phillips_obrien"
+   }
+  ],
+  "ribbonfarm.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/inside-the-anthropic-hq/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "romania-insider.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
+   }
+  ],
+  "romania.europalibera.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
+   }
+  ],
+  "royalnavy.mod.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/uks-flagship-aircraft-carrier-headed-somewhere-very-cold-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
+  "rtl.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/the-french-republic-is-under-attack-democracy-tyranny-unrest",
+    "source_id": "free_press"
+   }
+  ],
+  "rudaw.net": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
    }
   ],
   "s206.q4cdn.com": [
@@ -1500,6 +3162,13 @@
     "date": "2026-10-20",
     "post": "https://rohanvenkat.substack.com/p/links-modis-grip-on-power-what-repression",
     "source_id": "india_inside_out"
+   }
+  ],
+  "seapower.navy.gov.au": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/america-south-korea-practicing-removing-naval-mines-together-ps-102026",
+    "source_id": "national_interest"
    }
   ],
   "sec.gov": [
@@ -1545,6 +3214,13 @@
     "date": "2026-10-20",
     "post": "https://www.platformer.news/openai-states-lawsuit-liability/",
     "source_id": "platformer"
+   }
+  ],
+  "shaheen.senate.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
+    "source_id": "fdd"
    }
   ],
   "sharpchina.fm": [
@@ -1606,11 +3282,59 @@
     "source_id": "simon_willison"
    }
   ],
+  "smithsresearch.net": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
+   }
+  ],
+  "sosorinoco.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/terror-groups-are-handing-venezuelas-critical-minerals-over-to-china/",
+    "source_id": "fdd"
+   }
+  ],
   "startupfortune.com": [
    {
     "date": "2026-10-20",
     "post": "https://www.newcomer.co/p/investors-turn-on-data-center-builders",
     "source_id": "newcomer"
+   }
+  ],
+  "state.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-thaw-in-u-s-ethiopia-relations-has-gone-far-enough/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/washington-reportedly-limits-funding-to-key-wmd-verification-agencies/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/terror-groups-are-handing-venezuelas-critical-minerals-over-to-china/",
+    "source_id": "fdd"
+   }
+  ],
+  "stateline.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "stats.cricinfo.com": [
@@ -1637,6 +3361,27 @@
     "date": "2026-10-20",
     "post": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
     "source_id": "latent_space"
+   }
+  ],
+  "sudantribune.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
+  "sudradio.fr": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
+   }
+  ],
+  "sundial-cu.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/do-my-classmates-want-me-dead/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "sunshowers.io": [
@@ -1678,6 +3423,13 @@
     "source_id": "latent_space"
    }
   ],
+  "supreme.justia.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/a-dangerous-push-to-criminalize-sex/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "tapmad.com": [
    {
     "date": "2026-10-20",
@@ -1688,6 +3440,13 @@
     "date": "2026-10-20",
     "post": "https://www.wisden.com/series/odi-tri-series-in-uae-2026/cricket-news/afghanistan-tri-series-2026-all-you-need-to-know-full-schedule-squads-venues-and-live-streaming-details-zimbabwe-bangladesh",
     "source_id": "wisden"
+   }
+  ],
+  "tass.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
    }
   ],
   "techstatecraft.org": [
@@ -1702,11 +3461,86 @@
     "source_id": "chinatalk"
    }
   ],
+  "tehrantimes.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
+   }
+  ],
   "telegraph.co.uk": [
    {
     "date": "2026-10-20",
     "post": "https://phillipspobrien.substack.com/p/weekend-update-207-the-us-russia",
     "source_id": "phillips_obrien"
+   }
+  ],
+  "theamargi.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
+   }
+  ],
+  "theatlantic.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/mamdani-the-moderate-liel-leibovitz",
+    "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "thebristolcable.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "thecourier.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "thecritic.co.uk": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "thedefensepost.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
+  "thedublinreview.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/sally-rooney-hates-novels-sarah-ditum",
+    "source_id": "free_press"
+   }
+  ],
+  "thefinanceworld.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "theglobeandmail.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/meet-canadas-wild-west-secessionists/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "thehill.com": [
@@ -1723,6 +3557,13 @@
     "source_id": "semianalysis"
    }
   ],
+  "thelocal.se": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/america-south-korea-practicing-removing-naval-mines-together-ps-102026",
+    "source_id": "national_interest"
+   }
+  ],
   "thenewcomers.eu": [
    {
     "date": "2026-10-20",
@@ -1730,11 +3571,47 @@
     "source_id": "chinatalk"
    }
   ],
+  "thenewhumanitarian.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
+    "source_id": "fdd"
+   }
+  ],
+  "thenewregion.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
+   }
+  ],
   "thestreet.com": [
    {
     "date": "2026-10-20",
     "post": "https://tomtunguz.com/what-if-they-are-all-clouds/",
     "source_id": "tunguz"
+   }
+  ],
+  "thetimes.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/sally-rooney-hates-novels-sarah-ditum",
+    "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-is-britain-blocking-ai/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/how-beauticians-took-over-the-high-street/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "theverge.com": [
@@ -1758,11 +3635,30 @@
     "source_id": "platformer"
    }
   ],
+  "time.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "timesofindia.indiatimes.com": [
    {
     "date": "2026-10-20",
     "post": "https://www.wisden.com/series/india-vs-new-zealand-m-2026/cricket-news/why-india-prioritising-test-cricket-with-the-2027-odi-world-cup-approaching",
     "source_id": "wisden"
+   }
+  ],
+  "timesofisrael.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/the-violent-settlers-bringing-shame",
+    "source_id": "free_press"
    }
   ],
   "tkogrp.com": [
@@ -1779,6 +3675,20 @@
     "source_id": "wisden"
    }
   ],
+  "today.lorientlejour.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
+    "source_id": "fdd"
+   }
+  ],
+  "tompkinscountyny.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/a-dangerous-push-to-criminalize-sex/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "toolin.ai": [
    {
     "date": "2026-10-20",
@@ -1786,11 +3696,42 @@
     "source_id": "chinatalk"
    }
   ],
+  "tradingeconomics.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/douglas-murray-france-stares-down-riots",
+    "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
+   }
+  ],
   "tribune.com.pk": [
    {
     "date": "2026-10-20",
     "post": "https://www.wisden.com/cricket-features/sahibzadas-success-is-worth-savouring",
     "source_id": "wisden"
+   }
+  ],
+  "truthsocial.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/buzz/why-isnt-america-giving-ukraine-missiles-it-paid-for-ps-102026",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "tsa-algerie.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
+    "source_id": "fdd"
    }
   ],
   "typesafe.ai": [
@@ -1833,6 +3774,48 @@
     "source_id": "wisden"
    }
   ],
+  "unifil.unmissions.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   }
+  ],
+  "unitar.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
+   }
+  ],
+  "unsco.unmissions.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/lebanons-call-for-another-extension-of-unifils-mandate-wont-end-hezbollahs-threat/",
+    "source_id": "fdd"
+   }
+  ],
+  "users": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/iran-says-it-has-agreement-with-iraq-to-expel-kurdish-iranian-opposition-groups/",
+    "source_id": "fdd"
+   }
+  ],
+  "usun.usmission.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/un-provides-expansionist-russia-with-a-platform-to-condemn-colonialism/",
+    "source_id": "fdd"
+   }
+  ],
+  "utilitydive.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/nuclear-recycling-needs-new-technology-not-government-subsidies",
+    "source_id": "national_interest"
+   }
+  ],
   "uzu.run": [
    {
     "date": "2026-10-20",
@@ -1861,11 +3844,32 @@
     "source_id": "stratechery"
    }
   ],
+  "vienna.usmission.gov": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/washington-reportedly-limits-funding-to-key-wmd-verification-agencies/",
+    "source_id": "fdd"
+   }
+  ],
+  "visionofhumanity.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
   "visitbarbados.org": [
    {
     "date": "2026-10-20",
     "post": "https://www.wisden.com/cricket-news/cricket-culture-and-caribbean-flavour-why-barbados-belongs-on-every-cricket-fans-travel-list",
     "source_id": "wisden"
+   }
+  ],
+  "voanews.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/the-thaw-in-u-s-ethiopia-relations-has-gone-far-enough/",
+    "source_id": "fdd"
    }
   ],
   "w3.org": [
@@ -1887,6 +3891,31 @@
     "date": "2026-10-20",
     "post": "https://www.newcomer.co/p/investors-turn-on-data-center-builders",
     "source_id": "newcomer"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/washington-reportedly-limits-funding-to-key-wmd-verification-agencies/",
+    "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://www.thefp.com/p/the-french-republic-is-under-attack",
+    "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "weather.com": [
@@ -1906,6 +3935,11 @@
     "date": "2026-10-20",
     "post": "https://phillipspobrien.substack.com/p/trump-protects-putin-from-graham",
     "source_id": "phillips_obrien"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "windiescricket.com": [
@@ -1915,11 +3949,37 @@
     "source_id": "wisden"
    }
   ],
+  "wired.com": [
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/inside-the-anthropic-hq/?edition=us",
+    "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-21",
+    "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "wmegrp.com": [
    {
     "date": "2026-10-20",
     "post": "https://stratechery.com/2026/a-conversation-with-ari-emanuel-about-entertainment-and-ai/",
     "source_id": "stratechery"
+   }
+  ],
+  "world-nuclear-news.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-russia-is-eclipsing-the-u-s-in-africa/",
+    "source_id": "fdd"
+   }
+  ],
+  "worldports.org": [
+   {
+    "date": "2026-10-21",
+    "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
+    "source_id": "national_interest"
    }
   ],
   "wsj.com": [
@@ -1932,6 +3992,13 @@
     "date": "2026-10-20",
     "post": "https://www.platformer.news/openai-states-lawsuit-liability/",
     "source_id": "platformer"
+   }
+  ],
+  "www.idf.il": [
+   {
+    "date": "2026-10-21",
+    "post": "https://www.fdd.org/analysis/how-israel-can-turn-hezbollahs-blunder-into-lasting-defeat/",
+    "source_id": "fdd"
    }
   ],
   "x.ai": [
@@ -2066,6 +4133,15 @@
     ],
     "title": "Wife of active-duty Army sergeant deported amid Trump's immigration campaign",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdC1SM3pfUXZCTG5rNi0xQ1A3c0pYYlJRVXVGcmRQR2o5OFd0cWs3Y3RCWDlDTlIxNG5JeW5XQ1RpQ2cxQWxGQ1dfNVd3WU8tYlhickRMNl9GdWVZV3h3d2g1andGNVhPWW50THphemI5NnZsMFdCOFFLc2IzczdPTHFZUVVuU1I2VVptaEIySFA4ZThMLTJxTzNVeHNVOVZjN1d3TlBxdHFTWjJoRkHSAbMBQVVfeXFMTWFZSmM1djlDczRxMWxEMUJsR3FUUVZGOGQ3b3BNbTdtN1ZMTTR6SzlwUkM4cVFXQ0xnVE9hV0NvcGU2UzFwM0NDT1FaS2RXR0ZCZC1rNmZ6MEp5a296Q1FzYlUxMGlQVlRsYVFtVWdabXRCUDRLZExLRXFSS1NxNUc4UHZPcTBrR1ZYZG80V1hqOUNxd0pTTVluMm12dC1zbnU0OXdRaXFWUE9IYWhYcTYtSms?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "ABC News - Breaking News, Latest News and Videos",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "Federal debt tops $40 trillion. Here's what it means for your wallet",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5"
    }
   ],
   "actionforex.com": [
@@ -2445,6 +4521,24 @@
     ],
     "title": "Sources - Rams signing free agent kicker Brandon McManus",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONlJoeFlTRmhJbXdpbGdHeFVqaFBpVEZUU2cxTDRFN3J3NE15aXN6Q082ZGZVS2FfRlBQNUZpU2ttMUNHSzN4ZHpTZHFqeHZFRTJ5RkltQ0xJZEZRQnRFLUV1bDVmQUZzTzAtVTRka2w5Q3NVN19ZT2hlSXYta3V6d0p4dzV6cUZ3RktadDRGMHRGN2FfTHhIM1NXbEtnOWhXSkV6WQ?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Kon Knueppel, Coby White out for Hornets' season opener",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMkMwOUR0djRqdUh6UzU2S1lLTy1sUWcweGFuNlhHNnNnVlhZc0RJTGdkS0xPamdCV3V1RFFMRElaUXhBUFk4dXdydHo4NUliM0NpQTAxaVlLRzZmZ3pIY0VRVFF4UmdoTFVGWHhYNjF0SkNRYTNpaUZZMVl1UjI3Q1BPNWRvYmNJUGVZMGFaTXRQSXVRc0pwdEVtd29sZE44Umc?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Mike Evans unable to finish 49ers' win, exits with Achilles soreness",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTlFsRWxpdk1uQlFqUlYzZ2lzSVVlZUY0ZUZrWXNwV0E3ZHBxQ3ctNTBSMXhDTDhPVUJUVFZwaVVOTlpXeVdaeTYyTDczcUFVMnpKVm5HVV9VVUR0ckFQVGFreXdzdldwY0tDMzRjLUVrckp2TkxqNllLS2VNZVlPcWlsZ3lfUmRiZkk0SmszQXN5cHM?oc=5"
    }
   ],
   "agbi.com": [
@@ -2956,6 +5050,15 @@
     ],
     "title": "Battery swap and fast charge race to boost humanoid uptime, McKinsey says - CHOSUNBIZ",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdWFqMVR5SFlfXzN6aDRZLUFCcnNVOHVrbTVaenhVc2VKZ3A0LTdEWDJVWjYzZHFRdFp0MXpnY0VDVFBkQVZVbTJDOUlNaDloamp4T1g4NDJRU2ZyaGNKeWNSN2V2SUlubEtSNFN6Z29GWXRjOG02eHRidzgwczAzQXJn0gGWAUFVX3lxTE1BNHdOa2VQemo5aWhIRjFWN0lCUW1weXZhZFU5SmxqX3pkdndQb0N5b25MZ3EzYWljWG51Q2ZDLUlCMFZrMXp2TmtKVmM4NDVnb2RVbGttQmNDZnFfRmFKYmdaY0d6dF9sYkt4VWZNSTRYeUJub2hYSzdjcGIxclZScVZMWW94NzZ2Y1pZYWx0ck1mTjQ2UQ?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Chosunbiz",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Battery swap and fast charge race to boost humanoid uptime, McKinsey says - CHOSUNBIZ",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQTR3TmtlUHpqOWloSEYxVjdJQlFtcHl2YWRVOUpsal96ZHZ3UG9DeW9uTGdxM2FpY1hudUNmQy1JQjBWazF6dk5rSlZjODQ1Z29kVWxrbUJjQ2ZxX0ZhSmJnWmNHenRfbGJLeFVmTUk0WHlCbm9oWEs3Y3BiMXJWUnFWTFlveDc2dmNaWWFsdHJNZk40NlHSAZYBQVVfeXFMTUE0d05rZVB6ajlpaEhGMVY3SUJRbXB5dmFkVTlKbGpfemR2d1BvQ3lvbkxncTNhaWNYbnVDZkMtSUIwVmsxenZOa0pWYzg0NWdvZFVsa21CY0NmcV9GYUpiZ1pjR3p0X2xiS3hVZk1JNFh5Qm5vaFhLN2NwYjFyVlJxVkxZb3g3NnZjWllhbHRyTWZONDZR?oc=5"
    }
   ],
   "bizjournals.com": [
@@ -3058,6 +5161,15 @@
     ],
     "title": "Exclusive: Trump to Tout \u2018America First\u2019 Immigration Victories in North Carolina, Highlighting Arrests of Sex Offenders, Child Abusers",
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOZVNGQld4MnNFa09Md3kxUTA0TkVzcEJwa3IwNDB6aDNoTFF4ZktNTWs3Xy14eENlbldhTU5KMF9RcGtEa081OFhNY25uUnpiaHZSMjZxaW5lLVFBT19PMVhmZVFIVTdPa1FuU3pCQ1FBX3hFLXVLXzl3eDN5YkhhbUVvMVRkSnRwdDRucWNHblQ5VFlrM3lOUXUyUzF5NnpaSTVZbEpBOU04ejBFdHVpT1BHblBYZ0ZvV3RaMGgxYUQ1UHg2eUFPeU9ZRDZXQ2F0ZGZqY21STkVRMk5RU0o1Zi1MMkxsTWhEZW9CS3Zxa0wta2ZjNmdN0gH3AUFVX3lxTE5lU0ZCV3gyc0VrT0x3eTFRMDRORXNwQnBrcjA0MHpoM2hMUXhmS01NazdfLXh4Q2VuV2FNTkowX1Fwa0RrTzU4WE1jbm5SemJodlIyNnFpbmUtUUFPX08xWGZlUUhVN09rUW5TekJDUUFfeEUtdUtfOXd4M3liSGFtRW8xVGRKdHB0NG5xY0duVDlUWWszeU5RdTJTMXk2elpJNVlsSkE5TTh6MEV0dWlPUEduUFhnRm9XdFowaDFhRDVQeDZ5QU95T1lENldDYXRkZmpjbVJORVEyTlFTSjVmLUwyTGxNaERlb0JLdnFrTC1rZmM2Z00?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Breitbart News",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "DHS: Ukrainians, Sudanese remain shielded from deportation for now",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY2hXNE9BcFlJckx5aWhZV3dvSUJ1MENCWENHZWFIeG1QeEpfanFUb3lneFdnTlNGbjlUSVRVeFNQVF9QRGt0V0xRbnplUHAwdURVVllKVHNla2VWY2ZmOXdGT0JLZ0FCM2I2SXE2dlcxc2pSZ2U5UEkzVUNpSHp4M05UZmwwSWVRQ1F0bTdIRmxBb0o3SDNleU9VWjZLbzY3WlHSAaIBQVVfeXFMUGNoVzRPQXBZSXJMeWloWVd3b0lCdTBDQlhDR2VhSHhtUHhKX2pxVG95Z3hXZ05TRm45VElUVXhTUFRfUERrdFdMUW56ZVBwMHVEVVZZSlRzZWtlVmNmZjl3Rk9CS2dBQjNiNklxNnZXMXNqUmdlOVBJM1VDaUh6eDNOVGZsMEllUUNRdG03SEZsQW9KN0gzZXlPVVo2S282N1pR?oc=5"
    }
   ],
   "briefs.co": [
@@ -3164,6 +5276,17 @@
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNbFg1cGgzZUJvakN0MDZZanFBc2ZEZVBfZ3gzTXpDSmE1TDR1WU1JUm1vbUVyZ1ZwbExsOThMdTA2WEMxM1NfLWl6UXowTXdoZlhIeFdOZlVTOEdONlFCODJRMzhCY3ZpSW9SQTZjMUpSanhYVFA3UHJBeUQ2VW4zNFNKMWd1dUNMTHZuWldzZmZ6Y1RHbDdz?oc=5"
    }
   ],
+  "businesstimes.com.sg": [
+   {
+    "date": "2026-10-21",
+    "outlet": "The Business Times",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "PropertyGuru ex-CEO\u2019s AI health startup Genie Health raises US$3 million in seed funding",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNM05vNTJQazlVajdfVU13bHpteG9kX0JWT3k3OGZRS0dORnd2UGVpVk0wdVRHVzkyaEJaT3RSUzlzV1RSTkxmemlrZVd1V3lsdFd5U0JZc05lNWt1TzVTRjF6M1ZYb25qdl95dktqOGZXelEwMHJ2WHBNclotMVllWDBxNmJTelhtVm9nUHVzNE5WMWVkRFd1bVNJVHEzQmdLcjFqMmJmYkludmhMYl90UUZodE5KMFB0UGFCaDVTaUZ1Y0x3NVRYakxsY1A2VTNRYjl5X2J3?oc=5"
+   }
+  ],
   "businesstoday.com.my": [
    {
     "date": "2026-10-20",
@@ -3182,6 +5305,15 @@
     ],
     "title": "Oil Prices Rise On Middle East Supply Concerns, Red Sea Shipping Risks",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUlnUzRfLW4xUURROGVVeUFYMV9uekpFMDlKX2xyYUVWZ2s1T0I2UDJqODJBaVl2MzNxMUxMZmp4VnlodGhwb1VqSWlia19hQVlEMVJha3NHdms4QzMxT0RrWnRrbTdEclZrM3FNbHVzc1hLR2hEbDZlRVlFRldVVmZCLU8xeHZEenFVT1lVc3NoQWJuaXBJbml6UVlSdURRSEJtQzZESFJoUjE5c2xoNFVpZUw?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "BusinessToday Malaysia",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "SpaceX Posts US$4.4 Billion Profit As AI Revenue Surges Nearly Tenfold",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcWZMNjJwVl80LXZMMGxMRFNZVWhfdjQ3Z2pTaUVRQk4yS3VVVC1xTnFuUVhONmFibmdPMkJCSkhET1UxZFk2VklGWmV6RHU5bjFsdTZnUlBrQUQtTDZLSXUwb0t0NTdOSlRpVXBpRlFXLWwyNk8tam1mazlVQ1B2dFVoRlhyenREaDB0R3RCUi1xcVpvQUt2aFpBR1VYeHpYZ1BacFQ1cEIyZkstRmlDQTFCUUY?oc=5"
    }
   ],
   "businesstoday.in": [
@@ -3407,6 +5539,17 @@
     ],
     "title": "Meta launches AI Academy SA, offering free training and startup funding",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNVE4YWl2RGxZeTRMOFRvRFpqRjhyVTM5T19XUk5faEVHNTdQd2kySkxRM2dJVUNyV09URTBFX1Nnb19xbXVYQlpDZXBpa0JmTnRFaFZ5TXhDUWJiTERzenFxaEVJWXUtMEh0bk5mMzUwT0xrbFh6cmJ6SE9qWnF5VE9CVmMyLUZkMm9kVF9MM2FJTTBfdEliWGVyUzVuRHhzRzdOVUYzc2hSMTNPeVBMcEZGWVQ?oc=5"
+   }
+  ],
+  "cmegroup.com": [
+   {
+    "date": "2026-10-21",
+    "outlet": "CME Group",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "WTI Crude Oil futures hit $101.37 before reversing on supply news.",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTjAzR0RzcE9hUTltU2VVcVJvX0RsYnZzOHcxdTBhT3k4eDJKY3VLa3NwYjVYcGlscUZLZXZSZkd0QmV1azhyd0UzV3N2OUhCSmREMnlaTzRJUHBib0cxQlFRNDVZVGdDSkxzMWRVYy1LMS16MXp6TXdVSmhZa1hvbzM2RWdZRWc1Y3VHV2F5dk92V2czR2RrVjJrbVRjd19RWGVDRXhzMmVDSUpQZ0RwWHVSQnVYbUxIcmJXSGlNNklNMG80SUxvMUhLcw?oc=5"
    }
   ],
   "cnbc.com": [
@@ -3695,6 +5838,15 @@
     ],
     "title": "AI assistant startup Town hits $1 billion valuation with $108 million Series B",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBham1CV0VPeTZ4cjJvbi1KcUZrOFI2WV9PZHdJQ1FadG1IcUd0YW9ZOGhiWm5rd1h2UER2YzA1ZE4yLW50YTUtM01EZXh1S1YtdWZYaEFxZE5oOUVhQU5ONHhkM0pSXzJrOUZ2YldBOU52OXdNX0E?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Crypto Briefing",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "SpaceX posts $4.4B quarterly profit as AI revenue overtakes rockets",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFbHIwdTlFWmd2eElnZXFjNV9SWUc5UkVnaU10S3JVNnUxT3FPSF9BUzJrNDdUNlphZTVkTnhCNF90LXg5WDA0NGViS0p2WGhLcG1TWnN2UlcxVFc1VkRkQXVKdDB3Q0RKUDZyNg?oc=5"
    }
   ],
   "cryptonews.com": [
@@ -3706,6 +5858,17 @@
     ],
     "title": "FOMC Polymarket Odds: Fed Rate Hike Probability Falls to 14% Ahead of October Meeting",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUlF1U1drNFFfSW5GUUlkOTBkUkdyMGppcTA3bmRjZVJOS0NvWnhxTlB0dFJwUEd6WmRWSExqakgwV3VpanlZWWRKNjU0UkR2OW9YQXpPbjVnWll5azhMOGg5cmJEZ0pzZWgtTWxMOVo4bFZndGVQRXh0UC1qdEVYUDkzeHZwb2lWRjEwanJhU2JJbUFEX040czU1djRhdk9peUM3MUJhYVRtMi1FUURfZld3?oc=5"
+   }
+  ],
+  "cryptonews.net": [
+   {
+    "date": "2026-10-21",
+    "outlet": "Cryptonews.net",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "Musk says SpaceX-Tesla merger a \u2018good idea\u2019 as AI revenue jumps ninefold",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EbG1xRnZZbkpNZHBhTko4U1Zwa0QzQVpVN3JwNGZ2T0NHcm1wdFh5ZG9rbXBac092ekoyWGg0c19xWDEyNFJrbWx6QVQ4OWNLckJWVkFhazE?oc=5"
    }
   ],
   "cryptorank.io": [
@@ -3739,6 +5902,17 @@
     ],
     "title": "ECB rate decision Oct 29: what it means for crypto",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBRdDlnS1dLZE9JZnkyNG5pV0FDd2hrclJqNk5qbmhRbTNwaFNNV3NuaW05RHRrR1F3Q2czR29OdkN1UDRYRm13UGZmQlJDbHY4Tnh2TzJHcE9JQVVSai1Yd0ZOdDlVTnNkX0thOFZJMA?oc=5"
+   }
+  ],
+  "ctol.digital": [
+   {
+    "date": "2026-10-21",
+    "outlet": "CTOL Digital Solutions",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "SpaceX's AI revenue depends on one customer, with 90-day exits after the ramp",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnRCMURfZ1htYzktT2dSWnZGeXBtZHpPc3FOYmtXZ2Z4ZlozdXdlTGlJNXhsZkZDMEJDTk5rRUFpV2o4QVFFV1RYd3oyZF9GQi1LNTBlLTI1YUJOV0pYS2RtelFUVG9WdmoyWU05YjVzSmxxZzU0dUZqQWtUOXZlbmRoNnJtUQ?oc=5"
    }
   ],
   "cubaheadlines.com": [
@@ -3933,6 +6107,17 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVElIZF9CWk95YUR6U1VLdGUtS1RiSnd6Rm5PeUpRREhGNWJZMFQyMjI4Z05EamctZlpOQThudWt4LWlIcUEydGJheEpYWmhYWnp5dTFqZlpTUmVZd0NkMmI2QXl5R1YzQ2IyQjF3aGFPdFUtUDZjUUlXTVkyOHFCNW5FNzFXTTNBUER1Zm82OUpBZUhjSllJQmhNak1kN2FpN0pUbVIwWmRIQlFXTlJmVTFVMDdaaENseHZlb0N3?oc=5"
    }
   ],
+  "demokratis.co.id": [
+   {
+    "date": "2026-10-21",
+    "outlet": "Demokratis.co.id",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "SpaceX Reports Q3 Results as AI Revenue Drives Growth",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xOUs0YW1hMHM0bm5Kd3kyb0Vrc3RKU3A0N2hIR3d2Yjl2ckVtZm0tbmp5UTVLbDBldGUzUm1FbENPWi1FMDlRZTdtRUZ6Smc0Tm5vRFNELVpQRkJaMVZ6OFc1T21ydHQwUmxBeld1dmxaZw?oc=5"
+   }
+  ],
   "design-engineering.com": [
    {
     "date": "2026-10-20",
@@ -3942,6 +6127,17 @@
     ],
     "title": "AGCO And Agility Robotics Partner On Humanoid Deployment In U.S. Factory",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0VEdVR0X3h4N0VvM3VrZXpfSXVGV0JIRnhmbDZCdTl2a2ZyMmE3ZXdmUlRleTFqdzI4ZEwyTjgxeWZudGJhYW1PN3h0VkdfUlB4aEVmb2w0bEhPbGszT0xkbW8wYW1DQ2lJWG9aVnRhbTNYSVpNNDg1UmNvT1Rkc3VWWU5zd3ZBOUNGSUxtblgtXzJxZjBoMGcyS3dCUWJuTkt6bGRpX2tBWnUwek9zaHlNRHN4OEpOaEE?oc=5"
+   }
+  ],
+  "desmoinesregister.com": [
+   {
+    "date": "2026-10-21",
+    "outlet": "The Des Moines Register",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Toborlife AI Brings Unitree G1 E Performance Robots to U.S. Stages \u2013 Showcasing Advancement of Physical AI",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWGs0MHU5YkxJSmd3R3JPdXN1SExyRjRzbGI1QmluUUpVd3N4c0lJUTY5MFV5NVFodUl5YUk5WkNzdlo2RmNQQk1jblVZMUVuXy1TWU1nTkszMkpQU0o1aklQQUZKMW0ycVh3c1ZuU05oMENoMUVvbHhQcTlDUVpNR1VlUlVEM1EweGpCMVNWWEk1aUhobU5YRXYzZTRYSDdLRnJ5d1Riam9lVmtCNGpGdzNJQnJDRTdxMGhqX0wyUTFYa1k4SFZzalpmbFdnSS15cGZLOFFwd2FQUTR0eDlTY3NKYmVuRC1XVHlpQlMxWWU1ZzZNcmpnRA?oc=5"
    }
   ],
   "digitaltoday.co.kr": [
@@ -4217,6 +6413,15 @@
     ],
     "title": "Meta's AI spending, Muse assistant adoption in focus for quarterly results",
     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaDdkYWFsTy1rRjh4bjJ0VExTZGpYX1BuX0RYTXJTejdTM3dEUVFtbmxuQ3NmUlRxYURhRlZjYTdsbjU2dVF1c3A0TlRLT1pZZDhHMjhxWXhCRkNsYWowdU1LSV9CU1pNamRQLWd4YWxXX0tJMHJPNGpYWTg5YTJ2Wmt4eDZFYzh0eGhvWnJ0OWRmd2JIN2VJREx5QjVlYmNKZFEyajctZl9UVGw3Y3l5MEVBdzFMcXB4ZGM5aWoySmMyNFE3REM0Q05UNzQyTkNEeDJSaE9TeVYzQzl5SEU3aDlxZFVCTDc1NGdZVGh5SdIB6AFBVV95cUxPbzdXZkJ6WXJ5VzNRWnZ3aTliaVRlSkFIbHJ5dnljTVk4OHZXd3RCMmFtRUZfLU9ZdzB4dVJ0NDluOE53VDVDeEZqWGNTS1Zoc0pjam5RV0xwTnZpWGxiWmNZbGk4dmdqajZwY3dNX3RSNVJVNzI3WU5GZ1lIMTRoNElpNHVuNld2Vlp4UWVaLVhzc1RKcG9xQ2VwSktzdFdyQmZVdHpMczIxZDl2TTlHa1FRSVlmWHdYcjdYSGdSQ1lPeW0ybHZQajYxVGZPc3ppUWNqN1BVOUlVb1o3bGhSWWVqYURXcEZy?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "The Economic Times",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "AI startup Simplismart in talks to raise $40-50 million; valuation may triple",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYnVxbndfYWVTTkdyU05yUmFfd1dQYS1JVFpybVlDcGJTcGctS0FqdjM2RHg2TGVxX0lIRlg2M1A3eWNjcjZSZjRKcjBrYnkwVHZmdVlVT2F3OExZakl0c3NNdDFNSkNwQ2IzdE9lNDFVNEhjX2Z5REtnVUZnbEVpZEszTWM3eFhVSzNtZ1A4ZWV3THdlZHd3LTAxdEE2Vi12Z0RjVlhpWHdKMUEtQU82LVdYeEo0bmhTREtUQk5rY0lyYnFCX1ZqbEQ0Y0dOYTN5Rk5JbUc2TFd0dUtLNGcwMHIyMkRUd9IB3wFBVV95cUxNYnVBX1NYblJRbjlnbjkxUXJXUUN6eWhlaFJhZzhSbFlnVVhsVjdMZE1wQ2dFTzVOSjVpMHgzbG5CUlNVaXpla0h2U29GTGthdVRod3RBcUZSQTB0ZEdPTmV2YW5VSk9XcUg3aWUzV0xRUTlfd0d3bWJ2akZLNDRaTUJjWXZkMXEwU0t2T3U4UDhoRzRZTnhzcWljRjlJYlVPZlBMNDBjOVN3TVJxMTIxQ3JZaU9mcUY0UnRoWENuMURXMm00cFVGRmptN3dCdHNxQnRKd0JqZDZScG5Nd0Nr?oc=5"
    }
   ],
   "economies.com": [
@@ -5086,6 +7291,15 @@
     ],
     "title": "Gold prices this week: US Fed, dollar and yields among key factors to watch",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNLU5UT281LVdXSmFGNTRla1RreHhqcHNSU0o5QWZheDB1dEJiSENnczF5YVJVeUd4YlRaeWxoVHZ4dUloYUlQSEszRTdNd3hJbmk5WHB1bU9XRmhYU1FTUWxJeTVWQi1INzZJZmlqZzZWbVQ2TThQMzl6WkZSV1BaMXJRVmlDOXhjeDh0RUNvbkJQOE9iSnE4aU5xcWxqZU5NbElaeGw5amc1VzFqMVE4Q084c2szN0hGVTh2U3N2VDNaOTh5d0lJekNGcnVLOFRrcTl3XzZmMHbSAd8BQVVfeXFMTW9XRFoxblZXeEF1U1ZkUFlpTENSREg0cTlEZkFxX2RJNHhEbWJXeDRnb2NTcFZybW83MTdSQTgwVDY0aGlRbWZJYjdfQ0MweERmTE05SHJkVDBDWFB3X0RMeU5QenFpXzNVNUd4NnJJZ29uOHgtaGFfVHdIV1NZZThRSzZzNlZSZU1uNFdTSUE1WEQxNzBVVHJfRVJpbGpRSWoxVFR3NDBhRHRpSkhxRWVoUjduMWxZMkhGMFNVVElUVTdzSXlocmtybG9wbjlncjVTcktYX3JXMFZUVWRvMA?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "The Financial Express",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "SpaceX\u2019s AI boom pays off: $4.4 bn profit, 161% revenue growth & a Tesla merger in sight",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNeW9XVzBXbzN3YVRiTl9Wc3hFc1Y3VElYZ1I4ZXRMdTUtMDFNQWF3U1J3azdMNTlmUmRiUUMwNVpYb3V2b0NGNE9TYXlKbHVRT2Nwa08tS3QzdmZqTTkyYWxZZWhjNG1Tb0J0Z0ZlWmRveTJMZDRlVDB1TkdlMC04UDRMdDFvTnh3eHV4SE40b1V6TzNqUkh2aWlYclRfLWIyemxlTkNnZWV6Nm8wWnl5M3BTd1ZhN09yS0x0OWxsd1Y2aktRS3pNMzRjY2VhdF9KVHNmYXRuNmdzMWdOa0puUUUwTdIB6gFBVV95cUxOb1VwV2xBTWdUQndGOFF6MnJDZnczR0ZaVE1zbGJHck5JOVRuVDdXQ0QzVkJFTXpzalRrNHFNZy16dDUwV1hjMmhLR0o3NTZ6d1RGdHpQendhM216c2EwRWtmSkxvWlNzVG9OaDJQSTByaklVVm9HQ2pHNTRnS25uZ0pwYUZjM0kxNDNaZS16UXNRSXJINzZxZ29hVzMtRTZNTUNOQmNqNE9Ka2ZtT2FueFh1SlA1NEdrbTUwUmU1Y092NzdtS3d1cjUxZFZEckc2WVNLVUxaU19OVnU4V3NvSFRUc3dMSjJPelE?oc=5"
    }
   ],
   "financialnigeria.com": [
@@ -6198,6 +8412,15 @@
     ],
     "title": "Green Card ban: Tech firm Cloudera agrees to pay $2 million and accepts 2-year ban from PERM for discrimination",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUHN3aXdvRUNtVGVRYk9SZ3ZNOGtCbVRNc2h0LVRDUFowQV9DNjVuTkVqU0VOVkNRWlRNZ2VXZWFjWkVRNk1IM3IxN2tYcDhPcVg0VTRKRVpXbDd6VXRwZkZSVmhzWWVUU1lma1BPclVsdmFSYXF5eDlKZlVVUTFsVjNtejY2dzA4MGpPNGpYTnF4a240NS0zdVpTRGd1Vy11NGs2S3ZJWkx3VUx5T0FRS3pqd0xIT3VpQkF5U3MtcFA3Q0hDWUZXSFpVRmFvcHZQ?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "inkl",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "'Anyone but Trump': Republicans face Latino backlash over immigration raids",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYXpoZHNCX1RCLWZMM0c0TERPQnpqc1AzZmItSHFyWUt6aGlpcFFSUTk0MXR2S0g1QnFMY3JPanVCWmYySG5hTF9EQ01kMkQ2NXRLUlZkSkVsVkFCcWRUTW5PSnlaamlhQnktQ3pnMFozU3VoTkI3NDdlX1BUTHAzWHMxS3diVFNmcG5DZEVjWFZKeG4yYVg1bGoyLVU1bGc?oc=5"
    }
   ],
   "innovation-village.com": [
@@ -6847,6 +9070,15 @@
     ],
     "title": "Wizards' AJ Dybantsa (ankle) to miss season opener",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPYnVDaWJEeTd3cTMtOUduTjFYMGYxSkJuYmdpWFp0YTBWUk9xRGdnSVV4cENHdlUxZnRpSzItNmtxbmtOeUJEQWJGbU5EZTFxUGFzWHJhc3VidXVzV25NRVFGdWw3aXJIZGZOWWhZcmhkZGtPcjJzcmYtUlY5NXBKS05OdmhoT2xUVlJCOWpBNC04c1VH?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "NFLPA calls for 'full investigation' into medical care provided to Eagles' Hurts",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZjUxM0kxNEhEbEhubG1ISlI3WGtDSTJNLXh0MkE1WnpWdDlFLU1US2RLVjF6Uk91OWhTNzh3UTlYVXdPRjJPcm55dm9Edjd2eTRHcFd5U1lRaklFcE1jZHVtUUtQYTJTaWhkc3Q4ck9XTzByOXh4V0pXWVd4RzRMcUEtOXFZSjdqRWF3MWRiN282Ylc0SWNsV2NDd0V0dw?oc=5"
    }
   ],
   "latimes.com": [
@@ -7020,6 +9252,17 @@
     ],
     "title": "PEEK-carbon fibre composites are driving the humanoid robot lightweighting wave",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaHJSQ3dwUFR0QmtPZGFIMW9oR00wczcyYm5WbHdBY2k3NU9VelBoOVBKZTQ2SElRZVVQRjdJVi10OTVrcy1QOWRXVlVTNEhjMHpMbWNkM0xNZThHQzBEMWZlOFNvVFBodzd3ZmpkZFRnUVpELXA2d05KUGdtakw3UHBsSjF6T0pCZnhqYWpDVkVNb3liX0JXdHpBaDE1R2xoYTlyb0QwWFY1a0NMOG5DOFdB?oc=5"
+   }
+  ],
+  "loverugbyleague.com": [
+   {
+    "date": "2026-10-21",
+    "outlet": "Love Rugby League",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "NRL star Josh Addo-Carr tipped for shock Super League transfer",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2JzMlJvOTlvRkdnLWlGM0RrdzdpQ1Nnak1GaGxhdHB4WXFuSGNfSVN0ODJxbkFqUnFjbjhvd2prMzZhLVhVWkR0OWNfOUR3YlhxUi1pT3pTTzctR3piVzR4a1Q1WFc0bHlTbTNFUXdEZDctVm5FdjhjeVNkTHpjU3VfLXZ2cmlDV2tFNkxtM3E5WU9nTVprazNzTV9Lc3FJX3dtVUk2bkhhc2dnSWwyUQ?oc=5"
    }
   ],
   "maaal.com": [
@@ -7483,6 +9726,24 @@
     ],
     "title": "details, matches, stats",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjBVbFRBRmdUU3p0clIzVHV5bm4tWWZ6QjBoNzNZRFVKSEM2OWROMjZheTZPZDZGWlZQYm5LdGpfRjdLMUhPWk5GR29EamVGRUVDVnpXRy1XTFJ5akxvcnVYakVPSlFaN1I5dXpQMnJfOFhSRDBWM0wtUnpBXy1OaDRQTlFubEhkYlhZTWd3ZjNGdG0waFNj?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Cricbuzz",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbzE5cVl5cmROMWhjQTN6X3RIR29TRnhZdkFwOXJncUtjWmNVMGpmUzJxSnlJQ2NnbkpaOF9uZkdQOVRPclU0bG4xdzFJTFl1VG11Nl9VMHlTc2VoS0dIbUFkUThUWVRFMzVRTFZwdnlsTjBGMmFzc1N5dnhyZUI1N1hPdnFBS1hSZWl1WXN5ek1fbUxXcVNQbHJBTQ?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Cricbuzz",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Gilchrist XI Cricket Team matches, scorecards, news and statistics",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5peEtpRFdCZHJoNjlZei16b2Y1SHkwa0tRamFkRHlvTDJadGNxQ2pERjdOclQ3eHlNU09qYjFVYTFLVjhZYnIxTVdWOGw5U0JjNjZkd3JXcHVBLUZvaDFQVVhHOHZEWkN0ay02RTRR?oc=5"
    }
   ],
   "moneycontrol.com": [
@@ -7512,6 +9773,15 @@
     ],
     "title": "H-1B visa crackdown: Cloudera says \u2018we don\u2019t discriminate\u2019 after $2 million US settlement, faces...",
     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNbHBBYXZ5VVlPaWdSZXFhM3VsZzJnbEtwY1h1Wmhxa2ZDbHNkMjB4TWZfbndRRGxEWjJkUHVvRHhSUVM4eGRvOTFsTGVQQnl2ejBuMVZlZUg3VVdQajJnelFnaTRwcTRDNUZtVTFxMzNaVmlUeDRnS09xcUhoOWlUaHNTWS1jaXZHVFJ0YnYwMGYxbFJncllNZWhrMVpFYUhqN241dFRVdWNXeU1MaTlVT2xqbThjQ3FGNnlja214cld3S1VnZ2pyaThwbFlJSGpTVGRoRVl2NklhODZ1T2o3QlNPVklCM3R6STR0MEgtWl9saDRfREtrc0JaLUczbWJfdzl0MG13dGFDMDl2RGVRSHhYcFJZY3fSAZcCQVVfeXFMTWxwQWF2eVVZT2lnUmVxYTN1bGcyZ2xLcGNYdVpocWtmQ2xzZDIweE1mX253UURsRFoyZFB1b0R4UlFTOHhkbzkxbExlUEJ5dnowbjFWZWVIN1VXUGoyZ3pRZ2k0cHE0QzVGbVUxcTMzWlZpVHg0Z0tPcXFIaDlpVGhzU1ktY2l2R1RSdGJ2MDBmMWxSZ3JZTWVoazFaRWFIajduNXRUVXVjV3lNTGk5VU9sam04Y0NxRjZ5Y2tteHJXd0tVZ2dqcmk4cGxZSUhqU1RkaEVZdjZJYTg2dU9qN0JTT1ZJQjN0ekk0dDBILVpfbGg0X0RLa3NCWi1HM21iX3c5dDBtd3RhQzA5dkRlUUh4WHBSWWN3?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Moneycontrol.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Commodity Corner: Oil prices edge higher on Middle East supply risks; gold holds decline",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPMWx5N2xFSFFXbjZQWm5NRHdWR2o2MUZ3Sm1UMDdiNHZTcmlTQnVvc1lRa2NMQzlCTW1Id3owa1Uyal8yZEZxQl83UVZzTzV0WFdIWEtKSUNCQUtXSWF2QUcyN20wQk01V0g3eUIteVM3YmZuSVdaN05aMC0zSFA3TkhWVzB2MkQxVUFnZHVLeVFaSUxRaENNTU02dFBLYmZQYjEtdmJ5dXpWM2ItQ3FQMEFZT1RoaTF1YWFfME5IdzVxd3lJNUh6LXBHbl9HaFlWdlBnOVU0MzkwWmlQWWdlX2U1OG15QdIB6wFBVV95cUxOZTNMM2NFazFZMzVQOHpscXNhSVlWZ011dmNCRnVWcnVsV1lJWkY1bXZkM3ZNZzZSbkFxaDhxdEttSGtVd1VTenpfaFJSOFpnWm43c2M5OVVwaWZzMW5IOXJFektvZlo2b2l1Yi1GcEtwbWxCdkRhcVkxamxTTzlKYWp3TldUdVdLZkRtQUVUR2dPYlBHSmhMSTFmYTV1MGdoVTNRZVJtSWpoaHp0MFRFZXZQTGVaNkZjRHQ4T19hN3MyTFBlS1ZLVnV3MjI0NVRnNk9TVzZpeUpkcUUyTnRRRFVkSXFnb1NDM29r?oc=5"
    }
   ],
   "moomoo.com": [
@@ -7541,6 +9811,24 @@
     ],
     "title": "SpaceX Kicks Off Q3 Tech Earnings. Can AI Revenue Become Its Next Growth Catalyst?",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNT2hUNUROeG1NeVlDR0xqUTQtOExnVEZCSkxlRnl5Z19zaDY3TmFiT1pNaVhsN0NUS253d3N2OVJFVlpmNTFLSmprUDdMUTBJZkZES3o5eFIwR1k1bG85WU1HempiZDFDa2xNZXVfMVc1Tk50V3o3dXhpbzNhdmIwdTk0MTAzWFdSb2stakViZkNqZF9YYUViRTNDdkRJZ3praEFWU0hn?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Moomoo",
+    "sections": [
+     "ai.ads_social"
+    ],
+    "title": "[Meta Earnings Preview] Can ad growth support AI investments? Focus on Muse monetization and expected options market volatility",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOUJiWlZFcEpDMDR3SHRVaVgxaUFGLW1sMFdNNjh5c0I5ZzNYUXQ0ZzY2YnFieExJc1BuaHJsN1JuRERnTUx4clNyVGQ5RXYydmQwRmo4ZnJ5ejZadW5RWnpJUzVLcHVvbzFiZ2F0ZkRZMlpKWmFMTS1leUN1RFRkNlRrT20tRW5SazBjbjhiVnNnVVNiQ2dwMjQ3ZHFyc2NhdndvMTVkZkVqOHQwTGVxYm93eFBPUWV1QlIzaFE2VnllTlhKMHc?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Moomoo",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude Oil Trading Alert: Geopolitical tensions continue to pressure supply, keeping U.S. crude in a wide trading range",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaFlWWjVpVFo5RU83WW9na2ctcHdZS3RXYVh6Q2Z2bXJCenRhbzBMMjgwamlTNDE5RUZoeXdwWmY2bG5sR01RYVU3ZWdJQ2FNdXhfNzNvQl9YeTh5NTREMWFpNzlBSlItZUZaX2ZubmhVcVZPb3RnQ1VfTklUTVFXV21kM3VhS3lSQ3B4Vy0wemNJRkZDQUxvR0tQNUlETU9xdDZJUkJNNTJCajN4U2hNSWQ4ZHBWMDlF?oc=5"
    }
   ],
   "moroccoworldnews.com": [
@@ -8476,6 +10764,15 @@
     ],
     "title": "X-Humanoid Sets Out Its Roadmap for a Unified Embodied Model and Self-Evolving Robot Policies",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZUVtUllCektXa1dUMHVUOVIwRWs0a21ySmJlYWxkUGVlMFRvREJiYWJmNmhMZGs3RzVFc1pCOHlWUzNzQzJ0bENqUVE5cGkwbUxmNk9RTEJqRDVOR2VaWjR2LVZyZ29rdGpwMUpueHRnck4zeGZzRHRrTHNWdGhTbHFTUE5kZmt0cTlsVzJkYkx1Zk80MENKUDhncXNiMm9QWWJLUW9mNWdoaV9wVmxseU1NRmp5UzQ?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Pandaily",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "SenseTime Open-Sources SenseNova-RoboRSI Embodied AI Harness and a 27B Robot Brain Model",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQWZVVEFabnYtNVJaV2pqR3pmQVJIUVI2dS01TzBUZmhTc0FMczRtby1hX0p4d3pfYl9EV2xBQlhmUUhCQlZvckRaaUlsUHcxazZFVEx0MzZKbVpVUGNMZk9fRVlSWldvUjcweW5HVVVBZEt1VDk1bWlod19pYjMxZnFJdVdiR3lWRWtUb3VfVnVidndPZVJn?oc=5"
    }
   ],
   "pangasinan.gov.ph": [
@@ -8758,6 +11055,17 @@
     ],
     "title": "Quso.ai Review: Automate Social Media Content and Strategy with AI",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeGh3M2RDRWpKM0FicjluMmhjQTRja2ZDWldvWnRwWF9LVThmUTBFWG50UTdlWDBFQ1lKWXpoSnRJRVA0Y2R4V2s4WnI4bGVTU3RNckk0VWhuc1JwY0tOQ28zUlZCQnppUnFxNDlHMjMtQXJMa2dSLXg4TWp5Y0tsaVRGc0E2bGh6d05Ya3dXZ0Q?oc=5"
+   }
+  ],
+  "quiverquant.com": [
+   {
+    "date": "2026-10-21",
+    "outlet": "Quiver Quantitative",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "YYForce Announces Acquisition of Wearable Data Collection Systems to Advance Humanoid Robotics Development",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRV9hNXJsUTZpVGNVY3kwVldkRVBKdHNKTnRNWURDT2Q2VWV4MmVGbmxuaThwdThab0hYLXJ6RzY1ZG5xSWJQY1dHU21RRmRhczNfWjBTdVZydmtWdFVxMmZxYkVZLUxwOWtycXB2ZHBQYUUwMGdlZTM3ZFNBUXBRRDM3QXR2d0FKQmJ4akg3NEV6SmpYaE5VcXQwNE1rSFBtZ2MxME83NDVTZWNTempiR1l5S2h2amV2dEYxMmVaa0pLZXNCUFdSbWFBazZnem1kOUtFemdR?oc=5"
    }
   ],
   "qz.com": [
@@ -9334,6 +11642,15 @@
     ],
     "title": "A humanoid robot for education costs $299. Its curriculum is $499.",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdTF5YVRCUURIck05TUZXenZxamFNSjhpY29NbXpiNkxGR0VKTTBlRG10MGxidjVqN1BaMWNHLVFsSUpEMGI5eUwzM1hFSS14Z29RUU1DREFCVTRhMzhLT2VyMFR4QWZzLWFyZG1SOEVMdzRIYmxpRmxzYUtXejhTME1kQlBNcW5jZmxfUWRuUmNnRmhfUzFQVW5QZy0xUURoMzRyeldRanFKOVVjd3Fkb1NSTW1pZ1RseU41RFFuVQ?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Stock Titan",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "A human-shaped robot is expected to sort parts and place totes at AGCO's Kansas factory in 2027.",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVJYdmdkUElrQWZpeEppcVlVaVhUT2s3dGxRQnRlcDJBN1dOb1lIeTktSHpkcjdsOS1SY2dSaG9yWmg5Y1g1UzdzbWtTR29mTUpvWElZMUNKOXZfQWd0c1B4Sm1TREpoUVdCNzhfR2dkc1BqSF9VRHJmV1FReG8wMm9HbVItTVFOSDlrMGVBRGxobmdvcTdHeW5mNEJKSE9nMFFydE1ST2pDUnVNOE96amwzTDlCQlVjNUVSSmVwOA?oc=5"
    }
   ],
   "stocktwits.com": [
@@ -10104,6 +12421,17 @@
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNbGpGaTdsenV5cGdfRjQ5LUk3V3h2UWFoZ2JDdjhQbF9iMjVjMGNxbGg3UE9WYW1lcW42MjRyMzRaTHY2Z0k3bTBTUjFWaXoxWXJWbEVjRHV6Z0pRaWZJVmtIZ0JsNjFvMDlHc1pFdDFMN0hnT0FuRmhKZ2xoRXVIWHUyTm1WS0d5UXNyMjdRTzdyb081UmZNQWRNOFFKM1Y2MWtGaFlyaWd0RkJFSDFrNnBZRFlLY1l6cE5McjdCQjlqR2JrdTlXVjJMX0c?oc=5"
    }
   ],
+  "thenewstribune.com": [
+   {
+    "date": "2026-10-21",
+    "outlet": "Tacoma News Tribune",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Trump administration says it has revoked over 300,000 visas",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR01XNmlnWmJDUTcyUXl2SGpmd2JkOFROdGFTbzBZOUlWdlpwenRuOXg2WC1DWnpaQ2RfZDhOUGotYnJxMlFKcy10Yl93WjJBME1KTUxMYS0tTXJSdkRpVUdZU0JXNDV3RExMbnFFakxFOE9pUVpFRVhoU1pteTBPcWxVSjI2QQ?oc=5"
+   }
+  ],
   "thepeninsulaqatar.com": [
    {
     "date": "2026-10-20",
@@ -10335,6 +12663,24 @@
     ],
     "title": "Silver Price Forecast: XAG/USD gains above $57.50 as Fed rate hike bets decrease",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOeDZpVi1ZYWF5S0dZYnd0bnRPT1JxVGhCS0h6T3pYV1JEUUwxb095NEcyZEhKZW91WERwT2Z1RHJrVFRuTmtKRTY3YXNsTWJkT25DNFNEaFlFd1ZNUF82RHhSbmZDWXNFQUhvN0E2TGlpLThpOWE2Z3pJMl8tRkI3RDhSVm0yZUNaemZBOVJtejgzb0tSRGJJUW5DTHRlOTItUUs0VUNlemh4dUIyd2FaWDhmU0xWRHRnY0IycmZ6Z0pEQnlLamFXQWZTQlNxV2ZOV2VvU3lvR0ZwZ3R3MFJR?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "www.tmgm.com",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Silver recovers as US Dollar weakens, but Fed rate hike risks limit the rebound",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFhMeVYxU01YNVZON2t5N2k5U1ZhdTJxdWRQSGZ0MmlNQzdoekhDcUlXUVhHYTV6aGY4bVZWd1ZPR0x0MnVDWnNVclhXMEVvdjdXWGxiWmt5ajVvb0lmbjJnQ08xdTd6dF9ZLXdRT0VjRVlKbXpNSVlFSkVYSUFkem11VXcyMGpFSmVEaVdyeXk5MFpPUkVTeEVRV1J3TUZPd0NKbmYxRzItSlJwX29NYjNpNEFYazFVRFhkME52b0pJaEpRVUY2ME5qa2lWNFpJLXc?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "www.tmgm.com",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Gold Losses Deepen as Higher Oil Prices Bolster Fed Rate Hike Bets",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbS1OeXJPVFdpQVpqZVpZWENrLWxrVEpZN3hhNDFsVWlsZERwMU9hQjlHUGNWRkp2cWdtMDAzTUY0ZTNabnhubXJQYmFXb0I5QUxDU0NubjQ3NkN6OGJRQWVwTnAwb05sQzhZWEhzc2Nac2VVSUM2ZUNVaVlBcVRRXzY2OW5XNy01RUVpZkFweV9IaVZSRkR1U2lvUDhiQUNzRXVsc0dydTFMbFZGNnZRU2VxSXpUbnNCNFRsU200SzlmdUlnM1JsRDhSdGd1MVlGTk5hTQ?oc=5"
    }
   ],
   "tmj4.com": [
@@ -10531,6 +12877,15 @@
     ],
     "title": "Brent Crude Breaches $110 to Hit Near Five-Month High, Oil May Further Test $120",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPM1dEVTgyRjZ1T21DRC1JQWh2SUJnRVRNU3FNVlhjamNhdnU5NlJmZVJ1T1h5TWxsNHh0RTdPY3F6UDBucGZMR0dNMU5kQjBoNDdQWkxYdjdEX3lZc1ZhYmZVRWp1RkloNUZUWEFKOGpWNjJqTGIxUlZ6V2R2YzJEMFBrdWZyZjdRbFBmOFJDMnFEMGVTcHJkMDRISzhzSFNiV3lyWkVLemc1by1SbmtCNHlSSTVBakRYUjYxUlhYQ1o?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "TradingKey",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "SpaceX Surges Over 8% After Hours as Q3 AI Revenue Soars 830%, Forms Special Committee With Tesla to Evaluate Merger",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50TkRmZ0xJS1A4LXhjWnppMUJkWm82bzlBcUpiQ0pXaG8xUGJtSW9qQmFsZ2Q4VkFIYmp4YWRnQ2Q0XzBXNm5mZ21feTZZai01aVBiUDlEZFdDZVRlU3o5UzlPM00yMDR5QnAxemh0N1c?oc=5"
    }
   ],
   "tradingpedia.com": [
@@ -10742,6 +13097,15 @@
     ],
     "title": "USO, USO Gain Premarket As Brent Crude Hits 5-Month High \u2014 Middle East Shipping Attacks Fuel Supply Fears",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPVDNsMnRoNXVkcTlZYWhtdzdhLUJHU21sXzFrdFhSNzR4bTAycXBsMENBOV9CR2t1QXNCVlUteTRrc08wMXNNSE9qZUJZYmRWckNFVnh5b1UyXzZsUndrZ0h2bXdIOGd2bWFaZ2o0ZWRsLVE2SWlNMHpUZklVTFdsakoyejZCSVQzTWlrRHBjUEFPSkx1ZEp4SkJBMXdKTGFHN2dPMjlPX1Vza3phX2dDZ3hWT2h6MUVOanZRSldhVmFkck42dnVEWkYtSGZYcmxQSEh2OHdDS1dhVktvc2tSR2stVkEtNThUQUp5RFYxMEdVVGxCb0E?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "TradingView",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "SpaceX Q3 Revenue Seen Near $13 Billion as AI Business Surges",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVFdwd2g4cWZLNm5pbjdYejNTZWNPTFhfZlltRHBKSDQ2ZVVPLVI5VlZNTXdiZUprT0V6dHRPdDNETHAyRjF6aEh3OUVDcWpMLWFtYl9BSE9ELW1QVzdfQzJINjh6RmxNZExpUndla0c5TnpVNW5Rb3ZieWtRVkNHU0NiYzVBc1ktclo1ZWUxVUtYbWpXNG91UDhBN0JTNnVvSGVfX1hwTmJyNXdiMUFUdUNJRHZWNkdqVGxTOA?oc=5"
    }
   ],
   "trainingground.guru": [
@@ -10813,6 +13177,15 @@
     ],
     "title": "Transfer news LIVE: Trent Alexander-Arnold to leave Real Madrid as Barcelona eye Manzambi",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONHVVM1VjWURPdlNqX2J1RXQ1VFU1aGNpR3FFendXX1FZQWdFemhMUjFRS2VrejFNekdCTGwzTVJvbDEtcGR2blVpS0haSXdKdy1GOTdrX0p3RDU5WHpJeG1zSFoxd1dkTzdNZWFsbHktX2hfRXVZVUFxU1RZUWwxY0t2aE0yRDRDZFlxaHl1UTRoWjBtS1liUldKcHhHOG0zTW9NTldNdlE2cDktajZuVGs4UFl5akQ4anBpdmU0cFBWUFRhQ0U0SGpWbm5lN3I5?oc=5"
+   },
+   {
+    "date": "2026-10-21",
+    "outlet": "Transfermarkt",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Transfer news LIVE: Galatasaray want Bruno Fernandes as Real Madrid eye Finn Jeltsch",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTmthRGtScWRBMHUxVjRCOEpYMl9uX2JjbEFUNVphRE5MYmFCamZfdzBSVE5MT1VHcTBHcW1uRkNEX04zOGtZRnl0MGFsNDk4TEJRLU1aelRhSUJsZjJXbGF1TDh3VXZOTXFjZkhkRmxKOGFuSk5PcDVYVzVDOUNuRURRT3lOZDhyWEh3a1JtZ2RYZ0JfZUY3NERtZk1IQmZyYTRXWFhOVFVCQ0tzcWpSaFFheDNKQ1RtR0RXcngtNElsaFRU?oc=5"
    }
   ],
   "trendforce.com": [
@@ -11230,6 +13603,17 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbHJtLXE0d0VFakRrS1hQNWMxTXN3YXRVdG9IZjhLeUVuRnpUcDBKb1BHNWNiY1dlSHh3Vk5tT244VG1sVUtnOWV4dGFYeGEwcmZuUjBHQndlY3lHdjBUYnJFTWotRzZDMG90amJkWGZNaWJmLVVfbmRRblg2REtqNlliU2RhMHAycm5zUmM1dnRXR1ZYbnRaOWh6bHJPMnNCc3fSAaoBQVVfeXFMTzNDSVAxektBMzRZeW5aRTdPeWdpTFh6eEctS1hlOEp2Rm5zRnB1TU12WDdCTFNiRE53YTFxVWJCaExkNWhjbTViVGV2NENkS3hNLWE4VDk3U3Nnd1BicnRNd01BRmJESFIwa0daczV3NzlFRDd3bXVOLUdYOTlCVnBPaUg1cHVCU1J5MGZSNGVJdzU4QTJsUWdiUmlxTERVVkpSLWlmRXZVbFE?oc=5"
    }
   ],
+  "vestiabad.ru": [
+   {
+    "date": "2026-10-21",
+    "outlet": "vestiabad.ru",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "ALI humanoid robot to be showcased at OGT 2026 in Turkmenistan",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZGU4RlhFNkVtX1UxcjhRdldfSVYyaThCM1lCOTlnb3FWRlZYUGZsVzB2TktubHItdUh3REZIc1h6VFBfbHJ3dHlkR2xZakZKcVpQUXlIWkRsZ2p0V1ZScTRaQkY5U3pMa0pNbUd6RndFYjQ1QWFOR2Vuel9GNllVNkpydEVjYnNaOXpnV0JteTRfQ2xlN3c?oc=5"
+   }
+  ],
   "vietnam.vn": [
    {
     "date": "2026-10-20",
@@ -11528,6 +13912,17 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcVlZVWFSMVBtc0J3R1FncG94WFY5b1RSNUdRdmFmZVE2QkoxdkJIaFp2WEFueFJhUGJyOF9fVjNEYTRpYzFOdi1CVjg4TFdhMF9lNU1fY05jX2JhVTlDQVhtdzlRMmRqNkc1QVU2eHVnaVM3UEVFcHlYdEJ4YTFKNndB?oc=5"
    }
   ],
+  "yen.com.gh": [
+   {
+    "date": "2026-10-21",
+    "outlet": "Yen News",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "US grants temporary deportation protection to citizens of 4 countries",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3FnX3h2NkozUklCa1VCRnlaZElqRnlQN1NwMmN5QzBhV0tFUDhHdERFRGIxX2ZuTWlsbXZORDh0dmUyNWY5dTh6N0FXZ2JHUm9nWWZHX1lCMnozckVBdURHWHhDWDBJSHB2bFluMTc5b3dndUUtbFFoUW9KU1VyMl9JYUVzMHgtY1Q1VWJnYUdSN284T2o1Zk5kQk9DRFVtN3ZhLTh6MUlmSnQ1UGFvSmZGNTM?oc=5"
+   }
+  ],
   "ynetnews.com": [
    {
     "date": "2026-10-20",
@@ -11552,16 +13947,41 @@
   ]
  },
  "rejected": {
+  "abcnews.com": "2026-10-21",
+  "al-monitor.com": "2026-10-21",
+  "archive.is": "2026-10-21",
   "asml.com": "2026-10-20",
+  "axios.com": "2026-10-21",
+  "bbc.co.uk": "2026-10-21",
   "bbc.com": "2026-10-20",
+  "cambridge.org": "2026-10-21",
+  "cbsnews.com": "2026-10-21",
   "cnbc.com": "2026-10-20",
+  "cnews.fr": "2026-10-21",
+  "dealroom.co": "2026-10-21",
+  "edition.cnn.com": "2026-10-21",
+  "felixrieseberg.com": "2026-10-21",
+  "forbes.com": "2026-10-21",
+  "leparisien.fr": "2026-10-21",
+  "nbcnews.com": "2026-10-21",
+  "news.un.org": "2026-10-21",
   "news.ycombinator.com": "2026-10-20",
   "npr.org": "2026-10-21",
+  "pbs.org": "2026-10-21",
+  "penguinrandomhouse.com": "2026-10-21",
   "ramp.com": "2026-10-20",
   "research.meta.ai": "2026-10-20",
+  "rtl.fr": "2026-10-21",
   "sec.gov": "2026-10-20",
   "shop.dev": "2026-10-20",
+  "theatlantic.com": "2026-10-21",
+  "thetimes.com": "2026-10-21",
+  "timesofisrael.com": "2026-10-21",
+  "tradingeconomics.com": "2026-10-21",
+  "truthsocial.com": "2026-10-21",
   "typesafe.ai": "2026-10-21",
+  "washingtonpost.com": "2026-10-21",
+  "whitehouse.gov": "2026-10-21",
   "wsj.com": "2026-10-20"
  }
 }
