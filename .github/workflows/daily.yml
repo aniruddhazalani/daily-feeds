@@ -2,9 +2,10 @@ name: Daily feeds
 
 on:
   schedule:
-    # 00:00 UTC = 05:30 IST. GitHub may start scheduled runs 5–20 min late, so this
-    # leaves room for the page to be ready by 06:00 IST.
-    - cron: "0 0 * * *"
+    # GitHub delays (and sometimes drops) scheduled runs, worst at the top of the hour,
+    # so run early and off the hour, with a backup that only builds if the first didn't.
+    - cron: "17 23 * * *"   # 04:47 IST — main run
+    - cron: "23 0 * * *"    # 05:53 IST — backup, skipped if today's page already exists
   workflow_dispatch: {}
 
 permissions:
@@ -17,7 +18,27 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      run: ${{ steps.guard.outputs.run }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: data/days
+      - id: guard
+        run: |
+          today=$(TZ=Asia/Kolkata date +%F)
+          if [ "${{ github.event.schedule }}" = "23 0 * * *" ] && [ -f "data/days/$today.json" ]; then
+            echo "Today's page ($today) is already built; backup run not needed."
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          fi
+
   build:
+    needs: check
+    if: needs.check.outputs.run == 'true'
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:

@@ -1,6 +1,6 @@
 # Daily Feeds
 
-A personal news page with five feeds: **Politics, Finance, AI, Football, Other Sports**. A GitHub Action rebuilds it every morning (it starts 05:30 IST so the page is ready by about 6:00) and publishes it to GitHub Pages.
+A personal news page with five feeds: **Politics, Finance, AI, Football, Other Sports**. A GitHub Action rebuilds it every morning (it starts 04:47 IST so the page is ready by 6:00 even when GitHub runs it late) and publishes it to GitHub Pages.
 
 - About 190 trusted sources: outlet RSS, official press releases, expert blogs and newsletters, arXiv, Hugging Face Daily Papers, and Google News searches for topics no single outlet covers well.
 - Headlines and links only. No AI summaries and no API keys.
@@ -52,7 +52,7 @@ Other commands:
 
 ## How it runs
 
-`.github/workflows/daily.yml` runs at 00:00 UTC (and on demand via **Actions → Daily feeds → Run workflow**). It:
+`.github/workflows/daily.yml` runs at 04:47 IST, with a backup at 05:53 IST that only builds if today's page doesn't exist yet. GitHub delays and sometimes drops scheduled runs, so don't move it back to the top of the hour. It also runs on demand via **Actions → Daily feeds → Run workflow**. It:
 1. runs the tests,
 2. builds the page,
 3. commits `data/` (daily snapshots for the archive, the already-shown list, discovery state),

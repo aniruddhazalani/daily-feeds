@@ -12,7 +12,7 @@
 
 ## Architecture
 ```
-GitHub Actions (cron 00:00 UTC = 05:30 IST)
+GitHub Actions (04:47 IST, backup 05:53 IST if the first run didn't happen)
   └─ python -m feeds build
        1. load feeds.yaml + data/discovered_sources.yaml
        2. fetch all sources in parallel (RSS/Atom, arXiv API, Google News RSS queries, HF papers)
