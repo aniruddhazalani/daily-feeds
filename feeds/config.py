@@ -16,6 +16,7 @@ DISCOVERED_PATH = DATA_DIR / "discovered_sources.yaml"
 
 SOURCE_TYPES = {"rss", "gnews", "arxiv", "hf_papers"}
 KINDS = {"official", "news", "blog", "paper", "search", "discovered"}
+LEANS = ("left", "center", "right")
 DEFAULT_WEIGHTS = {"official": 3, "news": 2, "blog": 2, "paper": 2, "search": 1, "discovered": 1}
 
 
@@ -79,6 +80,7 @@ class Feed:
     title: str
     sections: list[Section]
     tags: dict[str, list[str]] = field(default_factory=dict)
+    balance: bool = False  # keep left- and right-leaning outlets even in this feed's sections
 
 
 @dataclass
@@ -87,6 +89,16 @@ class Config:
     sources: dict[str, Source]
     feeds: list[Feed]
     ignore_sources: set[str]
+    leans: dict[str, str] = field(default_factory=dict)  # domain → left | center | right
+
+    def lean(self, domain: str) -> Optional[str]:
+        """Political lean of an outlet domain (subdomains inherit), or None if unrated."""
+        d = norm_domain(domain)
+        while d:
+            if d in self.leans:
+                return self.leans[d]
+            d = d.partition(".")[2] if d.count(".") > 1 else ""
+        return None
 
     def sections(self) -> list[Section]:
         return [s for f in self.feeds for s in f.sections]
@@ -184,9 +196,19 @@ def load(path: Path = CONFIG_PATH, with_discovered: bool = True) -> Config:
         if not sections:
             raise ConfigError(f"feed {fid}: needs at least one section")
         feeds.append(Feed(id=fid, title=fraw.get("title", fid), sections=sections,
-                          tags={k: [str(t) for t in v] for k, v in (fraw.get("tags") or {}).items()}))
+                          tags={k: [str(t) for t in v] for k, v in (fraw.get("tags") or {}).items()},
+                          balance=bool(fraw.get("balance", False))))
 
-    cfg = Config(settings=settings, sources=sources, feeds=feeds, ignore_sources=ignore)
+    leans: dict[str, str] = {}
+    for lean, domains in (raw.get("leans") or {}).items():
+        if lean not in LEANS:
+            raise ConfigError(f"leans: '{lean}' must be one of {LEANS}")
+        for d in domains or []:
+            if norm_domain(d) in leans:
+                raise ConfigError(f"leans: {d} is listed twice")
+            leans[norm_domain(d)] = lean
+
+    cfg = Config(settings=settings, sources=sources, feeds=feeds, ignore_sources=ignore, leans=leans)
 
     if with_discovered:
         keys = {s.key for s in cfg.sections()}

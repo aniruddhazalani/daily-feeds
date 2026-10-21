@@ -249,6 +249,12 @@ Guardrails: at most 5 new sources per day, at most 40 discovered sources active 
 6. Create the GitHub repo, add the Actions workflow (commits `data/` and deploys Pages), and do a first scheduled run.
 7. README: how to add a feed or section, promote or mute a source, and tune a section.
 
+## Political balance (added 2026-10-21)
+- Added right / center-right outlets: Fox News, WSJ, Telegraph, Spectator, National Review, The Dispatch, The Free Press, UnHerd, The National Interest, FDD, Hudson, Heritage, AEI, Hoover, NY Post, Washington Examiner, WION. Center: The Hill, Axios. India: Times of India, India Today, News18, Firstpost, Republic, OpIndia, The Pioneer.
+- `leans:` in `feeds.yaml` rates outlet domains left / center / right (AllSides / Ad Fontes where available).
+- The Politics feed has `balance: true`. When picking each section's headlines and analysis, left and right may never differ by more than one while the other side has a qualifying story. The app prefers the same story from an outlet on the other side, then that side's best other story. Center and unrated outlets don't count.
+- Every headline shows its outlet's lean, and Politics sections show Left / Center / Right counts.
+
 ## Build notes (what changed during implementation)
 - **Sources checked on 2026-10-20:** all 193 return items. Sites that block bots or return HTML (ECFR, IMF, Brookings, AdExchanger, OIES, Mainly Macro, Total Football Analysis) use `site:` searches instead. Dropped because they are inactive or not indexed: Indialogue (no posts since 2021), IISD SDG hub, Chip Huyen (no posts in ~2 years), The Cricket Monthly, Shaped, Immigration Impact, Mobile Dev Memo. India Inside Out and Anticipating the Unintended were removed later: Substack blocks GitHub's servers and Google News doesn't index them.
 - Feeds are fetched with a browser user agent, falling back to a feed-reader user agent (ESPN only serves the latter).

@@ -105,8 +105,45 @@ def rank_feed(cfg: Config, feed: Feed, clusters: list[Cluster], now: datetime) -
         limits = {"news": sec.max_items, "analysis": sec.max_analysis, "papers": sec.max_papers}
         for b, lst in out[sec.id].items():
             lst.sort(key=lambda s: s.score, reverse=True)
+            if feed.balance and b != "papers":
+                lst[:] = balance(cfg, lst, limits[b])
             del lst[limits[b]:]
     return out
+
+
+OPPOSITE = {"left": "right", "right": "left"}
+
+
+def balance(cfg: Config, ranked: list[Scored], limit: int) -> list[Scored]:
+    """Pick up to `limit` items, best first, without letting left or right pull ahead.
+
+    When the next-best item would put its side two ahead of the other, we first look for
+    the same story from an outlet on the other side (and show that outlet instead), then
+    for the best other qualifying story from the other side. If neither exists, the item
+    is taken anyway: balance never drops news, it only reorders and swaps outlets.
+    Center and unrated outlets don't count either way.
+    """
+    pool = list(ranked)
+    picked: list[Scored] = []
+    count = {"left": 0, "right": 0}
+    while pool and len(picked) < limit:
+        cand = pool[0]
+        lean = cfg.lean(cand.primary.domain)
+        if lean in OPPOSITE and count[lean] - count[OPPOSITE[lean]] >= 1:
+            want = OPPOSITE[lean]
+            same_story = [it for it in cand.cluster.items if cfg.lean(it.domain) == want]
+            if same_story:
+                cand.primary = max(same_story, key=lambda it: (cfg.sources[it.source_id].weight, it.published))
+                lean = want
+            else:
+                other = next((s for s in pool if cfg.lean(s.primary.domain) == want), None)
+                if other:
+                    cand, lean = other, want
+        pool.remove(cand)
+        picked.append(cand)
+        if lean in count:
+            count[lean] += 1
+    return picked
 
 
 def explain(cfg: Config, key: str, clusters: list[Cluster], now: datetime) -> None:

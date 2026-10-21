@@ -31,6 +31,7 @@ def item_json(cfg: Config, s: Scored) -> dict:
         "also": also[:5],
         "also_more": max(0, len(also) - 5),
         "paywall": p.paywall,
+        "lean": cfg.lean(p.domain),
         "score": s.score,
         "tag": s.tag,
         "upvotes": max(it.upvotes for it in s.cluster.items),
@@ -66,8 +67,12 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
                     for it in s.cluster.items:
                         for k in seen_keys(it):
                             seen.setdefault(k, today)
-            sections.append({"id": sec.id, "title": sec.title,
-                             **{b: [item_json(cfg, s) for s in lst] for b, lst in buckets.items()}})
+            sec_out = {"id": sec.id, "title": sec.title,
+                       **{b: [item_json(cfg, s) for s in lst] for b, lst in buckets.items()}}
+            if feed.balance:
+                shown = sec_out["news"] + sec_out["analysis"]
+                sec_out["leans"] = {l: sum(1 for i in shown if i["lean"] == l) for l in ("left", "center", "right")}
+            sections.append(sec_out)
         tags = sorted({i["tag"] for sec in sections for b in ("news", "analysis", "papers") for i in sec[b] if i["tag"]})
         feeds_out.append({"id": feed.id, "title": feed.title, "tags": tags, "sections": sections})
 

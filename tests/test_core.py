@@ -4,8 +4,8 @@ from datetime import datetime, timedelta, timezone
 
 from feeds import config
 from feeds.filter import canonical_url, cluster_items, filter_items
-from feeds.models import Cluster, Item
-from feeds.rank import matches, score
+from feeds.models import Cluster, Item, Scored
+from feeds.rank import balance, matches, score
 
 NOW = datetime(2026, 10, 20, 0, 0, tzinfo=timezone.utc)
 
@@ -78,6 +78,43 @@ class Scoring(unittest.TestCase):
         sec = self.cfg.section("finance.oil")
         s, reason = score(self.cfg, sec, Cluster([item("Brent crude jumps", source_id="cricinfo")]), NOW)
         self.assertIsNone(s)
+
+
+class Balance(unittest.TestCase):
+    def setUp(self):
+        self.cfg = config.load(with_discovered=False)
+
+    def scored(self, title, domain, score, extra=()):
+        it = item(title, url=f"https://{domain}/{abs(hash(title))}")
+        it.domain = domain
+        cl = Cluster([it, *extra])
+        return Scored(cluster=cl, section_key="politics.world", score=score, primary=it)
+
+    def test_lean_lookup_includes_subdomains(self):
+        self.assertEqual(self.cfg.lean("www.theguardian.com"), "left")
+        self.assertEqual(self.cfg.lean("moxie.foxnews.com"), "right")
+        self.assertEqual(self.cfg.lean("timesofindia.indiatimes.com"), "center")
+        self.assertIsNone(self.cfg.lean("example.com"))
+
+    def test_left_cannot_run_ahead_when_right_stories_exist(self):
+        ranked = [self.scored("Left story one about the summit", "theguardian.com", 10),
+                  self.scored("Left story two about the summit", "aljazeera.com", 9),
+                  self.scored("Left story three about the summit", "theguardian.com", 8),
+                  self.scored("Right story one about the summit", "foxnews.com", 5)]
+        picked = balance(self.cfg, ranked, 3)
+        self.assertEqual([self.cfg.lean(s.primary.domain) for s in picked], ["left", "right", "left"])
+
+    def test_same_story_is_shown_from_the_other_side_when_possible(self):
+        fox = item("Summit ends without deal on Ukraine", url="https://foxnews.com/x")
+        fox.domain = "foxnews.com"
+        ranked = [self.scored("Left story one about the summit", "theguardian.com", 10),
+                  self.scored("Summit ends without deal on Ukraine", "aljazeera.com", 9, extra=[fox])]
+        picked = balance(self.cfg, ranked, 2)
+        self.assertEqual(picked[1].primary.domain, "foxnews.com")
+
+    def test_nothing_is_dropped_when_only_one_side_covers_the_news(self):
+        ranked = [self.scored(f"Left story number {i} about the vote", "theguardian.com", 10 - i) for i in range(4)]
+        self.assertEqual(len(balance(self.cfg, ranked, 4)), 4)
 
 
 if __name__ == "__main__":

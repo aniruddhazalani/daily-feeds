@@ -56,6 +56,30 @@ settings:
 
 ignore_sources: []
 
+# Political lean of outlets, by domain (subdomains included). Used to label headlines and,
+# in feeds with `balance: true`, to keep left and right in balance. Ratings follow
+# AllSides / Ad Fontes where they exist and are judgment calls otherwise — edit freely.
+# Outlets not listed are "unrated" and don't count either way.
+leans:
+  left: [theguardian.com, aljazeera.com, aljazeera.net, npr.org, nytimes.com, washingtonpost.com, cnn.com, msnbc.com,
+         nbcnews.com, cbsnews.com, abcnews.go.com, latimes.com, politico.com, theatlantic.com, vox.com, huffpost.com,
+         motherjones.com, newyorker.com, independent.co.uk, democracynow.org, jacobin.com, opendemocracy.net,
+         foreignpolicy.com, brookings.edu, lawfaremedia.org, migrationpolicy.org, americanimmigrationcouncil.org,
+         immigrationimpact.com, thehindu.com, scroll.in, thewire.in, ndtv.com, thenewsminute.com, thequint.com,
+         newslaundry.com, epw.in, deccanherald.com, telegraphindia.com]
+  center: [reuters.com, apnews.com, bbc.co.uk, bbc.com, bbci.co.uk, thehill.com, axios.com, bloomberg.com, ft.com,
+           economist.com, wsj.com, cnbc.com, newsnationnow.com, csis.org, chathamhouse.org, cfr.org, foreignaffairs.com,
+           warontherocks.com, ecfr.eu, thediplomat.com, lowyinstitute.org, carnegieendowment.org, understandingwar.org,
+           geopoliticalfutures.com, chinatalk.media, indianexpress.com, theprint.in, hindustantimes.com, livemint.com,
+           indiatimes.com, indiatoday.in, business-standard.com, moneycontrol.com, orfonline.org, pib.gov.in,
+           uscis.gov, dhs.gov, state.gov, fragomen.com, murthy.com, boundless.com, jdsupra.com]
+  right: [foxnews.com, foxbusiness.com, nypost.com, washingtonexaminer.com, washingtontimes.com, nationalreview.com,
+          thedispatch.com, thefp.com, dailywire.com, dailycaller.com, breitbart.com, newsmax.com, freebeacon.com,
+          theamericanconservative.com, city-journal.org, realclearpolitics.com, realclearworld.com, telegraph.co.uk,
+          spectator.co.uk, dailymail.co.uk, thetimes.co.uk, thetimes.com, unherd.com, nationalinterest.org, fdd.org,
+          hudson.org, heritage.org, aei.org, hoover.org, cato.org, cis.org, fairus.org, swarajyamag.com, opindia.com,
+          republicworld.com, news18.com, firstpost.com, dailypioneer.com, wionews.com, zeenews.india.com, organiser.org]
+
 # ---------------------------------------------------------------------------
 sources:
   # ---------- Politics: world & geopolitics ----------
@@ -80,7 +104,29 @@ sources:
   phillips_obrien:  { type: rss, kind: blog, name: Phillips O'Brien, url: "https://phillipspobrien.substack.com/feed", topical: true }
   geopolitical_futures: { type: rss, kind: blog, name: Geopolitical Futures, url: "https://geopoliticalfutures.com/feed/", topical: true, paywall: true }
 
+  # Right / center-right and center outlets (added for balance)
+  fox_world:        { type: rss, kind: news, name: Fox News, url: "https://moxie.foxnews.com/google-publisher/world.xml" }
+  wsj_world:        { type: gnews, kind: news, name: Wall Street Journal, query: "site:wsj.com world", paywall: true }
+  telegraph_world:  { type: gnews, kind: news, name: The Telegraph, query: "site:telegraph.co.uk world-news" }
+  spectator:        { type: gnews, kind: blog, name: The Spectator, query: "site:spectator.co.uk" }
+  national_review:  { type: rss, kind: blog, name: National Review, url: "https://www.nationalreview.com/feed/" }
+  the_dispatch:     { type: rss, kind: blog, name: The Dispatch, url: "https://thedispatch.com/feed/" }
+  free_press:       { type: rss, kind: blog, name: The Free Press, url: "https://www.thefp.com/feed", fallback: "site:thefp.com" }
+  unherd:           { type: rss, kind: blog, name: UnHerd, url: "https://unherd.com/feed/" }
+  national_interest: { type: rss, kind: blog, name: The National Interest, url: "https://nationalinterest.org/feed", topical: true }
+  fdd:              { type: rss, kind: blog, name: FDD, url: "https://www.fdd.org/feed/", topical: true }
+  hudson:           { type: gnews, kind: blog, name: Hudson Institute, query: "site:hudson.org", topical: true }
+  heritage:         { type: gnews, kind: blog, name: Heritage Foundation, query: "site:heritage.org" }
+  aei:              { type: gnews, kind: blog, name: AEI, query: "site:aei.org" }
+  hoover:           { type: gnews, kind: blog, name: Hoover Institution, query: "site:hoover.org" }
+  the_hill:         { type: rss, kind: news, name: The Hill, url: "https://thehill.com/news/feed/" }
+  axios:            { type: rss, kind: news, name: Axios, url: "https://api.axios.com/feed/" }
+  wion_world:       { type: gnews, kind: news, name: WION, query: "site:wionews.com world" }
+
   # ---------- Politics: US immigration ----------
+  fox_politics:     { type: rss, kind: news, name: Fox News, url: "https://moxie.foxnews.com/google-publisher/politics.xml" }
+  nypost_politics:  { type: rss, kind: news, name: New York Post, url: "https://nypost.com/politics/feed/" }
+  wash_examiner:    { type: gnews, kind: news, name: Washington Examiner, query: "site:washingtonexaminer.com immigration OR border OR visa" }
   uscis:            { type: gnews, kind: official, name: USCIS, query: "site:uscis.gov" }
   gn_visa_bulletin: { type: gnews, kind: search, query: '"visa bulletin"' }
   dhs:              { type: gnews, kind: official, name: DHS, query: "site:dhs.gov news" }
@@ -108,6 +154,15 @@ sources:
   epw:              { type: gnews, kind: blog, name: EPW, query: "site:epw.in" }
   the_wire:         { type: gnews, kind: news, name: The Wire, query: "site:thewire.in politics" }
   swarajya:         { type: gnews, kind: news, name: Swarajya, query: "site:swarajyamag.com politics" }
+
+  # India: center and right-leaning outlets (added for balance)
+  toi_india:        { type: rss, kind: news, name: Times of India, url: "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms" }
+  india_today:      { type: rss, kind: news, name: India Today, url: "https://www.indiatoday.in/rss/1206578" }
+  news18_politics:  { type: rss, kind: news, name: News18, url: "https://www.news18.com/rss/politics.xml", topical: true }
+  firstpost_india:  { type: rss, kind: news, name: Firstpost, url: "https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml" }
+  republic:         { type: gnews, kind: news, name: Republic, query: "site:republicworld.com india" }
+  opindia:          { type: rss, kind: news, name: OpIndia, url: "https://www.opindia.com/feed/", fallback: "site:opindia.com" }
+  pioneer:          { type: gnews, kind: news, name: The Pioneer, query: "site:dailypioneer.com" }
 
   # ---------- Finance: central banks & rates ----------
   fed_press:        { type: rss, kind: official, name: Federal Reserve, url: "https://www.federalreserve.gov/feeds/press_all.xml", topical: true }
@@ -289,12 +344,15 @@ sources:
 feeds:
   politics:
     title: Politics
+    balance: true     # keep left- and right-leaning outlets even in every section
     sections:
       world:
         title: World & geopolitics
         sources: [bbc_world, aljazeera, guardian_world, gn_ap_world, gn_reuters_world, the_diplomat, lowy,
                   warontherocks, foreign_affairs, foreign_policy, csis, carnegie, brookings, chatham_house,
-                  ecfr, lawfare, isw, chinatalk, phillips_obrien, geopolitical_futures]
+                  ecfr, lawfare, isw, chinatalk, phillips_obrien, geopolitical_futures,
+                  fox_world, wsj_world, telegraph_world, spectator, national_review, the_dispatch, free_press, unherd,
+                  national_interest, fdd, hudson, heritage, aei, hoover, the_hill, axios, wion_world]
         include: { war: 2, ceasefire: 3, sanctions: 2, NATO: 3, "Security Council": 3, summit: 2, election: 1,
                    coup: 3, missile: 2, strike: 1, invasion: 3, diplomacy: 2, diplomatic: 2, treaty: 2, Ukraine: 2,
                    Russia: 2, China: 2, Taiwan: 2, Israel: 2, Gaza: 2, Iran: 2, "North Korea": 2, "South China Sea": 3,
@@ -306,7 +364,9 @@ feeds:
       us_immigration:
         title: US policy affecting immigration
         sources: [uscis, gn_visa_bulletin, dhs, mpi, cato_immigration, cis, murthy, fragomen,
-                  boundless, gn_h1b, gn_us_immigration, guardian_world, bbc_world]
+                  boundless, gn_h1b, gn_us_immigration, guardian_world, bbc_world,
+                  fox_politics, nypost_politics, wash_examiner, heritage, national_review, the_dispatch, free_press,
+                  the_hill, axios]
         include: { immigration: 3, immigrant: 2, immigrants: 2, H-1B: 4, H1B: 4, "green card": 4, visa: 2, visas: 2,
                    USCIS: 4, OPT: 3, "STEM OPT": 4, F-1: 3, H-4: 3, L-1: 2, EB-2: 3, EB-3: 3, EB-5: 3, "priority date": 3,
                    "visa bulletin": 4, asylum: 2, deportation: 2, deported: 2, ICE: 2, border: 1, naturalization: 3,
@@ -320,7 +380,8 @@ feeds:
         title: Indian politics
         sources: [thehindu_national, ie_political_pulse, ie_india, theprint_politics, scroll, ht_india, ndtv_india,
                   mint_politics, pib, carnegie_india, orf,
-                  epw, the_wire, swarajya]
+                  epw, the_wire, swarajya,
+                  toi_india, india_today, news18_politics, firstpost_india, republic, opindia, pioneer]
         include: { BJP: 3, Congress: 3, Modi: 3, "Rahul Gandhi": 3, "Lok Sabha": 3, "Rajya Sabha": 3, Parliament: 2,
                    election: 2, elections: 2, "Election Commission": 3, assembly: 2, "chief minister": 3, CM: 2,
                    minister: 1, "Supreme Court": 2, governor: 2, cabinet: 2, AAP: 3, TMC: 3, DMK: 3, AIADMK: 3,

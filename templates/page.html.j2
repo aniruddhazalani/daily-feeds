@@ -16,6 +16,7 @@
     {% if it.kind | badge %}<span class="badge b-{{ it.kind }}">{{ it.kind | badge }}</span>{% endif %}
     {% if it.tag and it.tag != 'other' %}<span class="badge b-tag">{{ it.tag }}</span>{% endif %}
     <span class="outlet">{{ it.outlet }}</span>
+    {% if it.lean %}<span class="lean l-{{ it.lean }}" title="Outlet leans {{ it.lean }}">{{ it.lean | capitalize }}</span>{% endif %}
     {% if it.paywall %}<span class="lock" title="Paywalled">🔒</span>{% endif %}
     <span class="dot">·</span><time datetime="{{ it.published }}">{{ it.published | local }}</time>
     {% if it.upvotes %}<span class="dot">·</span><span class="up" title="Hugging Face upvotes">▲ {{ it.upvotes }}</span>{% endif %}
@@ -71,7 +72,9 @@
   {% for s in f.sections %}
   {% set total = s.news|length + s.analysis|length + s.papers|length %}
   <details class="section" id="{{ f.id }}-{{ s.id }}" open>
-    <summary><h2>{{ s.title }}</h2><span class="count">{{ total }}</span></summary>
+    <summary><h2>{{ s.title }}</h2><span class="count">{{ total }}</span>
+      {% if s.leans %}<span class="balance" title="Outlet lean of the stories shown">{% for l in ['left', 'center', 'right'] %}<span class="l-{{ l }}">{{ l | capitalize }} {{ s.leans[l] }}</span>{% endfor %}</span>{% endif %}
+    </summary>
     {% if total == 0 %}
       <p class="empty">Nothing new in the last 24 hours.</p>
     {% else %}

@@ -45,6 +45,8 @@ Other commands:
 - Short capitalised terms (`ICE`, `OPT`, `Fed`) match case-sensitively. Everything else ignores case.
 - `junk_titles` under `settings` drops job ads, archive pages and similar everywhere.
 
+**Political balance:** `leans:` rates outlet domains as left, center or right (subdomains included). Each headline shows its outlet's lean, and Politics sections show a Left / Center / Right count. Feeds with `balance: true` (Politics) never let left or right get more than one item ahead when the other side has qualifying stories. The app first tries the same story from an outlet on the other side, then the other side's next-best story. Nothing is dropped if only one side covers the news. To change a rating, move the domain between lists.
+
 **Discovered sources** (`data/discovered_sources.yaml`, written by the app):
 - **Promote:** copy the line shown in the "New sources" tab into `feeds.yaml` and add it to sections. It's then trusted, and the app drops its own copy.
 - **Mute:** add its domain to `ignore_sources:`.
