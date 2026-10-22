@@ -60,3 +60,64 @@ sources:
   - Submission for OMB Review; Comment Request
   - Proposed Collection; Comment Request
   - Small Vertical Shaft Engines From China; Determinations
+- id: disc_businessinsider_com
+  type: rss
+  url: https://feeds.businessinsider.com/custom/all
+  name: Business Insider
+  sections:
+  - ai.vc_revenue
+  kind: discovered
+  domain: businessinsider.com
+  reason: cited by Stratechery, The National Interest, Tomasz Tunguz
+  added: '2026-10-22'
+  last_qualified: '2026-10-22'
+  samples:
+  - 'Peter Thiel breaks with Trump over Iran war: ''We should not have done it'''
+  - Meta CEO Mark Zuckerberg says Muse and Reality Labs are highly unprofitable — for now
+  - Walmart rolls out AI agent shopping features while Amazon tries to curb the tech
+- id: disc_footballtransfers_com
+  type: rss
+  url: https://www.footballtransfers.com/en/transfer-news/feed
+  name: FootballTransfers.com
+  sections:
+  - football.transfers
+  kind: discovered
+  domain: footballtransfers.com
+  reason: 11 matching items via search
+  added: '2026-10-22'
+  last_qualified: '2026-10-22'
+  samples:
+  - Arsenal confirmation as wonderkid decision stuns Chelsea
+  - 'Chelsea Transfer News Today: Manu Kone unlocks everything as record signing eyed'
+  - 'Man Utd Transfer News Today: Bremer opportunity as defensive overhaul planned'
+- id: disc_sundayguardianlive_com
+  type: rss
+  url: https://sundayguardianlive.com/feed/
+  name: The Sunday Guardian
+  sections:
+  - finance.central_banks
+  kind: discovered
+  domain: sundayguardianlive.com
+  reason: 7 matching items via search
+  added: '2026-10-22'
+  last_qualified: '2026-10-22'
+  samples:
+  - 'LIVE | Silver Price Today [22 October 2026]: MCX Silver Drops at ₹2.29 Lakh/kg Amid Trump-Iran War, Fed Policy Uncertainty;
+    Check Latest City-Wise Silver Rates in Delhi, Mumbai, Chennai, Kerala & More'
+  - 'LIVE | Gold Price Today: MCX Gold Near ₹1.46 Lakh, Silver at ₹2.29 Lakh as Oil Surge, Trump-Iran War Amid Fed Rate Hike
+    — Check Latest 24K, 22K, 18K Gold Rate in Delhi, Mumbai, Kerala, Chennai & More'
+- id: disc_english_aawsat_com
+  type: rss
+  url: https://english.aawsat.com/feed
+  name: ASHARQ AL-AWSAT English
+  sections:
+  - politics.world
+  kind: discovered
+  domain: english.aawsat.com
+  reason: cited by FDD, The National Interest
+  added: '2026-10-22'
+  last_qualified: '2026-10-22'
+  samples:
+  - Private Sector Fuels Saudi Arabia’s Growth Lead Among G20 Economies
+  - Saudi Crown Prince Receives Written Message to King Salman from Egyptian President
+  - Netanyahu Says ‘Toppling’ Iran Government Only Way to End Threat
