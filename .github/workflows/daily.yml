@@ -2,10 +2,14 @@ name: Daily feeds
 
 on:
   schedule:
-    # GitHub delays (and sometimes drops) scheduled runs, worst at the top of the hour,
-    # so run early and off the hour, with a backup that only builds if the first didn't.
-    - cron: "17 23 * * *"   # 04:47 IST — main run
-    - cron: "23 0 * * *"    # 05:53 IST — backup, skipped if today's page already exists
+    # GitHub's scheduler is best-effort: runs are often 1h+ late and sometimes dropped
+    # (both happened in the first two days). So there are five chances between 03:37 and
+    # 05:37 IST; the first that fires builds today's page and the rest exit in seconds.
+    - cron: "7 22 * * *"    # 03:37 IST
+    - cron: "37 22 * * *"   # 04:07 IST
+    - cron: "7 23 * * *"    # 04:37 IST
+    - cron: "37 23 * * *"   # 05:07 IST
+    - cron: "7 0 * * *"     # 05:37 IST
   workflow_dispatch: {}
 
 permissions:
@@ -27,14 +31,24 @@ jobs:
         with:
           sparse-checkout: data/days
       - id: guard
+        # Scheduled runs skip if this morning's page (built after 03:00 IST) already exists.
+        # Manual runs always build.
         run: |
-          today=$(TZ=Asia/Kolkata date +%F)
-          if [ "${{ github.event.schedule }}" = "23 0 * * *" ] && [ -f "data/days/$today.json" ]; then
-            echo "Today's page ($today) is already built; backup run not needed."
-            echo "run=false" >> "$GITHUB_OUTPUT"
-          else
-            echo "run=true" >> "$GITHUB_OUTPUT"
-          fi
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, os, pathlib
+          from datetime import datetime, timedelta, timezone
+          ist = timezone(timedelta(hours=5, minutes=30))
+          now = datetime.now(ist)
+          snap = pathlib.Path(f"data/days/{now.date()}.json")
+          built_this_morning = False
+          if snap.exists():
+              built = datetime.fromisoformat(json.loads(snap.read_text())["generated_at"]).astimezone(ist)
+              built_this_morning = built >= now.replace(hour=3, minute=0, second=0, microsecond=0)
+          skip = os.environ["EVENT"] == "schedule" and built_this_morning
+          print("run=" + ("false" if skip else "true"))
+          PY
+        env:
+          EVENT: ${{ github.event_name }}
 
   build:
     needs: check
