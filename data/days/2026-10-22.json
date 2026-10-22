@@ -1,6 +1,6 @@
 {
  "date": "2026-10-22",
- "generated_at": "2026-10-22T03:37:41.472296+00:00",
+ "generated_at": "2026-10-22T03:42:08.031391+00:00",
  "timezone": "Asia/Kolkata",
  "site_title": "Daily Feeds",
  "feeds": [
@@ -57,7 +57,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "right",
-       "score": 11.44,
+       "score": 11.43,
        "tag": null,
        "upvotes": 0
       },
@@ -102,7 +102,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 11.7,
+       "score": 11.69,
        "tag": null,
        "upvotes": 0
       },
@@ -117,7 +117,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 11.49,
+       "score": 11.48,
        "tag": null,
        "upvotes": 0
       },
@@ -192,7 +192,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "right",
-       "score": 10.88,
+       "score": 10.87,
        "tag": null,
        "upvotes": 0
       }
@@ -333,23 +333,6 @@
        "upvotes": 0
       },
       {
-       "title": "US Journalist Margot Kiser Sues Kenyan Government Over Deportation and Immigration Ban",
-       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOempGUDJtbjRjM3VsUEpYSVhwbXE3bUx1eGtBS0NMN2RaOXl3RmFLZkxXX09RTXJibzU3aFdQQWp6OWlCT3ZkMHdHZlhlUE1MOHA2c19rajBjZ184REJBX25SeXNFX0ZKZFZldW5FVDd2c0tqUTI3aG40ZlUxWkdKYTFVYS02UUNucUJjd29kVlZMMnZBb1F1NVZhOExzWFFXUWdxLUhxWjg0QmpZekhFQ19vNTN0R0Y50gG-AUFVX3lxTE93bXl4R00zUnllY0cxdDhPMjliSFV2VXdib0syUFIxbUZxY25JVkZxVElLLVoweGZtRTd0NW9HRjh3U2JadlNmM2JRTmItYUs1b0tHZGdiSUVXRTVuY2tnVTV3TU5KcXdWVnotLXJIMWMtZm10VG5JT3lzSGVPQVlyNUM2NnFqLWV6c09tdkN1a1lfUS1GczVDeTYxazFNREwxN1ZXOElqZjNFS2ljRUdya0dlRmp4bjg2b2RabVE?oc=5",
-       "outlet": "KDRTV",
-       "kind": "search",
-       "published": "2026-10-21T19:30:00+00:00",
-       "snippet": "",
-       "also": [
-        "Mwakilishi.com"
-       ],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 11.36,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
        "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
        "url": "https://www.theguardian.com/us-news/2026/oct/21/ice-detention-illness-deportation-florida",
        "outlet": "The Guardian",
@@ -360,7 +343,22 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 10.84,
+       "score": 10.83,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "US Journalist Margot Kiser Sues Kenyan Government Over Deportation and Immigration Ban",
+       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOempGUDJtbjRjM3VsUEpYSVhwbXE3bUx1eGtBS0NMN2RaOXl3RmFLZkxXX09RTXJibzU3aFdQQWp6OWlCT3ZkMHdHZlhlUE1MOHA2c19rajBjZ184REJBX25SeXNFX0ZKZFZldW5FVDd2c0tqUTI3aG40ZlUxWkdKYTFVYS02UUNucUJjd29kVlZMMnZBb1F1NVZhOExzWFFXUWdxLUhxWjg0QmpZekhFQ19vNTN0R0Y50gG-AUFVX3lxTE93bXl4R00zUnllY0cxdDhPMjliSFV2VXdib0syUFIxbUZxY25JVkZxVElLLVoweGZtRTd0NW9HRjh3U2JadlNmM2JRTmItYUs1b0tHZGdiSUVXRTVuY2tnVTV3TU5KcXdWVnotLXJIMWMtZm10VG5JT3lzSGVPQVlyNUM2NnFqLWV6c09tdkN1a1lfUS1GczVDeTYxazFNREwxN1ZXOElqZjNFS2ljRUdya0dlRmp4bjg2b2RabVE?oc=5",
+       "outlet": "KDRTV",
+       "kind": "search",
+       "published": "2026-10-21T19:30:00+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 10.32,
        "tag": null,
        "upvotes": 0
       },
@@ -375,7 +373,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.29,
+       "score": 10.28,
        "tag": null,
        "upvotes": 0
       },
@@ -390,7 +388,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.1,
+       "score": 10.09,
        "tag": null,
        "upvotes": 0
       },
@@ -405,7 +403,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 10.07,
+       "score": 10.06,
        "tag": null,
        "upvotes": 0
       },
@@ -435,7 +433,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "right",
-       "score": 9.67,
+       "score": 9.66,
        "tag": null,
        "upvotes": 0
       },
@@ -470,20 +468,17 @@
        "upvotes": 0
       },
       {
-       "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-       "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-       "outlet": "BBC World",
-       "kind": "news",
-       "published": "2026-10-21T02:37:13+00:00",
-       "snippet": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
-       "also": [
-        "BBC",
-        "Mwakilishi.com"
-       ],
+       "title": "US Justice Department lets ruling stand on job ads targeting H-1B visa holders",
+       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbTZoRXFYYkpCc2dmMHVHY2t2TVhhT2Y1djhEYTVUMWhyX3Z1ZmdJdV9JOTJGXzNHRGxxbGh6N0RYUWo5bUJTSHRfd3EzZzhXR0ptYW5tdWRxNUM0ZnhOUHBlYnBSWUU5cldBeUJ5M0pkdWs5eWpIYWRFZ3pDYmJjWktPM0hYdXdhZ2lPblpaRlhPdEd0ZDhSdXp6Z0RCZnEyMVFsV2NMcEo?oc=5",
+       "outlet": "Telangana Today",
+       "kind": "search",
+       "published": "2026-10-21T03:44:28+00:00",
+       "snippet": "",
+       "also": [],
        "also_more": 0,
        "paywall": false,
-       "lean": "center",
-       "score": 9.34,
+       "lean": null,
+       "score": 9.0,
        "tag": null,
        "upvotes": 0
       }
@@ -545,7 +540,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 8.89,
+       "score": 8.88,
        "tag": null,
        "upvotes": 0
       },
@@ -583,7 +578,7 @@
      "papers": [],
      "leans": {
       "left": 1,
-      "center": 9,
+      "center": 8,
       "right": 3
      }
     },
@@ -602,7 +597,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 13.96,
+       "score": 13.95,
        "tag": null,
        "upvotes": 0
       },
@@ -622,17 +617,17 @@
        "upvotes": 0
       },
       {
-       "title": "Andhra Pradesh SEC halts election process for 100 ULBs after Supreme Court order",
-       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-stops-election-process-for-100-ulbsafter-supreme-court-order/article71608801.ece",
+       "title": "Will get support of 275 MLAs in 294 member Assembly, says West Bengal CM",
+       "url": "https://www.thehindu.com/news/national/west-bengal/will-get-support-of-275-mlas-in-294-member-assembly-says-west-bengal-cm/article71608418.ece",
        "outlet": "The Hindu",
        "kind": "news",
-       "published": "2026-10-22T01:28:44+00:00",
-       "snippet": "SEC will issue an order on the ULB elections on October 22 after obtaining reports from Collectors, District Election and Police authorities",
+       "published": "2026-10-22T03:35:10+00:00",
+       "snippet": "Chief Minister Suvendu Adhikari gave hints that 64 of the MLAs of the rebel TMC faction will support him. BJP has 209 elected MLAs in the WB Legislative Assembly",
        "also": [],
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 11.82,
+       "score": 11.99,
        "tag": null,
        "upvotes": 0
       },
@@ -652,17 +647,17 @@
        "upvotes": 0
       },
       {
-       "title": "Haryana Congress flays BJP government over its failure to keep poll promises",
-       "url": "https://www.thehindu.com/news/national/haryana/haryana-congress-flays-bjp-government-over-its-failure-to-keep-poll-promises/article71607864.ece",
+       "title": "Andhra Pradesh SEC halts election process for 100 ULBs after Supreme Court order",
+       "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-sec-stops-election-process-for-100-ulbsafter-supreme-court-order/article71608801.ece",
        "outlet": "The Hindu",
        "kind": "news",
-       "published": "2026-10-21T21:15:57+00:00",
-       "snippet": "Deteriorating law and order, farmers’ grievances, unemployment, corruption, poor healthcare services and drug abuse are among other issues. The Congress leaders cornered the BJP on the government’s completion of two years of its third term in Haryana",
+       "published": "2026-10-22T01:28:44+00:00",
+       "snippet": "SEC will issue an order on the ULB elections on October 22 after obtaining reports from Collectors, District Election and Police authorities",
        "also": [],
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 11.47,
+       "score": 11.81,
        "tag": null,
        "upvotes": 0
       },
@@ -682,17 +677,17 @@
        "upvotes": 0
       },
       {
-       "title": "Will get support of 275 MLAs in 294 member Assembly, says West Bengal CM",
-       "url": "https://www.thehindu.com/news/national/west-bengal/will-get-support-of-275-mlas-in-294-member-assembly-says-west-bengal-cm/article71608418.ece",
+       "title": "Haryana Congress flays BJP government over its failure to keep poll promises",
+       "url": "https://www.thehindu.com/news/national/haryana/haryana-congress-flays-bjp-government-over-its-failure-to-keep-poll-promises/article71607864.ece",
        "outlet": "The Hindu",
        "kind": "news",
-       "published": "2026-10-21T18:53:00+00:00",
-       "snippet": "Chief Minister Suvendu Adhikari gave hints that 64 of the MLAs of the rebel TMC faction will support him. BJP has 209 elected MLAs in the WB Legislative Assembly",
+       "published": "2026-10-21T21:15:57+00:00",
+       "snippet": "Deteriorating law and order, farmers’ grievances, unemployment, corruption, poor healthcare services and drug abuse are among other issues. The Congress leaders cornered the BJP on the government’s completion of two years of its third term in Haryana",
        "also": [],
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 11.27,
+       "score": 11.46,
        "tag": null,
        "upvotes": 0
       },
@@ -707,7 +702,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "right",
-       "score": 13.67,
+       "score": 13.66,
        "tag": null,
        "upvotes": 0
       },
@@ -752,7 +747,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 12.75,
+       "score": 12.74,
        "tag": null,
        "upvotes": 0
       },
@@ -767,7 +762,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 11.92,
+       "score": 11.91,
        "tag": null,
        "upvotes": 0
       }
@@ -812,7 +807,7 @@
        "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63839",
        "outlet": "RBI",
        "kind": "official",
-       "published": "2026-10-22T03:37:41.472638+00:00",
+       "published": "2026-10-22T03:42:08.031718+00:00",
        "snippet": "[Under Section 45ZL of the Reserve Bank of India Act, 1934] The sixty third meeting of the Monetary Policy Committee (MPC), constituted under Section 45ZB of the Reserve Bank of India Act, 1934, was held during October 5, 2026. 2. The meeting was…",
        "also": [],
        "also_more": 0,
@@ -833,7 +828,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.95,
+       "score": 11.94,
        "tag": null,
        "upvotes": 0
       },
@@ -871,21 +866,6 @@
        "upvotes": 0
       },
       {
-       "title": "SBI Research forecasts 50 bps repo rate hike by RBI in December policy",
-       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMTlPTWVPSGdVUXhiVFBYUlFJSGc4SmpnQmk3WDBzU3pCZnBhWmRub2d4UG9jX2lYcjdpZ3AwLW5TMGR0MmlWdWxwRHctMkowV19KUjRHUG5fNXBlazJMbnl2TTRSbnhMZldIaWcwOFNJdnMzU0xtV2NaMFhtX3FBYk83VU1TSllKdnJzT2xEbHQxZFZSYmVucWlzeExfLVpLV1JSMnpidlNUXzZ4OEZzNDB1ZlBjWFV0VXRIVmlERko1bC15Mm5BaURKc3TSAdIBQVVfeXFMTlIwaWlJWVNSVjdVbk9hT19PQUdjd19zeXdMZ2JPeHFuaUNTTE1INUFFbFc3TmlRYmhlT1FWMWt4MEhoNG9iQVo4UGNRWnJtREhEdTBmVzFOZHFrbXZtYUFPdnRSeDN1allKbHNGNUNGMFFiNDhvbTdRU0dGeXFQSHVxNzVSTXJrMTJ1aUVkNUh4WHgyVm9JQ3FjbGRVSTN0amRQN3NqQjIzVE55OTcwNTBHYkdlM1Y0THBNZmFTY2FsMTdpMGF5Ry1pVXl1TGVRODhR?oc=5",
-       "outlet": "Asianet Newsable",
-       "kind": "search",
-       "published": "2026-10-22T03:01:02+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 10.95,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
        "title": "Nomura expects 25 bps RBI rate hike in December, says minutes focus on growth, inflation, not forex",
        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRHllY3ZES0FGLUl0aU5IS1d1V3BEVDV0eG00UG5rUnRBbFpxT0dUVllubExBOWVDaFUzd1RaRTVFNzN4VTh1VFNUd3JNZmVRRmhWMnFaRU0wZEtGN2p5RUx4WGtsWDZNWkVrcElweHROaGFNTllGeExMZjVIcVN2MzhmLUlJdFY0dnk4NTVQNGFGci1RZ2twanZ5dzNTeUJCX3JwS3RlRTVwb19iZlIzQlJMMHJyME9EVFg2QUNYeEJKYmtMZy1PNDh4bzAyWjFtaEtCa3JKcVFCczRwME9yekdtdy05R20wVWYxSFA3MGVuX251bDZsQtIB-AFBVV95cUxPRHllY3ZES0FGLUl0aU5IS1d1V3BEVDV0eG00UG5rUnRBbFpxT0dUVllubExBOWVDaFUzd1RaRTVFNzN4VTh1VFNUd3JNZmVRRmhWMnFaRU0wZEtGN2p5RUx4WGtsWDZNWkVrcElweHROaGFNTllGeExMZjVIcVN2MzhmLUlJdFY0dnk4NTVQNGFGci1RZ2twanZ5dzNTeUJCX3JwS3RlRTVwb19iZlIzQlJMMHJyME9EVFg2QUNYeEJKYmtMZy1PNDh4bzAyWjFtaEtCa3JKcVFCczRwME9yekdtdy05R20wVWYxSFA3MGVuX251bDZsQg?oc=5",
        "outlet": "Moneycontrol.com",
@@ -901,17 +881,17 @@
        "upvotes": 0
       },
       {
-       "title": "US Dollar Index hovers around 101.70 as sliding US bond yields counters Fed hike bets",
-       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQOENKOVZNYWJEVk81LWlUaVNoTjJYcUY5Y3BQZjRLTFNaT2VnbFZjUGdEQjVpd3BIR01CeW1LTDZJVDF0VmpMSWMxTlc3dGV5MF82bkNRQ3BQLXJiZFJYTnlTWDJWcmxuS3NmQlRhNUpycGVXQWNTQTRvQThFcXUxb0ZnVENFYmpFX1BEOTBkY2VxaDdna2l1WXpESG50c3YwaFNlUHRzNWxqOEY5Y19TLTJyS0VlV1drR1A5TWNBYk9mOGpzenEyV0lPUWpDSDBwYW5hbURoa0lxSHRfUkFCY0p3M3M?oc=5",
-       "outlet": "www.tmgm.com",
+       "title": "SBI Research forecasts 50 bps repo rate hike by RBI in December policy",
+       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMTlPTWVPSGdVUXhiVFBYUlFJSGc4SmpnQmk3WDBzU3pCZnBhWmRub2d4UG9jX2lYcjdpZ3AwLW5TMGR0MmlWdWxwRHctMkowV19KUjRHUG5fNXBlazJMbnl2TTRSbnhMZldIaWcwOFNJdnMzU0xtV2NaMFhtX3FBYk83VU1TSllKdnJzT2xEbHQxZFZSYmVucWlzeExfLVpLV1JSMnpidlNUXzZ4OEZzNDB1ZlBjWFV0VXRIVmlERko1bC15Mm5BaURKc3TSAdIBQVVfeXFMTlIwaWlJWVNSVjdVbk9hT19PQUdjd19zeXdMZ2JPeHFuaUNTTE1INUFFbFc3TmlRYmhlT1FWMWt4MEhoNG9iQVo4UGNRWnJtREhEdTBmVzFOZHFrbXZtYUFPdnRSeDN1allKbHNGNUNGMFFiNDhvbTdRU0dGeXFQSHVxNzVSTXJrMTJ1aUVkNUh4WHgyVm9JQ3FjbGRVSTN0amRQN3NqQjIzVE55OTcwNTBHYkdlM1Y0THBNZmFTY2FsMTdpMGF5Ry1pVXl1TGVRODhR?oc=5",
+       "outlet": "Asianet Newsable",
        "kind": "search",
-       "published": "2026-10-22T02:49:14+00:00",
+       "published": "2026-10-22T03:01:02+00:00",
        "snippet": "",
        "also": [],
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.93,
+       "score": 10.94,
        "tag": null,
        "upvotes": 0
       },
@@ -926,7 +906,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.91,
+       "score": 10.9,
        "tag": null,
        "upvotes": 0
       },
@@ -941,7 +921,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.75,
+       "score": 10.74,
        "tag": null,
        "upvotes": 0
       },
@@ -956,7 +936,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.71,
+       "score": 10.7,
        "tag": null,
        "upvotes": 0
       },
@@ -987,6 +967,21 @@
        "paywall": false,
        "lean": null,
        "score": 10.57,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Taas-interes, atras-pera! $45B exits US money market funds despite Fed rate hike",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamdlUVM2TmgxMWFkNnU0UUxRYVp3ZWxpb0luTFVqRTkxby1rLXA1VFVWX1gycEpwLTIzclgtYXVmWGlWSEx1ZU5JYlhwbU9EWHJ6bVdSTUJwcmFvTEZaWTExbHZBR1hmR1N5R3ctbjNVd3pFSWNsYmZwNVVHaGluUmVuSkVvelRKYlB1Y1ptZHVKOGJQUnRBN3N2X1RRUEVuUnc0?oc=5",
+       "outlet": "Bilyonaryo Business",
+       "kind": "search",
+       "published": "2026-10-21T16:04:52+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 10.03,
        "tag": null,
        "upvotes": 0
       }
@@ -1068,11 +1063,11 @@
        "upvotes": 0
       },
       {
-       "title": "Bank bond supply to stay at cruising altitude in 2027",
-       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaW94MXhvN2JfVWxid0ZwcmtLdUNxVVhWWDgwb05Gd3pSNkk1VXZqUThlU0diektQNmpCVDMzb1E0RzVqZVMwR0hPbEUzNGVLejhUQUhYSjdiTzE3ak5JQmJNUFBBRGdxQ01xamJsOERvVWxhelNiLWFROE0wR2RTZ3JmdnFLVUQ3TFFRWlBmX2xWQQ?oc=5",
+       "title": "Rates Spark: France still singled out",
+       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uYVFraHFRM3lMYUtMT0hPY0hySU5kSGpTcGhCSENZYUpfamlJamlHYWFmOG1FbVo1Zm1jZkl6WlRSNUJialJuWWdSSW9qUERNMmRXTXRwNEd4THJYeGJFYVhkYXEyTm1yVlNMdDRQd0ZTSTl3amFB?oc=5",
        "outlet": "ING Think",
        "kind": "blog",
-       "published": "2026-10-21T16:53:16+00:00",
+       "published": "2026-10-21T16:58:02+00:00",
        "snippet": "",
        "also": [],
        "also_more": 0,
@@ -1090,36 +1085,6 @@
      "title": "Government fiscal & economic policy",
      "news": [
       {
-       "title": "Schedule - 2026 Annual Meetings of the International Monetary Fund (IMF) and the World Bank Group",
-       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1nNU4zTElVeWJUc1JuZ2xaQ013QVVmSEVnZVFwUlBKTll1bzhPUUUtN0VNeHBLbEhiVi11MVhxek9VOVQ0U2VLMzlEekd0Sm1vcGViWnc3Z3R3TzVsWnVmWFVHblNYYm5oRU1xcmlTQXJtQzR3NTZF?oc=5",
-       "outlet": "IMF",
-       "kind": "official",
-       "published": "2026-10-17T07:39:53+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 10.58,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "World Economic Outlook (October 2026) - GDP per capita, current prices",
-       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWtabm1oNGhBcnJTUks5WUd0RkpHZ1BBaFBYV1VaXzZDSUZ2X1huUG9wNXg5ZzB0RnpKWWd4dG9WVEhYZFRyVkUxLWIyeDhVSGhOamdMTG5rYV9QWWloV1hsWkhGOGExTGZVZ3lQbzNFZkxoblhGRlZadGhyVDRwY0syMDhHR1U?oc=5",
-       "outlet": "IMF",
-       "kind": "official",
-       "published": "2026-10-20T06:39:23+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 10.06,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
        "title": "Canada's budget watchdog cuts GDP growth forecast to 0.9% as U.S. tariffs push federal deficits past $60 billion",
        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlR6NTZJMzBENHVJckQ0SHFfRW9DcDloVUtWaXRVd1JPTTlZZ0RTZEo3cE1QZ2JFOHlTUUplVDVxaUotaHFfSnc5LV9IUXIzWnp0RU8tYWxmQ282SkRKN21nLWlpS1g3UEJ5Vk0waTgtYV9fVVhQaVFOX25HcHN1bkl0eWo2UQ?oc=5",
        "outlet": "Money.ca",
@@ -1135,17 +1100,17 @@
        "upvotes": 0
       },
       {
-       "title": "Monetary and Fiscal Policy Analysis with DSGE Models",
-       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRjJYbllKelpTSmZQRkoweDhlWmt4VnZRN3Y5V252YUlEYVhfMG9RZ0FXVllzUlpDUVByTXZYbndYUmpmRXdlOE5BMkhuYmFjY0lLZ09xU0Zkd0xIR1pTZUFHS3U1QmM5Y1JGTDUwOE1IMGkxbC1XMnBvWGhxZE92bkVoaU9URzJ4V1ZhOTg4aXI?oc=5",
+       "title": "World Economic Outlook (October 2026) - GDP, current prices",
+       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9lQVgyN1BIekphNW1JWmxlN2luS1FJOVBWbmtUamlaTHBISy11NThkc0FhS3JKMl80MjkxQ3Jyci1DSzJGNUVvM09UX3MxRUIxLTc1NTBCYnp3R0ZkWldRY0Y1anQ?oc=5",
        "outlet": "IMF",
        "kind": "official",
-       "published": "2026-10-20T22:44:29+00:00",
+       "published": "2026-10-19T10:04:26+00:00",
        "snippet": "",
        "also": [],
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.4,
+       "score": 9.63,
        "tag": null,
        "upvotes": 0
       },
@@ -1160,7 +1125,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 7.71,
+       "score": 7.7,
        "tag": null,
        "upvotes": 0
       },
@@ -1195,36 +1160,6 @@
        "upvotes": 0
       },
       {
-       "title": "Adapting to a Changing World: How Is the IMF Helping Countries Navigate",
-       "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE04a0VSWFhraEJBcWdUX0pHM2dTNkdlOUo2SGkzZ2hNdENaRExyWUZXX1pHR3RXb0NuUnZBTEhZZUlRYWhFdUZiclR4dnoxODBZbm9EMHM2YmhjUXV3?oc=5",
-       "outlet": "IMF",
-       "kind": "official",
-       "published": "2026-10-17T03:09:38+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 6.49,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Nearly Tk 12,000cr of private sector stimulus disbursed",
-       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0o4b0J0VTdiU0JRT3MwTW9HMnVkWlZGY2xsX3JnLVNJNFJTU05UYlpZS0xwOEtrMTlMSzdydzBTeFpHR3hYU1p0QnY0Rm5mQzRiSEhhTWQzTm14M0VlNFNnb0VHOVk2VHF2WVlhYVZ3R0txakpfVWx2TlYtNkViNktnMmVqM0hrWWNZVVFfUDl1Nk5PY3BVMkF1SlpkS3pBYlZSMzFZYS0zMF9kUzBZ?oc=5",
-       "outlet": "The Daily Star",
-       "kind": "search",
-       "published": "2026-10-21T21:23:31+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 6.48,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
        "title": "Canada’s economic troubles began long before Trump’s tariffs",
        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeXU4cDJqTXhEVTV4d2tLWmVNQUh4SXgyOVZQYTZleFpzOUhhaTMwd0xtMWowU05mMkJiSzAtOTJkeGw2NjdvbXZRZExRWjlFZnFsOFNuQUs5MHlBNzMzUF9LWFI2cExENWtFUkVxY3lhRTJRRUJGb3Z0TlpLVjVkNXIyZ0EzdlpjUUpib25vQQ?oc=5",
        "outlet": "Todayville",
@@ -1240,6 +1175,21 @@
        "upvotes": 0
       },
       {
+       "title": "Nearly Tk 12,000cr of private sector stimulus disbursed",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0o4b0J0VTdiU0JRT3MwTW9HMnVkWlZGY2xsX3JnLVNJNFJTU05UYlpZS0xwOEtrMTlMSzdydzBTeFpHR3hYU1p0QnY0Rm5mQzRiSEhhTWQzTm14M0VlNFNnb0VHOVk2VHF2WVlhYVZ3R0txakpfVWx2TlYtNkViNktnMmVqM0hrWWNZVVFfUDl1Nk5PY3BVMkF1SlpkS3pBYlZSMzFZYS0zMF9kUzBZ?oc=5",
+       "outlet": "The Daily Star",
+       "kind": "search",
+       "published": "2026-10-21T21:23:31+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 6.47,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "Premier Ford and Prime Minister Carney Launch New Action Plan to Protect Workers from Tariffs and Strengthen Ontario Industries",
        "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOVi1yaHFSRFh0QTRhRENhZ2NWbnZyU2hFalRUNVljU2JUalo2S3F5SlV4V3Q1cDk1UUtPMGpGeTE3OTFmUWF1VkdXZE1FWmpnVGlKSGd0dUxRZjM0TDl2eUs0VmFDdnpLZjFPZERXTmwwUkx3NkJVb21tcURVdXJhZlM5U1VTSDBXby16YWVJX2NvQkdQRHBfckdYREw2dkpHd1h4NlZiS0ZmNXRmdDB5X2F3djI3OHA2Ty1JQk45b1VlbDFZTi01QnlKbVNRUDdUSGhOOGZ1bllUdTg2ak8zOG9MOXJ6VXA4TDZBNlo4ekd5YUxOMjdWUjBwbm01V1k?oc=5",
        "outlet": "ontario.ca",
@@ -1250,7 +1200,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 6.27,
+       "score": 6.26,
        "tag": null,
        "upvotes": 0
       },
@@ -1266,6 +1216,51 @@
        "paywall": false,
        "lean": null,
        "score": 5.62,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "IMF Middle East and Central Asia Department Press Briefing",
+       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSzMxck1UV2pYNzFnakR6TzY4eC1wWURCU2M1QUxtWmo3WDVVUjNWVDFkYVNzUmxTUkZObTFoNFBHOFVQeWVjalNBU1RiZ1lqMjNILXc4d3JMNU05Yl9hZE1rYnJPNHNFbkZrelc5UGl1TU9YUk5LN3R4T05VTnFTenVVODk1ZGhUVkN2N3BlcjJKVndMU3dqOWRudHhUaW1NcHkwQU1YaDUyVW8tTkRBeHBIT3BnRDZvaWowc1JOdG1DLWY3SEtmaHRB?oc=5",
+       "outlet": "IMF",
+       "kind": "official",
+       "published": "2026-10-15T09:33:32+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 5.62,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "IMF Asia Pacific Department Press Briefing",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTFQ5dzlibU5BQ2FSSXB0TVdwc3BkaDFIMjRCYTliMktReGdoRmpQNDgtczhJaUE0Zlc2cjladGNCMWcyOVNIRXpDR3RGQi1BWTgxdzFweEtYUVVWSXVTTHFqaGtldUhxNlhoU2NPM1pJdVhoekhBclhGZWlhNHg1NjVMSms5WUFSblRQRUJfYUlJUDkzNk5YWGRqeGkzUkNBM1kwT2VEUTdsZGZxQ1lKNEJmbw?oc=5",
+       "outlet": "IMF",
+       "kind": "official",
+       "published": "2026-10-15T07:03:03+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 5.57,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Introductory Remarks at the IMF’s Middle East and Central Asia Department Press Briefing",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVGRCZUhUclRuRXl0b1pVdm5xNktINzNwUDdjNHNGUzZ6T0NSWGgtTlZ5NFlZTk1JLUpXU3lpeUNTS0hQcE4td08yLXo1V0ZHaWVXVlpjeGUxVVdLUGh6eWNXMUZUb3pLamJsLVNoLURsRkdEUnQweFNLb01GVXV4TlE1N3ROUGFzLTZOeVE3UloxZTRodlh4ZUFNTzdnSkhKaWthR2Z2TTJjQ3pIYXdGUTlpeHpFRWc?oc=5",
+       "outlet": "IMF",
+       "kind": "official",
+       "published": "2026-10-15T07:00:00+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 5.57,
        "tag": null,
        "upvotes": 0
       }
@@ -1288,7 +1283,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.16,
+       "score": 11.15,
        "tag": null,
        "upvotes": 0
       },
@@ -1303,7 +1298,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.99,
+       "score": 10.98,
        "tag": null,
        "upvotes": 0
       },
@@ -1333,7 +1328,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.93,
+       "score": 10.92,
        "tag": null,
        "upvotes": 0
       },
@@ -1348,7 +1343,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.86,
+       "score": 10.85,
        "tag": null,
        "upvotes": 0
       },
@@ -1363,7 +1358,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.81,
+       "score": 10.8,
        "tag": null,
        "upvotes": 0
       },
@@ -1378,7 +1373,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.78,
+       "score": 10.77,
        "tag": null,
        "upvotes": 0
       },
@@ -1393,7 +1388,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.72,
+       "score": 10.71,
        "tag": null,
        "upvotes": 0
       },
@@ -1438,7 +1433,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.37,
+       "score": 10.36,
        "tag": null,
        "upvotes": 0
       },
@@ -1453,7 +1448,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.32,
+       "score": 10.31,
        "tag": null,
        "upvotes": 0
       }
@@ -1525,21 +1520,6 @@
        "score": 6.19,
        "tag": null,
        "upvotes": 0
-      },
-      {
-       "title": "Mishustin Says Local Currencies Near 100% of Russia–China Trade Settlements",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNV0RTMmVtYzd0QUxvcHJFZkVLRkIwRDJ3dHZleVJtQXVGVXZyWUJkNm92Nld0cjd3aUluOVVhUmVrRks2Z1c2QmIzUTFkZ1VfN2NmZnRDX1NhX08zN0JxZ3JUWE5pX1ctcjFEaEplczRwdUZQODlUVDVjQUFOVzNjVEtEVEFXSDNhN2VvN2xoRVBxUUJkd00xaXFSNUwyeXdSVGFkYVZEandnUlBqMDJFSmtDcElydm9VRE4w?oc=5",
-       "outlet": "https://streamlinefeed.co.ke/",
-       "kind": "search",
-       "published": "2026-10-21T11:00:00+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 5.61,
-       "tag": null,
-       "upvotes": 0
       }
      ],
      "analysis": [],
@@ -1560,7 +1540,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "right",
-       "score": 10.66,
+       "score": 10.65,
        "tag": null,
        "upvotes": 0
       },
@@ -1575,7 +1555,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.43,
+       "score": 10.42,
        "tag": null,
        "upvotes": 0
       },
@@ -1607,7 +1587,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.2,
+       "score": 10.19,
        "tag": null,
        "upvotes": 0
       },
@@ -1637,7 +1617,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.06,
+       "score": 10.05,
        "tag": null,
        "upvotes": 0
       },
@@ -1652,7 +1632,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.92,
+       "score": 9.91,
        "tag": null,
        "upvotes": 0
       },
@@ -1667,7 +1647,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.67,
+       "score": 9.66,
        "tag": null,
        "upvotes": 0
       },
@@ -1712,7 +1692,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.56,
+       "score": 9.55,
        "tag": null,
        "upvotes": 0
       },
@@ -1727,7 +1707,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.54,
+       "score": 9.53,
        "tag": null,
        "upvotes": 0
       }
@@ -1841,24 +1821,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 6.78,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
-       "url": "https://news.un.org/feed/view/en/story/2026/10/1168639",
-       "outlet": "UN SDGs",
-       "kind": "official",
-       "published": "2026-10-21T12:00:00+00:00",
-       "snippet": "Two UN agencies issued a powerful appeal on Wednesday for immediate assistance to help communities already being impacted by the strongest El Niño weather pattern on record. Read Full Story on UN News",
-       "also": [
-        "Welcome to the United Nations"
-       ],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 6.71,
+       "score": 6.77,
        "tag": null,
        "upvotes": 0
       },
@@ -1873,7 +1836,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 5.92,
+       "score": 5.91,
        "tag": null,
        "upvotes": 0
       },
@@ -1923,6 +1886,21 @@
        "upvotes": 0
       },
       {
+       "title": "UN agencies appeal for help to protect weakest from unprecedented El Niño",
+       "url": "https://news.un.org/feed/view/en/story/2026/10/1168639",
+       "outlet": "UN SDGs",
+       "kind": "official",
+       "published": "2026-10-21T12:00:00+00:00",
+       "snippet": "Two UN agencies issued a powerful appeal on Wednesday for immediate assistance to help communities already being impacted by the strongest El Niño weather pattern on record. Read Full Story on UN News",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 5.67,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "Sustainable Investment Awards 2026 winner's interview: Aberdeen Emerging Markets SDG Equity Fund",
        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTJTUjdmZFdxbVBhOHEyM3dZc1lqVjNvYWxESm5xc09SZWNubkwyS0l4WEFqQjZlbUhYbVplR2JWMkdLUGMydEQ3bHFuejhuWXNNdjlPeDdrRi1KajdQQXNSMG9PcjFpR2lKUkUwUGpldEVFWHhycDlYc3UzcjIySE9YTWZFZWFIUlJyVFRWMXNFMzRDbVdVZTMzQVhLZGlwVTdwWUN0QXY0Qm1taEk4eUppblhMbnpnM1RKbm5DUmhweGRUV2VUaHVTQWdDQQ?oc=5",
        "outlet": "Investment Week",
@@ -1933,7 +1911,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 5.43,
+       "score": 5.42,
        "tag": null,
        "upvotes": 0
       }
@@ -1966,7 +1944,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.77,
+       "score": 11.76,
        "tag": null,
        "upvotes": 0
       },
@@ -1998,7 +1976,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.14,
+       "score": 11.13,
        "tag": null,
        "upvotes": 0
       },
@@ -2015,7 +1993,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 11.04,
+       "score": 11.03,
        "tag": null,
        "upvotes": 0
       },
@@ -2030,7 +2008,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.71,
+       "score": 10.7,
        "tag": null,
        "upvotes": 0
       },
@@ -2047,7 +2025,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.51,
+       "score": 10.5,
        "tag": null,
        "upvotes": 0
       },
@@ -2092,7 +2070,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.29,
+       "score": 10.28,
        "tag": null,
        "upvotes": 0
       },
@@ -2107,7 +2085,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.19,
+       "score": 10.18,
        "tag": null,
        "upvotes": 0
       },
@@ -2165,21 +2143,6 @@
        "upvotes": 0
       },
       {
-       "title": "Meta’s stock rises as investors see AI revenue potential",
-       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90Y1pqd1ZhS1RUVmZsR0pSdXdLMExnX25uTWNMZDZDTlpxdjZBaDlvTmFUMHhjcXBTVU10S3hhOVEwdUotbDJ2OVdUUTZ5Q1BzZ1ptQ3MwMGVKdEV4WlZFMG02ZGpYSUt6UWVoNWk2dFVfS00?oc=5",
-       "outlet": "Crypto Briefing",
-       "kind": "search",
-       "published": "2026-10-21T23:16:49+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 10.64,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
        "title": "Meta narrows capex forecast as it leans into the AI agent wars",
        "url": "https://www.businessinsider.com/meta-capex-narrows-ai-agent-wars-quarter-3-earnings-2026-10",
        "outlet": "Business Insider",
@@ -2205,7 +2168,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.24,
+       "score": 10.23,
        "tag": null,
        "upvotes": 0
       },
@@ -2235,7 +2198,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.45,
+       "score": 9.44,
        "tag": null,
        "upvotes": 0
       },
@@ -2252,7 +2215,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.23,
+       "score": 9.22,
        "tag": null,
        "upvotes": 0
       },
@@ -2299,7 +2262,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.58,
+       "score": 8.57,
        "tag": null,
        "upvotes": 0
       },
@@ -2314,7 +2277,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.56,
+       "score": 8.55,
        "tag": null,
        "upvotes": 0
       },
@@ -2329,7 +2292,22 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.2,
+       "score": 8.19,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "NiCE named Gartner CCaaS leader as AI revenue jumps",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVVUyZTBtTmhjWFRKV182Y052eV9ULUpyUnlUVmNqa3V6SWo5RlpPQS16aEliS1Q5QVhGTnB3Y1gwUlNUVU9MNlpnbGt5bGxST182bVY0bVBOTDRlT3U0QW01dE5reXhfc3BSSzRMNzljWjZnLUhhNU5UeXBpNjQ3d2ljdTVBZw?oc=5",
+       "outlet": "IT Brief New Zealand",
+       "kind": "search",
+       "published": "2026-10-21T17:34:00+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 8.16,
        "tag": null,
        "upvotes": 0
       }
@@ -2413,7 +2391,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.43,
+       "score": 11.42,
        "tag": null,
        "upvotes": 0
       },
@@ -2428,7 +2406,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 5.51,
+       "score": 5.5,
        "tag": null,
        "upvotes": 0
       },
@@ -2458,7 +2436,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 5.01,
+       "score": 5.0,
        "tag": null,
        "upvotes": 0
       },
@@ -2473,7 +2451,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 3.47,
+       "score": 3.46,
        "tag": null,
        "upvotes": 0
       }
@@ -2565,7 +2543,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 3.69,
+       "score": 3.68,
        "tag": null,
        "upvotes": 0
       }
@@ -2576,7 +2554,7 @@
        "url": "https://huggingface.co/papers/2610.28354",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-21T15:37:41.472638+00:00",
+       "published": "2026-10-21T15:42:08.031718+00:00",
        "snippet": "Spatial reasoning asks a model to work out where objects are in 3D space, how they relate to one another, and how they move. Agentic VLMs have recently brought large improvements on such tasks by letting the model actively gather evidence with 3D…",
        "also": [],
        "also_more": 0,
@@ -2591,7 +2569,7 @@
        "url": "https://huggingface.co/papers/2610.18604",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-21T15:37:41.472638+00:00",
+       "published": "2026-10-21T15:42:08.031718+00:00",
        "snippet": "3D part assembly aims to reconstruct a complete shape from a set of unassembled parts by predicting a rigid SE(3) transformation for each part. Because the placement of a part is rarely determined by its own geometry, the task demands reasoning over…",
        "also": [],
        "also_more": 0,
@@ -2606,7 +2584,7 @@
        "url": "https://huggingface.co/papers/2511.14102",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-21T15:37:41.472638+00:00",
+       "published": "2026-10-21T15:42:08.031718+00:00",
        "snippet": "Mixture-of-experts (MoE) models often exceed a single accelerator's memory capacity. Offloading experts to host memory creates a severe PCIe I/O bottleneck because data-dependent routing keeps transfers on the critical path. We present Specter, an…",
        "also": [],
        "also_more": 0,
@@ -2621,7 +2599,7 @@
        "url": "https://huggingface.co/papers/2610.28444",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-21T15:37:41.472638+00:00",
+       "published": "2026-10-21T15:42:08.031718+00:00",
        "snippet": "Omni LLMs can naturally locate key audio and visual evidence and integrate information across modalities for audiovisual reasoning. Existing audio-visual reasoning benchmarks that mainly rely on multiple-choice questions usually score models solely…",
        "also": [],
        "also_more": 0,
@@ -2636,7 +2614,7 @@
        "url": "https://huggingface.co/papers/2609.34565",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-21T15:37:41.472638+00:00",
+       "published": "2026-10-21T15:42:08.031718+00:00",
        "snippet": "Long-horizon tasks require LLM agents to continually draw on information from earlier interactions. However, retaining the full history increases context costs, while compressing it risks losing details needed later, and the relevance of historical…",
        "also": [],
        "also_more": 0,
@@ -2651,7 +2629,7 @@
        "url": "https://huggingface.co/papers/2610.28522",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-21T15:37:41.472638+00:00",
+       "published": "2026-10-21T15:42:08.031718+00:00",
        "snippet": "Decision models support routing, guardrails, and output verification in LLM systems. However, item accuracy alone cannot establish whether models make correct decisions across controlled variations or assign reliable confidence to their predictions…",
        "also": [],
        "also_more": 0,
@@ -2666,7 +2644,7 @@
        "url": "https://huggingface.co/papers/2610.24648",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-21T15:37:41.472638+00:00",
+       "published": "2026-10-21T15:42:08.031718+00:00",
        "snippet": "Recent works show that LLMs can generate kernels with strong performance on server GPUs. Edge deployment presents distinct challenges because the hardware is heterogeneous, the software stacks are fragmented, and the resource budgets are tight. LLM…",
        "also": [],
        "also_more": 0,
@@ -2681,7 +2659,7 @@
        "url": "https://huggingface.co/papers/2610.16523",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-21T15:37:41.472638+00:00",
+       "published": "2026-10-21T15:42:08.031718+00:00",
        "snippet": "Training LLM agents to interact with users over multiple turns is challenging because the learning signal depends not only on the agent, but also on the user simulator and environment, which jointly shape the agent's experience. Simulated users can…",
        "also": [],
        "also_more": 0,
@@ -2709,17 +2687,153 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.61,
+       "score": 11.6,
        "tag": null,
        "upvotes": 0
       }
      ],
-     "papers": []
+     "papers": [
+      {
+       "title": "MOSS: A Production Framework for Monitoring and Diagnosing Semantic Failures in Search and Recommendation Systems",
+       "url": "https://arxiv.org/abs/2610.26902",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.26902v1 Announce Type: new Abstract: Detecting semantic failures in production recommendation and search systems is hard: behavioral metrics lag by days, manual review does not scale, and most LLM evaluation frameworks are designed for…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "WeGR: Towards Unified Generative Retrieval via Behavior-aware Tokenization and Preference Alignment",
+       "url": "https://arxiv.org/abs/2610.16979",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.16979v3 Announce Type: replace Abstract: Generative retrieval (GR) offers a promising paradigm for industrial search by unifying candidate generation within an autoregressive framework. However, effectively leveraging user behaviors in…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "SweepANN: A GPU-Accelerated Large-K Approximate Vector Search for Drug Discovery",
+       "url": "https://arxiv.org/abs/2610.27306",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.27306v1 Announce Type: cross Abstract: DrugCLIP places small molecules and protein pockets in one space, turning genome-wide drug discovery into large-K retrieval by vector proximity. A campaign fixes over 20K pockets in advance for one…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 8.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Joint Constraint Aggregation for Qualifier-Sensitive Retrieval-Augmented QA",
+       "url": "https://arxiv.org/abs/2610.27114",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.27114v1 Announce Type: cross Abstract: Retrieval-augmented QA can fail even when the correct answer is in the retrieved evidence. This can happen when a competing answer satisfies some, but not all, of the question's requirements and is…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 7.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "GRaSP: Latency-Aware Optimization for Geo-Distributed Retrieval-Augmented Generation",
+       "url": "https://arxiv.org/abs/2610.26938",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.26938v1 Announce Type: new Abstract: Retrieval-Augmented Generation (RAG) is increasingly served across geo-distributed cloud and edge infrastructures, where wide-area latency, cross-region egress cost, and data-residency rules compete…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 7.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "GARRET: Generative Feedback for Region Retrieval in Visual Documents",
+       "url": "https://arxiv.org/abs/2610.27829",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.27829v1 Announce Type: cross Abstract: Multimodal retrieval-augmented generation over visually rich documents requires evidence at a finer granularity than entire pages. Existing visual retrievers typically index or return full pages…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 7.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "KuaFu: Compressing Long User Behavior into Understanding at Billion Scale",
+       "url": "https://arxiv.org/abs/2609.31045",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2609.31045v2 Announce Type: replace Abstract: Learning user preferences from long behavioral sequences is fundamental to large-scale advertising, recommender systems, and conversational agents. In industrial systems, preference modeling is…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 6.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "FLINT: Fixed-budget Late Interaction",
+       "url": "https://arxiv.org/abs/2610.27273",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.27273v1 Announce Type: new Abstract: Multi-vector retrieval models such as ColBERT often outperform single-vector models of comparable scale by matching queries and documents at the token level. However, retaining a vector for every token…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 4.01,
+       "tag": null,
+       "upvotes": 0
+      }
+     ]
     },
     {
      "id": "ads_social",
      "title": "AI in ads & social media",
      "news": [
+      {
+       "title": "Meta Launches Muse Personal Agent as AI Efficiency and Advertising Resilience Combine to Build a Growth Path",
+       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWEx1dzZ3WUpXSnp1a3dNMFhOVU5FX3luenZBU3FtVXlqLVRMdjlKNlJRdVBVYUdHYUc0eG9WX3IzQlpYR3J4Y3hHSkFHekRBODltYVVXb0VSU2JNbjJyNWpFbmsydGI5T1lyYlpIeU44Z1JhU042Y2hnM2FoZ2ZpNktmTWJreHRLQ0gyWS1zbXM2MGtSUzFyYlk3T1JSbEE1SFpzS1VhVEdmVFd5d25scTBYOFhZd08wYmtZeHVjRHdLTUJZV1RXOGRzU21VRHRhckUwUGpsWWM?oc=5",
+       "outlet": "NAI500",
+       "kind": "search",
+       "published": "2026-10-22T03:39:26+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.0,
+       "tag": null,
+       "upvotes": 0
+      },
       {
        "title": "Meta's advertising engine keeps pace with its AI build-out as legal costs cut into profit",
        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVHZvekZfNmRubjF1MEFQcDlYd1d0RV9wV0Zmc2hIUW9rN2xpZFBzU09QNU1lZ3dURFlVbVhjTWloWTdBQ18taklseFJlREczUjhvNGItdENUbU1NVEpxbE0tYlVfMlBCVDR0aGNDWDNweG1XQUMxVVdCeW5oN1c5aEtYLWtER2kxWHFtRnUtanVwclRQ?oc=5",
@@ -2731,7 +2845,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.78,
+       "score": 10.77,
        "tag": null,
        "upvotes": 0
       },
@@ -2746,7 +2860,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.37,
+       "score": 9.36,
        "tag": null,
        "upvotes": 0
       },
@@ -2776,7 +2890,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 6.52,
+       "score": 6.51,
        "tag": null,
        "upvotes": 0
       },
@@ -2791,7 +2905,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 5.73,
+       "score": 5.72,
        "tag": null,
        "upvotes": 0
       },
@@ -2821,7 +2935,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 5.62,
+       "score": 5.61,
        "tag": null,
        "upvotes": 0
       },
@@ -2836,7 +2950,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 5.45,
+       "score": 5.44,
        "tag": null,
        "upvotes": 0
       },
@@ -2866,7 +2980,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 4.71,
+       "score": 4.7,
        "tag": null,
        "upvotes": 0
       },
@@ -2881,22 +2995,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 4.66,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "[Meta Platforms Q3 2026 Earnings Call] Meta's 26% Revenue Surge to $64.6 Billion Overshadowed by $9.9 Billion Legal Charge as Muse Personal AI Agent Signs 10 Million Users in Six Weeks",
-       "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0xNE12NjdjZ05PeDNuMlRNRXI2dk9HVHhNdmlNNFBuRWg5am13T1VFQTViaUdZUWhKdk1zdE91YmVGVVQ0Zzc0NmtKN1RrZDJkZ090MTdkRU5GUjhEcXc?oc=5",
-       "outlet": "BigGo Finance",
-       "kind": "search",
-       "published": "2026-10-21T23:14:00+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 4.63,
+       "score": 4.65,
        "tag": null,
        "upvotes": 0
       }
@@ -2938,7 +3037,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 13.0,
+       "score": 12.99,
        "tag": null,
        "upvotes": 0
       },
@@ -2970,7 +3069,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.7,
+       "score": 11.69,
        "tag": null,
        "upvotes": 0
       },
@@ -2987,7 +3086,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.0,
+       "score": 10.99,
        "tag": null,
        "upvotes": 0
       },
@@ -3017,7 +3116,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.86,
+       "score": 10.85,
        "tag": null,
        "upvotes": 0
       },
@@ -3032,7 +3131,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.85,
+       "score": 10.84,
        "tag": null,
        "upvotes": 0
       },
@@ -3047,7 +3146,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.8,
+       "score": 10.79,
        "tag": null,
        "upvotes": 0
       },
@@ -3062,7 +3161,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.8,
+       "score": 10.79,
        "tag": null,
        "upvotes": 0
       },
@@ -3092,7 +3191,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.77,
+       "score": 10.76,
        "tag": null,
        "upvotes": 0
       }
@@ -3109,12 +3208,133 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.15,
+       "score": 8.14,
        "tag": null,
        "upvotes": 0
       }
      ],
-     "papers": []
+     "papers": [
+      {
+       "title": "Replan for Error Recovery: Training Embodied VLMs through Verifiable Interaction with Action-Grouped Turn-GSPO",
+       "url": "https://arxiv.org/abs/2610.27003",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.27003v1 Announce Type: new Abstract: Embodied VLMs can execute increasingly complex manipulation tasks, yet execution errors can leave the environment in states that require replanning for recovery. Existing recovery methods either rely…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Embodied Playground: A Long-Horizon Agentic Robotics Benchmark for Physical, Strategic, and Spatial Reasoning",
+       "url": "https://arxiv.org/abs/2610.27039",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.27039v1 Announce Type: new Abstract: Foundation models offer a promising basis for robotic agents, but long-horizon tasks require them to sustain coherent reasoning and reliable physical execution across interdependent stages. We…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Visual Task Modeling and Automated Planning for Humanoid Robots in Education of Individuals with Autism Spectrum Disorder",
+       "url": "https://arxiv.org/abs/2610.27162",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.27162v1 Announce Type: new Abstract: In robot-assisted education, a robot must understand how to complete a task in order to effectively guide a student through it. We present a novel method that enables a semi-autonomous, camera-equipped…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "EmbodyHOI: Embodiment-Aware Generation of Hand-Object Interactions for Humanoid Dexterous Manipulation",
+       "url": "https://arxiv.org/abs/2610.27242",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.27242v1 Announce Type: new Abstract: Humanoid dexterous manipulation needs reference motions that are both semantically rich and kinematically feasible for the target robot. Text-conditioned hand-object interaction (HOI) generators supply…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "LocoPilot: Single-Operator Bilateral Teleoperation for Loco-Manipulation Policy Learning",
+       "url": "https://arxiv.org/abs/2610.27998",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.27998v1 Announce Type: new Abstract: Learning loco-manipulation policies requires demonstrations that capture coordinated base and arm motion on the target embodiment. Robot-free interfaces allow demonstrations to be collected…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "PACT-VLA: Speculative Action-Chunk Verification with Pre-Commit Observations",
+       "url": "https://arxiv.org/abs/2610.28019",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.28019v1 Announce Type: new Abstract: Vision-language-action (VLA) policies are commonly deployed with asynchronous inference in real-world settings, where the next action chunk is generated while the robot is still executing the previous…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "FIT-MAC: A Closed-Loop Multi-Agent Framework for Robust Vision-Language-Action Models",
+       "url": "https://arxiv.org/abs/2610.28109",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.28109v1 Announce Type: new Abstract: Vision-language-action (VLA) models have achieved strong performance on standard robotic manipulation benchmarks. However, their reliability can degrade substantially when task conditions deviate from…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "From Predictive Geometry to Action: Learning Complementary Predictive Representations for Embodied Manipulation",
+       "url": "https://arxiv.org/abs/2610.28164",
+       "outlet": "arXiv",
+       "kind": "paper",
+       "published": "2026-10-21T04:00:00+00:00",
+       "snippet": "arXiv:2610.28164v1 Announce Type: new Abstract: Effective manipulation requires a policy to capture not only about the current scene geometry, but also about how that geometry will evolve under interaction. Existing approaches either augment…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 11.01,
+       "tag": null,
+       "upvotes": 0
+      }
+     ]
     },
     {
      "id": "labs",
@@ -3146,7 +3366,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 13.53,
+       "score": 13.52,
        "tag": null,
        "upvotes": 0
       },
@@ -3191,7 +3411,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 7.77,
+       "score": 7.76,
        "tag": null,
        "upvotes": 0
       },
@@ -3281,7 +3501,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 5.7,
+       "score": 5.69,
        "tag": null,
        "upvotes": 0
       },
@@ -3373,7 +3593,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 5.63,
+       "score": 5.62,
        "tag": null,
        "upvotes": 0
       },
@@ -3410,7 +3630,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.5,
+       "score": 10.49,
        "tag": null,
        "upvotes": 0
       },
@@ -3455,7 +3675,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 14.63,
+       "score": 14.62,
        "tag": null,
        "upvotes": 0
       },
@@ -3470,7 +3690,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 11.59,
+       "score": 11.58,
        "tag": null,
        "upvotes": 0
       },
@@ -3485,7 +3705,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 11.47,
+       "score": 11.46,
        "tag": null,
        "upvotes": 0
       },
@@ -3515,7 +3735,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.53,
+       "score": 10.52,
        "tag": null,
        "upvotes": 0
       },
@@ -3530,7 +3750,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.78,
+       "score": 9.77,
        "tag": null,
        "upvotes": 0
       },
@@ -3560,7 +3780,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 9.5,
+       "score": 9.49,
        "tag": null,
        "upvotes": 0
       },
@@ -3575,7 +3795,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 9.43,
+       "score": 9.42,
        "tag": null,
        "upvotes": 0
       },
@@ -3590,7 +3810,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 9.39,
+       "score": 9.38,
        "tag": null,
        "upvotes": 0
       },
@@ -3643,7 +3863,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.41,
+       "score": 10.4,
        "tag": null,
        "upvotes": 0
       },
@@ -3660,7 +3880,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.19,
+       "score": 10.18,
        "tag": null,
        "upvotes": 0
       },
@@ -3677,7 +3897,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.32,
+       "score": 9.31,
        "tag": null,
        "upvotes": 0
       },
@@ -3692,7 +3912,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.65,
+       "score": 8.64,
        "tag": null,
        "upvotes": 0
       },
@@ -3722,7 +3942,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.43,
+       "score": 8.42,
        "tag": null,
        "upvotes": 0
       },
@@ -3752,7 +3972,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.37,
+       "score": 8.36,
        "tag": null,
        "upvotes": 0
       },
@@ -3797,7 +4017,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.28,
+       "score": 8.27,
        "tag": null,
        "upvotes": 0
       },
@@ -3812,7 +4032,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.28,
+       "score": 8.27,
        "tag": null,
        "upvotes": 0
       }
@@ -3835,7 +4055,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 14.76,
+       "score": 14.75,
        "tag": null,
        "upvotes": 0
       },
@@ -3850,7 +4070,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 14.59,
+       "score": 14.58,
        "tag": null,
        "upvotes": 0
       },
@@ -3865,7 +4085,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 14.57,
+       "score": 14.56,
        "tag": null,
        "upvotes": 0
       },
@@ -3895,7 +4115,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 13.91,
+       "score": 13.9,
        "tag": null,
        "upvotes": 0
       },
@@ -3910,7 +4130,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 13.46,
+       "score": 13.45,
        "tag": null,
        "upvotes": 0
       },
@@ -3925,37 +4145,7 @@
        "also_more": 0,
        "paywall": true,
        "lean": "left",
-       "score": 11.61,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Barcelona can celebrate Xavi Espart and La Masia, despite Champions League defeat at PSG",
-       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTjVSclYyOUhTcDVGR0lmd19SZEgxaDdhdjZLbmVOdWE1VHRsX2tfRjBqVHhxbmxJbWQ2Sk1PdDFPUFVNN2x0ZTVkS2FEX09rdzlGN0RCNlVRaXRuYW12bDZ5ZkVZcHFvQmlKSHU0RUhNUnhzcUVxZ1NqMzJway16Qi1xeTlONjFIS2VMVFVBNzA2V3JyYXhtR1pPRVVWS3JhZ2RUbg?oc=5",
-       "outlet": "The Athletic",
-       "kind": "news",
-       "published": "2026-10-21T11:30:10+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": true,
-       "lean": "left",
-       "score": 10.66,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Champions League briefing: Are PSG and Barcelona Europe’s best teams? Who is Liverpool’s new prodigy?",
-       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxONDBJTzVJVjRFS0ptSGVGU0ROVVp0NVY0R3dERERIZDFhNUkzZVloUFRlcTZvX3NacG1KNkJBbm5NU1VNSEZSSFNLWmlyTHhmbzhNVGpVM201NXUwTWdiZktCWHVheENMVWgybXdQT2Z3UndqWnVLX1g1RFZ2TmhsM0s4WFhSbUdaWV9R?oc=5",
-       "outlet": "The Athletic",
-       "kind": "news",
-       "published": "2026-10-21T11:21:00+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": true,
-       "lean": "left",
-       "score": 10.64,
+       "score": 11.6,
        "tag": null,
        "upvotes": 0
       },
@@ -3985,7 +4175,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "center",
-       "score": 9.54,
+       "score": 9.53,
        "tag": null,
        "upvotes": 0
       },
@@ -4000,7 +4190,37 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.53,
+       "score": 9.52,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Isco the difference as Betis continue winning start against Feyenoord",
+       "url": "https://www.bbc.co.uk/sport/football/videos/ckp8gjl3epr7o?at_medium=RSS&at_campaign=rss",
+       "outlet": "BBC Sport",
+       "kind": "news",
+       "published": "2026-10-21T21:23:47+00:00",
+       "snippet": "Real Betis secure their third win on the bounce in the Champions League as Isco converts a penalty in the 59th minute against Feyenoord.",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": "center",
+       "score": 9.47,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "‘Angry’ Carrick on the brink as Fernandes hits out at Manchester United tactics",
+       "url": "https://www.theguardian.com/football/2026/oct/21/michael-carrick-bruno-fernandes-manchester-united-como-champions-league",
+       "outlet": "The Guardian",
+       "kind": "news",
+       "published": "2026-10-21T21:15:23+00:00",
+       "snippet": "Manager apologises to fans after 4-1 defeat in Como Captain criticises ‘decision from the staff’ not to press Michael Carrick’s future as Manchester United manager is in the balance after a humiliating 4-1 Champions League defeat by Como on…",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": "left",
+       "score": 9.46,
        "tag": null,
        "upvotes": 0
       }
@@ -4069,7 +4289,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 4.79,
+       "score": 4.78,
        "tag": null,
        "upvotes": 0
       },
@@ -4136,7 +4356,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 13.26,
+       "score": 13.25,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -4181,7 +4401,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 12.54,
+       "score": 12.53,
        "tag": "f1",
        "upvotes": 0
       },
@@ -4196,7 +4416,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.75,
+       "score": 11.74,
        "tag": "athletics",
        "upvotes": 0
       },
@@ -4226,7 +4446,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 11.39,
+       "score": 11.38,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -4256,7 +4476,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 11.05,
+       "score": 11.04,
        "tag": "athletics",
        "upvotes": 0
       },
@@ -4271,7 +4491,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 11.02,
+       "score": 11.01,
        "tag": "other",
        "upvotes": 0
       },
@@ -4286,7 +4506,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 10.47,
+       "score": 10.46,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -4301,7 +4521,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 10.45,
+       "score": 10.44,
        "tag": "f1",
        "upvotes": 0
       },
@@ -4316,7 +4536,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 10.23,
+       "score": 10.22,
        "tag": "other",
        "upvotes": 0
       },
@@ -4361,7 +4581,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 9.76,
+       "score": 9.75,
        "tag": "tennis",
        "upvotes": 0
       },
@@ -4381,21 +4601,6 @@
        "upvotes": 0
       },
       {
-       "title": "ICC Under 19 Women's T20 World Cup 2027 Videos",
-       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjJvLW5SczFBbTRQZFQwSFAtX3c2UmMwaXgwRGhmMDQwUjJHamcxdGJBVWcwcjQ5MEJycGdKczNwMzBrX1dSNkNuNkhfdHNrLS1rUHlJSk5LVW9QTHBPUGt2SUVmNTZBX1lmVGxKU1pmSW5EUVdRYjFOMnBCbVpyWmZRbS1SZ05sLW9EUWtHV3BkMDhkM3c?oc=5",
-       "outlet": "Cricbuzz",
-       "kind": "news",
-       "published": "2026-10-21T10:00:01+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 9.53,
-       "tag": "cricket",
-       "upvotes": 0
-      },
-      {
        "title": "LeBron James feeling positive after first win with Philadelpia 76ers",
        "url": "https://sportstar.thehindu.com/basketball/lebron-james-feeling-good-positive-reaction-philadelphia-76ers-vs-new-york-knick-team-chemistry-nba-news/article71606716.ece",
        "outlet": "Sportstar",
@@ -4406,7 +4611,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 9.34,
+       "score": 9.33,
        "tag": "nba",
        "upvotes": 0
       },
@@ -4436,7 +4641,7 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 8.99,
+       "score": 8.98,
        "tag": "other",
        "upvotes": 0
       },
@@ -4451,8 +4656,23 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 8.96,
+       "score": 8.95,
        "tag": "other",
+       "upvotes": 0
+      },
+      {
+       "title": "New Zealand vs India, 1st T20I, Preview: Little time to unpack as India open in Christchurch",
+       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSXhkcWVJMElGRmtUQWJ5bHlRc09hdm93SWY5a05CT1B4Z1FvZlJiSUFxaUF2Y3RGVjRsQXhZa2V6ano0cXg0MmZ5VlhPLWRITkozeXFnYTNpc2laVWRqRzY2ZnJBVXNvdlRvR0ZDQUNtMkliUHBIZFNqdFhmcndtNmZkcFFWLUs4Z1g3eWI3N1RJQW9oRlBfNm5PR1NwR2VDMWcteEluR01NcTBhWkQxLXFrUDlMUUhmdVFOVGdKa3VkOEJfbDZhVjZ0ekRyZUt4YWtJQ2xrdTMwN2d4UTZ3?oc=5",
+       "outlet": "Cricbuzz",
+       "kind": "news",
+       "published": "2026-10-21T21:29:56+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 8.48,
+       "tag": "cricket",
        "upvotes": 0
       },
       {
@@ -4466,7 +4686,22 @@
        "also_more": 0,
        "paywall": false,
        "lean": null,
-       "score": 8.31,
+       "score": 8.3,
+       "tag": "cricket",
+       "upvotes": 0
+      },
+      {
+       "title": "NZ vs IND, 1st T20I, India tour of New Zealand 2026 - Commentary",
+       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPb053ckhFZWV5TFczU2hFM1Q1QjhlcmZwbHc1eGRsTkQ1cUJXTE5SMk8wSW9paS1BcUFxTE5RRkUyVnFpRmJaUkZGQWNzdnRpUGZRdVUwbWs3WDYzMjlIMFd4LWFGM05BWnNOZGpDTlFoRl9yZ0lnbjg5enJqMmhWUmV4cjBxYXZ6VTc0VTZhUHBIWmctRkE?oc=5",
+       "outlet": "Cricbuzz",
+       "kind": "news",
+       "published": "2026-10-21T17:23:38+00:00",
+       "snippet": "",
+       "also": [],
+       "also_more": 0,
+       "paywall": false,
+       "lean": null,
+       "score": 8.14,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -4481,23 +4716,8 @@
        "also_more": 0,
        "paywall": false,
        "lean": "left",
-       "score": 8.09,
+       "score": 8.08,
        "tag": "nfl",
-       "upvotes": 0
-      },
-      {
-       "title": "India tour of New Zealand 2026 Points Table",
-       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPY1UwYzRqOFhUWU1yY05QTWlxVW9Xa3ItS3ZkOUhPT1hhY2xQTWpCX0ZZUnR4R0dhcWVMUDJhZ3NfUGlFeEJjSHNXbzVaNURaczJVOFVxR3B4TzdJV216eDFDWTRhdEQ5b1dlb0kzR0RNMmRJUld4bFdDMG1RWTB1a3l5U3hfWEhaMU5rWG1nZmo5QlE?oc=5",
-       "outlet": "Cricbuzz",
-       "kind": "news",
-       "published": "2026-10-21T16:18:46+00:00",
-       "snippet": "",
-       "also": [],
-       "also_more": 0,
-       "paywall": false,
-       "lean": null,
-       "score": 8.06,
-       "tag": "cricket",
        "upvotes": 0
       }
      ],
@@ -4721,24 +4941,9 @@
  ],
  "problems": [
   {
-   "id": "arxiv_cl",
-   "name": "arXiv cs.CL",
-   "error": "HTTP 429"
-  },
-  {
-   "id": "arxiv_ir",
-   "name": "arXiv cs.IR",
-   "error": "ReadTimeout: "
-  },
-  {
-   "id": "arxiv_lg_llm",
-   "name": "arXiv cs.LG",
-   "error": "ReadTimeout: "
-  },
-  {
-   "id": "arxiv_ro",
-   "name": "arXiv cs.RO",
-   "error": "ReadTimeout: "
+   "id": "fedguy",
+   "name": "Fed Guy",
+   "error": "unparseable feed (SAXParseException)"
   },
   {
    "id": "greylock",
@@ -4747,6 +4952,26 @@
   }
  ],
  "fallbacks": [
+  {
+   "id": "arxiv_cl",
+   "name": "arXiv cs.CL",
+   "error": "ReadTimeout: "
+  },
+  {
+   "id": "arxiv_ir",
+   "name": "arXiv cs.IR",
+   "error": "HTTP 429"
+  },
+  {
+   "id": "arxiv_lg_llm",
+   "name": "arXiv cs.LG",
+   "error": "HTTP 429"
+  },
+  {
+   "id": "arxiv_ro",
+   "name": "arXiv cs.RO",
+   "error": "HTTP 429"
+  },
   {
    "id": "cricverse",
    "name": "The Cricverse",
@@ -4805,10 +5030,10 @@
  ],
  "stats": {
   "sources": 226,
-  "sources_ok": 221,
-  "items": 8557,
-  "kept": 4245,
-  "stories": 4098,
-  "shown": 287
+  "sources_ok": 224,
+  "items": 8746,
+  "kept": 4493,
+  "stories": 4319,
+  "shown": 302
  }
 }
