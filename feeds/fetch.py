@@ -119,7 +119,7 @@ def parse_feed(src: Source, body: bytes, now: datetime) -> FetchResult:
             snippet_html = ""  # Google News descriptions are just link lists
             if src.kind != "search" and src.name:
                 outlet = src.name
-        if src.type == "arxiv":
+        if src.type == "arxiv" or domain == "arxiv.org":
             outlet = "arXiv"
             title = WS_RE.sub(" ", title)
         res.items.append(Item(
@@ -207,8 +207,24 @@ def fallback_query(src: Source) -> Optional[str]:
     return None
 
 
+def arxiv_rss_fallback(src: Source) -> Optional[Source]:
+    """arXiv's API rate-limits shared IPs (GitHub Actions); its per-category RSS is a separate service."""
+    m = re.search(r"cat:([\w.-]+)", src.query or "")
+    if src.type != "arxiv" or not m:
+        return None
+    return replace(src, type="rss", url=f"https://rss.arxiv.org/rss/{m.group(1)}", name="arXiv", query=None)
+
+
 async def fetch_one(client, src: Source, settings: dict, now: datetime, sems: dict) -> FetchResult:
     res = await _fetch_direct(client, src, settings, now, sems[src.type])
+    rss = arxiv_rss_fallback(src) if (res.error or not res.items) else None
+    if rss:
+        fb = await _fetch_direct(client, rss, settings, now, sems["rss"])
+        if fb.items:
+            log.info("%s: API failed (%s), used arXiv RSS", src.id, res.error or "no items")
+            fb.fallback = res.error or "no items"
+            return fb
+        return res
     query = fallback_query(src) if (res.error or not res.items) else None
     if not query:
         return res
