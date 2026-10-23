@@ -25,7 +25,7 @@ sources:
   domain: euronews.com
   reason: cited by FDD, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-21'
+  last_qualified: '2026-10-23'
   samples:
   - '''Time to make a deal,'' Trump tells Zelenskyy as he complains US has got ''nothing back'' from Ukraine'
   - 'Investment summit: German government strikes AI deal with Nvidia'
@@ -40,7 +40,7 @@ sources:
   domain: kyivindependent.com
   reason: cited by Phillips O'Brien, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-21'
+  last_qualified: '2026-10-23'
   samples:
   - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
   - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
@@ -85,7 +85,7 @@ sources:
   domain: footballtransfers.com
   reason: 11 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-10-22'
+  last_qualified: '2026-10-23'
   samples:
   - Arsenal confirmation as wonderkid decision stuns Chelsea
   - 'Chelsea Transfer News Today: Manu Kone unlocks everything as record signing eyed'
@@ -121,3 +121,79 @@ sources:
   - Private Sector Fuels Saudi Arabia’s Growth Lead Among G20 Economies
   - Saudi Crown Prince Receives Written Message to King Salman from Egyptian President
   - Netanyahu Says ‘Toppling’ Iran Government Only Way to End Threat
+- id: disc_digitimes_com
+  type: rss
+  url: https://www.digitimes.com/rss/daily.xml
+  name: digitimes
+  sections:
+  - ai.robotics
+  kind: discovered
+  domain: digitimes.com
+  reason: 7 matching items via search
+  added: '2026-10-23'
+  last_qualified: '2026-10-23'
+  samples:
+  - MIPI expands beyond smartphones into AR glasses and humanoid robots
+  - Tesla's Megapack boom meets AI power crunch, but margin gains raise questions
+  - China's L3 autonomous driving adoption tipped to top 35% by 2030, raising stakes for automakers
+- id: disc_world_nuclear_news_org
+  type: rss
+  url: https://world-nuclear-news.org/rss
+  name: World Nuclear News
+  sections:
+  - politics.world
+  kind: discovered
+  domain: world-nuclear-news.org
+  reason: cited by FDD, The National Interest
+  added: '2026-10-23'
+  last_qualified: '2026-10-23'
+  samples:
+  - Hydraulic tests completed at Turkey's Akkuyu 1
+  - Bangladesh's Rooppur 1 achieves criticality
+  - Agreement signed on second Polish nuclear power plant
+- id: disc_tovima_com
+  type: rss
+  url: https://www.tovima.com/feed
+  name: tovima.com
+  sections:
+  - politics.world
+  kind: discovered
+  domain: tovima.com
+  reason: cited by FDD, The National Interest
+  added: '2026-10-23'
+  last_qualified: '2026-10-23'
+  samples:
+  - Carney, Erdogan Unveil Trade and Defense Partnership in Ankara
+  - How Does the Ukrainian Military Use Starlink?
+  - The battle for Israel’s future
+- id: disc_politico_eu
+  type: rss
+  url: https://www.politico.eu/feed/
+  name: POLITICO
+  sections:
+  - politics.world
+  kind: discovered
+  domain: politico.eu
+  reason: cited by FDD, UnHerd
+  added: '2026-10-23'
+  last_qualified: '2026-10-23'
+  samples:
+  - Farage plays down his Trump friendship in Britain — and talks it up to MAGA
+  - ‘There is no immunity to Donald Trump’
+  - Brussels proposes delaying tuition fee demand till after UK-EU summit
+- id: disc_manilatimes_net
+  type: rss
+  url: https://www.manilatimes.net/blog/feed
+  name: The Manila Times
+  sections:
+  - ai.vc_revenue
+  kind: discovered
+  domain: manilatimes.net
+  reason: 6 matching items via search
+  added: '2026-10-23'
+  last_qualified: '2026-10-23'
+  samples:
+  - MicroVision Begins Commercial Production of MOVIA(TM) Pro to Meet Immediate Customer Demand for Superior Short-Range Sensing
+    and Onboard Perception, Enabling Physical AI at the Edge
+  - 'Allooloo Technologies Corp. Launches AI Agent Products for Financial Services Agents: Know Your Product and News'
+  - Blackbaud Expands AI-Powered Innovation for Social Impact at bbcon Sydney
