@@ -1128,6 +1128,11 @@
     "date": "2026-10-24",
     "post": "https://www.thefp.com/p/evan-gershkovich-my-time-as-prisoner-journalist-war-ukraine-russia-putin",
     "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-25",
+    "post": "https://www.thefp.com/p/the-death-of-writing-plus-norm-macdonald-kylie-jenner",
+    "source_id": "free_press"
    }
   ],
   "brandeis.edu": [
@@ -1808,6 +1813,11 @@
     "date": "2026-10-22",
     "post": "https://www.wisden.com/cricket-features/pakistans-best-odi-batter-is-hiding-in-plain-sight-salman-ali-agha",
     "source_id": "wisden"
+   },
+   {
+    "date": "2026-10-25",
+    "post": "https://www.wisden.com/cricket-news/ranked-the-20-best-meaningless-odis-of-all-time",
+    "source_id": "wisden"
    }
   ],
   "cricket.com.au": [
@@ -1878,6 +1888,13 @@
    {
     "date": "2026-10-24",
     "post": "https://latent.space/p/ainews-black-october/",
+    "source_id": "latent_space"
+   }
+  ],
+  "cve.org": [
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
     "source_id": "latent_space"
    }
   ],
@@ -3453,6 +3470,11 @@
     "date": "2026-10-24",
     "post": "https://latent.space/p/ainews-high-taste-testers-ep-1/",
     "source_id": "latent_space"
+   },
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
+    "source_id": "latent_space"
    }
   ],
   "i24news.tv": [
@@ -3955,6 +3977,18 @@
     "date": "2026-10-24",
     "post": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
     "source_id": "simon_willison"
+   },
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
+    "source_id": "latent_space"
+   }
+  ],
+  "kimi.com": [
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
+    "source_id": "latent_space"
    }
   ],
   "klyszcz.substack.com": [
@@ -4499,6 +4533,13 @@
     "source_id": "fdd"
    }
   ],
+  "mng.bz": [
+   {
+    "date": "2026-10-25",
+    "post": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+    "source_id": "ahead_of_ai"
+   }
+  ],
   "mod.gov.il": [
    {
     "date": "2026-10-24",
@@ -4944,6 +4985,11 @@
     "date": "2026-10-24",
     "post": "https://latent.space/p/ainews-high-taste-testers-ep-1/",
     "source_id": "latent_space"
+   },
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
+    "source_id": "latent_space"
    }
   ],
   "news.un.org": [
@@ -5116,6 +5162,20 @@
     "date": "2026-10-23",
     "post": "https://unherd.com/2026/10/the-power-grab-of-the-ai-doomers/?edition=us",
     "source_id": "unherd"
+   }
+  ],
+  "no3gin.com": [
+   {
+    "date": "2026-10-25",
+    "post": "https://www.thefp.com/p/the-death-of-writing-plus-norm-macdonald-kylie-jenner",
+    "source_id": "free_press"
+   }
+  ],
+  "nomback.com": [
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
+    "source_id": "latent_space"
    }
   ],
   "noramaerospace.org": [
@@ -5445,6 +5505,11 @@
    {
     "date": "2026-10-24",
     "post": "https://latent.space/p/ainews-black-october/",
+    "source_id": "latent_space"
+   },
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
     "source_id": "latent_space"
    }
   ],
@@ -6458,6 +6523,11 @@
     "date": "2026-10-22",
     "post": "https://simonwillison.net/2026/Oct/21/panache/",
     "source_id": "simon_willison"
+   },
+   {
+    "date": "2026-10-25",
+    "post": "https://simonwillison.net/2026/Oct/24/battledrones/",
+    "source_id": "simon_willison"
    }
   ],
   "sipri.org": [
@@ -6759,6 +6829,11 @@
     "date": "2026-10-24",
     "post": "https://latent.space/p/ainews-high-taste-testers-ep-1/",
     "source_id": "latent_space"
+   },
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
+    "source_id": "latent_space"
    }
   ],
   "supreme.justia.com": [
@@ -6811,6 +6886,13 @@
     "source_id": "free_press"
    }
   ],
+  "tbench.ai": [
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
+    "source_id": "latent_space"
+   }
+  ],
   "tdv.org": [
    {
     "date": "2026-10-23",
@@ -6849,6 +6931,13 @@
     "date": "2026-10-22",
     "post": "https://www.latent.space/p/tenex",
     "source_id": "latent_space"
+   }
+  ],
+  "tenor.com": [
+   {
+    "date": "2026-10-25",
+    "post": "https://www.wisden.com/cricket-news/ranked-the-20-best-meaningless-odis-of-all-time",
+    "source_id": "wisden"
    }
   ],
   "terribleminds.com": [
@@ -7442,6 +7531,13 @@
     "source_id": "fdd"
    }
   ],
+  "urldefense.com": [
+   {
+    "date": "2026-10-25",
+    "post": "https://www.thefp.com/p/the-death-of-writing-plus-norm-macdonald-kylie-jenner",
+    "source_id": "free_press"
+   }
+  ],
   "us.headtopics.com": [
    {
     "date": "2026-10-24",
@@ -7509,6 +7605,11 @@
    {
     "date": "2026-10-20",
     "post": "https://www.latent.space/p/ainews-meta-muse-wonder-and-wonder",
+    "source_id": "latent_space"
+   },
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
     "source_id": "latent_space"
    }
   ],
@@ -7961,6 +8062,13 @@
     "source_id": "fdd"
    }
   ],
+  "z.ai": [
+   {
+    "date": "2026-10-25",
+    "post": "https://latent.space/p/ainews-kimi-31/",
+    "source_id": "latent_space"
+   }
+  ],
   "zhuanlan.zhihu.com": [
    {
     "date": "2026-10-22",
@@ -8238,6 +8346,15 @@
     ],
     "title": "Can Trump stop the surge in oil prices? Experts weigh in",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkw4RU9xbDZSTmtFZTBfY0JESTZUWElMOVdvaWUzbFNiZ25wQmtGQWgyTk1FWkhLTDRNdEprY0ZMdUxvN2V4WDZaeVVuTnIyNndMVVFnazk1cjh2WVZkcjUyUElfRUJPMHMxVFktVWlaSURKb2VZVU93Qld4SU9Jc1pZOUFtcWZsUjlUVXAyRkExOFXSAZgBQVVfeXFMTWtTb3JPM3luaE9XT2dQRmxsODBSaFpJOHA4Y3NhVmR2Z1ZQeHMzRHNhUlZvaGRVYVZmM3pTeWxyWkZSdW03UlFMaFU3TWtOOThWUThxcGpXYmRrcklRZnpPSEd3TjBic0RUdlM4ZXFfaklkZVF3Q3c3ZTZNbWpaSS1rRDRYM1BEM2VqNFBiT0NQdFpPSFZFaFM?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ABC News - Breaking News, Latest News and Videos",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Trump's 50% tariffs on Canada take effect as Carney vows to retaliate",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeDdPQV9hVEo4eEFTSlhrVkowRE9mVVlJQzJkZTJnOG1TTUl1ZWYtNG1CcWk2MWlmZG51eVd2S0NJT0pWeHphblVQWThQMTc2OVhDd3VQQXZRU0gteVYtQlkxa29fcVpVV3VKSkl6NVdRTWhvT0E5X3VfVVI0UlVVdnhoUERGMFpxWVR1YXFiSENWQ2lTUTFNLTBEcU1ObHlfTW9OZ01VcmLSAa4BQVVfeXFMT0NxQThhZzl5Q29YNEt0Nl9FV3NrYzRMa1JXX0Vmd2pROGhvVHM3TFJ5NGRrOWVnY0FCOS1LM25MdVdINW8tNjZSS2NDSmhZbUZ4cFdOMWU4N1RObVVpNG43YTJRelY2R21VRDVjcm51cVk0b0ZISVdmNWFFcTdVOFJRdEZLamtrZXg0eER4cW9RbEt2R0lONGxjSXpYZ3RZbXRxbk9iaWdmREw0YVZB?oc=5"
    }
   ],
   "actionforex.com": [
@@ -9952,6 +10069,339 @@
     ],
     "title": "Falcons' viral stripes will appear down center of helmets",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV3k2dDREZ0RZZHFWVlU4clJZNEZEdVBWejZLZDBKZ0o5R2RiN25CWS1jZFVycl9NdTVqMHBTQjRpZU83a2hyRlBkTTd3X2FJNTdNRm93REJpa0JvMWY3NTc0SFhoSTRUeS1GLWR0R09PTmIzUnFMZmZGc1VSZUMyQUxHa3VZcThueW9NZnZlMlFKVmt1Rk5iUEpJVmttemJm?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Eagles' DeVonta Smith, Dontayvion Wicks out vs. Cowboys",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY0t1cFNsYlMtX3RCcTkyVnNUUDJZYXpCQ0Z6NmdPUEVweXNrRW8wZ1d2Nl9BX2ZJQVUwRWgzaWZnd2NodmlhT1BYTHA4RE1aTFhlcTJEeC0tZ0VwM0xNbFRFNWZwRTZDRlBQblBkcDluaE8wM3pJbS00YmpDblR2c1NoSDh5MkU0dEFnUGlpSEJ5b2p4WWFvUzFTOVQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Packers activate RB Josh Jacobs for 2026 debut",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZ0NOelgxc0IzZXIwTHNqOXNJaC12c1VmU2tScjkwMFZkc2pXLXktWVNnaUFmT2stbW9vbWdMd0poUkxqajlXOEE5SUdDT2IzMy1wSnU5dF93emFOUjQ0VnNvRWR1Rms1ZzZ2ZTZRQnFZbHo1OHJhenpvNE1veXVtUWZWY253SkZJcDJYd0w0TVMyMEl3?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Ravens rule out Lamar Jackson (ankle) vs. Bengals; Tyler 'Snoop' Huntley to start",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZ1ZTb0gtMVlvQ3JpVlI2MGF3VnR4SkNmZ1ExUUF5Z0ZoMjhBanBiODBGaFNxeU9WVndrV1k4cWg0cXMtZmNXTks2RUxVZ3htSWxZTzhNakI1R1FFWXVtTy1MclloZk93RkltMzFGNWlQZHpsdFlEZnd6R0VYaTNNbjFteWE3R1lBNG1USk5WZVF2Vnh6SjgxVWxiV2ZfR3lnU2oxVg?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Patriots must improve turnover differential if they want to win, other notes",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN1gza294aTNJc0VaT19wdmF1UTRxeXc2akxDOFpuMkdGY0tKbkM5ZE42cnJxQlhjNURFUjB2QV9XQlJRY21HcVBTX3NSOGJLbzhmam90NjU4RTM1aHNjcVBhZFRxZU03VUJ6ZWk1dG9ReWMzUmZmQmZ6Q3hxZ0s3a1hJMkR0cVJNRHN2enRIM3VnbTQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN FC",
+    "sections": [
+     "football.top"
+    ],
+    "title": "Mansfield vs. Notts County (31 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5SQ1IzUkNxbm90dzIzZlRCU3BpQVVBRHVGdmo1QXdoVWxZeGxuNzVtcjF1Q0Zjcnd3bl91eXh2SHhPaERpUEF0RkRpZXNwWmF5dFZ5amdNUi1QWUhIWTRoQm4yWlhsVzVYVUppUVdEYlptZWhsZXBr?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Warriors vs. Suns (25 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzZTl4cDduNFplVDl2aXJ2VFJIN3ZmNjdFZEloNUFIQTRtWGhaazhCaUl0Nmw1ZHE3NndMM3I5U3Bva0xYdE9FekpYTjc3dFdNelZudElzaExoZ2otMjAyN0NvLWZVUDBLak1kN1RCN3VkRHM?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Spurs vs. Mavericks (25 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iNkdYak0zTTlhQ2lNZ2xOekNkUEs5a0N0NU1pdUQ2VWRWUkp4RG5jSzRtanE4NHZsYUtXTUZDajNpUF9ZamRIMHI1TWphSE9JVnFlLUJ0YlZyNEZMb3pleXZ4NmdkNHNHc2l5Tng2S0x6QkYzM0E?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Spurs vs. Rockets (6 Mar, 2027) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjR09mZm5ScGFfZ1BMeERlajgyOUp2dzFjTm9PLUFSM2ZEb0JRbkdQLXZvMWR1Y0JKa0N5NTRXZm1YQ2owOUdIWllwVXJQSXhnWXVHbUlSX09BbkZOYjF0U29LVXZrejB6NVE0Q2szMk13alE?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Rockets 114-110 Spurs (24 Oct, 2026) Final Score",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSVBla1BsclFtSVpQUUpWUUxyNGRTM0NyeUM5N0ZDUDJmeU5PajlVTzNleHlBUTlLMUNEeTdXVTAwUmo0b053NlpMMHdXVW1KU2dLQnp5SE5WX2luWDFPRFhmeFVaRkIyU2t6cE9BX2dmTU0?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Rockets 114-110 Spurs (24 Oct, 2026) Game Stats",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBKWHRLOEFiTzQtNm14anhWdzhJbFpBd0JrZDdBR1UzUzg5anYzQWJFQTVyNmFRVGREZ2JuTnFSQjRtNVVnZHJ3MDN3RDVhdWxSTkxodGhGZ0lpWWRwQU85bm5n?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Grizzlies 111-108 Warriors (24 Oct, 2026) Game Stats",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rS3VrSlJrbzNmOFdmZWpJVGVVNks2UjRudVBTdnhBTEh1RnE5cHhqTnJYdW5xYUhhZlRrVEdHT3EwLTdMRVI2QnhPZEYza1A1VjhVcXIzQXphcDJaUlA0MlNB?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "NFL Week 7 uniforms: Alternates galore as Texans go battle red, Lions all-black",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8tdm1MQVM2WGlSdUZyY1dDUTNwZWdWVjdsU1JHZmVWNnZNOHdUNkFBaXowQUotcFlLZlJaNm11cEFseHd4eUpoNlQxYzJldTBkSldJODQtR0owVGJFaGZxX2h0Z05EY1daSEU0N29YeGpHNzA5QWc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "NFL House in Paris closes ahead of street protests in French capital",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaWZQYW9sV3JuRFhIOVJlSzRTOTFjMVJublNhU0t6cDF2VjBwX0R0R05nWkxmcm5aTnRoMk94ZW9ZV011Ni1TbG00LUVFc0hpM0ZXWlZfNjJteGZFOW1HTG1RUEQwM0lPRjFSWEhGbFhKWmRlVVNOTENQZmJVS1FtNEVPYzhuMDdnTzQxNEhWd3RyaWlBUXJ3?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN FC",
+    "sections": [
+     "football.top"
+    ],
+    "title": "Aberdeen vs. Falkirk (28 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tM0NzSkhxSVhQSnplMFpGWHBMY1I4dFVqQ1RFSk0tVUZpVkVGQzI2aFFlTEo3NW1NdXhZZ1JNbnpJOVVsQi1PRlhYS0tGRXB6MjhsUGprVVJ0LWZVTVNpZ3BYVHpaNVVLWEJNT3dfNC1vMHFtRXVBZ3N5YXM?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Magic vs. Knicks (25 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YX2RadHVLMGRjOURpZHlKUFhsdmkxTkNyb0pQelVDa0VSaHNXYnVzMktoc2hxSWNHdHpJWmhKelhrTG10TDJ6VFVGZ25tc19Jc0dqZ3lobWR4eVZfWTlWVU1IVGRTS1JmMDd6Rlhfbjg3UQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Magic vs. Timberwolves (27 Mar, 2027) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBGNnFsMmZ0aDBfT290VWdVa3Rxb3ZiTFQ1YmFnc2o3aXVxS2NpblNxQXA4c2V3cWtMNG1saGNPX0drSnNBdFJua0RXUHlsbVhiX08tR0Zxd2tiUVdjN1dVNEhWTll1cHJzUGh4a3I2ZUMzQml4alNjOXln?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Magic vs. Knicks (25 Oct, 2026) Pregame",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1wVVJZd20yaFVjbkVxV000b1hnQWg0aXRWQkI2ZTU3eE00ejNZSFJReU5XLXU0eHJ0UE1RTmZrRkxiTS12TEZQdk5QRmJWQkhMdGw2bDMzUTVVcnd6aGVSa1Y2NGI?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Timberwolves 115-93 Magic (24 Oct, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8zVUg4VWh4bnBZSXBwZlJtUEhrUEZNQl9EbnBZU2EtMFV2UFdNcHhicXIweldoTFdzTnU2X3UwbUp6eTZoOFNPOHdQWERLN3JWUkxnb3FpVDRnb3VCRW01V0xB?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Heat vs. Pistons (26 Feb, 2027) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Db1gzWEY4T1R2dzNqeXE3LTI3S3Y0Y1FENS1DVWp4dFFYODEtMHloREk4emlRWEc3bTZKOUJUZkthWEZ1RmF6WTNxZ0pzNG9qUU01U2pnYzdUYnBjWU1QYU53elRVQURXUkc1SjB2OVBBdw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Heat vs. Pistons (4 Apr, 2027) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qa2VnT09udG1ROUlaREkzRVVHODUtUjNYdnN0dWZSbDhIX21VQkgxZHBFX2dUZWxMQTVRbVVsNktDZWtUQklOZzB1ODlHTkNwYzBzNE0zWTRxUHE5bUVMYi1RTFhZei1VSDdqU3EwN3ZjZw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Pistons vs. Heat (24 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1vWnZQRDZOaTZySTRfQ2ZFSjd1LUJ3YzUzSEJsdGxZWGhpdWw5TmpRV2Fra3I1VHI0c0lidjFLUzJPZ1BDOGxQMWp0N1BvaDlxR21XTkQyV082LXF6Tmc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Celtics 107-103 Knicks (24 Oct, 2026) Video Highlights",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE15Qlg5T2dRenF5SXVULTZkZm1TZURiOE1Mek10bHNLZGZqZl96bkFYOFRSMnVTanJVenBBdm1pRHFwNDRKbzZ4WUtnUy1GX0E2NGZPVHEtQXQxdlEzbmNfQWJ3?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Celtics 107-103 Knicks (24 Oct, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1OMHMyaUJtTXNrdzRhdHJObHc3WkdNenFsQWl6clZnM0JUWjB0MjFlZmhnbUR0ZnZqRE40X2Zwb3hidzlZYVpzeTlHbU42dEZYQjBRcmp2dUFTNThQNFFHUkF3?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "NFL Week 7 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQjlqZXJmWXhQLThhQnpzZkt6YWV0VGQ3R0U4dW9UekZ4VmthN3p6WkNuUEpqdTdYcXkzOGxzTURObzlad1V3akVtZy1JU25qNXJuQnJQT1piTVVGNkJBV1FlUWVyWWE2MS10SlE0Ym9sVVMtRmNOWGxONHFpYWhETGlLZWZiYXUyN2w1cFdGMk1ZQmNHaDJCU3RrbVFoaXdiYTQ0?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Raptors 112-102 Wizards (24 Oct, 2026) Video Highlights",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QS285OTA3MEFwRERNMFE4alJyZzVGZVhqMXUwTzNBMHBMb3FKMXRQZ3ZxZWRJejNBWm9ITW9qbTJwTGx2T3RHSzZKOUN3M1hJSF9URXI4bHFDalJKeVJB?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Raptors 112-102 Wizards (24 Oct, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBueDJwMTJGcHlPSFpGeXRLN0N1ZGFiXzZLTUNsVnYxSzBkUHl4dXg2TzBmSlQwdEZGdTl3WFNzdjR4OFFKXzNDbHBKQXpCRDJvdTdHaHhKaXViZHNOWThr?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Mavericks 121-105 Pacers (24 Oct, 2026) Game Stats",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zVW45Zndib0ZNZFprTXhMekJHSm5xbVB1bE4wWmN0NVc1WXpfT3pYQ2RUS2UwODVfak1Pc05EaFVQbVE4cm8zanhBTkJmcGpQeHJ4NzJKWmllYXlVLTlYNVFsNjM?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Mavericks 121-105 Pacers (24 Oct, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5bElIZ2piNEZNUTdPLVJtdlBaT3pYNk16TFVyN0o5WFNDNTJLSVlLcnBSdHdEb21kOF91Ulk2Y0xjTUVEblFJYWpOc0JEM0toN1lEMXlzVDVFUmJSRUVv?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Pelicans center Yves Missi helped off court vs. Jazz with knee injury",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYVpsY1gyQTZKck9zMm9iMVpLajVBajhPb2tDY3o3Sm1yRE8tOHM2RnhUQm1TS1RidlZMWFF1amNnNThsYXNXU2FZMlpuZnpub3lfTTJHTGZXV2FES2FlTWd0ZHU1ZGdiUGRpVHU2Z1d5bUczNHpaNHN3eFZzNk9tRXhWN3cwTVg4aEEtdjZEdjBadHpmWkp6YnR5X1cyT2Rl?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Wizards vs. Bulls (25 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1oX0pyQTBnalZBU3RTeWtTbzA4M2h6cXJuY1NjaWdzY3RhaDFqRFBXZUFaSjJST0dkMFdOcEszWWhmNWo4dDVBdGhfUHl4elZkX0xYWEwwUzJwLWNRNEN3ckRCakdCTG1oLXRhM3h0WmV6amM?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Bulls vs. Bucks (7 Apr, 2027) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qMU0xQlZRcTJQTTgyNUNZaXZkZlBkOTFxQ1UyU290VHhaNkNIUVBkVS1venhwN0hxRGVlZ09tV045MUJnRkFFTGNWb3MxQTlndWJBam9IYzFWMUJuNG95WHltVkU4YjNTQTNkTE9tWlE?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Jazz 120-119 Pelicans (24 Oct, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBIVGxfQ21SX3U0amNZWW9ycHNoWUZCQmpoX0pFRkdzZlhSUkNwU1JkY1FFUEVUQVNvYlRWOHUzU3UxUUU3U3JJMGExZ0hZT3NkY3BHR2JOSUtBYllKU0ZKYnVB?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Lakers vs. Jazz (25 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93S2ZqbGtsNHRfb2lfOGI1aThidlBZRTFuckpZeXhtOFQ5Q0JVdFlYbHR6TTBJbU9HRzFqczdMQjc0V2xUNHUzQ1B3THFnVmRDNlVxbjJWeXpWQWFwRVU1TUpvTE9wendDRUlacXJrSkQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Trail Blazers 128-120 Kings (24 Oct, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wdHIwa2ZZRm5lWDY3MHQzRmNMNE9HZmVidHlhRUR6RktYTkxpMGo3czlPY1RtdjBYcllsQ2g1cHA1S1BNclRHRW5Bc0JGblI5MjJYZWZTUEE1YUVvUU1KZzBR?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Hawks 128-81 Hornets (24 Oct, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9vc2dlcEFFRXdDSl80TjZ2R2RKSlZTZVYtWlV1R1d4anIzRFVXM2dHSVJpLUpEZHpKdDR3LWhTTkYwS3FkZ3RSazNndmZSc3RPemFRbnkwelJzM1o2SFJr?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Lawrence McCutcheon, 5-time Pro Bowl RB for Rams, dies at 76",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT0NBSmtkSGtNeWtsWjNXYXNYX19fd3pUT3AzakNzTk5VTFFWT2ZNQi1DU1BfaktMeXRwcGVpbEJPdWRTbmdrNUJYTVVxekUwZmpnQ09UVFJXdklJZkJjRHJadE9RTS1jbVpMUUpIcGNtX0tfVHllT1p4ZGdMbHZIOQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Packers linebacker Zaire Franklin out Sunday with shin injury",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcl9ZUTlJd1JHczk0LV9Cb0NnSHVpVEtQS05hUldoNDFkZTlXcUJzMFQ5Y203YnN4djI3Tm5iblUzQ0twYmhjX3c4dm5yb21vTjVZVk5OWGRKcTg0QjVpb2JmYkFZd1BXaEM3endnOTNCTC1MV25idTlESFdGN3g1azcwLUh2alNFTUQwaTdkeFhfc1RGdDJDOUM4bGpxTnM2N2c?oc=5"
    }
   ],
   "agbi.com": [
@@ -10123,6 +10573,15 @@
     ],
     "title": "AI startup Flapping Airplanes hits $6 billion valuation in just one year",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdFJZRXpXbjF5UDFpLXRPMnRfdU42TVNseDgxS2REeHZnTVpkdm5fMlVmMS1tRlBFT3JzVUM5VUFQbG5weU9fY09DWV9NRmlET1ZkYW83dkNCc2dsM0xVLTNUaVRSeVllUDlaUnZlV2lfV0FkeTBJVzBjZlB5S2gwcm9RWVZURU9zWkY0M0VDcTM4d090M0JWdlVoaTNiMTJ0Q2R6WUpqb3ZCRHR2eGZUVGFyYjNlUVk?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The American Bazaar",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Infosys under DOJ investigation over H-1B visa filings",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUWVYREctMV95cGxWbnhQZzhQNVk3WDZvUE53NUZXLXYtUjhWNjlhQUttdUlwUTJIX01iSENUbTM1OHgxWDVRQmZyVFUtSDBjYUZhZm5IMDRKRFNxVl8zRVZzQ0hQbGZUcWJhSG9sYWExcEdQQzdvR0JoYng3cjdKWDB0UzFjMy1kc1hZamtLaHBtVnFMMTRLUVd5U1JxNXJPeVh0UWx4T0k3dw?oc=5"
    }
   ],
   "americanthinker.com": [
@@ -10145,6 +10604,17 @@
     ],
     "title": "Israel/OPT: Elections must not deflect attention from Israel\u2019s international crimes",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY1Z0Z2RBdHJnckxKbU5kUG8wSzFPZktOMGRGNHpTTDRFdkVuOHM4SDNoZ0twSklBSFJSaU4xb1NjUWQyWEt4VTIzSWtaTjlLbjNmZWwzZW5SWGRsdW9wMktNWG1qbEVtY0ZIblh1UE5yeVo3YXZERE1tSHZVZlhYd3dNc3JDcnhnWmY3WDgxSTdKWWdPdUhBeTdwcm1GVlI5ekE0aWdZeExJUHRFc2drWGpnTTRKU0FCVGVsc3N3M0N2bEhqRU03dw?oc=5"
+   }
+  ],
+  "ana.ir": [
+   {
+    "date": "2026-10-25",
+    "outlet": "\u062e\u0628\u0631\u06af\u0632\u0627\u0631\u06cc \u0622\u0646\u0627",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "China Develops Humanoid Robot Designed to Act as a Bodyguard",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTmFnSzBIb2ptTXBLUUZQb0pvV21OMnVMbEJ1TEQtakxCZ1RkOHhZVFJ6NGFXeTliTTJOX2lyd0tpaVo3T2JKbzVxVHFIeHVFTFRUNjF0cF9maVRSRUY3dVNsaFJjcGlzZlRVbXhYNnBaLTljTWs0V2xaSURfZWxPZ0dHYnZlTkJQSXZtYTVDMWdpNms?oc=5"
    }
   ],
   "analyticsindiamag.com": [
@@ -10443,6 +10913,15 @@
     ],
     "title": "Karta AI Raises $3 Million in Seed Round Led by PeerCapital, Cedar Hill Capital",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeTB1anFBUTA2LUgyMkYwNnZfeHdOS29nVFFlWlMyM2tpb3NzUGM4S2xHVUhaN21tdHluVGU1M21KMEkyM3FCNmNiWGlQMHl1bnpRMXNWREJObEJjbkY5cUw5YlNLT2tvLTltV0o5bDJMenlYU21LV21sZDd1SkxvWmx6SjBwLXB6R0RsQlVLTjJEeUlUb3VfUlF0TU53S1R4VnlmQ2t4T0ZqSDhwbWw4Q0hGMA?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "https://ascendants.in/",
+    "sections": [
+     "ai.ads_social"
+    ],
+    "title": "Free GitHub Skills Now Let Claude AI Script, Clip and Caption Content for Instagram and YouTube Creators",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0pUU0t3aXA2eElIRzJLYWRIaGFvbmdOR0EtQnNFNHJ1UFQ1b3FORFlOa2FQRmVEVjBpUFJzR0lScXZudHdmUjl4TmhrbVZxZ1JrZDJzZU1XN1BvUWYySnV4NG1uWVVrTUU4cGU1QmkzZFE4YXdrUDNHRkFKVktYLTFpYXljajVOb1lYYVFGZ3BIZw?oc=5"
    }
   ],
   "asiabusinessoutlook.com": [
@@ -10559,6 +11038,17 @@
     ],
     "title": "Robots Today: Are Humanoid Robots Overhyped?",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaTdyMl8yOWxQLUJVM1RmU3RBMm4yN1ZjOW51VEM5ZTJJWVNXYkxzUXMtNnU2ZE04alNvU0N3Y2JlOGczSjZBRzBBSTRmYnJoR0FZT1VEbDFGU0FpN0hnd1ZMbTAyWWdRQlZzVmZHVmpWQmIwcjZKMzRheEZfOFpXRGJYQjhjR3U0UVlCYzl6bw?oc=5"
+   }
+  ],
+  "astig.ph": [
+   {
+    "date": "2026-10-25",
+    "outlet": "astig.ph",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Filipino EB-2 applicants gain three months in the November visa bulletin. EB-3 does not move.",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2s1Zkp0OEh6M0RZbnM3akZDS0tkTkR2cnYxWmhpNmxLS3JFeENqT1ZvUUJMQWh1U3BtVU1VTGRQd2I2QVZIdGpJVzVwX3JGMHBOOUVMNXM0S1ozTzlUSlVkUlJDbnI4MnIyc2ljQkpBalhwWWx3amVScUJBT3l3bk94ODhRVzA?oc=5"
    }
   ],
   "aswathdamodaran.substack.com": [
@@ -10794,6 +11284,15 @@
     ],
     "title": "Crude Oil Prices Erase an Early Rally on Unconfirmed Iran Peace Talks",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZTJodUxjQTNLcG9CTHJMTHlYaFJCSF9QYjRNX2M5MlVRSnNFdHMwNHJJeUVXbzBXSTFVbkZNYUpaWDFHZnJPTVZFclhUUFFHcHpHVU9qMHpNV0kxLUtCaEFnOXF5aHlxaFQ3b1kxY3BwVWliY0J4TXNIWkpjMWlwT0g4NFA3WkswWXZLUUVpRU0xRnJ2UnFXRmxXR1hnTHppbWVqT29YUlZYVDllTW5BYkJWUQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Barchart.com",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "Nvidia vs. Broadcom: One Grew AI Revenue 221% Last Quarter. The Other Grew 117%.",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbUZXZ0JzckR5ZHE5Qnl4bkgzVlhpWWFIUU5IbFNSenNva0EwcEdDbzQxcEx2ckFOZ2RMclF2eVBGVVcyQnQtOVFYRG1WMzFtUV8td2pCMkVjMEtfeVlaR2UwV0ZEUXBsTllGX1VWYnVtaGNtR1hfODV5UGFIYlhNaVVDY3l0aUJJRHVjWWhPZmVqaFZtdnZ4UXJLNXl5UHpYcWp2bEt2dmxxalVNREt3Zl84Sng1d0FQNmc?oc=5"
    }
   ],
   "barrons.com": [
@@ -10887,6 +11386,15 @@
     ],
     "title": "OpenAI enters humanoid robot race as Altman teases demo for 2027",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZzVxSXRIZlBkbXdyMmJPUk5XbzItRV91czc5R0JMWEwweXYyT0dVd09OMko2Yl94VzdxMkdVQkg3RnVWY2I4alBBUjBhczlqTmxSMQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "bdnews24.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent crude nears $117 as West Asia conflict fuels fears of supply disruptions",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuWEljaTNYeXlmVVh5a2s4YTNtdWlmZDdfVWtTX1hEUzdSaTdYYXhlQUtWNXFlRkc5cUtPQnpfVmlLMFlnTzZUal9VNGxxTU9YV0E?oc=5"
    }
   ],
   "benzinga.com": [
@@ -10934,6 +11442,15 @@
     ],
     "title": "AI & Robots vs. Tariffs: Musk Doubles Down on His Plan to Tackle $40 Trillion National Debt",
     "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcnJyWEQ5WnU1cjVsSmdQa0VySjhQOE1SYklSWTJoYzRiWU93YzdqYTlZTzF6S2dBSmpYRXpBX0RsRHRMTHBSSVQxRHZfemlkaEZ5T3JXb1JpenNZRnE3b0pkemdLYkVIYmFvYjJsaVltTlNMMmkwd0RUaGd2SlRZc25ybmotWXNidktNRzhLZEdpQ1NZbGlaNmFDa1Z1OUhnQVBQM00ycmRMSzRsa1lFUUtkRHludjRzeWFiems2bnItazJjN1ZCZ25zVHkyUWI5OGZJdjRqZw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Benzinga",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Hit Six-Month Highs Amid Houthi Attacks in Saudi Arabia - Phillips 66 (NYSE:PSX), Baker Hughes",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRUNKWkdmcnNsdUlqQUlWUzlIME40QnFwVzQzTEZIOVFBTF9taGdtTDVyT2VUUzYzcnFiMG5iWUxTejdIQk0tZzFhSXgtTVdNQTR1Q29NMklQckZ2Z19rSXU3TnhvMF92U2czZmlwWXlUUXAwSFFYemNWLUVocFFkaVJKbEFEdk5qZmJIT0E3REJaNWs0VXJDMnBLbzVldExvS2hrVnpXRQ?oc=5"
    }
   ],
   "bernama.com": [
@@ -11027,6 +11544,17 @@
     ],
     "title": "OpenAI developing humanoid robots, Sam Altman hints at 2027 demo: Indicates that the AI brain matters more ...",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjhuaFNhVEtjRmVGMV9uYkVDcWVtTTdReWVJdVVmMWJHRXdsMmg4SVNvWnRxNmZ1MFBsQTFuVTJJMnRMOFJVWktkbGtyNFlvd2JNOHBXc256VzRqeEs5d0pYU3FXSmVERzN6SG55em5yOGt5alF3WWk2NTVEZEN0MUtub1JXMjFTTHVBTDhhVi1uZkxXaF83dzBSbmJ3QzBNNFZHS2l2RHl4Q0dwSFQtS3k3cGRoNVpzTnBj0gHAAUFVX3lxTE1KRm5nSXBWVE1adUJlcjFISlVMVXJETG13Mm14QlV0VWJTYy1GdFRobkJmTDJmbE0zckdZTTNJc3gxRjFVSk5DQmZVWFRVeE9la00wNl9RM0NFSnlwWVU1UmdVZEVVaVR0WVVrckNNS0pUU2hIb25DdnR3cEJvZXJZUGRuZ0g4US1pbF9kWUlsQmt5R0hCN0tRalRaS1duVXdKS1dJbUF6SGxJT1lVVXY1aGgyRGE1dXk1NEFmWmFmYg?oc=5"
+   }
+  ],
+  "bignewsnetwork.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Big News Network.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Petroleum Minister discusses global oil, gas markets with energy expert flags Hormuz disruption, rising prices",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWXplRHMxVkxnYXFIeEwzZEk3TXJnMHpsazkyR0Nxam42a1lBTHBNaW9GamlWMkhtcDJwOUVTOXBHdDAyV0gyaUxJUXRQWDBuZXNwRmZCeG50RkVKUFFmT2pCazRYeHZZc2xCYkZFTmxKNkJRVWJEM0dOWFF3cDdET1NTY2xuTkhNajdNX2RpZTNCUzJfNDZXdGd0LU5GSVJIWEdjRUpvaHVuNGk1dEZZRUs3NkVNQlgtWm1vNExUaW5KR1JpTzNTM245eXozSjVOTGZVN0w1VUc4cW8xYmp6WURvRUVONzZFR2c?oc=5"
    }
   ],
   "bilyonaryo.com": [
@@ -11322,6 +11850,17 @@
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaTJkS2wtZmVYU01NVmgxSUpfS0ZNVG1VUzlJZGxRX0FNSFF6bVpWSDFLZkVvaGd6SWdCeFJrak1wZmZmSFpSbjhzUy0td3BmdXVLMEtRVUoxYmM2OG8wMUJoWFRBc0pPSVJZaGlCMWVqa0pOREhZMDZMMXJ5T2UzeXFzeU9GRDVUZk80VlBrbGIxd2VFMVpjQ1FDaDhwNElB?oc=5"
    }
   ],
+  "bolnews.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Bol News",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Surge: Mideast Conflict Threatens Global Supply",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaWdVRzUwMlh1TGQzU29FcWJGb21Zak9nWHEyQVhGaWE5UDZheVFnN3dKcmdsdXFmMFlNbllhQ0ROQ1pid3dGLUxiaTd5eU14a1Rpc05nVTQzWkdvQVUwcDNpaFNiU2ZPRTVJeXg0amQ5MDdUMk9xQ1A2Q1pxcmFfYVJxQ01YT1pRWGhYUUVOQUliX0RxcXNrVE9BWDk5V0JO?oc=5"
+   }
+  ],
   "bookandfilmglobe.com": [
    {
     "date": "2026-10-20",
@@ -11415,6 +11954,15 @@
     ],
     "title": "ECB's Panetta Says Higher Bond Yields Will Brake Euro-Area Growth",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWW9HT1hUZEZ6R2kzSF93bFkweWp5ZDcySHZoMlRYOWpBUnhDb2IyUTQtNVEwYUdNbWxLamJwcUhqR3g0UG9OaXZIRXN1RVRNbW90RFBlVHRpRV9yWGlKYWR3V1ZRSktRWVA5T1pmeUlYaDNKUkx6LUt3RmZjWHR6STRJeHJsdVQtaEMxaHRmVzlSdw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Briefs Finance",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "White House Revises Canada Tariffs Ahead of Vote",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZWlXaW93Q25NN1lFRnl2Vk1jUmxGWEsxYW42Z0FxWWRFLW5vbHVmRUpicFd5d2RnMW5vZDZ6U3VaZjBOb1psM3E0VWQzLXo4RldYWldBMUZkemVFMGlzb0JpN1ZJRGpNdzJPbFhxNHBER01KdnRwWU5WUlRVUGplZC1QdWZOM1RhUVJPTFRvWkNEQQ?oc=5"
    }
   ],
   "brusselstimes.com": [
@@ -11608,6 +12156,17 @@
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90VjRTNWUtX1NXVXotQVMzV05RWFhDeHkyRjVnTGVHOF9wR1h6aDdkTjl5VFhzTjUwSzVMSnV0QW1UNkRManBLcHVOUQ?oc=5"
    }
   ],
+  "businesspost.ie": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Business Post",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent crude oil approaching highest level since start of Iran war",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNR0ZkbzB0WWtwcWpoSkFrT2tBTUIyNnFxc09tMDczZ3V5MU9XQmhYcEl4dFpEaFpIZGtjbmVTYTVxWnRVVFRyaUNBOHgtb21sQkVoZG84Vy1zcUZpZVZwbkpDa2FscW1tTERRT2NuTTFZZWNzZDNUR3NIX21qNFNvelhjczlwcDZJOVhzX1NxZnV0RjRWQ3p6Z0xPcTJsVXppNERV?oc=5"
+   }
+  ],
   "businesspost.ng": [
    {
     "date": "2026-10-20",
@@ -11626,6 +12185,15 @@
     ],
     "title": "Brent Jumps 4% as Houthi Attacks Stoke Middle East Supply Fears |",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSE94VXN0bF9KbGtXX2VsSDVJNGNTeURoeWkzZEw1d0EzZDZONURmaFgtTGxIODZ5bXEyenJUNGtDYTAyUjBSSU5FYXdwdTllOHNnYlc2T2wtRnJJVVVGQWx0ZUc1NnFXVkxFUkRPeHp3WU1RaTJNTDhWLUFyUldjeUQtUzhrYWtJcVAxUGZ6bjdVVlZ6cS1sdUl4UQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Business Post Nigeria",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Nears Six-Month High as Houthis Intensify Attacks on Saudi",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVlltb3ZZWDY4ckFONkZTTDJpSnQ4WFZFcGJSdVp3V3BqVlJqUmUzN1JlYWl1bkthNzBJY2lwaGd6TjRtenhTOGhCZ0dCM1hYbS1aZ3c0ZGlsakhZTExjRjV3aU1iR18zNnpMcElRX2pvMjVTVjNhWDZRYkNlNUpObmlsd2k1UEFVMzEtc1p3QzYyRTQ5ZGVYRVp1VDk2b2hCdXZQSA?oc=5"
    }
   ],
   "businessremedies.com": [
@@ -11795,6 +12363,15 @@
     ],
     "title": "Indian Bond Yields Touch Three-Year High On Oil, RBI Tightening",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMnl6bG1LVm12OG5sN0gyQU5JTHc3UUFTVE9FSjlfVnJvVVRoUVZEY0ZibTQ2dTFxeWoyM1JRMUszcGpnM3VxLTlNMUo4aVRROHJtMFlqRHV5b2tydzM2M3laQ3J2QllNMC1vT0VndEM4RGZhOXF5QUlwTzgzRmk1VmZNUlU0aVRZeUxQb0tzb0p6ZENvczJEUklXQXRpbFVYb3B5VXp3RDRwUQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "BW Businessworld",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "RBI\u2019s 125 Bps Repo Rate Cut Sees Fresh Loan Rates Fall 93 Bps",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVHFWUkZoVjFNaDZWLU9BdmgtS2J3TVBCYWF2Z3VQVTZFaWU2NlZsbVRsc1JIbTc0cXNGdHMzeFUxc0RuTUwtbnMxOFRYTUFZUTFDYXJaeGZWMkJVTHdkakZmdGJPN0VkR2tGOFV6b0RDckNIcThxVVVSSEk5VEs0V3JITFNxb1dLUjRfWnNvX2o2TXZJNmxrVDQyaF9QSnF2SGwxck1qUmo?oc=5"
    }
   ],
   "butlereagle.com": [
@@ -11846,6 +12423,15 @@
     ],
     "title": "China Barely Eased Austerity Just Before Shift to Stimulus Mode",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPYTNBNHNQejItTmJYZGlSYVFWRHZFMXhKQXEzblVkYkp6emRNQndDV0lLd2VGWkVOZVpCWkRaUVBpd09NY29lV1JlbWpLMXJNZXFUa2NlaEFCcG9YSmtrY3hGdWExNy05cHcxa25GdWtZYnBOcWZaYzhHQVJRRXktRF94Q05IbE8yWnc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Yahoo! Finance Canada",
+    "sections": [
+     "ai.conferences"
+    ],
+    "title": "ICON Public Limited Company (ICLR) Stock Price, News, Quote & History",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14ZjVKTnB1WmZzN2RDSm0wSl9GcmZ1c2g2SjViVW9jQWsxTm14Mk5KV2R1dWZQcG9vMVRxb0EyUmVKSU5pbWxiZEJFa3BYZm5OV3c?oc=5"
    }
   ],
   "ca.sports.yahoo.com": [
@@ -11943,6 +12529,17 @@
     ],
     "title": "Duration and extent of rate hike cycle to depend on growth-inflation outlook: RBI minutes",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSHlIb3JidlB2a2pVd0JORzVNdGFCUTNMeWR5ZUNOM0FFR25TTmxiSXlLb3AyTHh3M0JNWlNTWFpJNF9kTFF1UV9LVF9GaWJJTUwtbjJSVFN6dVRqVXdWSk11Q0drSDAtRnY5cGlEcy1GVW1vX1d4R0o4MGp3bnc5ZEllSmZXQV9aMC1QWGEtRENyT0E3elRiR2IzVW51M2poRnVkLV9nQUktU2RaZ1kzdEZpSW0xb3JwcmpoS0syNkdPNzZJenhwX0oxbDMyRFJEdVVJY3J6OVNmY01CSEphTFJlNA?oc=5"
+   }
+  ],
+  "castanet.net": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Castanet",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Son says Canadian died in U.S. after declining hospital care due to deportation fear",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS01tMTIyd09UMGtuM3FVV3VkR1k3WFJjUEFKOWUzNUQ4dlVTbUw0NUIxMFBDMERBZ1FyWkE2UUNraDQ1bjgtZkZfelhlX3N1LUNRUUxqaTFXZ0dtcGVzTkZEdFR2SzlvQVRHdm9mc0EtUUJsUEluRENIQ3c4c1BBb3RSU2FtcmtqNHVTWjNQaWVib1BlNEphcjRveUlIZWUwMUw2blllZUM5WW54QTVsS2Nfc0c4dkxxMUs5Nmw0cFc?oc=5"
    }
   ],
   "caughtoffside.com": [
@@ -12711,6 +13308,15 @@
     ],
     "title": "Reflective Research Agent demo stuck on \u201cGenerating steps for the search\u201d for 10+ minutes",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkNLa2tiWVpDcFE0VU9mM2d0cjNkYmZGUEI0YUNEeFdaeHhTM29BbzRnZUUxWUlMY0tja2RTTUhtU2hicnZLTE1YcmlJUldxdWY3aDJHSXdlTEV2THRURmRBWlhLYVJadFJNOU1yNnI4Q1VQNWtqZllvaTN6c2VpV1FVNnJtdW9fMVVTQ0s3UHF2NFNIZmR3LWJ2dllmVEhnVHdMSXJjek1pQkwzNVk1M0x4TWJ3UjVvR0ZFQXAwa3NFMzdWUEhVNg?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The Batch",
+    "sections": [
+     "ai.llms"
+    ],
+    "title": "Course is loading the wrong lab",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5IUi1mcmtQVThaS3pMQ3dJcFNnUTF2ZjJvNEFIRG9OdkdSUUhTVGRDRkkta0xqWVJqTzNaLV9IblZMdzVwb1UzQlFucGpQQ1NsS01UTGtWdFVVM0tkcmoxYlh2SFQtRVRZZDh6cWRWaE9qTGpYUGNyMG1HSXh5TG8?oc=5"
    }
   ],
   "conference-board.org": [
@@ -12919,6 +13525,15 @@
     ],
     "title": "Meta\u2019s stock rises as investors see AI revenue potential",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90Y1pqd1ZhS1RUVmZsR0pSdXdLMExnX25uTWNMZDZDTlpxdjZBaDlvTmFUMHhjcXBTVU10S3hhOVEwdUotbDJ2OVdUUTZ5Q1BzZ1ptQ3MwMGVKdEV4WlZFMG02ZGpYSUt6UWVoNWk2dFVfS00?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Crypto Briefing",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "US humanoid robotics revenue to fall 58% below baseline by 2030, IDC warns",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9DQzVVaTVoclJHSk9CdnJFTlF6S21uVzU0dlNEVzk4SkFvUlVlbHJlUDZIRjMtR1ZUZ2NlTGl0bEozNGZRZ1BuYTNpVDZRZmlBVmdwNi16ajJWTTM3Qmx0NFVtTjQyWWlBVDUtUXUxX1d5NnR5bGhKNFBR?oc=5"
    }
   ],
   "cryptonews.com": [
@@ -13016,6 +13631,15 @@
     ],
     "title": "Son says Canadian died in U.S. after declining hospital care due to deportation fear",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQlNWeGhTZDNVaFAtZ0NueXZyUlpxSUFKd2VvTkNxNWxkbzZmNXVyanZjVXpycHhGcTNTay00eVJuOEt5R0FnSHN0ZElxUzFBdXJBS2g5R3FKdG1aZlNqd25OM2xzS1hCRTVoQlFuS1lheUF1Y1czdVRNWHNCM3lwMndJRktMdXRMZnhPbXc3cE5qRFZKdy1PQzViMG9kNmlKVUxUVnhfWUZMYkNxZE9zUDZuZFRPMThlT3ItY2pmbFJWZw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "CTV News",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Fearing deportation, Point Roberts woman died in her home while refusing to cross the border",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONTZzeF9PaDZGWWFfaGFCaFJHRUhQOFNhTEt0S2x0OUd6VXdGS3JUZ3Ywd29DSFNIYXVGMWtWNDJBVkNvQzhvUHltdVVxWjVXeC11MEZGRVlIVWdKeThsVEtybWNHMEdKbVpmYlRtdzIxSU1UX2xtMHAwUWZLd1NEX2c4aWtnbUwyX0JKZTJPMVBNcnViUEYzNEFHdW1yRi1la09HRk9xdjBsX0lnTG55emY0cV9mQWFLeHp4NnZ3QXJyQ1l2WkhnVXB5cFF5dw?oc=5"
    }
   ],
   "cubaheadlines.com": [
@@ -13278,6 +13902,15 @@
     ],
     "title": "Direct yuan settlement to ease Sri Lanka-China trade payments",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeUNjUTU1RzhPMXBQdEx4VlN3eURrNU9WU0M4QzFOd2k4dGoyZU1lTTY3eTNqM21feDBPV3Bac1ZxT2FCZ2JkY1R2cFZmMkMzTVZCUUdEMkR5dUZ1SFRwMTVxc1JPT3U5N051QlFGMWo2WUhLVlk0blpXajdUMW5QbjgxOVp3Yk1fa2hyRHZiNUZyQVNhb1BnYkhka2V2aVZJY0ZrMUpjVVVxTnB5b0hDTVNxNA?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Daily Mirror - Sri Lanka",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "China\u2019s humanoid robot push tests the promise of embodied AI",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNW92dUh2TllZc3RScjV3Rk5UV2lLcUdpNnZIaU43R2o5Wmx5d21hUUxHQlB3ZGtDaUdaNDhWM1RWNFNTTVlkU2g5OUpQMlNyVHZiVFlNS0tFQ2ZZQWg5SUlKVF9WbkUxSlFJZ1hkOXd5OTUza1JXS1dzdEd5eDdfYWNQZFRJUjlES1FzSlh6TnlKY19jQ2pWc2pzTkhTdzF4LVBiTkcyMTZxejU0MHFfSk1XVVdETk5ncHc?oc=5"
    }
   ],
   "dailynewnation.com": [
@@ -13577,6 +14210,15 @@
     ],
     "title": "Filer says two papers accepted at NeurIPS 2026",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQeE5NT1QwV2hJVEVVc01Celd5UDdvR2ZyVGxUUDlZMTc5OGJ6WXdKT19GUE9OVllMMTNkMFItYWhFNnQ5ek9oWDJ2YkZUaDJ0aVk0SjhoVVFJTEdVQW9YQUxUbU5FVE55SURicnREcS1UaFNaZ0xNV3FtU3VrcTlnQ1d2ajRJTmV5bVFsek9pVk8?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "\ub514\uc9c0\ud138\ud22c\ub370\uc774",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Tesla humanoid Optimus enters initial production, but key hurdles still block commercial use",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOEhQR1dIekRjbnZTdFhZNjJuWDNkZnhfZmdBWklzdFNQLXJHeV9YTGhDNjV1UDJKNVRLMldBbmQ1VWI3bzF6bVlJM2Z6aXJnUUR5b0ZTYXVvRjdBMGZsZk9HanNxdm03cUNmZWxDR0FkbW81c2tibFRTRmMyV2JZZTctOFhhRmhhR1BxNGZvWXp6azlNNmo1QWp1UkFBV1d3MXVJQmpRQmR5X1duWFl1SXZneklQWmVBcVJJTTVQRy16Mk9fZ1Q5UFJTZVZKR28wUURN?oc=5"
    }
   ],
   "digitimes.com": [
@@ -13673,6 +14315,15 @@
     ],
     "title": "Oil Prices Jump On Heightened Supply Risk, Brent Tops $114",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbWR0ZC1mOVhtM0pXM1NJR2F0RllrTkZ0RDNnS09EQUxfNERLZFpHTzZsdmRDZmlMSk1URUE2MW1ZQ3Y5LU1fTm9XNG9NOVVDYnctMUZlajE3NEdGT3h0X3JES0xxejJ6blNCMkZVTXhzZ2twWE5BUTV4dm5UbncyaE1VQTg2RkRSN2Vz?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "MarketForces Africa",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Edge Higher, Brent Rises 5% Week-on-Week To $115",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPY3NnYjdnQTRmazYyN2JxUG05ci1RM1RFZmY0RlQ3STVHRFdjZHA0a2NRLWVfa0RINEZyZWdBUEtGZzJKQXBqNGhhRUZjNFhhZFp5OEkwVFJQcG05azJHQ2R1bFhDd3NMTFhCZVFoSzBMbGZtMk5LTG03NkdwVFA4S1Z4NEMzR1hqOEpR?oc=5"
    }
   ],
   "dnaindia.com": [
@@ -13759,6 +14410,15 @@
     ],
     "title": "52 Kenyans named in US immigration enforcement database as visa revocations top 300,000",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbFBpYV9kcGJVakV1czVxbkxUM01ZaXFqcG12eTFKTjZab2x2N2dqeHJkRURzMmEyT2RHT2dpZkNpblpWeTBybjRxOUtyYjNTaDNpNFZoMHJRUV9qTE40Qm91R0U1RUVsNDhrZ25pa0NzV1NhaFJDRVRGakNSTElDanFFbHNpYlpSVktsbW5KbC1lUWhZQmI4UE82WmYyNE1wRWl5Y29zR3VEdzBKaEpPMk1RM3lUSFoxUVZPU0RqQ3VvZjZhOHZpQTNTRHNzZw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The Eastleigh Voice",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Kenya invites public to name country\u2019s crude oil ahead of first commercial production",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSzlndmptbG5iNGZpdkN6NFBELVpGR3Z5ZGd6WDN4ckF1blNGNmZDMXhSa05UWGQtRk9jMjUxY1JKOE94Z2c2Z0F0bTExUkY4NFRXMWhuUE1TeGVKUjU3ZFRpOHFXVXo2bVZKWmt1YTAxZzc2NmJvQjV4WWt2RF84bWZVQ3pFb1FYRXhEYUVHc1pMR1U2OVRfckFTT0dzTUtFNDg2NzNsdU9MNDNUcXhzbmtpcEN2U1FjeGs4V2ZKNDZ4TmM?oc=5"
    }
   ],
   "ecommercenews.com.au": [
@@ -14051,6 +14711,24 @@
     ],
     "title": "November Visa Bulletin: Big movement for Indian family-sponsored green-card applicants",
     "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOdWJJcXpBZ3hsSjFzZUpLREkyamJvVEpoMUxJVFk4azdLWWM4UzlKWWg0ZHZLS2dMWEJWN05zQzR1SlNPMVcycjNsWXZqdXcxeWcwajVHSFRJWmlJU2xWX0I1OWx0WlhVRkpQZWRLRVlrcC0xNmVOYTVTMXJtQmRJQkduZ3pIaTM0aVpRR3VhSjB4dGFyVEVpTmIwbFp4ek1rUEJwb2dDcUtuTVBUdEJ0bTN3REd0aFRqejI2ay1nTl9KTi1hX3pnckc0bV9OMUpZSVVmaFF6OGktZUpwNGNLV0FqVXdEd1RaVFNjdTVDRUEtOUQ0d0drdnpPUXFBSzl4YnNDTk9JQkVQM3VDMEN0SVM2VEF2WktjZ2duMdIBogJBVV95cUxQOW95U210bktfekEtWUs3aHB4UkNQcF9fQ0ZvQVIxVVlsbW5YbThOblVneUp0X2pUc21RWTBuRm1faE56VmtFUHhIYXJVTTJFZlA3WkxaSGpMaHZEU2QzYmZxcjFzeXFzUEJ6eU5lblA4WDdvSWpHTTRQTkZiRUU3Q2tURjhVNFNQU1NjQ3B4V0pXaXdlUzZRRUptbElFc1Q4QzUydEZYdGJVbDctcFd2N21RQUhacUM1TTVLc2d0WlNxRlJYUGF1dmx3WWtPODV6UlJoT1UtS2dhUHlhdlZvelMzQ1JKN093V0xTenZIaU9kbDFrQjd1VUxUQzQ0NjRQWXM5UndRdjNhMEFlVnY3ZXZjNDRsNWp0Z080LTBlN3FKQQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The Economic Times",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "Fitch maintains Ukraine at 'CCC', expects war to extend into 2027",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeEhIdE9aLVlnQWpEM1dBUnhIN0VSbmcwWUJWVDZjamhXWEhYZmRndHI3bkt0LThsSUYybDk2MDNGaTFldmxqZkZJbS1aZzdFTmoyMmhDYjVTeE1POG1yU3hGYnlNZzVRV0lXYUI3NlRydkZ6Y0U1RmVSNTVwLUtDbk1HaWlUSXM5UW9vdEFHZjh2eS1HSFdESExlVHpsQ3VHMzFmSU5rN0ktZjE3LV9DWkVmNEl6djVudWhOd3pDdF8xZUI3Vk81M3VqSXFKMHNLTW5yc2VGQ3g2aTE2LVVZRUVncVnSAeQBQVVfeXFMUHhISHRPWi1ZZ0FqRDNXQVJ4SDdFUm5nMFlCVlQ2Y2poV1hIWGZkZ3RyN25LdC04bElGMmw5NjAzRmkxZXZsamZGSW0tWmc3RU5qMjJoQ2I1U3hNTzhtclN4RmJ5TWc1UVdJV2FCNzZUcnZGemNFNUZlUjU1cC1LQ25NR2lpVElzOVFvb3RBR2Y4dnktR0hXREhMZVR6bEN1RzMxZklOazdJLWYxNy1fQ1pFZjRJenY1bnVoTnd6Q3RfMWVCN1ZPNTN1aklxSjBzS01ucnNlRkN4NmkxNi1VWUVFZ3FZ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The Economic Times",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "'Told them we will put 250% tariffs..': Trump revives claim he ended India-Pak conflict with tariffs",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQlVORGttVFFMZlVZemhyZDJwbzJQVnI5UGl0MGRuQmhoUGROVkFoSFVRX2hGZXdjcm1QVTlQN3JhTVNLQnNPR28zeWhEOThycjNvWTdQUEVJdUxmS2VHRm5YZTVpR09IZlIzVnVuRjctV19WQ0pRcTdVMnF4eXNHUEp3RlVpS0tvcFlzaW1wdEJWV2FjWEdrWmVEaXZHTjhRR05SR0RVMkRxY2dJei0xamwwakM1MWtwQ25leVEyLTVrZ2oxU01DVDRwWG9Xb2Z3eU1fTjl5QlZCTEFhOHNnUU82T1NlWmhKd2dOUVZB0gHzAUFVX3lxTE9qam1DSUhRUTVzLXlUZ0hkdFg5T1NKRDY3S1dlNjZXY1lMWGk0LWw1VC1jbElTR1RBc2RNRXpSZ0FUTTJ0ZEhSeV94MXlJaERGLVo1TDY1cUhEMTNSZWlGNUNPWUJCbHhpR2otdkJqQmdqNnhNa0ZZb1U5SW1reERIWTJpVW16LS1NOGFxOFF6TG5mM3NMU09fUXBoQWl1aVNZYmlSRGxFcE10QnQyYmFsQVF4Qm9iSnNUUHVUYVNMeXl1X3NPVlBrdnozX29YbmxDaFVRT0g4YmRrb00yWmlTbkV0aG5VZ1BTc09hdDRhSFVxaw?oc=5"
    }
   ],
   "economictimes.indiatimes.com": [
@@ -14351,6 +15029,17 @@
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONjgwaWJoUXJBSnNtX2dNREJ0RXdCUVpTU3RGSE9FZF9hZG9qbWwxNmRCbzEzSHY2V3NEVXgzU01WMHE0dUxZV0swNmtSRGpTOUY5S1BMTGtKQXZNUG1yZllXOXVoVHZmVEptLTlMMnM5b2tCQUcyYWFqbkk5LWo0TUpB?oc=5"
    }
   ],
+  "en.econostrum.info": [
+   {
+    "date": "2026-10-25",
+    "outlet": "en.econostrum.info",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Green Card Visa Dates Are Moving Again, but the November Update Reveals a Stark Divide",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBrbG5TbDVZRk4zY3ZTQ1RCcXY4TlVMUks1RFRseEdhVUJqakJ1RDV1YlJOYWxGdVdLeDVpTm5PVW1lbEg0WmRBOHRaakFEdHcxd2tfZ1Mwc09uY1B1dUZMU3BVMklYN1I0MDIwMQ?oc=5"
+   }
+  ],
   "en.fnnews.com": [
    {
     "date": "2026-10-20",
@@ -14514,6 +15203,17 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNC1YUGhJNmYyWVBiNE5mVGt2N3A3N3ZhbjdDWHZpeE4wYUR3RFlCczBRX3lpakVfMFBrWFBhMktiRzVob0xNQzI2VlNmMVNWVU5sSE5FWnZ3RFlGcnliekNRX1RuNGFXcWVLd2J2djBrTUZUMHVfX05KSkd5ZktLX2g0RWFqa1I0QzVSOHpSeGNIMV9Hc2Q5R1JoaGRHNWxtWUg2YlBIQQ?oc=5"
    }
   ],
+  "en.vneconomy.vn": [
+   {
+    "date": "2026-10-25",
+    "outlet": "VnEconomy",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Vietnam\u2013UAE trade deal opens export opportunities across Middle East and Africa",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOFMwTnFZSHZaMFJQTFc5bFB5Tmpzbll1dnktSTJGYjFGZ0N4Qm0zR1RKdTRNR2hSXzNMT0lsLTZ3TUFESEJ5NTg0NndMUy1vSFpXcFAycXdmSFRpNzV3QVdvUXRKeXFsUm9uYm13OFpnN0p3clhkU3YzZGRBN0sycmdNNWxMMktCUERfZWhCNXNsVm9FZDRyZEhjR2NtVXpaU0VxQXNYVWdVUQ?oc=5"
+   }
+  ],
   "en.wowtale.net": [
    {
     "date": "2026-10-20",
@@ -14641,6 +15341,15 @@
     ],
     "title": "Brent Hits a Five-Month High on Gulf Attacks, and Diesel Drivers Feel It First",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGM1cnFuNWtTd2RWSWRHM1B4VkpaRjlEaFpPUUdEelBiejludkhxcGUxNWxveTVjbDVBeTBRSndnR0dFSzFteHpibThaTkJUcEk4ZGU2U0R3UlJjMWEwU3kxUjg3NjA3UEhWb0xaZ2F0THo0Ym9td2NBdFFpRUdDYU94RDd4djd2cG5rbU5PdVNBcF9Sc18tOUNXbDR0NTJ0aHlOdmhwOTk1SGFWWHBSSU5kcEE?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Energy News Beat",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent Tops $114 as Houthi Attacks Reach Saudi Oil and Aramco Clears Its Headquarters",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEdlNVFMZkhhRUtQSkhHZ3Q3b1M3Ui1RVm80eVUzelJwU20yNUxYX1RFbHV4QmwyNmJ3Q3hwQU9DeV94NTZoZmNWZmZJLTh3S3N0a3hHUEVEY015a1lTUWNDZmFEOFpxUENwZk1FR1VZdEV1M1RZTUJhQkZMeEpzekFzSkcweTBaWEdKNU1yRFVsOXlGOG5Uazk1RWExVDBmX0xxTUVvekdZSDRNNFlfeHhGdFlER0dldkZ2Yg?oc=5"
    }
   ],
   "energynow.ca": [
@@ -14697,6 +15406,33 @@
     ],
     "title": "COMMENTARY: Here\u2019s How to Attract Investment to Newfoundland Despite Trump\u2019s Tariffs - Fraser Institute",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNWNmOU8tTDZxQlNxa19MS1hjT0J2SHg5RUFiRm96T3RzQ2xaRks4RXhDYzJaUk91cDdKRnJTaDd6R3NlNHhCelFWcEJOOWtvS1luTWUwelZhWnpnSkNJU3BoUDh6M1F0SHZucXZxd25fdDJVNXZvQjJEZXJtZmo4NkRxYkJ1WWZscVBTWmk2T3RHanltd29XNHVPVUg4NTdrd2lHT0hZQ1pUbVhobDF5S3dkbVVBS3RqaUd4QURVODJyQWFacnQ0?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "EnergyNow",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVndRdlBIVWNXNnd1cXNDVmIwbjBrWmItNkt4MFVWYm5NLU90MFlFa3hLUF9ISmM5N0tjQzhWcGt5SlB2dnpVcElqYl9DYV80U2hWdWt3Z1l2TU5OMmx5ZUZvSWN2NnFqamFYVTl4NXJFLTFPcFlhM0ZCVlFPWWtrcmswQXJNb1V6cVhTQVZXZTN3VGl5akVfRjFBcV85VF9yYkpWTmJSU2hzV3VtOUVsQUU0a1UtMmM?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "EnergyNow",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "THE JOKE IS ON CANADA: Carney Government Doubling Down on Trudeau\u2019s Failed Fiscal Policy",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdEFiT3lMSjBMTEVGM0pPdEJoMEJ2cEVwall4TnhYMk5IeER5OVZyb29HZnpiMWlxcG9STExpeUV4UWlmNk5fUC1mNk9BQzhOUm9ETTFTX3psQUxNVFhqMy1fYUl5V2drOEI0N1hGN1lPX1d6c1Q1eTFoczlFcFBGQzZSbU05a2RMZEU0Y1FPUTJSOWtFR0ZyXzZYMHI5SkdkVVFGV1RDaGNoRnBaLWVvWHBDTnZBWU0?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "EnergyNow",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Up Over 3% Over Concerns About Prolonged Hormuz Disruption",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOODd3TTNncHlPazlzTldQN2ZPNXI5blFLYlBrUXE3VU1lRmNlMWxXNlVodU9LQUZCRlkzcnpyeC00OVMzcENDQjZfLTJSSG9QVXQ3MVpmYjhCSEFqUEdnd1I3SXF1M2dEdE5XYlA3akg3ZThCRjhuc0NEd3M3b0dBQ3hQWGFRMUhON1NmTDR1TklxQjl1M2dFSjA1SnkwVUk?oc=5"
    }
   ],
   "energynow.com": [
@@ -14897,6 +15633,42 @@
     ],
     "title": "EXPLAINER \u2013 WTI vs BRENT: Why is There a $15 Spread in Prices?",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMF9zejFxZVRQdGZXYTJDb1pfaDA0MlJtaDFWUTNzeDZwWHN4MUFoUU5SSTFwUkdVZGJjSHV3SmVxZUZTNlY1Tjh3RkZaVzhFWDUwMW1ScWNKX1dGRzk2S0hXSFJxSlEwNmdISkt0Q3RYUzFBRmlCMVE3OUxVMmY0ckRveW13ZHZZbzBGTXBQZGxmUQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Core Differences Between West Texas Intermediate (WTI) and Brent Crude and the Affect of the Iran War",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN1ZOVFVuUnFFYUstVktuczhxdzBYN1lUbUlqbTIwZEVnX2lCclN2dDZyeVJxUnFPLXdLLWhHcTd1MUUyM0kxTFBUZWJZSVlfN2RCZkRlRXhqT3ZfdUJTQkFjSkR1dDFsQ2Rmc19VTERhc1hsV2Nka2RDVEFvZ0FUcFdJQ0dCR21lcm5mZU12UzJZZHlyOFh3WGEzVWpCVDlUeHc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYXYxa3Mxc0NJMGoxLXFWRUxaZTZSU1NVQ0pqMDhXR1JmNEVpZm4xV1U4Qzd1eVduMkdSaGR5RTNDaWtmNFg2eHN1NlVwVEkzaWcyRVBHNENvNTF1YmNhSjB2UjVhVm56V0M1YWN5M0NPa0ZuVVJnTUFSeWRYLWV1V1FaenlLdlZoV19IaHQ0NUpabGN4WnZlQlJiSkZRNHZBUm82SVdlZFVaUQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Iraq Reduces Oil Output, More Cuts to Come if Hormuz Disruptions Persist, Iraqi Oil Officials Say",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRmh6ZW9tdWRwQnktYnVYak5qdXVnZFNROFBNMkExcUFCQnFKMjhDWWRFNGZhcmdMc3JuVWh1Wlp0Ykowak1sU1Z2MlhNX3JXT1BjcExHbUZNaGllTzZ0ejFwY2dXV0FBSnRzcDJmbkdNR2lsVTM4aERYZ3BlbjJ1MDRLc2RuOC1tc2lIaGJBZWpvMnh5bGVpR2IySU9aSDQ0cG9yUXVWM0RtY3pNRVR6SkxpSDI2VWh6NWJrR2p5dllpNklD?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Rise on Doubts US-Iran Peace Talks Will Ease Hormuz Disruption",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ2h4eFJVTlNTNmxjY3AwaVktZjBKcHgyNEVSUmJTVEVsREdONEtDN1U1V1VqRG0tQXlQdWhBX2ZudG01NnhjQkQxNTBOOUlUYVlvZEN3aTdwX25MVnctV2tvVHZWeFJDMXNIUG5WdUVJWG9kS2JrZk1nQVdILWYyLS1DTjJ0Y2xuZlpHTWpCb3JzUk83amx0YUItemNpT3NZM3EyTEFsRQ?oc=5"
    }
   ],
   "engine.online": [
@@ -15461,6 +16233,17 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZHlfZ1gwZlkwbXVVbnpOeE5veWlYeEg3cHZlQ3ZybEMwaEVhcVFVOWk2NHBlTVNtUzhtZnBJZmFWQXE2T1V5M0F0RFJuUnlfS1dLMGZQR19PdDUxNUpWeVhsaTJBMmJJcXNLYnFlVFdSSVhObjRDR3R1eTV0TlE5czBTTzNBR1RCYUpjSHBLRW56Zw?oc=5"
    }
   ],
+  "fakti.bg": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Fakti.bg",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Chery launches sales of humanoid robots for the home \u1409 News from Fakti.bg - Technozone",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSGxiTTZYTnk2WDdSYmU0NWdZZjRkdEtuRVZlTU92dVdBX3MzTmtCOC0zYUtPVVc2Z1ppaF90T1liUFJhYTNJSkNGdW1ZZFBSOEJvZHZkV21HWktqbkp0eXJQSGRnZzZ4LTYtVEpYUUJaN2o4SmV3eE9EQTBBY2pxRmF3bjR4Y0tfdnEyNWRIZW5jbDNnM3Vxd1JQTQ?oc=5"
+   }
+  ],
   "fallriverreporter.com": [
    {
     "date": "2026-10-23",
@@ -15884,6 +16667,33 @@
     ],
     "title": "[Infosys Q2 2027 Earnings Call] Infosys Cuts FY27 Revenue Guidance to 1%-2% as AI Revenue Jumps to 10.5% and $5.2 Billion in Large Deals Lifts Outlook",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81TmdjYXBlVEozaWoxcjR5OXVJeGdlVjhuRFpIWXl6QkN1aUdtUVR6dlE4NEROQXFweE9SYXYyX1VDWmhmWmdmNWQzblVIRW1kZjFqTWtIUjAwZzE0MFE?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "BigGo Finance",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Former Tencent Hunyuan Multimodal RL Lead Wang Haonan: Embodied AI Firms Lag Large-Model Makers by 100x in Compute; Small Players' Only Path Is 7B Models Tied to Their Own Hardware",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fMmlzLWFPWEliaFBkSFZ5Yjk4QktfeHdpc1d2dm5TblBWQVk2ZER1NWtKMWFBY0Z1dXRiUk5CNzh3UTQ5V05VRDY5Mld5ZWJFeF9Nb0h3OENuWDA?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "BigGo Finance",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Trump Turns on His Own Fed Chair as Rate-Hike Risk Builds for Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlZEw5OHBMWjBzY2ozWEVjYmJFMDVobDdlaUpaVjFZdF9IVzZva00wMDdDeEJyTDgtSkpRYk1VN1dfbVVKd0JKT1lpNk04djB2dG53eEFrSm5WdFctLTVyb0tBU1lFOTF1LUFzVE55QU4zanpITmc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "BigGo Finance",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "Meitu's Q3 Net Paid User Additions Hit 1.39 Million, a Four-Quarter High; AI Productivity ARR Climbs to CNY 655 Million",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9laUxkdzBIZVl1aWREWU1mT3dRWmlYdlVOZkkzc0pmNVM3S2UzZWZZQXEzWmktLXZ0SjZodTZ2UEo1VHhxeGdZZmNhaFA1NXlCTzcxRmZfX18xTWFWUUwzNDF6a3dsekNqemxsMkpkMi1FSF9Vanc?oc=5"
    }
   ],
   "financebuzz.com": [
@@ -15906,6 +16716,15 @@
     ],
     "title": "Brent Crude Oil Price Today: Back Near $110 as Houthis Claim Saudi Oil Strikes, Bull $113, Bear $104",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbktPaFZGeFp2LS1yRXU3eGxMSzZ4bF8zQ1lTYl9CRVhmejFxeTJ3cEd3b09EdVYyOVh6aENkeHFTWUZYMW9scE5IYjdVN0pHMWVmREx3MXlpdkcyR09TZFlHVFZka2VJbW1TdUQ4b0FGOW90Q3NULWlBMXlUQWZSNmJqYTdNb1diTzRmMDdBUU93dTF2UzJNUXRoRTFJeDRIbWlnSw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "FinanceFeeds",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "WTI Crude Tops $103 and Brent Settles at $116.72 After Houthi Strikes on Saudi Arabia - the Oil Setup for Fed Week",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaW9XSWwtX2tnZTF1b0V6R2RBOXZ5QVZ4SGp2Rl92MVpDc1JZdkx0TloyNmItWHEtdXFDdzZNTGs2UjRabVk0VHdLZE9tdTZjSzdyYy1SNW9rbEs1WXZEVktpQWhsTzVnblpTMTVGTFRlMlhIUU5OcEdsZVZHbDhaLWFjN3F0NGNxNWZPQnJ2cTNxM0RlQ0x3cEc1dDFGZGNDOTRwLWpQZHdCTW1MekJkaFVMTWtTQjROOElPNEZXa0toZ2pNdGVfQmdmdWtjcTA2SXc?oc=5"
    }
   ],
   "financialcontent.com": [
@@ -16189,6 +17008,15 @@
     ],
     "title": "Arsenal send scouts to Champions League clash after triple transfer claim",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQTFmeXJ5b09aRUVsRHZvcG00d2xwVlhIZlYteGlpdGlLbzNTenM5eW8wYmlDSHd2S19lVnktTmVneGtqWkNFY2ptWm5PUXRWajlfazBxWW9ERjVmTHZPeUd3eW1mcDlFMG1RcGU1a1RkTUVxV2JxWUI2LVZIZEtUVzh4Qkt6NXdYaGFOTm5MekNydjY2ZVhFOGg4aHBxVnfSAaQBQVVfeXFMT3lnMHA3UXFCWGhwSmNSZ1RkYll1S1prNU9wLWs4QVhEVFQyVU5PT3F0LXFMTkdOVXY3VGFjYkJ2RlR4ZDVKRnNMSlQxQmV0M1ZxeFdEZmQ2OFVQaGtMTUx0d1B1akt1RTF0YWZoMzhBcWljSE1xX29zbk5fbmY5c0NkaEtWcEY3cHVGYi05VE5uU24zQko4amNPcFRnRmpXWWxyQ0Y?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Football London",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Arsenal's \u00a390m dream Julian Alvarez transfer alternative takes major step as update given",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNUxNN3ZiMll0Q1JLMkRuWGtkbHM5Y1hMcmQ3RURIUUJzYjdqRkRPNXM2ZE9teTJoX1VDcFFhY0V3WUJYSG9YZW9OVWx2V0hhLVZ0Rmx5bmpCZmExM3RhZHZlQTVhb3NuZzZaSEtsbG5NV2R6ellta1ZRd2tTTDNtMFNVcXgtbVBMYjdTLWJMTG1tcE9SU2JsaWNlTdIBmwFBVV95cUxPNUxNN3ZiMll0Q1JLMkRuWGtkbHM5Y1hMcmQ3RURIUUJzYjdqRkRPNXM2ZE9teTJoX1VDcFFhY0V3WUJYSG9YZW9OVWx2V0hhLVZ0Rmx5bmpCZmExM3RhZHZlQTVhb3NuZzZaSEtsbG5NV2R6ellta1ZRd2tTTDNtMFNVcXgtbVBMYjdTLWJMTG1tcE9SU2JsaWNlTQ?oc=5"
    }
   ],
   "football365.com": [
@@ -16218,6 +17046,15 @@
     ],
     "title": "Best Premier League transfers of the season XI: Tottenham man is in!",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0h2bmxCaHg4NXFJNEMzdFhpaWNEOFNzVnoydHJEOEwtSGI4UkhPUThMTklIQ0FVYnRwVFFhNnQwbnBfOElpUVdSSWhJMzh5RTVLMlpaU25VV1E0b20tSzZoSDJpRTlGWlEtY29WZ2lKaHNycl85cnZuVm1GRkxDa2NB?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Football365",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Arsenal react to leading star revealing he wants La Liga transfer as huge update on new deal emerges",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSU40NTFCQ2VMSmM0TzBaVDIyNC0xZGxVemlHdmxBTzIzdUNNZEN1dWpoS1FXbUg3RG1iczN5OUQ5Q25Dai1GVkZkUUFYQ0dubmJkbzZrcWhYYWhnNnpPYko3anl5R0N4QVhYUkFUSkkzVDdodTNpcENjWnNMVkZvcV91UHJPMG1fLWNjQmxkMXphU0tTVEowdUlLUkkyVzdQb3hsUl8yRnJPb1hYcTMzUXlxYw?oc=5"
    }
   ],
   "footballfancast.com": [
@@ -16840,6 +17677,15 @@
     ],
     "title": "Gold Surges To \u20b91.48 Lakh While Silver Tops \u20b92.12 Lakh, Easing US Fed Rate Hike Fears Boost Precious",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeTRBeDltYXZpUGVjSjVvUENnT19wdVdSckZ0ZFM4ZGhESmdsTzJkZlpvQjFFWUtwSTdDc1hNeHhyV3NITkJZVzJDbUV5TDFkM0c0enBKZFNZZEJhSS1mWEdUSmFDTUI3bVhmRGstOV9DNlppNWVfNW8yekE1eXMxa0pyazBJcXhLUkd6a0pGdGhZWDY1ZFdpZmJEZVFCS1VqcWVTbTBqcVM3TjA2UGd4a0hqU1FpcWJNMFZVYTdURGE5a1Y2RkRldUcweEc2ak5oN3FrNWtPbV9OU2fSAeABQVVfeXFMUDQxbTFpVVYzRVB3TTB6RGdaREI3bEhqVHBvcV9KX21obDhCZ2hRaEQwQXp4NVp6UG1GTzhfdnh1SmtqSUdWNHRaaWpqVTRvY2ZLaHBQOUJLSjVXVnNLRkpyeHo3MmpZbW9TdnhNUWNjS2pST2xVNmtrM0VjcnEyUk10ZUNCVzZvQmMxcUdsQ2x1c051Mno4Qi1ySXZTVkVpQnBXa3VESTU3dDVnb2FpZGJWVmRzVXI0RS1GZHc5RmtkVDE1Z0VBWjNZaDBsMlNHR3dDejl2ZzBhWFo5aWFiRVU?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Free Press Journal",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Trump Eases US Tariffs On Canadian Imports Ahead Of Midterm Elections",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVTVMSlB3a2lJd3puWWxsUGdjZk0wd0lvRGdUR0x3YUxYQzhVdmNCNnZJT1FPa1A0Q1c5TUFwQTBlTjU2dHVZcXZqU2NaWjdHa1pMTzhzcVZXeFN4TGJRNUNYSVdWWUJ1SmVKRlZuUmZGcS0xUlh3OWRYQmxndWZsZXpaN01idkJkUURKWDlKQ1Y4bkU1RFRGb0cxd2hSa3E0bmVLenJVNUthMmVMbFpOd0h5ONIBswFBVV95cUxQVTVMSlB3a2lJd3puWWxsUGdjZk0wd0lvRGdUR0x3YUxYQzhVdmNCNnZJT1FPa1A0Q1c5TUFwQTBlTjU2dHVZcXZqU2NaWjdHa1pMTzhzcVZXeFN4TGJRNUNYSVdWWUJ1SmVKRlZuUmZGcS0xUlh3OWRYQmxndWZsZXpaN01idkJkUURKWDlKQ1Y4bkU1RFRGb0cxd2hSa3E0bmVLenJVNUthMmVMbFpOd0h5OA?oc=5"
    }
   ],
   "freepresskashmir.news": [
@@ -17125,6 +17971,17 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYWlKT0d5U3ptVnVuSWpBd1hxZUFIX2Z5V3NMcW9WLVlZM2lOanhvMWJGSzIwUGhWeUE3VlZsUFRKRVZGb2EwX0RQSjA0c1pzbkh5dThEVnYyeTJBM05ORGJuaGZJWFh3SGRxd0tKLVM4Y0J3dVZuZVlBcVRGUlBHd0NwazRrYnZxVTE2Z3dIeURXLVJPZWoyTA?oc=5"
    }
   ],
+  "geo.tv": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Geo News",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent crude hits 6-month high above $116 per barrel as Houthi strikes fuel supply fears",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPN2YydFFqdHItTUhXNHNVSHVKdXpJaHdQS2h0eWlMcWhiU2hIb2RwVW15UGFYNkJnTjRfa1lpNHRCb1R0MmduR3EtcXdteXNVN2VkcnhEamt3aTdSRXp0bzNaeWc3ODJVeDI4bnBKdWdaTHVZWGJtb0tldnRZMXZWZ1hRRjdqU2JMNW44NWd5Qy16S1V6LU52VURWaW5mNEpJU1hpUXUxcTM?oc=5"
+   }
+  ],
   "getfootballnewsitaly.com": [
    {
     "date": "2026-10-20",
@@ -17205,6 +18062,17 @@
     ],
     "title": "Standings - ESPN Global",
     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE15VjhiYkswMlhxZnpYd2gzejdfWmdhMGVQdFV5Q2t5elhaNXg4ZmNxRlVvMUxWVlpxdmdNLUJ0N21YZWZqVjEtUlhsZHVTZw?oc=5"
+   }
+  ],
+  "global.morningstar.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Morningstar",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "ECB Rate Decision: What to Expect on Thursday",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZHhPNzhScGNTVTVVcXVZQkY2QTktdzhUaHI2RGRnc1BNaE1TUE5JZEhzMDlhWm5GV0NVejhsdlZhMHFvbGIyY1NvWVptbkYxbDFDMzYyVkIxUFoza21vell0NzVNUEJsZnRsWVQ0MDJnVTFycDdCTy1na1JsRFRGaV9CcjFvOVYxWWttalJB?oc=5"
    }
   ],
   "globalbankingandfinance.com": [
@@ -17839,6 +18707,15 @@
     ],
     "title": "Oil prices rise 1.5% as Middle East conflict threatens supply",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRFRiWXVLNk1QaHBwY1hDRUlmNndGT1RSZlgzNGF6TU1RMFcwNFVab083Y3Q0SkdZN0tfV2tmTzlLeG1WMk96NHFHRGNlMHYxaVpGeFJhOTFWbUVIYjBvRC1yR0oyVkp5bVdtd3pqYjU4UVphdUEyN0FZRlhET0NIaDlrVi1vd2NTWnR1eFhvOVUtY2c2QldFTGYtVGZ4REFzdC1Z?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "IDNFinancials",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Five key factors shaping the ECB\u2019s rate decision",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaXUxaDlGWVBHRGZaWGRmYTkzWjdBZi1kWEpYZ1JYMkN5Qk1sTDBWRi1udGZESFYzN3c0TzF3Sk5VZ3dHQU1YMmU2X28xX1RsTGh1TXJrZFpnanljZlpRTElfTUZxZVVVbU16VTluOFRrVjMwbjdRZU1BMENYYWFtdV92a2JTVzJqUlFpaUl2aDQyUQ?oc=5"
    }
   ],
   "idtechex.com": [
@@ -18044,6 +18921,17 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZmduMGVXUXNNSGtlQXRoMWFrRzg5VlR3aWI2Z1VUbHk3NjdHa2tQaHlaTUpQQTNpQld3WGJNV3pkUVBFTEthZjVnTzFBYk9vWnk1cHJRcE9xTkEzV003cUdrcXlIUGRVQ1NVZVowQnBZMG5OQWpPN041U2ljRThBVFdVNGhCMU4zcDU2X3ItX0VocmFXSkFQZFB3?oc=5"
    }
   ],
+  "independent.ng": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Independent Newspaper Nigeria",
+    "sections": [
+     "finance.agendas"
+    ],
+    "title": "Sustainable Development Goals @ United Nation\u2019s Day",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JMzBSWDQ5bUtQa1FLVUJrTW5XVmVzMmUxbzRKSTV5MFpZZTVrTjJkb1BJTFRwbzRwM1lOVzl5Mi1NU085UncxaWItREVSX1JXYmw0WE12Q3B3MUNocFNEY3JiNV9GMUZpY1RpRnVpRF9BMDZlX1VnRXZUWHg?oc=5"
+   }
+  ],
   "independent.org": [
    {
     "date": "2026-10-21",
@@ -18093,6 +18981,17 @@
     ],
     "title": "'American workers first': Marco Rubio responds to Trump's H-1B visa curbs, says restrictions not aimed at Ind",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMjRBM3RMclZBR1FMaWpPMzFkdkk5OWMycEN1UEIwc2lNb1kzZlc2REw1QVBnS0t2Zk9oX3BRMW9zYW1BbzNwZFhmZ2c5VjgxWURMc1BQdzlVRTNaSXFseUNWeUJkeURsS0NCWjd0ZUkyNzFSdVBLSU5WamMwcHRKbTZXU1dQeVZ6aC1yZzVJNDhyeHl0NWtPdlVrdTFMbWxva3dEblpIc0RFcG85ZFFKcDl6d1VOSVlCNkZnVXc3Uml1NGFrNnFfbER3MjhyQS1CMG9CazRRbXpocExNdTRTSkg5NHdtd1N3SS1nOEU3YVg0VzNOanfSAfsBQVVfeXFMUE5MVjBoSXFRWHVLS3hiQ1dYZTVSdC0yQTJFLWdvbXFURHgwVkp3MmR3SXZ6UFF6bjZwdEZwRzEyTUtqUmRuZVZRUm1qVWo5NEt0QUNqbS1JLVBMbjd0czB5d20tYkMzaTlzX1o1eU9iQzhBZzVCaXk2QWMwSWhGRWJ3QV9mRUtOdlBYS0ppU3RrS1UwLVpjeWY4S05VUUU3RFdGNDNGSmdvckpvZ0pmUmplQmY4NElyZ1NBR0IyYzJQYWZSWFlIaTRJTGI4b2owWTNDdHlVNnE5X0poZldoY3VtSlZRUGQ2LWdPY3BmM0JPYldNWGNwRFJiM0E?oc=5"
+   }
+  ],
+  "indiabusinesstrade.in": [
+   {
+    "date": "2026-10-25",
+    "outlet": "India Business Trade",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Tesla Begins Optimus Robot Production",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0wcUJwSW90SkVYZ2JZRElXRHM3UzZEbXRaNjVBREYxYjBnN0hIRkxxWmtfR3NEV19PaktMT3V6VWt0QjI5aHBWU3RaMDFoMkFEZTgzcHlXYmYtUkdvTnRweHJid3kyWkVIazdTVF9pNTdlVjVveFhjSFJ5aw?oc=5"
    }
   ],
   "indiagazette.com": [
@@ -18178,6 +19077,15 @@
     ],
     "title": "Indian Green Card Applicants Face Decade-Long Backlogs in Key Employment Categories",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOekxWTklFTXhxMFBpS29Pc1ZmcHp2azk0VWZTeGZhOE5WbG5ZRElJTzY4SUxvUGZ0MnRnbjBLR0Z4bGZhMEFEeG1aUlNWWU9SVUhVTzdxM3F2SGxwRnhzNXNER3V6TlZOU0pxZXM3WHoxcEFhbHMtVXFPNEVTblcyY2VDUTY3dnFMSTA5VVlxX3pmdlBTRm5wWEtrUlQ0MklpQ1JFSDBBbXY4OGllOUItTVRR?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "INDIA New England News",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Sensex Falls 429 Points, Nifty Slips Below 22,650 After RBI Rate Hike",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUJWN3liR1RkX0l1RFY0ZjBGSFRVaE1YeHdRQmhIclRXTDR2N285ZUh2Vmx1RUtUaTZEYTdfZk81bGNxOFJzeHRwTFlRZXdxVUM0bUNjcFFtMF9xVmQyWGdpX2F4THZFNmFTZ1l5d3dPQ0hIcm9LYlZuVWpBZzlfX0I4QXF2dVhhd3ZrZlZyRmkxcjJ4LS1EbEZGSDM?oc=5"
    }
   ],
   "indianstartupnews.com": [
@@ -18216,6 +19124,15 @@
     ],
     "title": "AI startup Vectorial raises $3 million in funding to expand human behaviour simulation platform",
     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNVXZnM1U4R1BoaVh2X1E5MTlDdlNsV08zYjliZ1A4UlN3aXduQTc0SUtyX2xBd2Q1UTJZakpVZnZieWV1TmI0TzJuaXVVRlRNNlRpeC1BRzE4c2ZGcFlNdmRfcHNDUFFybWhYZlY3bzNHNlJDV1I1SFVLWm9ocjItQ2VwR21aNmFESDJ3SEJyekhPaHhaXy1JajN3dnV5QVR1ekdqNUNiOU9fcU8yMHBYRG1VaWJDVmhpNjBzN0pHQ0UtLXFPRnJuNmh6QXZURy1rQ1lPbWpjaC3SAdgBQVVfeXFMTVV2ZzNVOEdQaGlYdl9ROTE5Q3ZTbFdPM2I5YmdQOFJTd2l3bkE3NElLcl9sQXdkNVEyWWpKVWZ2YnlldU5iNE8ybml1VUZUTTZUaXgtQUcxOHNmRnBZTXZkX3BzQ1BRcm1oWGZWN28zRzZSQ1dSNUhVS1pvaHIyLUNlcEdtWjZhREgyd0hCcnpIT2h4Wl8tSWozd3Z1eUFUdXpHajVDYjlPX3FPMjBwWERtVWliQ1ZoaTYwczdKR0NFLS1xT0ZybjZoekF2VEcta0NZT21qY2gt?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Indian Startup News",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "AI code testing startup Blacksmith raises $66 million at $1 billion valuation",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQLUJEZDVwRXZyMjJyakZLWmlXUFVBUk9Cdk9GcTB4dElhdFEwOWZ4MTNhc09oMkFfbjJPcnZfX2ZTWU1LYzBiRTkxTW9pelFOVnZ5cUUyZ1RXRnd2dWJIbkJOemZfanBMcUp5ZVV4MDUySVVCZ0JyTkFQaEVqaUdqdk90OHVRMDZhMFgzYWUtaU0wN3RVOEoyQ1ZjTWc0bmwtWGVHV2lob0JkVWFoaWR6cDkxYXJJVmRwYlp5NTlSd9IBvwFBVV95cUxQLUJEZDVwRXZyMjJyakZLWmlXUFVBUk9Cdk9GcTB4dElhdFEwOWZ4MTNhc09oMkFfbjJPcnZfX2ZTWU1LYzBiRTkxTW9pelFOVnZ5cUUyZ1RXRnd2dWJIbkJOemZfanBMcUp5ZVV4MDUySVVCZ0JyTkFQaEVqaUdqdk90OHVRMDZhMFgzYWUtaU0wN3RVOEoyQ1ZjTWc0bmwtWGVHV2lob0JkVWFoaWR6cDkxYXJJVmRwYlp5NTlSdw?oc=5"
    }
   ],
   "indianstartuptimes.com": [
@@ -18280,6 +19197,26 @@
     ],
     "title": "Indian Green Card Applicants See No EB-2 Progress In November Visa Bulletin",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNGxqSHRwNFlPdWRadDk3TEVDQUVQT2p5amxlWTZFZmtLbVp4Ymd3di1yVVc5cnV1VURHWERCaDRSRUFNbmZudFpYQzNmaDVVZzJfVTkySVdCaHN2T2lIMFdOMUpWQmN3bUdaamVZWW5OU0l1N0xybG94ZFNTQTJXVF9uRGhCaGR1eDQ0MW9qSnhVeFU5dFNrT2p2UlVBR2hw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "indica News",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "President Trump\u2019s H-1B Restrictions Could Strain India-U.S. Ties, Report Warns",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaG12Y3dNRElrd21MQTJ0Um1IOXJPakZLeXl1cHl6VmJJcjl6Q0pocGkxTUdWNWVnSTZoaTA0TjZhY2FNcmZWM29RY2xwUDJjbWJJa0pQVUVhRElpS1JMX1VTT2hRWm5GaWZ0R01YRFZxbGRmMVlMVldoc3RGdFowSDI3RzhXWmVDckFWWU1nMEY3d1RqMDRPQ0xBRWlwQWpY?oc=5"
+   }
+  ],
+  "informat.ro": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Informat.ro",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "The Trump administration is lifting some tariffs on Canadian products ahead of the midterm elections",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQWlzQkkzSXVTa0gzYjhrWEFuQlpmbFBuTTRoQWFTNnhTQ08yRXhIcWpMWXU4S2FOR2FJSWY3anpIdzZoWVFJTHdoak1JYUdiNjlDY0xsMHdlQjRsd0NiRDNDQWhCaDd6SmZmUUVyd1I5NFRMQ1p3bW54M21lRjZyeUtwUmFqM2c4Y0gwaUh1SnBfdw?oc=5"
    }
   ],
   "inkl.com": [
@@ -18347,6 +19284,15 @@
     ],
     "title": "South African AI startup Healthleap secures $38M seed and Series A to scale clinical AI",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSzRfN0tYOEVua1hKLXdmV2lRSlBYS0VHT3VwRHVoc0lCalRNeUF6WHJ5SWlucFh6a1IzeFJ5eFQ0a2ZkRHUtNGNZanBHR3RKWUhSeHFLalVNdjBYczFtT3hEZEMyMEdfOVY4dldsMjRpY2ZXSGxqSWxTcTc4UE1ZTm9YVmNCVGlzUlZ4bVdrdHNUMkltWlc3Z2dNMWItNUZsckNyU0tlcTdteF9vanlwRUlLdDBUNGt5MUE?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Innovation Village",
+    "sections": [
+     "ai.ads_social"
+    ],
+    "title": "Google\u2019s AI Features Could Use Gmail and Photos Data for Targeted Ads",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcVNrd1ZYTmV4UXdfZHczYlY4ZktXYXh6V1F0bkE1VmJ3U0FpTDdVWjhodTlTS2VHV2twbXhhN1R5ZGpUZGlidExaWlhmeE00X2g3S0w3X0Zjd2J3UlNyZ2V0LXhKbldSMl8wTVpJWWw5U09MZHZ0ejBZR1RCZHdlOHdPa0RpdFliRHBCX3dFOWlOSEhGT1ZWWWFCYkpkVlZaM3c?oc=5"
    }
   ],
   "inquirer.com": [
@@ -18763,6 +19709,17 @@
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdTJTUjdmZFdxbVBhOHEyM3dZc1lqVjNvYWxESm5xc09SZWNubkwyS0l4WEFqQjZlbUhYbVplR2JWMkdLUGMydEQ3bHFuejhuWXNNdjlPeDdrRi1KajdQQXNSMG9PcjFpR2lKUkUwUGpldEVFWHhycDlYc3UzcjIySE9YTWZFZWFIUlJyVFRWMXNFMzRDbVdVZTMzQVhLZGlwVTdwWUN0QXY0Qm1taEk4eUppblhMbnpnM1RKbm5DUmhweGRUV2VUaHVTQWdDQQ?oc=5"
    }
   ],
+  "investopedia.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Investopedia",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "What To Expect From Wednesday\u2019s Federal Reserve Meeting",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR1g1MjJqM1A4WVk0SHlYMjhTTjRnZk1rdWZSeVh6QnBmbkhqeEFLMS1uQXN3OVB0VEhCMElnak05UFRLRkV2VVlmVno1YzAyOXFXbS1BanllLVRVUkI2eXI1LWRvcDd1M05nWGtLcmtwTHpjQWw0SkNDdkxhWkxiODNWek9CWmV4Mm81dTRHOTFfczJVYzRZ?oc=5"
+   }
+  ],
   "investordaily.com.au": [
    {
     "date": "2026-10-20",
@@ -18794,6 +19751,17 @@
     ],
     "title": "Crude Oil Prices Climb Above $111 as Middle East Supply Risks Intensify",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMUEyckFmcUZJMWxDd1NvNms2N3pFMFJYSks1ZnRkSFlFOHBvZ3RMMXhDZ1JidV9rd2xXcDJ4VWRDLS0zYmFHUThxWHNUSWdRVnhsa3lRZDMxRkFiQS1VOGE3Mmo4Y0VBblVfcFFjZk1RXzYzd2Y0MmQxRHBYSTRYTFZ6WHRYRGVmSkpsNDJ0cmQ0ZVNaVHlNYjZqSEZkMXlGbHlNaUo5YUlKaFZSdm9WSHFR0gGyAUFVX3lxTFAxQTJyQWZxRkkxbEN3U282azY3ekUwUlhKSzVmdGRIWUU4cG9ndEwxeENnUmJ1X2t3bFdwMnhVZEMtLTNiYUdROHFYc1RJZ1FWeGxreVFkMzFGQWJBLVU4YTcyajhjRUFuVV9wUWNmTVFfNjN3ZjQyZDFEcFhJNFhMVnpYdFhEZWZKSmw0MnRyZDRlU1pUeU1iNmpIRmQxeUZseU1pSjlhSUpoVlJ2b1ZIcVE?oc=5"
+   }
+  ],
+  "investywise.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "InvestyWise",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "eMudhra: ICRA Affirms ICRAA (Stable) Long-Term Credit Rating",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWSGIzQzdXRjBkWGVSSWZyeG9NM3NJNktXVGlDdXg2RjZmVFNvYTUyNzlkbUxZTzltekUtcEFuWXk4YzlvZGpWWkg0TG1jbHh1Umo2U3Q1aXd1c1owVUJiMUdMajdQeGpydWNOUzdDUUtxNFhZM2c?oc=5"
    }
   ],
   "invezz.com": [
@@ -18897,6 +19865,17 @@
     ],
     "title": "Elon Musk\u2019s flying Tesla Roadster sparks social media uproar - If AI doesn\u2019t kill us, the flying cars will!",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdlNGYUhGSEwwSENjMkgwV1dPM2NzZnpjcVhFeU9CRTVxdXd2U2tRTWFucm1BX01USHhVSXBMaV9CcGR1NGU4UGhYb0JVeEp2dlpWX2locElrcng1cDlzWUVoUzNiVHVjM0Q5OWRweUEwT0sxeTdVODJVdnRWQmZXUzJVWW1GUE5uTUlqVzdFOVBzY29JXzM1RnV2alhKTGxuOWFyWUg4dzhRTmtNSWF2ZFJ0U0Z2dWI4R0FvS2NabmY4RGliam5ZeFJzUjBESm03Zk10SDg3ZnlQVnpwRjVzR2pLeFZmdw?oc=5"
+   }
+  ],
+  "iranfocus.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Iran Focus",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Iranian Government Debt Rises, Sounding the Alarm Over a Budget Deficit",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2VtZTJaWTgzRUc4SV9DSmZmYU1YSXZjMGQ3NVotRXFPeFpDZVRlVHZQVlRIa1BaTnMydkh1SVdNSFJSRUEtZFdvU3NSWUt0TV9ubW1oUXdUbDZFOWw4cDhyV3NlckRBdVQxeGhWSnNyWjc0X3pRMjhsWnVDdWk0OU5PQXZmNWZEQ00yNkZBNXpLdmxKZ1AzRzdOcHl1c0xVVmFmczB4RW9YT3PSAbABQVVfeXFMTmpyM3BDbFo4OC1lTnpobXJxTnpBUXVnVFZ1N2VNYUFfY0RVMUJUN0MzSXVibF93SERFOUxmclF5X0V2ZS0yWmtFU1FTRzJnRWJyOHBTT2hzS3MtWW00VDV4NERCZVNiSFE3bXhxaWJCUzNPX0RSTU1fcXJiamE0TEh6MEhxT2YzcWZPUXd3OHJMQmdFSVBMY1VwYnJsVGRQSDRyOHB1bUpxQTRQYzRoRmU?oc=5"
    }
   ],
   "iraqinews.com": [
@@ -19108,6 +20087,15 @@
     ],
     "title": "Sales Executive (London based, French Speaking) at Luma AI | Andreessen Horowitz",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcUh4QTlZU09pUVh5UEIyYk1xVUVISEEwMW5RdHFtZlpCcndYQ05TWXgxM3pVaVNETHNBdFlQLUhnOHdKRXV6QTBVTEpNV2hhSG90RTg1RG5BSnh1M0xudUU2UUh1Rm1tMGllT1hnTUctSHZjbHFZNURMbi1HWWVjU0VreDFFbmhFWTRvSHN5dU5wQi04amxLcXJqaXVjdDRXUzMyejJCdUo1M0xab0xsTnNXMm1iVGph?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "a16z",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "Oracle Procurement Expert (AI Procurement Integration) at Lio | Andreessen Horowitz",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTU16YnNyTnpjaE9VYmQ3S2o0ellLT2NqRUc5SGYweWlfR0huMkhBY0hBS3luMWpFN2w1UlpDdUxtc0wyUzRIXzZmSU5MVjBqSmpHR3p0UWVrTWtQaHF5VlFsMnBjR204bFNkNUtmS2huUURhSzMtSE4yaXNsdlFsN3JOc0hMVHRPWWVnZnVLSjNNWjJCdHJnQVZuNi1PWDU1anpWdTlyY2ZkMzVUMTBCeC1laHIyRjFxb2RMbTlETXhVZw?oc=5"
    }
   ],
   "jordannews.jo": [
@@ -19128,6 +20116,15 @@
     ],
     "title": "Oil Prices Rise on Middle East Supply Concerns...",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPQUpFN1d2NURyMTc2YTZrWXFFYW9WU2ktS21QNl82VGVJc3FTbjR2c1Azc3A5UTloX1ZscTREUDZFX3lqTEJfblJLWFRnM2xVU3VHNTNFZ1BEUjA1OFp1alUwV1YzMkNXSVNxeFVuZllEQm5XRFdnbEFtLU1oSG9TcWpQWU1pa1NHb0NJZFRDbTdfNVItaWlxQU5taTREc00?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Jordan News",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Trump Cancels 50% Tariffs on Some Canadian Products...",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaFU3MkV2MGtuLUNKalBLYmVJX0JUaGNKOHRmLXNWUUdON1RDMHlkZUM5ZWh4ekRkRGc2eTFYd0J5XzA1dGRjU2psZVdTLW1mRzUxTTROS21QbGNLQ1hNOUlqY2VSSlRjalJaRmV5b1h1dGw2X1JlT1A0OGQzV3BLcVFuNE05ejVRWi1fMG9rSVR3TmdkVmlSRzdjOUZhLTlQYnhnNQ?oc=5"
    }
   ],
   "journalarta.com": [
@@ -19183,6 +20180,17 @@
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPc2d3YXhwd0lWSDVTb1pFazhCS3I4cjU0MDc3dTBDT05jMlpleUJsR1Bkb2t2QVpJSnEyYzVfMmtzS0hfYnVRZXNiWlRLdE5SemFYdDFYT0RBRUxqbHM2NWdrajRrNXJhZkRDYjZUZGhTMmVNT3BNUDRsZEtYcWs1ai1Tby1CZUpfcnpuQzd4dW1oTzUwRXFGbHdSV2ltdGU4dWdzYnludF96aWhMMkRMRnNjOFRWczJpX2JkRVJIbDdacTQ?oc=5"
    }
   ],
+  "kalkine.ca": [
+   {
+    "date": "2026-10-25",
+    "outlet": "kalkine.ca",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "YYForce (NASDAQ:YFOR) Penny Stock: Down Sharply in a Month Despite Humanoid Robot News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaEtHRFZiODZjbjdldjBTUzhMamUzNU5Id0VuRVhCSXhKRUZsMG10a01CREZmb3JfN29Jc0wtam5DZHIzVmdfYndtWEJiSlpiWFpuczhBcHhEaC1neGswSl81enppbVZqSWVGZVFTOVg1Q0oyNC1sWmlFRkpDcUZHQkdUN01VTl9jN0l2RTdjX2pzOEVlY2o4aG9vWGVDTS1wY2NMVEFaUzFCcHVtbWQ1TjVSYWZPVlZRZEk4?oc=5"
+   }
+  ],
   "kalkine.co.in": [
    {
     "date": "2026-10-20",
@@ -19228,6 +20236,15 @@
     ],
     "title": "RBI MPC Minutes: Inflation Focus; Sees Dec Rate Hike",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQc29kQXZ1d1BYSnN1akdLWjJJZHQ0b2pfVGdnRVYyTnRZVm9DSlUwNjNCNmRfYWtWLVdDMndmYV8xMm1MM0VjQklmeVF2MnBfNFRyaVgyQzFQUTJ1NFRrWElTNFBER1ZmSWFPZjloVFZjM2Rvbk5sY3JvcU0wcGZrdlJndEQ2TmpJSHV6NHpqdkZZMG5oYW5URGtRX2lWYkpsT2tVclZrMXRlam5PR0tleE9XTlNYbXZJeXc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Kalkine India",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "How Is Infosys Limited (NSE:INFY) Balancing AI Revenue and FY27 Guidance?",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUWpZOXFtMERPanR6QmEzMTFoVHlsWnFqc0lhcVlBZW5xeEZWaTROVlRjY0pNd1RXX0x5UUg0WDZlN0d6dWQyOXZ4WWI2MUg4MHhEQUVfbTFmcVFCTFExcFBUSEZoWXB1Y2duVW16cDg1anNFMmRZOHE3MUs3T2pBeWZFOGdtTE1fVDMxWWxSZnlQSUZkSlJxM3VYMnczcW1HT2YtQVlaYU1LUUlKNHcxUkU4SjI?oc=5"
    }
   ],
   "kalkine.com.au": [
@@ -19583,6 +20600,15 @@
     ],
     "title": "Tesla begins mass production of the Optimus humanoid robot at its Fremont factory, Musk says achieving a weekly target of 20,000 units will take over a year.",
     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOR3ZKaGtOWFNUZjFDU2tEaHVpSWw5SWtOOWNSWWY5Y2xEWGlZWEpDSUtrelMxVVNJUGM4cHFGQTVjQi1DbU5Fb3NVNW5CNDQ5czdDaVhuOWlxa1ZTM2xfeG5YbGFNbG44TTZEWnRzMFBsVVFMcVluVEFzSXB5Nzl2NUVfbElJcUJZWTJLcktpdTZTX183cFZMdHZoY3pLc2lQYmM0X1BRMmxLX2U2b2Z4azlLUXh4U2RNdnJGUFlYNkxUNENQWTlnV2xrR012VDJGc2QxYVRELW9FMHpGN3NnT2NYUmFFV05ZYmFtWW9SNlJUcnkwbkdmNA?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "KuCoin",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "H2-X Humanoid Robot Stumbles During Side Flip at Event",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTR4NXVWX2NXMUVzZ25VdDBJYVozUnp1Z1Z2TlV3a3g0azF0UFZwUkowUFYzblhrMUcyaVItV21DOV9LLUR0c2s4SGJ5Y0pyRHVGcTZLWkw4YWZkVVFMTVVfV1QyZElrM2dVbldoVmN2N0Y1dHdsUXFpM1BZLWJQblZ4MlFhZXFIVHV4SEVhZVJ5QQ?oc=5"
    }
   ],
   "kurdistan24.net": [
@@ -19862,6 +20888,17 @@
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOb0RKTTZRU3l2Y0RQVkpYTkd5U1ZoclpQdkJWVlRyWk15RVpTak5BU3c4MWlBbGR3ZTZnQVJ4eHFiMm5va0w5WmFwQ2lUYm9Gc01HaWNIbjZuSlFFZGx3N1BCRzJaUTU1VGNwZDZvVzFwZmFFTWJ2b1paSGh6aWFkOE0xSWRRdmx1Q2xhcHBLVldQMDRydjdpSkJuOXJvSkJKbVFkRDZjTnlUZGN1QXotRVhPSk5MUFpLOGU0MDBta3QxTDdYbFZxVjE3cl92ZjRIYVBPSXJEZDl0TUtvQ0thOW16VWh4X2FyTEE?oc=5"
    }
   ],
+  "lincolnjournal.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "lincolnjournal.com",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "DEEP Robotics Unveils Five Research Advances in Embodied AI",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQYUlKU3JhaHV4ellhWkFhdmtxcHNDY2ZjcFVtZFJNemtBdmQ1WWZYdzB5RWhsM2NpWHNYWjQ0R3dJX3U4NUR4bERXSjVaN1V3V2hWNVpyRE1nQ2ZvZlJuV2MtYVBBQXZNbXpRdVVobGlOSkd2WGd3QlFGYXBMckFXUzM4UC1DTzFvZmpQRUpDZHhiMUpZNVNCTnpldEM0V2ZtOWZLV2JEU2J2b2dvdWNCREtPQVVtVHBXSVVRVml2N2RtZkZMNXFNT3oxNk9QUHF5OEExS0dsVHhPQWQ3V242bXFCakFmS0V5Uk1HTEw3MGNjbjJ1YjJFc2lCWTAwUnFO?oc=5"
+   }
+  ],
   "liverpool.com": [
    {
     "date": "2026-10-21",
@@ -19891,6 +20928,17 @@
     ],
     "title": "Liverpool latest: Chelsea transfer battle intensifies as Trent Alexander-Arnold tipped for move",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEg0ZThCeVdnQXdpTjJpRTQwT1FaeWc0bk80dnVKUkZCQW12XzlFc2dhdHhDQzhERmlaaFZrN2xENlpVclF2bGNpNHhzSHV6WUh1SUdpVXlFSXR1ZWpBS0ZYa0lkZGR5ODhTYkhBRVEwSUZqMkxUTXlyd1BnNWhwM3d1MFJHOWRzdzJIdTBIa0lkbFBMRXc1LUlFN2pYWmlWa2lQUkE4azczUdIBrwFBVV95cUxPWXFWUHJOamZldWZrbHg1anQ1NHFMU0dYUDFsRkpDS192YzEtLTNzNFdIeVd2cEtuclF0MVFlSWxGTnFYdmZxQnRlaVZNbGh4QnNsMUVOS3gyRzNsMTVvekJrUmhGcEVvLWs1SzVUaHl4dktDc21fcUpMZFBoVW0zNVRHMmt3SmpDbG1EaUZfZ25QbnlBdFJWUGRNeHM2a29uMzgtYl9DOXdlUTdYOWxv?oc=5"
+   }
+  ],
+  "liverpoolfc.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Liverpool FC",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Media watch: Read the latest LFC transfer rumours and stories",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3J0U3gxa09lX2tqNFdYb0FpX051NDNwdXFVYXdVMUlNN1k3R0h1bzltNEx5WWIwODMtUVA1OWhZUmpZdHRXcW1LYmRXR3R5R0txWm9OMVE3TUZzd0JkTXhjZk9aYlVSNW9sMjNfaW12aWpPaTZGdHBJVjVGNTh3b21qQm15YXdaYTJiR1IwMG9wRU9ZTU1KQQ?oc=5"
    }
   ],
   "livescore.com": [
@@ -20163,6 +21211,51 @@
     ],
     "title": "Liverpool are about to make a huge transfer mistake",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1RYSElacW9jYUktbVhCcmRmVE1xVXdEVWk3bGtWRWlrLWszNGR4dm1MWmVTT3d4aGhSWHdUSDhOTkFuQk1USTBvb3ZwbzVMdDZwdkFMVkVyX3ktLXZXODZnOUowUV9vaEdwdlMyTDJwMDJ0YllVZHkyUXRNaTUyMzNlR3BkeV9mdXNxZFZMQ05MQmpFblRqYklMZkNkRkhpOWtoOEdic25VTjNyNEZNVmo2cnA3UnhLdTg2TUlVWmo?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Transfer insider backs Liverpool for potential 2027 swoop for \u2018exceptional\u2019 \u00a3100m record breaker",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbVRnTXhqbzlSOUhIZlRER1pUay1hcWNSUjFCMGE5c3VvUjc4eDBFZVZPcThSU19LelE2MGQ4WWhDcllJVXR0dW1NLWlPeUtidGpCUzY4TXpfdUVKb3EtclRON1F4XzFUeVJBVjhCWDUzMnFRZHc4Vy1MMmx5RUsyQXFrZHl0NEo5QjlOWnM4ZkR5S0hUMTM2UmZIREphcWhsUzcwN0lLTzhQVEUxNFVSN005V3RtYl82VDE4dk5fcXpPVXpLSHFmNHMzR2w5VjhYY3drS1lrbmlFOW5teU9aN2RBNURjYlVQb1VSaHFmN05LcGpDMXNQN2ExSlpnQVJMQ21tMQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Arsenal react to David Raya transfer confession with new GK deal now planned",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX19sT1VuNk1nbmZTUE9zWElDdmh0V1JYX3JIX1ZIcnVNbHRqeVJtbVZ0TUdiWXZmZmlDQ2hLWlU1d0IzWFo0T29ER2N2WWx3MkVHajlrSUNqSnRSeENuc28wQXYzQW00UU5CWF94V3FYTUo1OVBLTnJKN1JSQks3Rkd3bU01NkxUTWpHLUZpdlI5enJuUDVsdFd1bnpfRkpRNmVfbnhvZTlKVjlYTEtxVDJyamdiZzJUb0thSGU3elh1YnFibDJLOXJBNWFscFJnNEV5ZXZlWHV3WE4x?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Man City now \u2018ready\u2019 to sign Chelsea star this January in \u2018world record transfer\u2019 as \u2018door opens\u2019",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNd0tJVmI3bkpCNWlkeV9jQVdlTTJFZlRoRVlNR1VzT1FtN2g0TE9HTFh4aVVPTlVfU2pjQWtJZDNmQmYyVk9uTGRHdUwxc1VIM3liSnBaMEVwNjBZV0Z1ZjloUU50QnJyOWFXYjltRlRxUmd3Rk5WS3I4WGl0Uzk4Tk8tTEdNd1FDLUp6TlV6TkRDdENOUUZ3Wm5ZMGlXaFBBUTU1RFh4LUZxeFpmQ3d0WExXckIyVnU0cEZFZ3MxQzdwalZZWFAxMFFLY08tVmQ3aTV3YkFYeXYxRWZMV1R0dUpFaEFpdnhPd1BiQU1PZFQ2OVpi?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Man Utd choose \u2018priority\u2019 January signing over three alternatives as he reaches decision on joining",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQc3FlWDg1ci00WnNGUF9HVDVZbnBxNThoWTVBdTdfUjd2ckl1MnhTR1hTc0VKd3ozcEhpa1pVUTJUUVc5Rl9uT0s1TnU3NUpyQ1pSODVISnYxV2xIbjctaElvVkh4elpsUGZNbmlKU09pOFlqWmVIV0ZLODhqVUhBeHRqanZPUGJXeXZjTmphTld4YWQxQ3h3SEhiQXNGenhzNTF4cGJsc2Zjc2tOQ0l2bk9NX19kbDRMMkJlczRxLVFQMHdyVzNSRXhpWG44b1pGY1FPMUtRN2dqOGxCWFlsMjlxbWdlWlJoRlRCU2VKcFlJTkdvVVBZS0Y1TGM?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Man Utd urging patience with summer signing who \u2018struggled\u2019 in Como \u2013 Will he prove doubters wrong?",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUEhCVTBEUElhWE5FY0d3U3JUWnNxNjJuRnhTU2tDeHRxb2tOajBWQlhxaWZ4dWxDZ1lSLVNHOThZZVhaQnlEdDFIbU45RXdWVmtmbzFPZ1MtaTByVFlDZXpFVWZzUVBSNFlYN3V5dFRpc3V6NHMzR1hGYjYzVlhlTzNmcTZrc28tcnNvSnAyNXRzUFhUTERUVTdCam9pY1lVNUN3eDN3UkJtTlRmUGpoMlBYenF2aF9NcmVrTlFlalludjFsS3BDa2xNSS02azBnUkpoaFotcmlQQmVwa09QcHVaXzlyNUYtTWxxcw?oc=5"
    }
   ],
   "local12.com": [
@@ -20196,6 +21289,15 @@
     ],
     "title": "Romania\u2019s budget deficit fell to 3.82 per cent of GDP over the first nine months",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeVlSRHktQTVKVXZ2YkJORnNiaFFiNVdOUE5JTWh2UEVhVGZqeG1RSXAzaGNvdGpUUzN0TWhGd2tYR0Fia3lNajVBZFcxYU91d2YxVHktdVpMLXhvc3N3ZlJXellmN3ZaQkR5Vk04ME5NVDU3NXFkVGhxMWdlSHp3RlFwM2tjZHlXajF0RVFUdWhDV0ktTm0wTWtMX3NFNmpIa1d2bkR2ZDRWdzNqOFdz?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "logos-pres.md",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Trump threatened Russia and Ukraine with the imposition of 200 per cent tariffs",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeHdVdDlBR3JWbmRoNEU5dE1OYW1ZRVBNRDFJbEo5MU9scWFhbTRsQnlnbjNaUkFwaG9SLUQ3RkdZNmRLVDVqb191M0Y3S2lrV18yZE10cTBEU0hzb1VyRk54Tm9JNUx2Ykl4Yjd4cEFVT2cwMFV0OEpzbkx0XzhJRXZvSnNabU91RENqVVpLX0draWxyNlo2YXVkZHg2TjRyT3FFNXdzNjRpZk1aQ0dF?oc=5"
    }
   ],
   "lokmattimes.com": [
@@ -20207,6 +21309,24 @@
     ],
     "title": "Banks Pass On 93 Bps Rate Cut, Lagging RBI's 125 Bps Reduction",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDdDNHFhTlF5bGtYV2FYS3RBdmlCdTZGWTV4akdaUHhBclo0VXhFZWpZNEVLZTBrNDRwUWZwNjBEODQyOERuSlBrMVRPNmV3MkRXV09TRndra1BEWFpnWDN2RmdxbUpoQWFmZkxMMjlkT3FNclJJTE9HY0otNEdjTTZMR0RJYjM2LWR2UHE2b1dhZ3p2RWpTblEwd0dwU2JFOFRHX191cmJaTWfSAbABQVVfeXFMTVktc3dreXZkX2s0T1B4WUczQkdEYndEYWE5XzFlQWIxRlNJRDdHa09QTVZENDh0TktuaUJxTV9vbmh6S2tLR1BjN1VXMHlnZDlvOThXUlQyWjVXeXJqaW5ibU5KMVVGX21KbE5pclRZZlM5RVV1cTgzOHB1Z01WRk82VHlmSjVTRUtsbzR3YjBjVlpjMzllUi0xZ2U4emVORXMwOGpneFZFM0hJOUpscm8?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Lokmat Times",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "China's Humanoid Robots Shine on Stage, Struggle in Factories: Report Reveals Commercial Hurdles",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZGx6N2F6TVc0OVlUaHZIb2labHhURnl4Sk5HRUJmWXFJclBGb0JMR0RCOGk0WnVWRzFSWXd2VHdpcWRzM1FRVW1CT093OEM1UFpyTVVXT2ZKNk93cDFfOXVOWUllLXVhbGdxelNmRS1kNGtPVHE3Z0hMczZIa2gtbzZGelFydDgxQVhPQWN5OXAxUDQ1a3hZTS1hbm1EbUxpNWpEdGxfamtxaXNiN282Ym9LUU1FdEdadGZDem9YQVp4V0Z1VzZHNnFKazRWM2FOR3VJanlHcU1lcFdY0gHjAUFVX3lxTE5YU09rWXhfbDM3VFJaa0VIaml2ZklIUVpmYkdZcHNQTmpNYS1KYUx4ZDJxR19NaHdtMjZPcWRsVkdyY2M5MndjRG84RlhyOXEzcHZ4NENXazFWZVQ5TWhvWWhJaFdNNmZrdEJIS0Z4c3dFc0ZBcmZjaGNmOXJDOVVCOWg0amFTbjhpZUJtVVdJZVduMnpDUGYza3NVOXhVUTltUkg2eWI5VmxneXdvUndpU0FTR0NFR2VUc2tTekQ4ZVJvTkYyZEJiUlpWbkJheUh6aWxKVV9rNjB6SVhaa3M1czNj?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Lokmat Times",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "US H-1B Visa Restrictions Threaten India-America Strategic Partnership: Report",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWxmNWZxYzBzTDJMRjhYRDM4NTBYRUlFMEZScVhtU3hnMkJEenhrdUZ1aXNxQzNPUVNxSURWZ3JuaFJWN2hFcDNvN2hjdkxVMzZOTnpNZUFMZHpCa2UwN3lkQ2x1TlFBSXc4MHhKUUNjWU1zMlJmd0JFYWlJWU9xSEZWS0RsMTBjSkd6NldJZ0FwQS1uNWNVQml4STZQakZ0c0Y1TW90N0ZQZ2N1dkF3UHFKRmlyY2VZTVpEcmpaZWkwQklVbkVQdNIBzgFBVV95cUxOamc0M0tTTUVPVzR0U25GWWN4NkdMMHNtclJkRTRZWmJzYy1yQVZVdndIcXJobHFNTnRzdUdXY3NSb0w4bWdtMFdidmJtNjc5Rnc5aXhQU1QzVEtoSHd0TVFsOUdEdkxBU05fZlRXZ3dwUEdRc2h5WGNseUF2eFpYZlVaMnhDMExhRGdKOG9yVG1kVkx2SlR3TC02NFpxWXIxS05qajNTTkV2ZXozY2VvRG4td3FEWTZSSFhicDBFdmsxM01tYWlBMVNYWVhGZw?oc=5"
    }
   ],
   "londonlovesbusiness.com": [
@@ -20457,6 +21577,15 @@
     ],
     "title": "How rising crude oil prices could impact the U.S. and global economy",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaWtKWFdrRTNETkswb3FkZGNGZXBtQXNpY0ItcU5kMUlKaWxBdHZCMmxHZGZ4QzNNUDhkN3BpWjdFS2hhdzk1ZGNnaTA4NEJ5VkdtV210MHhRYjVWZFkzcXlUNnVrNS04Y0ZDVnlOTUNVcE9NeEtUN3JiRGRuTklXZ0pWQmZXOUxWeXhINEhKeUxSUQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Marketplace.org",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "From tariffs to data centers, Michigan's big economic stories",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0tsMEMyUmotdEh6TlNIOFFNM1JmUGE0UHBnN3JncjBZR2FDdmFaQXVNR09fcHdiaWZxQWxtZ3k2QTdoSE9mem9FWWpSTFFZSTh3Z0VocGhqbEZyNWNMZ0M0SXlJcGNvLWpMaGR2THlpbDdBaXJEZUJtUlFDRWwzM1puUHZPQlJtdGNvM1Q0UmhJbFR6cmhxclFXcHVSd3BGNDFIY1ZCeF9uY2hVR0RvV1VUUTNwZGM?oc=5"
    }
   ],
   "marketpulse.com": [
@@ -20508,6 +21637,17 @@
     ],
     "title": "SpaceX Stock Jumps 7.5% as AI Revenue Surges 830% and Q3 Profit Hits $4.4 Billion",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SUDFDVndQNzZqdGZid245N2REZXNwc0dSbUxnc2l5TE1yb2ZxRXNUXzI2YVNpM0RCVUNDNzNDc1ZsbjhaNm9IQk5XbFZJZWhVVHZhZG9GRWJxR2lGaXJMZ3RfZFNIUkFCTGNpUkJEWXA?oc=5"
+   }
+  ],
+  "marketscale.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "MarketScale",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "Nvidia and TCV extend Higgsfield's Series B as the AI video startup reports $1 billion in annualized revenue",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOTZFaWJrNW5XZWtfOUdvSlB5dTVHbDZPb25FS01IcnBycjY3czZwWVdHQ2w1ODY5ZG5YRHdBOUZwS2hEa25kc0JYdXJkQWl5cjZUaHF5SmpDa1dfMUUtS29rN01GWnJZREZYaDFxM1I0aEJwd2lVeFhmZlQzNnFBWkN0czRGak5kWVNmMzZueGNqUDJSWVJpTENVcTVydXRLWnhVMGZ4N1RibWF0b1h4RmdLd1hzTWthVWZiZF9adG53VV92b2VUZzc3S2dDaVluOXhLYkVXZ2tHZGVsUktwQlR3?oc=5"
    }
   ],
   "marketscreener.com": [
@@ -20622,6 +21762,37 @@
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNFZqaDdNOGV0ZE9QamJuMmRLOUtHSXg0Q3QydGxnb3U1NjBOLXJPV0J5UlgtZ0pXdDNjaTVNYjBxWFNTTXR0eXluT05SMkhVeWIyczlQVG9sdjVsekFXZXQteWJGMDFiYVFkdzMxWWE3UUlkaE1BVTZUcTdnNzVIUkdOUWdQSjdwUmRjYVVTZmZoUFZRRHl5bDlyOFR0UV9waGl1aWVmekVoTkMzVF90NFpESWpzYWlrR1BrNTFvc1hzWVBsVHhGUGYxNFdqZk9Jel9KTmJFRDhHNlk4RVN4VTdiOTg3QQ?oc=5"
    }
   ],
+  "martincid.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Martin Cid Magazine",
+    "sections": [
+     "ai.ads_social"
+    ],
+    "title": "Google\u2019s promise to keep Gmail out of your ads now has an AI exception",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS05DekhoLW9xU0UxYl9paUJKMl9GMEp3WkFXVnQtdGQ1OVB4MFhmbUZLS1RWZk9EbmYtbVVPMUg2RnFIQkRVbW1OOElYWnp3WkZoejFyVWJDSlM0VW5Fb2s3TGF6MTV5NGNaMkZqeEhJclh0RWE2TmhyZnZZOHVzUXVXWVRRZUN5RjIwV2laSFlDaHhEb2lmamx3aWl4cWpKRFdZ?oc=5"
+   }
+  ],
+  "mashable.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Mashable",
+    "sections": [
+     "ai.ads_social"
+    ],
+    "title": "What is Cara, the anti-AI social media app for artists?",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2V2d1UmloUzZoSkVGMUNCT0xIWEREQ3l0NVE4SGc3Uk14d3MyblB2SVExNWRvaUdlRFJMLWJNeERpM252d080NTM2NU5ZVFppUVVobzhueVlZN0xhcEtsTGI4QWFtei13QkRnb09R?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Mashable",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Amazon might start using humanoid robots to deliver packages",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBScFc4Z2l1WTdQWXR4VHNySXpTeW9KOVdRaTJTbzFzcUM1VDdiSG4tRDRqVGdmMHRWdEhDWENPWGFyY0FfM1BEWnJ5dkw5UmJRaG1KZFo0Mm1lVmFHNmE5TA?oc=5"
+   }
+  ],
   "media.unisba.ac.id": [
    {
     "date": "2026-10-20",
@@ -20631,6 +21802,15 @@
     ],
     "title": "Newcastle Vs Arsenal PRE MATCH Press Conference ANALYSIS #aftv @arsenal | Powered By ChinkseyMEDIA Visa Bulletin (FUesMNKeGw)",
     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0RHVaWkJGZmIxcmpNZ1U4cm1VczQ4Q196OUVuZVhCYldLcTNzWjNkMlFQalBMVFBLOHBJZDI1c0plYU5YTmMtTVNDejljME5jQ2Nqc3hPZjRTN3MwNUpKOWJNWTBTbm9RaF9OOA?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Unisba Media",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "2026 Visa Bulletin: 8 BIG Updates For Green Card Applicants In September | US Immigration Update Plaid Cymru (WGO6jiUuVD)",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE83UEc2bFpzekY4SnNFaWc0eUZRcVltZTVraC1OMFR5ckNWMFZyOTZGNmxEMng2NFBBUDN1UnN1b0ZiR1BjUWpqSmF2Y3piMUJ0WW9vNXc2SEptX05Uc0dleURyLXBhdw?oc=5"
    }
   ],
   "mediacenter.imf.org": [
@@ -21021,6 +22201,15 @@
     ],
     "title": "RBI MPC minutes: Economists expect repo rate hike in December",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOR2ZqcnE2MlpDTGgxZy1RUTNleVFLRXEyYmdtcWdmQUpiaTg1elMwcXQ5SWxlZS1aOGhGUlQ3TU9IX29XLXBBNDBDM1J5N3lySUl1OWxqWnRJaHRzLXUwVXBVYlVTLUNSSVV2ZUpxVGZKbUxMbmZFTGc3akNhQy1iSno0Q0JXNkplTWt4dlFnbWN6aWVlanJka1ZQN015MDNmU1NERXZBMW9EaHh1ZWx2U1FJNkNMTUlmODBzSHNhMzBfMjVH?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Mid-Day",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "RBI MPC minutes: Economists expect repo rate hike in December",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQm9ZWXYzS0tWZkRiOWk3NmUwQ3lib0lSbWJSVUJiaXJCMVFiUi1neDBZR29wWlg1dlZkdjJyRXB5cmhEN3ZwdEdTSkh0WkJzd211bWZFNE9Ba2ljSUNhVEhUXzc1S0NSQWZYYjRJQW1MZHZ5RkRRTWd0b0JTRFo1OGhXUjNhcXBwb2ZzWHNVUWZCX0pGRy03aF9GZm1xaTQ0MWlsS2JRZ0pOQQ?oc=5"
    }
   ],
   "middleeasteye.net": [
@@ -21072,6 +22261,17 @@
     ],
     "title": "Liverpool news: Trent Alexander-Arnold tipped for rival transfer as Chelsea battle emerges",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0lQaGtmUFJ0bzlLTHBpdFFzMV9EallvZml0cjhESzYwLWhSUGVJZnUyU0I2b0pFNzNOQk1yeERYUC00c2gwdGtYNjRwOFlvYWJFdW1uaFFhcHRkV2NjQTNPZE13X3A4U1BYQUd5aEZ5UkpITEpzQ0xxQUFtN3hsbUNudWd2S1daVzctZzU2NjFkdzc4WWdxVXlMRjNZTFHSAZ8BQVVfeXFMTlNJUGhrZlBSdG85S0xwaXRRczFfRGpZb2ZpdHI4REs2MC1oUlBlSWZ1MlNCNm9KRTczTkJNcnhEWFAtNHNoMHRrWDY0cDhZb2FiRXVtbmhRYXB0ZFdjY0EzT2RNd19wOFNQWEFHeWhGeVJKSExKc0NMcUFBbTd4bG1DbnVndktXWlc3LWc1NjYxZHc3OFlncVV5TEYzWUxR?oc=5"
+   }
+  ],
+  "missionlocal.org": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Mission Local",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Meet the S.F. congressional candidates: Expand work visas and green card access?",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS1pqZUN3Wi1RVHVsOXp2ZTJGM0R5VFY3cGNiRl8wTjc2aTJLNkxPWi1XMFdZRHdsbTh3b0UtT29zOENQZExJcDVZSUp0akNkcXE4anNjZkRtZjFOLXVTMHd3Vzd2MjhacVR3YXRQSEROc090dkp6X1VVcTdQc0ZXUERmQXhnNVE?oc=5"
    }
   ],
   "mitrade.com": [
@@ -21168,6 +22368,33 @@
     ],
     "title": "Manussur Alexandre Algi Profile - ICC Ranking, Age, Career Info & Stats",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aR08tVzJMeXVvSGF5T2dyVjlOLU9EOC1QSWtGNmIzYVhncjRWNWFMbER2eHVrMzRCbmR5NGEyRC1ZckFCa1g2S2R6aUswODBERWZvWHRhSUt6ejRiSE9jeWtWZjNhbm9PbFFHOEg0OG1vYkE?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Cricbuzz",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Asian Cricket Council Emerging Teams Cup, 2017 Team Captain and Players",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb193OGd4TUJyRVFBdjRPUXpzZDN3bWV2MS11aXIyUW56akY2d29heno4VDM2MHFkYjdzc2hfZVAtT3NOWEUtUDRwQjU1UloyWThwVHBXVXk1X0dSbUpvaFByYVdFSVFNSk1ieGlhRDJuRkQ0aWZhMTBwMEFISHVlMm1jVkVYZno2WF85YWlxUGtrSDNyZlJFdGlzdlNxZw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Cricbuzz",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Live Cricket Score, Schedule, Latest News, Stats & Videos",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRlE4WHNYYlZpSnNidXU0bzF2ZkpjblZYb2FLNXJ1TFlWMWlDLVV6dm9YVkp4RkN0Uk14SW4zc0Z4ZkRvUTBILXlrd2YwNnFoSS1uNzg5QXBsLVVuQm1oQjFYTnVzaHdXOHJpbVEtM2lOS0ExZGN1NzdDQ2ZZUnhjeTFoRERRUGQtRjJ6Tl9rTVNKeFNhbVNtQWx3QlpRY3hRV25YTjZNRQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Cricbuzz",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Cricbuzz Live: Can India chase 181 and take a 2-0 lead?",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjFnNXRXWEFGV3VwSGNCbWlKbEs3Z09OZklFQkVqN1VZb1NCbDFxX011T1I2TzhkQ1hZUUdNUTVOTEhEVmxEaTIwcGdCS3pHNzBLSjlIbEtLUkZlanQ0TjgwQUo5QkN2MjEtMlJTNEV4YVp0b1hadU5PRWl0alBNX2dqVHpBaU95S212ai1EaXpRbzNZTVV6Z1U0N0JjTlpnT2c?oc=5"
    }
   ],
   "modernghana.com": [
@@ -21190,6 +22417,15 @@
     ],
     "title": "Canada's budget watchdog cuts GDP growth forecast to 0.9% as U.S. tariffs push federal deficits past $60 billion",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSlR6NTZJMzBENHVJckQ0SHFfRW9DcDloVUtWaXRVd1JPTTlZZ0RTZEo3cE1QZ2JFOHlTUUplVDVxaUotaHFfSnc5LV9IUXIzWnp0RU8tYWxmQ282SkRKN21nLWlpS1g3UEJ5Vk0waTgtYV9fVVhQaVFOX25HcHN1bkl0eWo2UQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Money.ca",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "\u2018A game of whack-a-mole\u2019: U.S. importer of Canadian cheese for nearly a century sues Trump over tariffs, allege constitutional abuse",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcTRnVER5WWtxeng4bHFjMjBqZzV4bXB5X2VCMEtzeXlOSFJTX2NUbWVTallfZXhOWjczM2JGU1dXbC1Hb3M4YXFoRTVBV01aVlpJel9kM0kzMHNwY1l1SzY1SmtOTDVVWm12aW5SMm9Ic243RGF4dVBERjBJbjhuWg?oc=5"
    }
   ],
   "money.rediff.com": [
@@ -21320,6 +22556,15 @@
     ],
     "title": "The RBI\u2019s October pivot is beyond the 25 bps repo rate hike",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0lvNUZVeE9acmdZejg0dWpZVkJCY05obFVkQ1pzejlmaU52bnJmYWZiam5YLXB0UFN1SUxzbFA2WEU2dVdTVlJEVlhtelNyUUdsRW4zT1pzVy15S0ROQWx6Yzh0OU1vLUxnWlk2WWlZa1RnVVowRWhVcjJaUE9TZld5ZWRHbnRWaWpsWkF6aFVWQnRVT3VQQTYya3c3eElBam5MSjF5ZXZxei1MSnFrbjE0QnBTUdIBuwFBVV95cUxQSWEwQkpxX2hZZVgyVk1YOGZPal9nUXZUU0g0ZzVhRzloWU11aFlMSWM5dnhFdTRib0oxMGJvVzZUMU9iR2ZMVzJ1UXV6SzBNQzlQVzFHUHdoTFlLOTZyRVl2Rjkxcnh2RTdTYzhfWDFmUU5rSDhnVzl3cTNNVkdmVUR1TWRZNFR2eUptQ2NWTlFHQWVoeXBvSUVSX1NKcGlyeVA2QVdNYm9ZWC11OUxzNWpBQVp2SVNxZXlF?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Moneycontrol.com",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "Indian IT's AI revenue puzzle",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGxodi1rbWhNNk5aQTdHZnF4SXFGdmFYa2I5U2pHTkViTWp6LTR1aFdXd0xSNmNNVFBsZGlfVmx0Z1hDaUlnWjI1SEpsd3ZGUElMY0RPTG9lR1hxNnUwcEdCQVBCai1PU0pNVzl4LXZZRTA1cnZBZ1lBa25zcHRNMnFGQ0VielpoX3RDUFVYbF9ubHMwRnBfLTJXZnlfWkRhSXZyag?oc=5"
    }
   ],
   "moneywise.com": [
@@ -22157,6 +23402,15 @@
     ],
     "title": "Elon Musk: \"Spending cuts alone cannot solve the national debt... AI is the only solution\" : Global : JKN",
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUQ1RDdTFFS0k0dExtYWg3bTBjdGpSQzQyZmhFMEVqUGZobjV0Q0Roa0tYdlFHczRGbXd3NXd0aUtva2huUDMwRDZiSTlaYlF5SlZ6UHlOZ2JFOVo5d3JQU2JR?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "\uc7ac\uacbd\uc77c\ubcf4",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Hyundai Motor's Robotics Subsidiary Recruits AI Expert to Boost Humanoid Competitiveness... Boston Dynamics Appoints New CEO Prasad",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50WE9CYmU4MXYtbmswbVlrNk85RnZfZTRhVXN5WVJJeTlWdW52NjRsS2Q4TlRQRlhhLTNGYm9oYnNheUFGVWhoQl90TmdQMzNaNFBZeHRCMllVMklwcS1IVnJn?oc=5"
    }
   ],
   "news.laodong.vn": [
@@ -22197,6 +23451,15 @@
     ],
     "title": "Ex-OpenAI executive builds $1.5 billion AI manufacturing startup Arda",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQa0hsalVuc3JRaHN5Wk1BOFBudG1wSHNTaHV0eXVhYkdTWmhpcGVxaDJwdzZDM0Z6aXB3MXpTU2NjNlpMUFpObDBRR2pXbjYwLUxiMGxRZXZBMXVHUzJuS0JZcUtQYWYySEFTVnNvYmFNSzFnUTJpTkdFSEZ3emtqN1FWSTNjSEV4OEtFVmVSZ2NISFlPNG1wYTVteENSdw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "news.lavx.hu",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "Mave raises $28 million to automate security investigations with AI",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWpzNjVXcTFaUGZBWVFXS3VnVERiT2VqUDVvSjZjUTZnZFpPcXQyMXpDLW9zUXREVWZVNDhuaDBjWnk0QzZEcmlBSFNzY3Q2MFlrY3pDRlNoS0hyZk9HVWZBUzRnbmlyeGZCY1JNNUFBYXdVUk9aY0ZrQlE2N1VOWER4ZllHczhEbmVmZmk1UDJPMDhmQXZya1FxOA?oc=5"
    }
   ],
   "news.metal.com": [
@@ -22326,6 +23589,15 @@
     ],
     "title": "Top Stories and Transfer Rumours: Premier League and Other Sports Update",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM2w3VlhINW1tUlZ6ZGNGR0FRQndYZ1Nlbl9hZzlUVERhQjY5TDNxajlQTVZTQXRvUnduNDZNN1VEb2F3WVhTbXZiVHVwYTRLV00zdTNzWGNYTHhOMk9GczI3bTNyVEJnclJrU2dPejRlb2ViMkotZ2hSbmJYRVhJWUIxcDZTOVBtcVVDWmNDbnhYeDltZjhjS3NvOUhfZkU?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "SSBCrack",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Trump\u2019s Trade War with Canada Intensifies, Increasing Economic Strain and Job Losses",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ZjaXZPX0hZblFLZ1EwX2RYUm5BbFVjUUs0czBjSGQ3NzVrQlhzNDRpalRZYlFrVE5XazJVcV9jR2trSWUyTzh6U3JBTVJ5VXN0d1g5YjZEdW5leXF1a01oc3FfdTJUcXdBck1jd3NXVzA3X3JrVDZOTjFpZXFtV1dWaUI3OTNZQjJNX0w0elRiOW92VHdrMWcwd0ZmLXdvTmxUT3pfcElhOGs1a3c?oc=5"
    }
   ],
   "news18.com": [
@@ -22373,6 +23645,17 @@
     ],
     "title": "Humanoid Robot\u2019s Slow Cucumber-Cutting Skills With Shaky Hands Go Viral: \u2018First Day At Work, It's Understan",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbDZ3eFRaWnF4M0dCUm1PVnYzVEZFZ3kwOTk3bXJvZDBmZ2hIdFFQckllUWgweWVTajVTWXZFMVhWWHNEaTBRS2pxdzRId2RxbVotUGtJa0F5c3NhODBuVnBaWHJ6RGZic1ptc2tVNE9fcXlvY2VEYm9rTzdvOWMwZ1F3bGhIX1J2VllWaU90ZnlNX2M1aGVlN1ROVlhqZmFEZUVKSndVdFlaVzZkbkdWWU53c1UxTW5HWVlsRm1ETkpSdUNTaFFWdzFFWTc5eDRKRkFTT05LTGFCUWVHcS0zVm5CSXBwX1ljYWNr0gHwAUFVX3lxTE5uMEM0MDN3T2sxbnB1c2ZNcUlOUHRpWkFwY0x4NGJYWkdxTG9DLWNzVFpKeHc1Xzg4ajZsdFNPa3NtVGYtQ2Q4UXhDY0VkMHJiLS13TVlGZ0w2dnY1RndDQ1lnaFN4VG5WejVZTTVxUE52NFRZYkd1OVNlcVZzUUtmZ0ZiWFJQNVJZUjVwbzJ5dE14cVh2SWxqeWZ5Ym5jbFc4VHEyNXRkLXJodkZVcHdqa3lkdXhPck95NVB6TUlCRWFtYlZmdkROY1FteWp2eHVtOXQ5V1pwSTYyOW1hM080SWFKR0p6Z1ZfTHo0TnFRTA?oc=5"
+   }
+  ],
+  "news4jax.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "News4JAX",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "Fitch downgrades JTA\u2019s credit rating, cites weakened financial resilience amid $40M budget shortfall",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWUZLRXlQakNPc1JBdmF3TUJiZkZXQVhDWWpIcElvZ0hJWHhWWUkxUTgyWHIxWS1VbWVaelhrYXFxeGpDZVliNllSQ3RzT0NTYWs4WGcxV0tDdXEzZWdmMzNGakRscEQ1bzVtaDlTVHlXdVNSOFgtejZ5b2dUb2pZZGt5SF9raEJlNHNkSnhHbC04Rk9lSHNnNjkzcV9jZktTZlNnS3VPVWNQNzE2ZHB5QWJCNThOZ2lkWXVZcm11WmxSQzdlVU1Ua2J3OE8tTERkR0I5NXBGUHc1MXowSHc?oc=5"
    }
   ],
   "news4sanantonio.com": [
@@ -22424,6 +23707,15 @@
     ],
     "title": "Banks Transmit 93 bps Lending Rate Cuts Amid RBI Policy Rate Changes",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb1FmNXJPd3JlSWZnZTlCMWlpb0hFOGl1QW1XYTZIMG01WklBYmlrUVZxczlJN29LN2JmUU93M1RmOTNKSzU4Uzg3aU5mbGttbWQwYkszaVI0R1B5SS04S1c2bUVhSUlQeGhCQklsZzRYNTlnYmMwSk1LdHdabVRVUHNzVUhjSXFHTlVSdlpDeWJBWkhvMDFscjNjTkZLSmp1OG1YWXl6QmtVQmZyeUxRR1FxVXBIN3FSelljWEFqU25MeDZHWEpkZVRpM2hZS1nSAc8BQVVfeXFMT29RZjVyT3dyZUlmZ2U5QjFpaW9IRThpdUFtV2E2SDBtNVpJQWJpa1FWcXM5STdvSzdiZlFPdzNUZjkzSks1OFM4N2lOZmxrbW1kMGJLM2lSNEdQeUktOEtXNm1FYUlJUHhoQkJJbGc0WDU5Z2JjMEpNS3R3Wm1UVVBzc1VIY0lxR05VUnZaQ3liQVpIbzAxbHIzY05GS0pqdThtWFl5ekJrVUJmcnlMUUdRcVVwSDdxUnpZY1hBalNuTHg2R1hKZGVUaTNoWUtZ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Asianet Newsable",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Goldman Sachs Says Refiners See 'High Probability' Of Sharp Oil Supply Drop As Houthi Attacks Escalate \u2014 Crude Oil Prices Hit 6-Month High",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQR2JoVHZwYV9jZ2dBbzJYaGxnY2phRTM5YTIzRFBJRVVXeThoYXR2MXRmVVk5Zm5xQTFpa1E3ZEFLLTBYaG9QdjJZdk9PVVN1ZXpadGtUa2hYM2NoaXlrRk5WSjBNakkwWU4zRWItU1hoQ1lZTnlQY0tKTEFoclNPdmtXbVhpakJManBLZXFMcWp0aHdCTEFTdUZtNUNvNWlMMEplWFdmNU5ZUUVKQU9uTzI1cEdGS0xqbDBvbjBoci1NMXZMTndvSFlac1d1SHFvVFU0ajJWRUJrR3JXMmg1ZEhTQ2ZCQ1hFekd1T0NZRVB5TmVQa1M5NEhKZGNWcXp3V1hsSWxIMGVxQzl6QnNvaTJneV96VWtaZXdsUFRoQnbSAaYCQVVfeXFMTXZHM1RqTTJtZW9XVTR5Uk5LbTdCc0hCRVVwNkMyVkVzZGFZUG5ocDBMRHBkOVFpemdTYkdsNkt6WHRaMXo2RzluRFctTlNVSEZGVUxjV3VIWGNCeDViSG9RMEQ3X2FfNUlkQ2lsVnF5SnJ6S19mM216bmdXVnljbnRGaUp4U1IyOXVjd095MDMxUFU5d3BwdmNBNnQtTU8tMWlBTlAwSWFOODJtQ0ctbTFlYjhTWURERmc0Y2w0ZDdkV3JYSmo4WU5KYXByaWNRNk1jSUc5REdZWV91ck8zbWZXclVIV0Q0YmdIZ3RodDZfZkd1VGMydWhpRXlWZVVZejJILXNmZ3NBdWh4LWJLZENyNTJSOXpsdnpwT2tzY3ZwelVOS25B?oc=5"
    }
   ],
   "newsbytesapp.com": [
@@ -22482,6 +23774,17 @@
     ],
     "title": "Brazil presidential election dogged by alleged bias by Meta AI tools",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMk5KOHlYeEJvWjRLTXlJdkdOemVlYXEwaUZyZDRTRjdKbmZRaEZfTGRubGNaNHltb3F2Q0pyWTNaTS01ZEJwVFNraUI5UFZvS05NT1RrT3k4QlZ0SlA4dkFJblh6bkZ5VDh5b0JhZm5Vc05iSS1GQVpBSjdvVzQwNFFoSGlpREVtRHFadXItd1ZxQ2N1Rm8xZVVwdFdkN2FGcTJvZEJoMDA3eWlLVldrS0JRb1E?oc=5"
+   }
+  ],
+  "newscord.org": [
+   {
+    "date": "2026-10-25",
+    "outlet": "NewsCord",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Mike Waltz Says U.S.-Iran War Could Last Another Year as Brent Tops $117: how 11 outlets framed it",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOU0YtTVBsYjZpb0p2c0RvVXB1UXpJR2VGSHAxN0dOVnZpY3p3UWVhZlhSaXFNb2RNdlZJVlZubEFhdnZaSlF2YkVrYkhMcUV1TkVJT3V6TUN4Z2ttTWxFSDBINTFUTHhXOVVhaklZdnp4M1pjWWJBRG9XYWpQLUczZVdUUmVoUWg3Vi1ITzRNQm5FcEhCbGdhNlZKZEhKa1VqeVE1eXFBOWFyZmZPejhtZ01SS1JqQWRCYXNnWUI5eHVSS2Y0RWpEdzd0cDRFSnVuVEdfSENRREdFVzA?oc=5"
    }
   ],
   "newsday.com": [
@@ -22650,6 +23953,15 @@
     ],
     "title": "SpaceX Reports First Quarterly Profit Driven by AI Revenue Surge",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOME9OWFphTUJzTDEwbE95YTVQSHZ5YWVYaUt5T3FoX3ZrSDIxcEZ2N3I3THJULW1mODdvNl9Yek5iV1FfR2RkTUdNbnVCV1pqc1dMb3RCR3dubkhRbzZFeTdvS3FvZThldWR3V3ZDaE53VXQ5TnlQN3JDSUpqMTFXMWZTNzRHWTNYbGxNNzNBNXE3aEpSbThXMmxTa2p0bk0?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Head Topics",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "NNPC, China North Industries parley on crude oil production, gas commercialisation",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV18waU5EZXFyaHBGS3lXS2trUktwNHlyS3ktSklkcVU1c0lmUU9ZbFE4cjEtM3loR2dGQUxiakxxeVRsNWFtYWZFOHFDN2Qtd0QtdFRsZ2V3SVNybVl2VGx4MDhWWXhreFgzUFBJamdOakt3N2dkaXdYQ3hZZ1FTQzZ3Zmt3dTh6U3VDVS1HeHo?oc=5"
    }
   ],
   "ng.investing.com": [
@@ -22703,6 +24015,15 @@
     ],
     "title": "What Do Donald Trump\u2019s Tariffs Mean For Michigan? Plus, The Israeli Election : 1A",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUS1IWjJzZUJLZi0wQjFCenQ5c09FMURxUm5OQ3ZucjFuZW5IZEJVNWI0SkZUc2lnQWFNMl85Mm1ENDQ2V2s5RTgyemF5aDJ3YnJ1ejNjMFVDSllQZHRpNFdLYmJxRHo3SUs0akM0V0JiaW5KdFAzV3dPQjIyVTM1ZWNuWWFnYzFJdkNJaXI2U1VYN2g2WjJrdTRPMy01cWw1N3J0QXRvTlhDdjFEaGlsb1hGT2JKdlBYamFybA?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "NPR",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Trade tariffs cause whiplash at Port Milwaukee",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbmRTb0psYTNxMHVOMEMxQlh4OTRMMTg5WEl2VDN3NnlvLTg5ejN0NlB3WVM3d1UxRWM5a3JDT1dacEJDXzRRX28xWVUyR0pPOHZPRUU1c1o2bjd4ZWt6Z05wUklSaERiRUJDWndqbDMwUFJ2UmFIMWh6bjQzREQ1dWluVkIwY0E3elpJT05idktwdlBHTlE?oc=5"
    }
   ],
   "nvidianews.nvidia.com": [
@@ -23035,6 +24356,15 @@
     ],
     "title": "China Telecom's TeleAI Spins Out Gamma Robotics to Build Self-Evolving Humanoid Robots",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRUdLbFNDSGFFMDR5MHNjZXF3SjNYNHpnMklibHFsZDA1LWgyNS01d183dGdyN1dDOXdsellXWE1MNjMwUi1MVUE5dWRRYmgzUExhREJ5RnFXVDIyUnBVQTloc1JWYmd4ZVBHdTBBVENpcDNTdjRWVHpxdHoyeUhFTnhWY3F2TVBxOEZjSU5yM2lLTG0zUWc4MUJiS3M?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Pandaily",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Amap Open-Sources Lambda-0, a Whole-Body Humanoid Model Trained Only on Human First-Person Data",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQODZWN3Q0a1hWb3k0ZXlpNDROUVRRVWdrM2R5Vjd4UEt1UkJWcEVqLWtSSWJMa1ZISjV6MmloUzVIM2ZubE5jY2E1S3pmVEtHeHlmUHI1SV9OR3U2V1RheU5aU1c0c2Y0V0lDaU80Vkc1bTJSSmVWQUdOSFRGQkFialNOQmkwWFV0UTViaWU0U0JBMHhVQ3A0Vl9KODYxdkdKbXNiX0libjE?oc=5"
    }
   ],
   "pangasinan.gov.ph": [
@@ -23068,6 +24398,15 @@
     ],
     "title": "Neo1, China unveils a 4-meter humanoid robot that lifts 500 kg",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT0RINDB1VFZ2ZGFqUkExbUZqeVlPUjFDOW5kTUlSRzNTQjM4dEN4SlNFZnhla29jUm9HMnduQnNWQms5WFNDT3lBcmNBSmpRR1F3V1VFOFhnTktZQUJJMXFtSUl1R3hQMU53NFE5Nzh0R1owUmdQdWtGd3JEUnBWX19zOFJ4LVFEZ3I2Rg?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Pasquale Pillitteri",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Unitree Unveils H2-X, the Robot That Lifts a Car and Jumps 4 Meters",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNb2dqZTItMWh3VmxoTGpZVTJ6S0hUMVJSck1SbW1LYzJNemc4X3VSZDRJTmZaelBvSnNlYnJOeW1mbWMyMzQ4R3R6LThRSmpjN3E0VnRLV1lBRmxHT2hBR2tpd21hNHJoTkNNdUpGMzBmeWdUcE9OcVItYjI5R3VnZURzLVNUSFRkOFRhU19YaTg?oc=5"
    }
   ],
   "payloadspace.com": [
@@ -23119,6 +24458,17 @@
     ],
     "title": "CP NewsAlert: U.S. to drop some tariffs on Canadian exports, says Maine senator",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSG9uSE5lS01FUmFacW5DREFCZDdmakY2dHBZc1R0Tmx2WVc0WHdaQmdrYkVuVm1Rc0VVNWtuUk00UkgxZVpMLTk3c0JBNG5IMXdkRDZHY2FUT09VU2tzU2YzSUVoTnpvbEtPRF9WZjhUckFSLWNfY2oxaUg5SnBYQnRKcWdLYk5mT21MbVZPNGVnSjJwd1RDekRNa2xEYkM4?oc=5"
+   }
+  ],
+  "peopledaily.digital": [
+   {
+    "date": "2026-10-25",
+    "outlet": "People Daily",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Govt invites public views on naming Kenya\u2019s crude oil",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdkdmdkpYSHhDYVlsZTZQdmJHMEowTThEV0NIdVpYNm5PdXgtNzhJTmRMSm1kWmZUaW1yV05zV0podGxLdVAtSUlhdzY2S2lzcHBFcjEzRzFQWEZHWjdOTExnNFgxeUtDMGx6RDREZ1BlMjhxM2FZckNCdzg5UnljcXl2TG9CQkNqR01DcmZB?oc=5"
    }
   ],
   "planetfootball.com": [
@@ -23294,6 +24644,15 @@
     ],
     "title": "Fed rate hike odds drop below 20% amid weak U.S. housing and steady inflation signals",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbE9wWXZTZldpS093UVpZaTd1TnBIUko4UXRBTjNGdUtMdExWbmNhNkhFdmdWRXhhUmRqVEVvNkpLbk9zZms0RE84T3J3TEVwUnR4UV9HZk5UWFUycTBodUJwM0ZxZUJPdkRIMzF1M1Y5aFFoM1ByUDBjckU1T19xR01RT3dGU1ZYeEhBbDVCOXVVTE1PanhaMUgyZDF4Q1o4NUpN?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Pluang",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Fed rate hike outlook pressures Bitcoin, gold, and copper; $10,000 Bitcoin downside possible.",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMlRESVk2T3NTc1o3RTNpREZQVkFKV184dEh6ekFqSnVpb2gxVTB0RV9LR1hBTUlDR2RCaGdFV3BMbk1xMzNIN3N2SzlId3VQdVFjcnZZUXlOTzUtZkpsNXdXYndLS3RfTEdINGVwOHlFME5nZHhmb2JhcVM2MUVMSTVlTkIxU2J5cGhwQkpoOXVoUTVrREpGNUNWbDNvRWcwbGFTUVJnZzZTX2d6SS1lRw?oc=5"
    }
   ],
   "politicsnigeria.com": [
@@ -23833,6 +25192,15 @@
     ],
     "title": "Oil Prices Hover Near Five-Month High",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUWFjR1QyakFhZEpfSzZXWDJGT1BSRDlvLVl4LWY5Z1NjdXc0ZXpGVFhCeml1bnBxZE5CVHFQdmFBc1N3RUgyclcyLUdrSDkwM2R4SFdXclRUYllYcmlBb0RnczJScEljQWlELWxvblB1bWxKaVdLZEZrWld5YVdGTjdVUk9OdGkxUjlsSnl4MlFVNjJaX3BIRC1mZFU4aDA?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Rigzone",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Physical Oil Prices Drop in Mideast",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSTlzVWR3bkdJU3k4eEo2SzF0RUFPVzNicXJEbXNBaEJiMm1HX2hqQWE5LV9GSnZ4MHBpSDladTE1STlWcFhrYkV4SFBqZmFhQ0pycGFBU0NlZ2I3RVdjMEFleDg3R0NfQjAtMENnUXI3TmtSZlM2ZWZ3UGVxMzVJVFF1SGZBMnQ4blFydWF3UlpaUnhQQ0ZzQXVBZmpNQQ?oc=5"
    }
   ],
   "rnlawgroup.com": [
@@ -23855,6 +25223,15 @@
     ],
     "title": "Is China Driving Up Oil Prices?",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nWVp0eWN5WEp2U3p4NldnSWRkd0JCcXFJTW1QZ3pqeFpNX0dKbzFhOFVLck9WWllZZDBac0lDSkFuZHgxVVk1WTExc0pKMGpwZmhpNmNnQmM4dDlJU1JFN0pmUVA3N0d6YXFQcEU3VC1DM1NJ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Robin J Brooks | Substack",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "What\u2019s Priced into Brent at $117?",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmbzUtV1l4dU4yeU15b3NTbk5IMDhFZjBReW51Q1B0a24xWF9wT2d4TmQwTldzVllHeHR0ampjczc4Y1lEOWRHcG84VmE1WV81RFVGOGF0RlNvbHdaLWJkWWd4OHE3ZjNjQmc1QVo0d01lS2da?oc=5"
    }
   ],
   "roboticsandautomationnews.com": [
@@ -23975,6 +25352,17 @@
     ],
     "title": "Jason\u2019s Takes on This Week\u2019s 20VC x SaaStr: Pro Rata Fights, the First Real AI Price Drop, and Why $500M ARR Isn\u2019t Safe Anymore",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOTg0TnktM1VjU1ZyU3RKSGFMWTZ6RHluUDhUdGdGR1h3WllaZVc3Zy0zRFVBQjkyWWRxWWh6OVJSYkV0dWsyNGhuOFdFejBHWW5TcFBDX3ZSRlJuRnd0MWNhUWQ3a3FveUlwVU1tdjJGWTlKam1veDFCUm85WGMzSEdlSG5LZi1BU0liTmFiaWlBX2lFdnF2dEVkbDJxd2dYTnRkazMwYmVaTTEya09yMEZBbjJpNjExSm82Q0FQeFJkTTEtb2h2SUZWQ3V2TFFiWGNHT21uU0Q1WXFG?oc=5"
+   }
+  ],
+  "saba.ye": [
+   {
+    "date": "2026-10-25",
+    "outlet": "\u0648\u0643\u0627\u0644\u0629 \u0633\u0628\u0623",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Kowsari: Rising Oil Prices Expose Falsehood of Trump's Claims Regarding Strait of Hormuz",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5DMlFGWjRFRlEwV1Y4MmVXV25Xb0ZMekk1WEpyd295OGZYcUd2bTJXNk5JMUZYcElnVEI2NkhlME1XNmtjV1BWM2NnRDVUWjQ?oc=5"
    }
   ],
   "sacbee.com": [
@@ -24324,6 +25712,24 @@
     ],
     "title": "Teradata: AI Upside, But ARR Growth Still Lags",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0hleDZvbWtlU1VhU0hGbFdXS1ZESklrLTJoTzBEYXpiM3BIVl81VU1HOF9Pak9PSFNaZ2NXUnFqWWpkc1RVcFUzXzVOMTNuNnlOcEdQdkU2QmNGcUNlWW10OTlWRm0tVG40dW5TTXpHUk1EWFNVbEVKZlFXaU5kNnlYcDBnNTdHWVBOSmVn?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Seeking Alpha",
+    "sections": [
+     "ai.ads_social"
+    ],
+    "title": "Meta Platforms: Sunk Cost Fallacy Vs. Nascent AI/Reality Labs Monetization (NASDAQ:META)",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFVxbUZyZUZsNHFfSThXS2R1UXMzQ0pyd092cDRPRkhWNmladm5feU0zalA1TDlMLXZXUjMzaTF5SERGUzVKYVFpQXcwOEFzYjA0NU0wdUU5MjloMkoxWTdCdVpEVlNVSTEzSGVtV3VmMlZyanJZOXB5NzE1dGk1ZVVRYURsMjh2UjhkbDdfWlJaTVhubklqZ21GVGg1ckFxLXFqalNfQ1J5aUhrcXpKcGNQZw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Seeking Alpha",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Are Soaring: How To Profit No Matter What Happens Next",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN2NCOGJCejF4LW5aQ09pS3ctT0FGQW1FQTlHaG5tRzBkLXp4alJjTkF1TWlhLXZOLW5FcWZGTnNCYkJISnFkTFQ1QU1xMW12WmNQejczZmJDQnZrWDhzcndXakMyRjctWnRTM1FKRUstSG1fbHI0aUVUSERiWWFMd1lnVFU2VmV5amt5SDY1STVHVWdBNVJkN25jdjR4VDZVazhaZlcxSG4?oc=5"
    }
   ],
   "serrarigroup.com": [
@@ -24346,6 +25752,15 @@
     ],
     "title": "Meta shares jump 5% as AI investments fuel revenue growth",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8yUHk3aUZmdDJHc0pNWkNIN3BfbDM4NGpBVWtta1drSWk1c2xmQjRIYW0tZmczVk4yZ0wyaTFVeGFOcE0weWJVWnphclNDVzVXNXZsQ1pBUFZvc3c5N0x3TGRoT1J0eHlVWTRzQjJ2TnYwTWEyMmF0THNR?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Yahoo Finance Singapore",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent Crude Hits More Than Five-Month High On Houthi-Saudi Attacks, UAE Oil Spill",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa3UxS3VUSjRJcUlVMmRxVTdBd2MzRDhRa2VHbEpHY29yZHNKRlQwSGtvblFrcmJybDBDQXpVUFllclZpSnBianNKQmxVRjdEWmE1WUZoaFpzZ0tzblhnUUwxeExvakZrRE4tZ3FNYTlPUmNFQ0F3U1VDYVZRWHpMbg?oc=5"
    }
   ],
   "sg.news.yahoo.com": [
@@ -24408,6 +25823,17 @@
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03RnRaWjZ5S25lVms2aW53X09BbjNSVmtiaTg2MWpsa2o5aHNINHd1ZUloLTdxSmhuUlFLMmhhQVlUYmVCcG1OTjktYS11ZGdLaTJqVnFsTVBLbWoxaUZfVEdNY3FxSHRsR0F2NHFQX2g?oc=5"
    }
   ],
+  "shows.acast.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Acast",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "\ud83e\udd16 China\u2019s Humanoid Robots Are Looking for Jobs in South Korea \u2014 Factories and Caf\u00e9s in Their Sights",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXZkQklfOVBWNENreVMyYkZIRjA2ZW94VVpUZncydDlqOHppbk9qbXhVM05ISUF2cXJET2p4aFdqS1cteTRoWWZRR29udjVQdmJBRVJKUy1qZV9Vb1NSNlhOamN4QlZGS3B0Um9LMEdsVGJqUjYtV01JaHVDTERfNE45allKVXhSRG1wNlZYR0M3Y01aenlLRi1XTFN4SUdD?oc=5"
+   }
+  ],
   "sifted.eu": [
    {
     "date": "2026-10-22",
@@ -24466,6 +25892,17 @@
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZHB2TjN5V3VIQklQblpIUVdSX21Xa2w4YjZ4WFF4dFFMZVplRXlQWGVvZWU3YlkwMW5MM3ZHYXBHODFYWDQzZnFDdlhXcHg1bHlJNGVsUGJnVElkT3JOMVgtY2ctZWRVUkZpN0xvdlBGYnNLSV9tSXB1ZmM0b0s2TlJMQWtfMmhOeHF3Ml9vbGZfRUU0akxmZzFQcw?oc=5"
    }
   ],
+  "siliconindia.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Siliconindia",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "ShopOS Launches Sloosh AI Platform after $20 Million Funding",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQXNkVEI4N1gwZnYxVGlGTlpfR2hVVHozUjlNMHRKWTlHZzJSR1d2WnBYUUZuelU3a1YwUG9nWUJsU0pkbGtZd1RqdWo4cGRDb0FoaUtVUjgxR2JQLXI0X256TlcxRngzSzRlWjFibFRrNE54cFB2Z2xRcm1sYllBcnFXamtWYnk3LXRfWmoxR3FONWZyOVF2SENqdzRaQUlkSDFLNFpWV2JBNVpSZTEtYTNBNzI3TDdmNk02Uk8wd2c0V3c?oc=5"
+   }
+  ],
   "simplywall.st": [
    {
     "date": "2026-10-20",
@@ -24511,6 +25948,24 @@
     ],
     "title": "How Investors Are Reacting To AGCO (AGCO) Humanoid Robotics Push",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUlN5QUVsZWh1SDBUemFhc29rZmFhVlVHcEV2LS1UVmthUlVjaUhVQlExYy15WFN6bVBaUXlkN0pILUw3OUdZXzh0RENqWXhuQ0tCenkyX3BjVXQwcE5weWNjWDVKb3Y2aVl5dDdMRFNwYzlnay0wRndNMHFwMDBpWjVFUTkyMjRkMllEbFdiZDg3LXZ0bTVjbmFIMXZNWk10S0NQLVZ4WHR6aTczaDBhQjdzLUd0TzNrU1IwM21iV0VHLWs4dWZXQ2x30gHKAUFVX3lxTE1SU3lBRWxlaHVIMFR6YWFzb2tmYWFWVUdwRXYtLVRWa2FSVWNpSFVCUTFjLXlYU3ptUFpReWQ3SkgtTDc5R1lfOHREQ2pZeG5DS0J6eTJfcGNVdDBwTnB5Y2NYNUpvdjZpWXl0N0xEU3BjOWdrLTBGd00wcXAwMGlaNUVROTIyNGQyWURsV2JkODctdnRtNWNuYUgxdk1aTXRLQ1AtVnhYdHppNzNoMGFCN3MtR3RPM2tTUjAzbWJXRUctazh1ZldDbHc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Simply Wall Street",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "Is Upcoming ARR And AI Update Altering The Investment Case For Guidewire Software (GWRE)?",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbUJiU2tzT0ZPVlY4ZjBzRENUaDBkczliUTJPbUNGUW9FNW41MWRCb0xXVm5DNDFXRUlHWEZ1cE9rOHoyLXBLbHRhZXk1R0hHRnBnWC1QUDd0cng1bjhFMHIya3lHSXZpb19lYlE1UHFreGRUeEs0dVUyNnpuRGZYMGVQN3RqYlc4WUtpeGh1MVUxTG93LXAyT01zcm1QUnVGbU8yMTN0U01zMUlXTU1pdDh2R0FDQTJEV2syV2pCQnhIdHkyMmhmbHhZbW9xbTNs0gHWAUFVX3lxTE1rX0l1NGRGSEpsSE9GYWg5Rmx3SWpJOG1IZ2U5SHRNc0NDVFhKRmVnZ21MMHBnNnJPWGRkcUtvMXZZdlVuTlZONE9mVUNSbnBIcV82OUhheUdaX0FsSkROX29hcVltMmlCU0oyRERTbHdkWmdjbTg0Y1JVUmN4b3QtQ19kZndXd0tja3RwS21NM3VwZ0RPSFM0cjRtQ2ZSQ21QTDBwVjVHMDdwdzFvOWFfMkFhVVVyRTZ2dWVaek9LSUk5SFlXZHozWmlWZmExV0QxS1NWWnc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Simply Wall Street",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "How Rising Interest Costs Will Impact Lithia Motors Stock (LAD) Investors",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLWpsZ1ZibkJFLURVMVRQSW5IWmlyYUNYcWxOVVc0UmUxOGR5MWQ2emx4QXAwQUJaaDNObGtFZ050Ym02QWtBOHFFYlNkaU9fLXV4UXcwelQ4dFRtajNWZmMxcUtEMGYzNUdTVEZHaXh4VFhkSmVIY2xrcExWYXZIb21DakdnY0tQSFhrU2J1SlREZlVJUDJ3ZjM2cHBRdjc5ODQtUnhjc1hhd2FlZndZSi05NXMtY011WENfcGFtSTU3UVVTMkHSAcsBQVVfeXFMTS1kY2k4cDNla3plbUtVcVNNbXg0YUFLNnYyY1YzcHFDRnR6aV9YX2dxLUNxWVFFZEExUFE3TGVEQ2FEZ3NHTzBiX0l2T3ByTXpzcFZfaEtUTEw2Rlp4Vm9wSmo0WmlYSWQ2UHozQXZpYjZuTVpJSzFtM1lGT1ZzczVpZWhkME82aFpZTW8xMGUxMWtkelN5Y1VtZEFVT0l2Ukhvc2RiaGs0blBWTUswV1lxQm9tZmxUZTVWMGFmR3YtQVhnYzh6cEpwa28?oc=5"
    }
   ],
   "sixthtone.com": [
@@ -24641,6 +26096,17 @@
     ],
     "title": "Chinese space robotics startup Sinxbot raises tens of millions of dollars for on-orbit refueling, deorbit services",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZUQtT2JueUZwR2FJcE5OQ3JLODkyTDh3emVNaXRvcmtLT1lNTDFCbHBWV3l0UGVmUXFnc28zWnhRaVFFTWw1a0hnLXhlYm8tUHBVbnNKQTlGOGxmU2dWanV6Sm5aLUNzeXBmUW5OczZLc3BOU2xJOGpqNnVhdUhHZUtYc3VuV0dpaFFIM1YteXVtR2RLWFFERXUyRUM4OWtRQXdvb1dQNW51MVdZQ0c0RUNfaENTQ0hzaXpCNWQtYVZxNzFlQWdoZU1Hc3AwZExTclE?oc=5"
+   }
+  ],
+  "sportbible.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "SPORTbible",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Liverpool make decision on re-signing Trent Alexander-Arnold as Real Madrid take clear stance on transfer",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORDM1dWFySi03WHFuQ3hLMkN5WlN0NDdTQ2ZHbFREazVRZFMtMlMwOU03czFoc3VUWnRWZHcxOTBkY09MUTFMdUJERm55eWxwM1pEeVRFMnhuTDNnOVpNMGplY3pJM0x2bFdjSm5UQThfVVpkVk5qRUVmdlppNUFwZG1jVUN3UnNkQjgxTWw5dTYyY0F4TU9vb05iblpUQnlBU1JWYUVSYVptX3I5WWtNZ1FtUnJuMHl5ZkdqX1VJMGExcHFIVnpRWWVEN19LVlVNaWNtVw?oc=5"
    }
   ],
   "sports.yahoo.com": [
@@ -24804,6 +26270,17 @@
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR2otZHl5eEp5SEEyNEVDU3NtOEFOempSWHhkaTZEOVBya09SUTl3cExRMEw2cEItMEVmVk04akQtcG8yYkpiaHFnOTFZdGhWY1hjdUNTQ1VHQVR4Vjc4MGpkRUZlRHg0Sk5FcVBEUG1BUTFtcnpmSExyeVhVb28zS09nN3FrUGNkd3FPR2p6SDJWNWVOMlNwTkVVOXBGdlVRa0lwMHVvQy12dw?oc=5"
    }
   ],
+  "squawka.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Squawka",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Why Atletico Madrid\u2019s Alex Baena could be the perfect January signing for Arsenal",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ0lOd2VqUkNyaHBGNG1CMTJLSE9HOHZXY2xCMXF2Um40dlJ4Nl9BeWo2Um90SW9wWEExaWRjR3F3ZHRwTENYRUIxUVYyTXdsaWJGRmI3bWQ2Y1hoQU9mRzMxaU1ZRWpLeTdqeUtYYmpFS1NUTXhGd0lHTllvdjZFYm1hLS1qQTFnUVNYVGxKYmNYZw?oc=5"
+   }
+  ],
   "srnnews.com": [
    {
     "date": "2026-10-22",
@@ -24835,6 +26312,17 @@
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQU0hHSUhTZUZ2ZDRFRnN4RWhDbUdvbjZFOElfSi1LTzhlVVJ4blc3YktDVXd5REh2R3RTbGtuV1JpSjFIU2RlUDZYTnp1OFVfWWVvOEcwVGpEdDJocFk2clc4STVOUDU4Wi1sY05XVzh2N2diZTZBWnFySHJFNHE2N2t5MHgyZXdNNmlCVExIRTZEbDFpUlZ0NEdVU29CbFJhbGFJaWhrZWVNV2V2cHJNMjJJV3VZVlNVeTBSMF9PUFgtUk4tQ09RUG9UUHpqaWVWUjJDcV9CbDUzNU0?oc=5"
    }
   ],
+  "standard.co.uk": [
+   {
+    "date": "2026-10-25",
+    "outlet": "London Evening Standard",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Bournemouth reveal Kroupi plan after Arsenal handed 'transfer update'",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeTNRb2tsdm9fUG9ieGotNS1KOVh4M0VsOVRjaU9abldWeVl3cjBfTW44VHRESUE2SXF6czA2c0pGcndrTmNYVlBEVVBwVnVNSmJPQ1JMMVJYWlRFWUFCNjlQUU9iZkxJZHdOWklfZ2h0Wkl3QkV6ZWI1enFVd3JiV25CSTRJaE9MbUVkZ3ZYZWlYSExKWGRxTkRHSjFSelo5M3NJQl8wYjdyUQ?oc=5"
+   }
+  ],
   "stanforddaily.com": [
    {
     "date": "2026-10-23",
@@ -24844,6 +26332,17 @@
     ],
     "title": "Records complicate government visa fraud claims",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwY0JzNWR4QVdEakk5N3dOQzFrM0F5Nld5SGhUckE3U29wWUFwSGVHLU5FN0cydXZhUmU0NEo2X3RRdEJaZnRVdjZPVEd0Q2JXcXRaZEZrQ3J0QlhwUERzQlBwT1ZveC1IVmN1QTJQYVhwVmlUVzVydDViNUZiUk0?oc=5"
+   }
+  ],
+  "startribune.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Star Tribune",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Where they stand: Michele Tafoya and Peggy Flanagan on Trump\u2019s tariffs",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTFPWjdVMmhkMzI2X1drN2JuR3VYSUlqdy1iREkxdUlTWHk3d1Rfa3RkNHRyWFFSaUJHdG85eWpmdV9IN0w2aHVsckpNTjlnQU5XY1g5M2l3TVpsQTRfQldWYVppTVpIcDVOcEtpdlc5SEdvMmxHcVJvR0V0bEZaQXpsZTNWUjEtUTFRN3dJZ3JxcjFZUEVpZlVEQmQ2T1pRTzFfMnRrNklUdw?oc=5"
    }
   ],
   "startupdaily.net": [
@@ -24866,6 +26365,15 @@
     ],
     "title": "Fireworks AI is in talks to double its valuation to 40 billion dollars",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbEM0SUxTN2JOc1JBWV9uNlcyQVFoQ1QzOVI5dzJldGNaUzdQcjk3X1dzQi1Xem5EbUROaXNTVzhMUTN6RTFnMkZLSkFhLU52eGhFWmRRYVFNQ0w2eFV5NlB1M0FvamxoYnUzSFAxb3pFbTRxenRNSkdBT1VlOXpSU09kNzdnZ3dMTXNHczRROENUSlRZY29QUGV3YWZnMGc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Startup Fortune",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Japan's bond yields put Bitcoin back in the yen carry trade crosshairs",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUGZyamFmLWtucWVPdTZPbldRMmt0MlkxM2tENllnWTR6U05lNl92Ulc2eUlSREJuUklmcDFTX3lkMDNTVkp4a01FYW1NMVJCVVdjdk5SZmxuOTNQNG9aOXhGX2xCT0Vna1NWRVhIR005bzEyVkRXejk4QVNjak1uZWlvRkZaTFhUcTJJMTh5eXFJd2FQb1NGR3duaEJRQQ?oc=5"
    }
   ],
   "stltoday.com": [
@@ -25017,6 +26525,15 @@
     ],
     "title": "Japan Core Inflation Hits 2.1% in September, Cementing Bank of Japan Rate Hike Bets",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbk1iX21mMXNPYU5LbHJUYmFwWEtnQ0dTZVZTRnRqeGd1OE1keU1Nal84azRISk1zTHhZQWFkb3hXYWhiVFg3MEhXRTVOcF9kYmhpMmdxblVoa0Fra3RjZzM4S1I1SUlWWW9iX0NveGtkSnM0ZWhVYWxfam9vUEZIQks3dGZ2aTlfeUt0R3pmd0dGTUxkYjJFX2RJM0Fpa0kyeGUtR1FpNFgySTFvcWI2Q1ZULVlOUQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "https://streamlinefeed.co.ke/",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Unitree Founder Predicts Humanoid Robot Breakthrough By 2028 Amid Push For Autonomous Training",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdWo5THpzdUg1WXdrc2dtcnpSd1o3VUMtcExsNm1IU3V0Q2p3ZFpFajBxdWlLMzdNcXkzU2dsY1dOcnVQUEw3M1pNcGVESksyb1ZJdjJzUS1jQ2dhNlUycUs4Q3ZaMER2UWNkbHNUdVNBRXR2T3QyR25WNnR3bUV1X1VPUTFmb3JEYWVqUkxXNEFzTWY1c0tIbWln?oc=5"
    }
   ],
   "streetinsider.com": [
@@ -25156,6 +26673,17 @@
     ],
     "title": "Trump Administration Lifts Some Tariffs on Canadian Imports",
     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGRks2dGtRbHRMd1Y0MEcybUMzVUljXzNfSmxnei1WcFVJS0lnMFZmRkN2TmdYemtsc0RsVWlfYjZqTHFOYlYzYTVQXzA5aXJQNnlTbmpkUUluN0pBQjFjek0yYVBoYVRPTlE?oc=5"
+   }
+  ],
+  "sud.ua": [
+   {
+    "date": "2026-10-25",
+    "outlet": "\u0421\u0443\u0434\u043e\u0432\u043e-\u044e\u0440\u0438\u0434\u0438\u0447\u043d\u0430 \u0433\u0430\u0437\u0435\u0442\u0430",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Peace deal or 200% tariffs: Trump threatened economic pressure on Ukraine and Russia",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2lmbUktMW9OU2pMUUEzbEFKc1lNVl9GcVJ6TUFOckxrZzNMZlVIanU2VGhGZ2Z5bHJzZHpzN2xoRG53el92NkI0VWthRlBES09SNkU5OXJDLVI2akstWlg3bzgtekNEZmFta1FrWFZJTjltZnFDMFZoNUR5R2QzOWI2YWhOaXNuWGpheU5kWDVRTU5yajhIUFRrSmFiNmRmbVNMSEpBTzI3c1ZndlgwUUVPRUlJX0xXelE?oc=5"
    }
   ],
   "sundayguardianlive.com": [
@@ -25357,6 +26885,15 @@
     ],
     "title": "US probes Omar's decades-old immigration paperwork with eye towards deportation: Sources",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeDNWNXphOVRSekF1VlAyNXVPWEI2dWJub2hObHBPRFhHWnczRUJxVTljazZxS1hvdndEZGh2ZkpPMkFzbFRnaDg5cUVKdDJqUlBPTW85N1R5V2ltMTh6cVNvYm8za2ZKZkpqa00xUEhtbXhBVkhpRmFpYkcyZW50Ri1KVk9QOUVUdmMwNnRld05HdEQtd2xPS3R2U1NOcFR6V2JUSTNXbVRiNUdzTjFMc0RiTW1tVm1rc0E?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The Business Standard",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Is Trump\u2019s Green Card policy putting the future of 1m Indians at risk?",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY3dQdmZFdURrOVUzcTJXOGRtd3pLWUpVaF9LWGswMWR5R2F1eklnX2pGQmNHakpkX0lXT1dUUGZkR2paRmVoejVGNmFFR3FOVEppOUY0UjZRT1hnZHhQWGZlTVB0OVVxQnNQeGRtWlBOaHpzSENWV2d5anlOeUxvcjIxd18tV3JhR05zVTJjbHlRRmV0UHBHbVptTHpOWE93eE1j?oc=5"
    }
   ],
   "teamtalk.com": [
@@ -25397,6 +26934,24 @@
     ],
     "title": "SpaceX AI Revenue Hits $7.56B, Up 9x [2026]",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE13TE5lYXRhelpwcWpqby1OcUlvY0F3VnJ2YlhsZFJxS1BVaF9NWFlEYmNSdERwNTRPZmFsTGRUY2ZnQ2g3ZG1mS1NOLURhWDVaa0E1Z2M0VlJSN01IWldycWZPeGZhUzdxbk5kTVAzdUpyZw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "https://tech-insider.org/",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "AI Funding Rounds This Week: Tenstorrent $1.5B [2026]",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcEZvcTUtYjJ0cTRtXzdJVi1NS25PT2RFQmEyVDBaTUZXcm95N2tXWng5ZUY4Q3RoME5wdFVReVctSHdLZUxtVjJETDg4ZzRjY3NPRmg0Q0JZOEFLdlM1WER1ekxvZEV1NjhsNFRvTVNzUm5BQVJrSFd6dHJOWF8wcmduRTNRNURvX2x5UA?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "tech-insider.org",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "Infosys AI Revenue Jumps 29%, Guidance Cut to 1-2% [2026]",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObXpSNXZ5SV9TSGlYckgzZUFYbjFKWU8telJFM2JvR05telh1TFhTUTJRMVJITGhZeXVOdnUwWUpUTzdLUDZVa181RzRWZVN4cXRqcFQyUkVjVEtHeUpfSnM0X1VpdEJPSDZ0MmFKTGkxcVJQZ3BVZ2JGbmxBMkRDbkJnaHVsRjl6QW52Zw?oc=5"
    }
   ],
   "tech.einnews.com": [
@@ -25671,6 +27226,15 @@
     ],
     "title": "Unitree Robotics develops humanoid coding system",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZzlLMVVJcldmTXNaTkFqd0ExbUw0RXVvazZOWmJDTlVXQWhCVjVwR01JTUk4Y3ZlX0dTQlI2QVYtYnc4TUFBcXhNSUQ0TzdHbE4tMGNOYk5qSm5HbVMxSVIwRGdrU285SkswME44X3oxMFNNZnNBNWFUbk0xX2Z4aVc3LVAwS0k?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Tech in Asia",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "Nvidia backs AI video startup Higgsfield in series B extension",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0lJRWFqbDZURVYyWXdpT09IYl9BZWkxWnU5SFE0a0NMRzVKdU94TlozRFY5TnlTQS1PbUsyVk9lVXZ3dDhOSlJSUXpUdGh5VXNVTGF4X1IxMEV4RDRsWWNxYTdBeWxNMDllNGFXcS1aYThUc3FMbk9ydGx3MW1qMEZIaEdrRGpuRkxzWnpR?oc=5"
    }
   ],
   "techjuice.pk": [
@@ -25893,6 +27457,15 @@
     ],
     "title": "RoboParty RP1 Humanoid Releases Full PCB Files; Chinese Data Laws Cannot Be Waived",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNld0a2xQTGEwaTVCMTljVXlIZUNLSmpsMkx6alRiRXNsNWw0ejdPNFowSnpPWmJPbE80RXg0dFJzeEVITVpla000b2lqSFFCMzhtanpiYk0zVmpORENqcFQzd0VMR1FiaS0xY3ZRYl9uQWwwWGRrTXNtZTE2SmFReVZpYnlXUGd6WEhabW9DVzYzR2g2aGVQZWwxQVdNSl9VTUtmSnJUWUJIZWJURDYtS1RtUFU3dWktcDFGbVY1cjM5QU8zMV9EVUstVms1dw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Tech Times",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Gemini 4 Argon Writes Physics Simulation Code From Human Video, Teaches Apollo Humanoid Cornhole",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQUhfX01JVmNxQy0yX0RBQWthSThxd0dhYWVHQUhKVHYtRnhhUlgzb2dOUlZyM2pfbVduRUtDc1JENTcwNFdlMFRLMFhrYk9NNHg0MkVQUEpycUdQcEEtdjNSWVV2ck5jbFc0aFItWGVjZEU5TkUxYmxDOFlhY2xnQldrTHY4RVo1bUo1dDZBSlNRZ0FpZThQdHZ0dmd6VEhEdGNJSjJoU1A3RU9rMk5VWEFmNlJpZ20ySkgyMG5QeHVLWFU1RXo1eER0VHppc2FPSkFnakRTUzM2S3Fra2c?oc=5"
    }
   ],
   "tekedia.com": [
@@ -25904,6 +27477,15 @@
     ],
     "title": "Eric Schmidt Could Gain $20bn From Anthropic IPO if AI Startup\u2019s Valuation Hits $2tn",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT09wdFJyQ0RPUzVnUC0ta01ybGttRFhyMENqalVJZGNuLWpEUUVqZ3NpSF9CblBEeWI4ZHhVOE1GOFhIenlvMGlQS19VVHBqclZVenkzeFFDZW9zRHNQSVVYMzNjYUVHbTMzaFFzUE5TS1F3OUxuQXpRdDc1VERHcDFBUmRGOGNySnRISHV2ajBsZkFLY0pKQVR0UjRoSjhmdndQLTJqb1lSZw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Tekedia",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent Crude Tops $115 as Reported Houthi Strikes on Saudi Oil Sites Fuel Supply Fears",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjFUNnRHZldRZFdhOVJILW1iLWt1eHloTnNxakx1SmRHQ05yRXFLSGQ2S0E2MHg1clNfSEtyVDY4Y3ZMTi1aSm1STWs3M3UxVUpqS2JoLWlpeUlpaVN1TzhfSkZLcEtrRkh3VmFwVS15a1YxYzJ1akp4Z000Y21rbkRpdDJ3RnR6bXowZkRucHk3MXpWU1JlZkQteWExZ2xIVV9kTlFjMlZNM2NGTXc?oc=5"
    }
   ],
   "telanganatoday.com": [
@@ -25962,6 +27544,15 @@
     ],
     "title": "Canada unveils $6.2bn plan to shield manufacturers as Trump trade tariffs bite",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBhcmU1cHBRX2JOMGZzRlQ3WmZrUVUzQ3NReGM0SUZiLVJiRVlxTHRCbTI4SlMyUWM1RmdoZTZuLWdyaV9rS2pOMm1aUGlMZnlUeFBNc09Weml0YTZ4bUE?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Tert.am",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMkRVZzM4RG5TdHEyU3Z6NW0xOUlRdUlxb09ZUGlaMHBIVmNNOTFvc1hZbExabVVnb3dybGhzcFJTUm1SQzBjSnRaQUZUSFFXaXZNSXVlWHpBZExUUEJvem4xY2hnb2s?oc=5"
    }
   ],
   "the1a.org": [
@@ -26002,6 +27593,15 @@
     ],
     "title": "Germany\u2019s Agile Robots Plans 2,000 Humanoids Using Nvidia Technology",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kbzhnUlZzekNyTDJsXzRQUVE2NkJBYWd5cEFLX1NZLW1LM3ZHS2ZOZkxkWFluckdkSktrMGpZVkVwbEVXbnUxcUNfXzdXNmx4enRnWFAwbkhXVURfd3dRR0tjRHRzVVBTeVMwalVB?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The420.in",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "\u200bUS Immigration Scrutiny Tightens as AI Tools Check H-1B Address and Worksite Records",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xXzNCNTl3d0lvSHVqd0FhY2h6U0JEbnp0MGpWM25FRXVpM3pGU0lyX2lEenhuejlNUDU2ZmtwMGNOcXdvQUcwN3VUcDdSa05lYUhmSTZvUjJYQmR3WTQ2Ym1TRFYwcHJ5YlpXdDRHTkgtelhP?oc=5"
    }
   ],
   "theaiinsider.tech": [
@@ -26242,6 +27842,24 @@
     ],
     "title": "OpenAI Eyes Humanoid Robots, Demo Teased for 2027",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGxBR1VTY1dpVDFRNVQ4TmQ2d2dyME5mUVBWRk5QbmFhdlkwNXVyelljeDI2bDY4QjlhX1VJanBCZGFDVVo5M01HSUcwWkF0aDVXamhGYy1McWttNGZBemJQZndxanY1MlVpeG9TY0xudG5SUnBIdDBWUllYSTlGMGVNb19RSUdzelVfTFVNT2M5X1FM?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The Hans India",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "China\u2019s humanoid robots are unproven in factories: Report",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaDRXNnlkYmg1Q3lvaUM0STN3UXFnZkJxRjA1TXNPa25fbmJBZ0tJUHhUZW50OE94Rk53eUU0Q2ZxTnE5MWtmbUFldVJWQ1djYkg5OVRfdWFxMVhnd0hZTHJEOXFOS3l5aU96SFpCUWxyQktOUWhpMS1kTGZrVFJjNENGVmJIdThFT2FsbXVJV0dydnVhQW9Fc1pRVy1RT3hCWHBkb05qTlpiTGNRS0pLb21Sc3hfb1U?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The Hans India",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "US H-1B restrictions risk undermining strategic partnership with India: Report",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUzNrbXhIdnJvVDdRMXF6T3dUQTNqdnZqbXZaTUdlclpJVHFJSC1pZmxmei1rbl9Jb1pXTDZrVllfYU9tNDNlQjk5OGVUc3hIMDdyM2ZYbVduSXhfb1J6VlBsSkxxZmtkdUhoTkFpVGJ3bC1vdm5GQk9FMVBzUzlBa2c1T2JSeW5DX0lDV0FvSk5sODJCSUVmQjQ0ajVTQ3JBbkxHUGFBRHZ6YW5oZEdQQTBSTk1YcUdvMmxJZEY4YlNzdDZqc0tCZG05bVlOZw?oc=5"
    }
   ],
   "thehill.com": [
@@ -26521,6 +28139,17 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWTdIRTJ3U1N4R1E0LUoycFV1QmJWdDVsY0ZJdTdYeF9BaGlaNFVaT1RzMGl4OHFtclN3RnAxbXJXN0VDSFVCc0N3UEhMcFVxZVNBWFEzZjlrLXRRWTBfZXR1X0lYMVV1V3hTNWNyaVVrNzNtMTU1X1V1Rmd1V0pJMVlSb055S0x0V3pHX2xVNFNTM0d3ZVRacnh3?oc=5"
    }
   ],
+  "thephilbiznews.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "thephilbiznews",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "OFW, BPO earnings bolster PH defenses: Japan Credit Rating",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMDg2QXNhc0dSZjNiT1h1WjQ2OVJFVUJqWTIzM3ppaVdIRFRaWXVrYU5QeUZncUJSeUx3OHNzYkV0cFJLUjRJUnowazA5aGdtUXA0ZkxrTG80RFpLRWYxMjlkSnMzYjBQN1RfNk9Fa0lMdU1HMXg4Qm00bHJBSzlMWjBVczFmZm5NdDJ1N3Y0QVFaRmJhTGVmbkI2RQ?oc=5"
+   }
+  ],
   "thepienews.com": [
    {
     "date": "2026-10-20",
@@ -26541,6 +28170,17 @@
     ],
     "title": "OPINION: Here Comes Black Folks\u2019 Project 2025 with a Twist",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbDNiVnVxZlpsY3R5MFo4RG5NdmVJYXd6RDNOWVN3WFBzZUhHdV9vQzVXV3MwVWtEV0dkQUxSZGtmMzZoRkdud0hpU3dwWU5hUnl0VWhJSUJRb2NkUWZwdlNBT1hsbmIxSVg4dE1uN1FzTHd2TXAzREoxV2JnWDAxX2dFdlJEdVFkRzNId215d3IzTjQ?oc=5"
+   }
+  ],
+  "thesentinel.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "thesentinel.com",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Maryland joins lawsuit against Trump\u2019s changes to green card policy",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOcVFGUmJWNnd0UHFhY1FpZ0VjWkFaMk5IT1FhUDNVZF9wc2F5YTF0UzFrWGotclp4TmFpaF9YRURNN2pzcFBQVjFPUnVrUjg0azk4VlZwZURldURidFpONGRYZ0lodFRCSW9PVUs2S210cmFIS0tHNjZ0dUZxLWJhX014MUxyVFZYaG1VY1dDZFNRbk1hbGVQYTc2aGh2Mmd0MmFBbjdfd1ZHNWtMVzV2YWJJRWxEY0Nlb19mY2w1THRmekw5eXpTWEZjbG84NGg5N1JMc21panItazRPaF9qdzRPVjRfREY2Ymozc2hn?oc=5"
    }
   ],
   "thestandard.com.hk": [
@@ -26727,6 +28367,17 @@
     ],
     "title": "Treasury Yields Flat As Fed Rate Decision Approaches",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOaVYxYlY3bTBWbWh2Yjg1T1VoWVNsZzM2YWhsR3NWZTV0T2RQYlVZUVZ2N21URWtzaTJWMDZ6TDlxVDFWdi1YNklPM1BUSU9xLTJFM0tzaEYxdm51WW10V0JEazhuSzl2bllxZWFOOEprRkVNSU4yZEo2SFc1VDlUWkpNVUQ?oc=5"
+   }
+  ],
+  "tipranks.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "TipRanks",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Unitree Founder Expects Humanoid Robots to Complete 80% of Tasks by 2028",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNkh4NEtfRzdNZ0RoZEVBbjJVdGNjZnU0WEQyOUd4VUZ6Z2p0SXVtVUxiamtFRG1mVXpmNXFBRkhfNWplQ0p1dkNHT3gxUEdCb3ptbTRfdjN0NHVMNEZSaWs1TXVNNjBjckVGWlQwYk1aTWNKVDE4cjVRTG41bGdNNWlRWHUyZ3FDa1dhSWZuM1lkQ1VPR2thSnYzNXdKMHA1VkNv?oc=5"
    }
   ],
   "tmgm.com": [
@@ -26936,6 +28587,15 @@
     ],
     "title": "22-week high: Crude Oil climbs following Gulf attacks",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHlRRFBfY1lUOThGa3ZsLTRhTFpxVXhqZzJYLVhQZ0s1cTZlcWdQZ1M3c1hBYTFRb255SllEQ21jTnRkSXc0U01sMHhyNUJPdEFUc0FPYUJMekVJX0p1VGhSQ0ZFQVVPVnNfU2JEQzNXVkNWWkIxV1lLcnQtS0JudzlLT094cE1QXzVQUllIdmdlc1pZZ2NBTXdXNDVfU3N5T295QmoxakFlU2Y0aHlBYjBZNExROGc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "www.tmgm.com",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Swiss Franc weakens as focus shifts to next week\u2019s Fed interest rate decision",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb0dLOEg0YVFvakJ6aVpFb1BfMkN5RllQSVRkTFktbkI4YzJyTTdRb1pKc0JTRVJicDZIUjFoV2xSWlVaTm50OHQxdUR3R1FjcFZKQUg5SThwc0xFZDVTQkZiWXZSLTdMOFdBTDJUcmVxNlNrS2psb0xMeUFKNHo1a1habzBtMGRfdnVsQXpmMmI0WmpyaGtLRTc4MUxNb25vdlEtZ2c1Q2NRVFNTOHcxWTN6azVPUWxqb2RrbUx2U1BLa1Uwel94U2RCRGdhR3MwdjhYTVd2bE85X05VUjY4?oc=5"
    }
   ],
   "tmj4.com": [
@@ -27765,6 +29425,24 @@
     ],
     "title": "Gold set for steep weekly loss as rising oil prices bolster Fed rate hike bets",
     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdnZzNXpuUXhvNUt0RFBHVWxFXzhTR2J6cDVjdVlQcUk2alQyUDZZOC1uVHo5b1RVcVFQY1pwN3FtU3haeHFXWUZ2UC1fdjdKRXVQdUFvYzVBX2U0ejU2RWpyZUFPLWJGb3pGV1MtQTY2ZnowcjdVdjJ4dzVZUGVwRmZlMUthNERXeFpFY3JIdHJVaHpGdEFpRWR6MEItWlNhUkUxQU9ORmxSMmZKSVNvbWN4QzRwdmZiVmFuR2NPUUZROHdYWFVaN3oxNl9QbERJLXJfZF9UdEd2ZEhmYVlPVm9n?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "TradingView",
+    "sections": [
+     "ai.vc_revenue"
+    ],
+    "title": "Infosys (INFY) Q2 Revenue $5.145B; AI Revenue +29% QoQ, TCV $5.2B",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNjNldXNhTVY4OFJDUU5aSzBTTlFkSHphOVFkWWpldFRFNlZzbGxjVVBIX21NWEpISXM3ZmdUQndNMHRLcWpHWDhmQ1AyMUh4UWR6U0pWUE90dFZZWFJqZWUtd2plOEJsbVMyWkd6b3pNcm5zVVdMWFl5TElFSDdqSTY3UjM3cmFzdDU2cGdzQ2hucGFsTjRhdlBrU0d6S1FuRlNFYWZoLVFxUk53Rm96a0l5ejZQNkJ1Sjdn?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "TradingView",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Humanoid Global Holdings Corp. Estimates \u2013 DUS:0XM1",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xUnREbHVwRm5Jd1BvcDBub0xmOTBfekVCVHV6emhWTzR4aTZFaUJtYzc4bFpNYjhiT1VKYnFNUmlfMjE4WTZMQmpTel9MV0VVcTRhTml6WnhGd0l0cDJSWDFscUxSVllEcWVsM1diemdEM0Z3?oc=5"
    }
   ],
   "trainingground.guru": [
@@ -27952,6 +29630,15 @@
     ],
     "title": "Newcastle lead transfer race for Serie A free agent",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRWdxdEpVYjZDbmNja0dpWXpEVEZKb1U2ek82aFk5ZUxkVHF6QkN1NWdid0MxaEpHTkttekpnNnVPeGFKa3RqaTUzbXpqS0s2bGRRNjU0ZkN1YVh3YWQ2MjExaXJZd0pGb1pnTU9WeVRwazZucF8tSUdqcGJ0SGY2ekJmRHZoTEY2WFFTdE1iTVZ6Z3JFRE1lNVJqZkdmMDNFdVA5eE11QlBuVVN4a0kySHFvVlhxUE9uRk1jV1Z5U2l5RE1ONEpHU0IyOTlwaC1FZnVoWWRFb1RQZw?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "TribalFootball",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Flashscore sources: How the Champions League could help change Chelsea's transfer plans",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQVlQtM3BTcXJYcnNMVG53VVdMRTdyOGE3QlljZTFTSGItUncxUFZqZV9hbVZIZV9CT0hGbFA3SWZENGJSODRLdU5uR0V0ZEFZZHFWMGVRSGNRaDFFaFFITktER1Fkb3dlVDJLQzlrcklPVmt1OTRRTFF1S0pOV1BUMTNoQXFIVXZwVEZaN3lSbVdMSXduSjkxMHZ5ajRpaVNrVGJZNmwzZEMyTlB0ZUtnZXBqOFllZU5nYlRiVWdRczdHOVd2TW51Ykd5a1RtM19IalhBZ3B3alR3cVZyWHlhcHd0dTQ4VXZOd0I1dW1nRVczQjNnUUlJR0ZJWnNTZmx4Mi1YLWJIVks1YXFQWEp2TUJn?oc=5"
    }
   ],
   "tribuna.com": [
@@ -28222,6 +29909,17 @@
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNm9RUHlyUW5fdV9HekQzajNaRElneGQ0WUNIU0hCU2NxN1pnTkdMX05KUFQ0dUVlZjFMeHU3NzI5dHRqUnduZEEwMUM5cXdSZVpJb0VKekFnanFBb2pKWF9CdXBka2tnenVwcHIwUExQT2VFMUFfdEhsWkdYZ1dOX2Z3RE90a190?oc=5"
    }
   ],
+  "tvcnews.tv": [
+   {
+    "date": "2026-10-25",
+    "outlet": "TVC News",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "NNPC, Chinese Firm NORINCO Explore Partnership In Oil Production, Gas, Energy Infrastructure",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzB3M0Jqd0kxbmdiOEFKc2RsZGVOQTlmN3hiLV9PaXExWnN0dnJKSDBWbXIzTjlmTVpPMjhPbm9yeGkzNUFNdmxRb3F2ZXpPWjY5SGpRYm1iVDZlcWEtd2xBeWhwaGhGT0F1X01QZi1VMnFGYmItTjc4SWJQOENxem8zWlhTaHU4ZkRMaWllM2p6RFhnSDFIN1B3eEd1QS1aZkFBUnhCNy1DempuZHcxeEZoZw?oc=5"
+   }
+  ],
   "twaslnews1.twaslnews.com": [
    {
     "date": "2026-10-20",
@@ -28454,6 +30152,15 @@
     ],
     "title": "Trump immigration policies could turn away much-needed forei...",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUThhOUxFUkZfeTNtcEZQeWxPTmdiSG1CQmxyNGxCS2hhV3ZGUXQycm40b2prVlVtRzBfRUNuOGtxZjdlUS1YSU9ORTRMQkUzUXpRSC1zenhnRzJ2bFd6MWJBM3poV21GbEpmZ0U5SGtucl9zOVFzUURtOFB1TlFKVi1LS1hjeW5iN0J3VzdTcjhTS24tVkktVktFLXJYNTVaRFlEeldQaDN6a19sMFBMN1N1cU1ERWNqRTVtbWJSMU9GRjFlSk9UN2NwMmJNdV9vRG5DVA?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "New Hampshire Union Leader",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Trump immigration policies could turn away much-needed forei...",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOXNIUjk1dWlGWEJQMi1XYWhVZlZlVDcxbElVeWVmVnBFaEZ1OHBsOE1KY0R2eWNLSjEzSmU2b2FIMzJ4ZlctVFRaNGxUeEx6a2FZRzlYdFhkMkZielVyZGZzQlBEeXFwREtRUkkwRm03YjBDOWRpLWdBRjNrRGdMZ1Y5TFp6bkFlNWR6NEZXdjdOOTJRdXIyU3BNWFFtZGIta21lWlF6aElEdXlwQW8yQnRoYzhyVk0wS2xreEJCTTRoaG5XcE5GdWxmSExWUlZvMF9Z?oc=5"
    }
   ],
   "unite.ai": [
@@ -28787,6 +30494,53 @@
     ],
     "title": "AI is changing the way businesses implement Facebook advertising.",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWU1xSmdUWUM4c2xUQVk5T3kxRG1wZ1U0aWpOTXdVSWx0ZVpaLUdXSXlMVlNmdEZ3UVFPREJQdi1jaktVRWJab2xGSkUxOEMyTjV6RW5lbXFzanhxLS1tbFVkSXo3UjZwMUZnSU5vb0V5enRXdWhQMVF5UDRTZnBJZ195UWRkejY5d0IwWWtUY3VmZEUt?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Vietnam.vn",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Rising oil prices put further pressure on the global economy.",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBGaGxwcmtXRnMtQVg2Rks5RUNTR0ZmM1BSN2F2SUlBN3Vab0JhMU1xV3AzdWpBY3JIZnVQRTJBa0VLX0VETndnTXB4WlBPN3BGdWpGZ1hITVZZc2Fxemo5SVBYRjdaSE8zaDlVMDN4Y3pmWUdrbkQzZmNuUQ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Vietnam.vn",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "Elon Musk offers advice to help the US escape its $40 trillion national debt.",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNWROcm5YNjRfQW5xTDJhYWU0YzJiXzVMWVUtb28wVHNfYlBKTGZwY3NfT3F4dVdLZzMyY0UweUZqbmdBY0dQUGlDZkNpdFhiY2lKOWNhOWEySk5pSmY4OWVtTTdxOWdXSGc4bkxyY0c2QWNrb1dDZlI1SnNsOE1PMDFmMnZrYmpESzRr?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Vietnam.vn",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "The world is burdened with $365 trillion in debt, and interest costs are steadily rising.",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdnRGaTl3c1dOM1otVlNGa2k0X1J5NGxISm1MT3phYUJjN2Vyd1U1Tm12NWpsUWt2NkVHQ0dXcW9IOGZnUHdVeXYwSTVjSTdiaURyX3F3eGdwbUVWNG5heldESHVFeHA4US01ZGs3cjdvQlpxZllla3BpN0RtYWxrNG5uR2pPR2hra2VWV1ZKVktXb2dJ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Vietnam.vn",
+    "sections": [
+     "finance.agendas"
+    ],
+    "title": "Belgian King Philippe is ready to support Vietnam in achieving its sustainable development goals.",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3h2aEZVNmlsZnhwTmVlT19BQTNiYTdpVWctTEk3NURxa2VtRHNsWi0wMGZzWmVTVDY0ZVg5dkx4TWxxM0JYeEdYYXVMaGVOMUtJRWNGczhYT09fdGNDT3dxQUJaY3VxblhsUGNZeE5udkdvQno5NzQxSFA5UVR0ZURoY0gxWUt5OVFCMXRjWlNYYzlXOXpZVF9HbjA0Zjd6MWxXQXpSR0pKZUZVZzJYQmdsUQ?oc=5"
+   }
+  ],
+  "vohnetwork.com": [
+   {
+    "date": "2026-10-25",
+    "outlet": "Voice of Healthcare",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "Healthcare AI Startup BioStack Raises $9.5M",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8ySklKQjI2NTFsaGMwem5VbkZkVk4xQU45Sk9KdG9OSkkyUjVZanFEMXlDNUJtOWlRVExMYTdQMTF2NDFFNzFiSGxIT3k2WTVTMnc?oc=5"
    }
   ],
   "voi.id": [
@@ -28978,6 +30732,15 @@
     ],
     "title": "A New Jersey food importer files a lawsuit challenging Trump's 50% tariffs on Canadian goods",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdm9ydnB5RnRkZ1BRQnpOb3RyVkk0dnM2cFBDSzN5alZRdHVEZXdTanFfZXNlZlRRNG9jZllrYllsRi1zd0QyWGhqalZRb2FSQUpYdThoQzlwelR0eFpNLWdnZkRzSUN2bWRkRnFPMHl0WjQzLXhBT2JidUNaS1pWeDhDMlF3WmlsUG5HTzE0RWVIRUxXVzNZY2NtQ0FQNS1MUHRNZmV0dWtGSkM0OS1odHZhaEdsOWZQYm1GNWRzOFJiZHREZmc?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "The Washington Post",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Trump rolls back some Canada tariffs as midterm election approaches",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOclp5T1pZS2MxZFdLYUhNbTFJemF5dGxFTERtSnowODVOQVJPOUR4YUo0NTRmRDFtOUJpb185Vll4QjdLeExiaDk2ZUY5YW1vOGtiak1kbDRJQjNlRjlsU09CUlF6Y0stWkZ4NFNMRnE0bk5jelpKUkRTTXRvV2t3V09FUktPb05oYUlvbTdmeHI2b2tOTnAzT2dTcmc5RGFrR0xaeDJ3Y0lrUlJBWVQ3NGJ6Um5yZmhfdnNJ?oc=5"
    }
   ],
   "washingtonstand.com": [
@@ -29386,6 +31149,15 @@
     ],
     "title": "us market good news dollar index drop trump iran crude view",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN2VOckxVdlM0UzltSVNjekoyTHhjcV9IdTZROW4yd2lqMlVYemdNa0lQemVUTzhoT2s1Smp1X1RDTWJ1ZThWYngxWXduMTFKRkJZRXNmVU9vakpZR3B5bGYta0d5SzBfT0FFaVplbFZqRVU5OHJ1a3F5VDlhR3RILURpaXBBdlZ5TkhhMHB1eFVLMjRFNzZDT1RTWG4tNFhTUWJ0Y1N6VjZ0aGwxYzZwdEtTUjU5Sm1UdmpJ?oc=5"
+   },
+   {
+    "date": "2026-10-25",
+    "outlet": "Zee Business",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices, Hormuz Crisis: What Hardeep Singh Puri discussed with global energy expert",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTM5SEJWYWZZY2ZvZ2FmbDVra1pFSW1ZMG1xM2o2ZDBzeGdDclJFNGNYLUxPdWNVeUZuRUZCRDBSa0JxVkRkLUwxUmJnWFZVZmN3WkY3dnF6Sm1QdnVjOVNGNk9Qak1uSXFkQWhzck5iUFZ6RXoycFBjajhRdmpack9LM2ZIUnZaNVlFV1ZNS2h5bk9DRVVpaGVnM2ZXcUFhbmVJUkJieElaQmswN3hlNUVvc0RxbFNVRFl5UnJVc0JEcC1wVWExQWxWVHBEQQ?oc=5"
    }
   ]
  },
