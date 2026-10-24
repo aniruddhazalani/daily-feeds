@@ -1,6 +1,6 @@
 # Daily Feeds
 
-A personal news page with five feeds: **Politics, Finance, AI, Football, Other Sports**. A GitHub Action rebuilds it every morning (between 03:37 and 05:37 IST, so it's ready by 6:00 even when GitHub runs it late) and publishes it to GitHub Pages.
+A personal news page with five feeds: **Politics, Finance, AI, Football, Other Sports**. A GitHub Action rebuilds it every morning (scheduled from 01:07 IST because GitHub starts runs hours late, so it's ready by 6:00) and publishes it to GitHub Pages.
 
 - About 190 trusted sources: outlet RSS, official press releases, expert blogs and newsletters, arXiv, Hugging Face Daily Papers, and Google News searches for topics no single outlet covers well.
 - Headlines and links only. No AI summaries and no API keys.
@@ -56,7 +56,7 @@ Other commands:
 
 ## How it runs
 
-`.github/workflows/daily.yml` has five scheduled slots: 03:37, 04:07, 04:37, 05:07 and 05:37 IST. The first one that fires builds the page, and the others exit in seconds once this morning's page exists. GitHub's scheduler is best-effort: runs can be an hour or more late, or dropped, so keep several slots and avoid the top of the hour. It also runs on demand via **Actions → Daily feeds → Run workflow**. It:
+`.github/workflows/daily.yml` has seven scheduled slots, every 30 minutes from 01:07 to 04:07 IST. GitHub starts them about 2–3 hours late on this repo, and news is fetched when a run actually starts. Runs keep building until there's a page built after 03:00 IST; after that, the remaining slots exit in seconds. GitHub's scheduler is best-effort: runs can be an hour or more late, or dropped, so keep several slots and avoid the top of the hour. It also runs on demand via **Actions → Daily feeds → Run workflow**. It:
 1. runs the tests,
 2. builds the page,
 3. commits `data/` (daily snapshots for the archive, the already-shown list, discovery state),

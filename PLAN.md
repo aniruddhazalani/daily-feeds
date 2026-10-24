@@ -12,7 +12,7 @@
 
 ## Architecture
 ```
-GitHub Actions (five slots 03:37–05:37 IST; first to fire builds, the rest skip)
+GitHub Actions (seven slots 01:07–04:07 IST; GitHub starts them ~2.5h late; builds until one lands after 03:00 IST)
   └─ python -m feeds build
        1. load feeds.yaml + data/discovered_sources.yaml
        2. fetch all sources in parallel (RSS/Atom, arXiv API, Google News RSS queries, HF papers)

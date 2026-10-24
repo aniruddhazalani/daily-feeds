@@ -2,14 +2,17 @@ name: Daily feeds
 
 on:
   schedule:
-    # GitHub's scheduler is best-effort: runs are often 1h+ late and sometimes dropped
-    # (both happened in the first two days). So there are five chances between 03:37 and
-    # 05:37 IST; the first that fires builds today's page and the rest exit in seconds.
+    # GitHub's scheduler is best-effort, and on this repo runs start ~2.5h late (the 03:37
+    # slot ran at 05:59 on Oct 24) or get dropped. News is fetched when the run actually
+    # starts, so scheduling early doesn't make it staler. Seven slots, 01:07–04:07 IST;
+    # once a page has been built after 03:00 IST, later slots exit in seconds.
+    - cron: "37 19 * * *"   # 01:07 IST
+    - cron: "7 20 * * *"    # 01:37 IST
+    - cron: "37 20 * * *"   # 02:07 IST
+    - cron: "7 21 * * *"    # 02:37 IST
+    - cron: "37 21 * * *"   # 03:07 IST
     - cron: "7 22 * * *"    # 03:37 IST
     - cron: "37 22 * * *"   # 04:07 IST
-    - cron: "7 23 * * *"    # 04:37 IST
-    - cron: "37 23 * * *"   # 05:07 IST
-    - cron: "7 0 * * *"     # 05:37 IST
   workflow_dispatch: {}
 
 permissions:
