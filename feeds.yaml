@@ -40,7 +40,11 @@ settings:
     - '- (Full Commentary|Live Stream|Live Score|Match News|Scorecard|Live Cricket Score)\s*$'
     - '\bOdds\b.*\bBookmakers\b'
     - '\bPredictions?,? Odds\b|\bBest Bets\b|\bBetting Tips\b'
+    - '%[0-9A-Fa-f]{2}%[0-9A-Fa-f]{2}'   # URL-encoded titles (feeds that break on non-Latin text)
   dedupe_threshold: 88
+  # Group articles about the same story (even with different headlines) under one entry.
+  # similarity: 0–1, higher = stricter. 0.4 was tuned on real days: ~95% of groups correct.
+  story_grouping: { enabled: true, similarity: 0.4, min_shared: 2, max_hours_apart: 48 }
   archive_days: 60
   seen_days: 14
   discovery:

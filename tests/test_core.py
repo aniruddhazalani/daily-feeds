@@ -4,6 +4,7 @@ from datetime import datetime, timedelta, timezone
 
 from feeds import config
 from feeds.filter import canonical_url, cluster_items, filter_items
+from feeds.group import group_stories
 from feeds.models import Cluster, Item, Scored
 from feeds.rank import balance, matches, score
 
@@ -115,6 +116,43 @@ class Balance(unittest.TestCase):
     def test_nothing_is_dropped_when_only_one_side_covers_the_news(self):
         ranked = [self.scored(f"Left story number {i} about the vote", "theguardian.com", 10 - i) for i in range(4)]
         self.assertEqual(len(balance(self.cfg, ranked, 4)), 4)
+
+
+class StoryGrouping(unittest.TestCase):
+    FILLER = [  # a realistic background so word rarity (IDF) behaves like a real day
+        "Fed holds interest rates steady as inflation cools", "Oil prices climb on Middle East supply fears",
+        "India beat Zimbabwe to sweep T20 series", "Arsenal edge Everton in late thriller",
+        "Tesla begins production of Optimus robot", "Election Commission announces Bihar poll dates",
+        "Trump says Ukraine must make a deal with Russia", "Trump signs order on federal hiring freeze",
+        "Nvidia launches new open models for agents", "Monsoon withdraws from northwest India",
+        "Bank of Japan keeps policy unchanged", "Brent crude settles above $110 a barrel",
+    ]
+
+    def grouped(self, titles):
+        items = [item(t, url=f"https://site{i}.com/a", outlet=f"Outlet {i}") for i, t in enumerate(titles + self.FILLER)]
+        return group_stories([Cluster([it]) for it in items], similarity=0.4)
+
+    def group_of(self, groups, title):
+        return next(g for g in groups if any(it.title == title for it in g.items))
+
+    def test_same_story_with_different_headlines_is_grouped(self):
+        a = "England manager Sarina Wiegman signs contract extension"
+        b = "Sarina Wiegman signs new England contract until 2029"
+        groups = self.grouped([a, b])
+        self.assertEqual({it.title for it in self.group_of(groups, a).items}, {a, b})
+
+    def test_stories_sharing_only_a_common_name_stay_apart(self):
+        a = "Trump says Ukraine must make a deal with Russia"
+        b = "Trump signs order on federal hiring freeze"
+        groups = self.grouped([])
+        self.assertNotIn(b, {it.title for it in self.group_of(groups, a).items})
+
+    def test_articles_days_apart_are_not_grouped(self):
+        a = item("Sarina Wiegman signs contract extension with England", url="https://a.com/1", hours_old=1)
+        b = item("Sarina Wiegman signs new England contract until 2029", url="https://b.com/2", hours_old=80)
+        filler = [item(t, url=f"https://f{i}.com") for i, t in enumerate(self.FILLER)]
+        groups = group_stories([Cluster([x]) for x in [a, b, *filler]], similarity=0.4, max_hours_apart=48)
+        self.assertEqual(len(self.group_of(groups, a.title).items), 1)
 
 
 if __name__ == "__main__":

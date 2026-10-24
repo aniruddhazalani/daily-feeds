@@ -12,24 +12,47 @@ from . import discover, rank, render
 from .config import DATA_DIR, Config, load_discovered
 from .fetch import fetch_all
 from .filter import cluster_items, filter_items, load_seen, save_seen, seen_keys
+from .group import group_stories
 from .models import Scored
 
 log = logging.getLogger(__name__)
 SNAPSHOT_DIR = DATA_DIR / "days"
 
 
+MAX_RELATED = 10
+
+
+def related_json(cfg: Config, s: Scored) -> list[dict]:
+    """Other articles on the same story: one row per distinct outlet + headline, best sources first."""
+    p = s.primary
+    seen = {p.url, (p.outlet.lower(), p.title.lower())}
+    rows = []
+    for it in sorted(s.cluster.items, key=lambda it: (-cfg.sources[it.source_id].weight if it.source_id in cfg.sources else 0,
+                                                       -it.published.timestamp())):
+        key = (it.outlet.lower(), it.title.lower())
+        if it.url in seen or key in seen:
+            continue
+        seen |= {it.url, key}
+        rows.append({"title": it.title, "url": it.url, "outlet": it.outlet, "lean": cfg.lean(it.domain),
+                     "published": it.published.isoformat(), "paywall": it.paywall})
+    return rows
+
+
 def item_json(cfg: Config, s: Scored) -> dict:
     p = s.primary
-    also = [o for o in s.cluster.outlets if o.lower() != p.outlet.lower()]
+    related = related_json(cfg, s)
+    # Google News items have no snippet; borrow one from another article on the same story.
+    snippet = p.snippet or next((it.snippet for it in s.cluster.items if it.snippet), "")
     return {
         "title": p.title,
         "url": p.url,
         "outlet": p.outlet,
         "kind": "new" if p.discovered else p.kind,
         "published": p.published.isoformat(),
-        "snippet": p.snippet,
-        "also": also[:5],
-        "also_more": max(0, len(also) - 5),
+        "snippet": snippet,
+        "related": related[:MAX_RELATED],
+        "related_more": max(0, len(related) - MAX_RELATED),
+        "outlets": len(s.cluster.outlets),
         "paywall": p.paywall,
         "lean": cfg.lean(p.domain),
         "score": s.score,
@@ -48,6 +71,11 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
     seen = load_seen()
     kept, fstats = filter_items(cfg, items, seen, today, now)
     clusters = cluster_items(kept, float(cfg.settings.get("dedupe_threshold", 88)))
+    grouping = cfg.settings.get("story_grouping") or {}
+    if grouping.get("enabled", True):
+        clusters = group_stories(clusters, similarity=float(grouping.get("similarity", 0.4)),
+                                 min_shared=int(grouping.get("min_shared", 2)),
+                                 max_hours_apart=float(grouping.get("max_hours_apart", 48)))
     log.info("items: %d fetched → %d kept (%s) → %d stories", len(items), len(kept), fstats, len(clusters))
 
     if explain:

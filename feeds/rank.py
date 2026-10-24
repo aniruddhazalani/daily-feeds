@@ -37,11 +37,14 @@ def score(cfg: Config, sec: Section, cl: Cluster, now: datetime) -> tuple[Option
     if not in_sec:
         return None, "not from this section's sources"
     titles, snippets = cl.text()
-    full = titles + "\n" + snippets
+    # Exclude/require look only at this section's own articles, so one stray related
+    # article on a grouped story can't knock the story out of (or into) the section.
+    own = Cluster(in_sec).text()
+    own_text = own[0] + "\n" + own[1]
     for t in sec.exclude:
-        if matches(t, full):
+        if matches(t, own_text):
             return None, f"excluded by '{t}'"
-    if sec.require_any and not any(matches(t, full) for t in sec.require_any):
+    if sec.require_any and not any(matches(t, own_text) for t in sec.require_any):
         return None, "no required term"
 
     kw = 0.0

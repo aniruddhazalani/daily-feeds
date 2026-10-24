@@ -20,9 +20,22 @@
     {% if it.paywall %}<span class="lock" title="Paywalled">🔒</span>{% endif %}
     <span class="dot">·</span><time datetime="{{ it.published }}">{{ it.published | local }}</time>
     {% if it.upvotes %}<span class="dot">·</span><span class="up" title="Hugging Face upvotes">▲ {{ it.upvotes }}</span>{% endif %}
-    {% if it.also %}<span class="dot">·</span><span class="also">also {{ it.also | join(', ') }}{% if it.also_more %} +{{ it.also_more }}{% endif %}</span>{% endif %}
+    {% if it.also and not it.related %}<span class="dot">·</span><span class="also">also {{ it.also | join(', ') }}{% if it.also_more %} +{{ it.also_more }}{% endif %}</span>{% endif %}
   </div>
   {% if it.snippet %}<p class="snippet">{{ it.snippet }}</p>{% endif %}
+  {% if it.related %}
+  {% set n_more = it.related | length + (it.related_more or 0) %}
+  <details class="related">
+    <summary>{{ n_more }} more article{{ 's' if n_more != 1 }}{% if it.outlets and it.outlets > 1 %} · {{ it.outlets }} outlets{% endif %} <span class="rel-outlets">{{ it.related | map(attribute='outlet') | unique | list | join(', ') | truncate(70) }}</span></summary>
+    <ul>
+      {% for r in it.related %}
+      <li><a href="{{ r.url }}" target="_blank" rel="noopener">{{ r.title }}</a>
+        <span class="rel-meta">{{ r.outlet }}{% if r.lean %} <span class="lean l-{{ r.lean }}">{{ r.lean | capitalize }}</span>{% endif %}{% if r.paywall %} 🔒{% endif %} · <time datetime="{{ r.published }}">{{ r.published | local }}</time></span></li>
+      {% endfor %}
+      {% if it.related_more %}<li class="rel-more">+{{ it.related_more }} more</li>{% endif %}
+    </ul>
+  </details>
+  {% endif %}
 </li>
 {% endmacro %}
 {% macro item_list(items, label) %}

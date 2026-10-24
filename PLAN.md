@@ -249,6 +249,12 @@ Guardrails: at most 5 new sources per day, at most 40 discovered sources active 
 6. Create the GitHub repo, add the Actions workflow (commits `data/` and deploys Pages), and do a first scheduled run.
 7. README: how to add a feed or section, promote or mute a source, and tune a section.
 
+## Story grouping (added 2026-10-24)
+- After near-duplicate merging, `feeds/group.py` groups articles about the same story using TF-IDF over headline (×2) + snippet. Weights come from the day's own items, so rare words (names, places, specific terms) dominate.
+- An article joins a group when it shares ≥ 2 distinctive words with it (words in ≤ 3 % of the day's items) and its cosine similarity to the group's centroid is ≥ 0.4, within 48 h. Matching against the centroid instead of pair-to-pair stops chaining into topic blobs. A second pass merges groups that ended up as two halves of one story.
+- News, blog analysis and papers are grouped separately. Each entry shows the lead article plus an expandable list of the others (outlet, lean, time). Exclude/require rules look only at the section's own articles.
+- Measured on 2026-10-24: ~95 % of sampled groups were the same story. Articles on the page went from 345 to 608 with the same number of slots.
+
 ## Political balance (added 2026-10-21)
 - Added right / center-right outlets: Fox News, WSJ, Telegraph, Spectator, National Review, The Dispatch, The Free Press, UnHerd, The National Interest, FDD, Hudson, Heritage, AEI, Hoover, NY Post, Washington Examiner, WION. Center: The Hill, Axios. India: Times of India, India Today, News18, Firstpost, Republic, OpIndia, The Pioneer.
 - `leans:` in `feeds.yaml` rates outlet domains left / center / right (AllSides / Ad Fontes where available).

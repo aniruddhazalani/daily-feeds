@@ -45,6 +45,8 @@ Other commands:
 - Short capitalised terms (`ICE`, `OPT`, `Fed`) match case-sensitively. Everything else ignores case.
 - `junk_titles` under `settings` drops job ads, archive pages and similar everywhere.
 
+**Story grouping:** articles about the same story are grouped under one entry, even when the headlines differ. Expand "N more articles" to see the others with their outlet and lean. Grouping compares the distinctive words in headlines and snippets, weighted by how rare each word is that day, so names count for more than common words like "Trump" or "India". News, analysis and papers are grouped separately. Tune it with `settings.story_grouping`: raise `similarity` (default 0.4) if unrelated stories end up together, lower it if one story is split across entries.
+
 **Political balance:** `leans:` rates outlet domains as left, center or right (subdomains included). Each headline shows its outlet's lean, and Politics sections show a Left / Center / Right count. Feeds with `balance: true` (Politics) never let left or right get more than one item ahead when the other side has qualifying stories. The app first tries the same story from an outlet on the other side, then the other side's next-best story. Nothing is dropped if only one side covers the news. To change a rating, move the domain between lists.
 
 **Discovered sources** (`data/discovered_sources.yaml`, written by the app):
