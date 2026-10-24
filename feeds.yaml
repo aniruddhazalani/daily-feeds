@@ -52,13 +52,18 @@ settings:
     window_days: 14
     search_hits: 6        # qualifying items from Google News results…
     search_days: 3        # …seen on at least this many different days
-    citations: 2          # distinct trusted sources linking to the domain
+    citations: 3          # distinct trusted sources linking to the domain
     max_new_per_day: 5
     max_active: 40
     retire_days: 30
     new_badge_days: 7
 
-ignore_sources: []
+ignore_sources:          # muted 2026-10-24: noise picked up by discovery
+  - federalregister.gov  # routine agency notices
+  - tovima.com           # Greek-language news
+  - cibercuba.com
+  - en.cibercuba.com
+  - manilatimes.net
 
 # Political lean of outlets, by domain (subdomains included). Used to label headlines and,
 # in feeds with `balance: true`, to keep left and right in balance. Ratings follow

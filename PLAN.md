@@ -220,13 +220,13 @@ The app finds new **sources** on its own. It never creates new feeds or sections
 
 ### Where candidates come from
 1. **Search results.** Every `gnews` item carries its real outlet domain. If a domain not yet in the source list produces items that score above `min_score` in some section, it gets a hit for that section.
-2. **Citations in trusted blogs.** Outbound links in posts from trusted blogs are collected. When two or more different trusted sources link to the same unknown domain within 14 days, that domain gets a hit. This is how a new Substack or lab blog that experts start citing gets picked up.
+2. **Citations in trusted blogs.** Outbound links in posts from trusted blogs are collected. When three or more different trusted sources link to the same unknown domain within 14 days, that domain gets a hit. This is how a new Substack or lab blog that experts start citing gets picked up.
 3. **New arXiv and HF paper affiliations are not used.** Paper sources are already broad.
 
 Hits are tracked in `data/discovery.json` as per-domain counts over a rolling 14 days, broken down by section.
 
 ### Becoming a discovered source
-A domain is checked once it reaches **≥ 6 qualifying search items on ≥ 3 different days, mostly in one section** (general aggregators spread across sections and don't qualify), **or ≥ 2 trusted citations** in 14 days. Following a domain with no feed through a `site:` query needs twice the search evidence. Domains that fail are not retried for 30 days. The check:
+A domain is checked once it reaches **≥ 6 qualifying search items on ≥ 3 different days, mostly in one section** (general aggregators spread across sections and don't qualify), **or ≥ 3 trusted citations** (raised from 2 on 2026-10-24) in 14 days. Following a domain with no feed through a `site:` query needs twice the search evidence. Domains that fail are not retried for 30 days. The check:
 1. Find its feed: `<link rel="alternate" type="application/rss+xml">` on the homepage, then the usual paths (`/feed`, `/rss`, `/rss.xml`, `/atom.xml`, `/index.xml`, `<sub>.substack.com/feed`).
 2. Quality bar: the feed parses, has ≥ 3 posts in the last 60 days, isn't an alias of a source we already have, and at least 2 (and ≥ 15 %) of its recent posts score above `min_score` in a section.
 3. If it passes, it's added to `data/discovered_sources.yaml` with `kind: discovered`, `weight: 1`, attached to the section(s) where it scored. If no feed exists, it's added as a `site:` Google News query instead.
