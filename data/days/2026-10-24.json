@@ -1,6 +1,6 @@
 {
  "date": "2026-10-24",
- "generated_at": "2026-10-24T02:41:51.493577+00:00",
+ "generated_at": "2026-10-24T02:52:09.942796+00:00",
  "timezone": "Asia/Kolkata",
  "site_title": "Daily Feeds",
  "feeds": [
@@ -106,7 +106,7 @@
        "outlets": 16,
        "paywall": false,
        "lean": "left",
-       "score": 15.99,
+       "score": 15.98,
        "tag": null,
        "upvotes": 0
       },
@@ -167,14 +167,6 @@
          "paywall": false
         },
         {
-         "title": "Melania Trump says she brokered truce in war-torn Ukrainian city",
-         "url": "https://www.manilatimes.net/2026/10/24/world/americas-emea/melania-trump-says-she-brokered-truce-in-war-torn-ukrainian-city/2453115",
-         "outlet": "The Manila Times",
-         "lean": null,
-         "published": "2026-10-23T21:19:38+00:00",
-         "paywall": false
-        },
-        {
          "title": "Russia, Ukraine agree to ceasefire in Ukrainian city hit by food crisis, brokered by Melania Trump",
          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZkVOVkZPUnl6Z2d6SWt4cWJDOUNrSW5Fdmt6WXVUTXJMRXFCMXVVSWRZUWNHUXc3Nk1MZHlLNGVhVzNRMWdsSzByUmtHWFh4YzNRVjVlT2dCbjh5Um13c0kxT2pENE1zS3hmbi15T1FEcHl1SWgwNFVIZTdYaW1LdktVZjVVeUIxOTEzUlZZZnQzVmpSdGd6d0lyTXNjWGUtZERkVXM5N0VZeFhTamI3VGRSeXFqUlJNbU81c2VlcGlrQ01MU1VR?oc=5",
          "outlet": "Reuters",
@@ -197,110 +189,21 @@
          "lean": null,
          "published": "2026-10-23T16:43:37+00:00",
          "paywall": false
+        },
+        {
+         "title": "White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City",
+         "url": "https://www.rferl.org/a/white-house-says-melania-trump-brokers-localized-cease-fire-for-occupied-ukrainian-city/33883147.html",
+         "outlet": "Radio Free Europe / Radio Liberty",
+         "lean": null,
+         "published": "2026-10-23T16:32:19+00:00",
+         "paywall": false
         }
        ],
        "related_more": 2,
        "outlets": 11,
        "paywall": false,
        "lean": "right",
-       "score": 15.48,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Israel locks down occupied West Bank after Hebron shooting",
-       "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
-       "outlet": "Al Jazeera",
-       "kind": "news",
-       "published": "2026-10-23T18:38:26+00:00",
-       "snippet": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
-       "related": [
-        {
-         "title": "Netanyahu warns of unprecedented offensive unseen since 1967 in occupied West Bank",
-         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVlMwMDlzQVhyZ0pZZ283dktvS3FZRnVlV21Za0cyV3V0MXVWT2pwZ21qNzQtNklIUVNqNklwbHNDbmlzMXNjSmRreEYxNmRkWFBBNTBNUEtzRDRwYVZRWTJJMzc1d3BCSnRKeWoySmZNUXQ3M0FpeW5JUGJzVTY1Qjl4VWFOdUFia0pfUTNXN2NLTFVwQnNlOXVpbXRfelVLN2pWUlFQMEZkd9IBrwFBVV95cUxPelFBTkNnOHJjNTdPc3VyZ2RpUDc2aWNpX1pHYzZNY3BpcEFxdll0N2poQmZhNTROMGhFOHJfNlRCUnBWZ1BaekNUMmRtTVVyUFYxWGMybV83c0tNTW1KMk96cnZKeEVlZjV3V3JzMkZ1dGlSNEpUcGJJcXdMaGlfTUpoUkl2QU1jby16TVJPcGVBb01iWFFTN0s0bDVGQjNfNDBNX2dpaHRFVHhNdGt3?oc=5",
-         "outlet": "WION",
-         "lean": "right",
-         "published": "2026-10-23T17:22:00+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Israeli PM Netanyahu orders full closure of West Bank after Hebron attack, two militants killed",
-         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHJLblk0OGY1ak1qNlRpanZfejBNNkM4eTRLVk5RNlBlNWpIWTMzbkFpMFktR3d3SG85RS1XVmFnRngyNEdfSlhXcG1EMFJveDh3QTV1LTIxdFRFbllFVmdlYWFvZmozcE96MEc1WlRBRGlVQzdZMlpGVnBEaW1NVEtqT2pDU0lhSFJGQVMzOEg3ZkowcWFYQU5UbUdJX0hPQlE3THUyR1JpUDhsRGtZNlZ0NmNhQno1SlF0QlB6Y1EtS0xLMEpHRTBKdHg1S2RTS1pWc9IB2gFBVV95cUxOVFZIZnNsWjV3SlNtTktkUXpibWpIbWlweWlKMVE2clMyejIxdjh1ZXVscmxlS0JJVFdUMzBCc0lKMWI5QU1fdEljckFCWERncTBlOGtrT2U5bml3ajlkdHJXb2FQTFVKNGFscW1WWG00WHdQUHRTNkdQaDdNUGt6ekRGb2UtMldRRHBDaEZCa1NXcTJEQVB1QkpXUUY0X3BiMGRZTlFYQWlTcjFiRDFmRGg4ak1pdHVUQ2lxcF91WUF6ZGJ6OWxUelFCbHZTLXEwNjJNdldGNk5BZw?oc=5",
-         "outlet": "WION",
-         "lean": "right",
-         "published": "2026-10-23T09:39:00+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Netanyahu Orders Lock-down of West Bank After Hamas-Linked Terror Attack Injures 5",
-         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0xlMmlweGdZRWUwWWR4cFFlUU9RQm56TVJpV1Uwc2ZROFNleVk1SHZzbW9SdzllWWhvTm9GRElJRk8taVFQOVd6VHpRakl6VEVSOUhpU3RZUHVENkZObm5LRVVxc3NaSmQzRVVXUTdQVkZ0NThQQXF2Sml1OThJSUxjb1k4blRYYnFwejZfZ2p5WW9lZnhxR0hVVXpFWUxEVjJlZFFPMHByTXNRMUVmeHVjQTdQcWc3bHA5U0ZuTmNSNmh5Z3FJSkd0R0RnUWVzT0tzaUFLWU5WSmJaZUVSRGQ5SkfSAeoBQVVfeXFMT2tCQjc4MURiUjZBV0VwcWltYVJNRFFKejlneTRVcTNkSjRMa0FYRnNHTzJnclFZT252UTV4RjNUaGs4OWhZRFlGa1d6Wi1zX0JpdDk3YmozdFY1TzJWMGpWT2U3d0d4WHhLYXRodEhLRW9HWnpBRThjOUowTDAtZE9rQkVpNlB1bmZrSHB4Z2kzbXZMMEpJLTc0QmpGNTFYYnRqQzFrblpCZkJjOUVyNE56WGNKN1hRNk82UEI3cTZEcUhOcnRoYzh3ZGhGVlBRYk8tR09rNW1ueFNwRWJXNzZMSXNXeGJQTnNR?oc=5",
-         "outlet": "Republic",
-         "lean": "right",
-         "published": "2026-10-23T09:38:07+00:00",
-         "paywall": false
-        },
-        {
-         "title": "West Bank: Guterres alarmed as Israel imposes sweeping closures after deadly Hebron attack",
-         "url": "https://www.manilatimes.net/2026/10/24/world/un-news/west-bank-guterres-alarmed-as-israel-imposes-sweeping-closures-after-deadly-hebron-attack/2453139",
-         "outlet": "The Manila Times",
-         "lean": null,
-         "published": "2026-10-24T01:25:23+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Attack in the West Bank kills 2 Israeli soldiers, and other Mideast news",
-         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjk1RXRCNHBkeXhWRXgwMTdlX3RERmtfNFBpMVlYY3BjTlVaUnpfMmdXdEFZdDdzQjVTMVlIYzhVQnpHZmQxTWdYeFNqOERVc0ZPQVhKcmFKRXVINThvdVJyS2tud2p1ZThUdDF6UTNSempUcFczUnFoWV8tbGZBZ2UxOGM2RXZlUXBiYktTS1h0UQ?oc=5",
-         "outlet": "AP News",
-         "lean": "center",
-         "published": "2026-10-23T23:43:00+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Netanyahu Says Extensive West Bank Military Operation ‘On the Way’ After Attack",
-         "url": "https://english.aawsat.com/node/5332802",
-         "outlet": "ASHARQ AL-AWSAT English",
-         "lean": null,
-         "published": "2026-10-23T15:11:08+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Netanyahu announces a large-scale military offensive in the West Bank",
-         "url": "https://en.cibercuba.com/noticias/2026-10-23-u1-e74-s27061-nid343589-netanyahu-anuncia-ofensiva-militar-gran-escala",
-         "outlet": "CiberCuba",
-         "lean": null,
-         "published": "2026-10-23T13:53:03+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Far-right Israeli Minister Orders Buildings Demolished in West Bank after Attack",
-         "url": "https://english.aawsat.com/node/5332669",
-         "outlet": "ASHARQ AL-AWSAT English",
-         "lean": null,
-         "published": "2026-10-23T10:44:54+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
-         "url": "https://www.lemonde.fr/en/international/article/2026/10/23/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election_6762244_4.html",
-         "outlet": "Le Monde.fr",
-         "lean": null,
-         "published": "2026-10-23T09:34:29+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Netanyahu Orders West Bank Closure as Attack Wounds Israelis before Election",
-         "url": "https://english.aawsat.com/node/5332586",
-         "outlet": "ASHARQ AL-AWSAT English",
-         "lean": null,
-         "published": "2026-10-23T06:05:24+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 8,
-       "paywall": false,
-       "lean": "left",
-       "score": 15.01,
+       "score": 15.46,
        "tag": null,
        "upvotes": 0
       },
@@ -312,14 +215,6 @@
        "published": "2026-10-23T18:52:17+00:00",
        "snippet": "The network is used by the Ukrainian military, sources say, and Trump says \"if there is a problem, I'll get it straightened out\".",
        "related": [
-        {
-         "title": "Ukraine denies Trump has switched Starlink back on",
-         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZUk4ZjZZZ2VSWW5GV1Y4OE1lbVJYT1k4anZnVkNuU2dsMnhjNHpxbk0wNVkwd0NVZ1ZWWkJVZFpTX09qM2FtY0ZEQUU4ekNpMVBYVEhmLWhaOUQwalJ2eTRUWmlQNFJsY054NDlBTlVGR2VqcENndFMzb3g4cWxlelI3SU1xYWtDR1pVQ2FIWU1JbXFJME54U2MtRQ?oc=5",
-         "outlet": "The Telegraph",
-         "lean": "right",
-         "published": "2026-10-23T18:47:00+00:00",
-         "paywall": false
-        },
         {
          "title": "Trump says he may contact Musk over Starlink restrictions affecting Ukraine",
          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeUlsai1TWEk1eXl5bURaUTNWUUZJenBBWk1ienNkNUdtQkkzQUI1QzZqemw2YmFLeVBmMkJkSm5WZHpyOVRRX19tdm1Pb1BOenVTeU01ckJBV3kxM2hYXzRyQzE4LW9XMlJscG1KcjZ5cWpSRDhTNS1rUzl3UDU4RXRfSkVYd3c1dU16SFlxTGgtOEXSAZgBQVVfeXFMTjMyNGEwTnkxMHljMEhXLWdyLWtaT2s3bmhBN01IRVJVVDhJeFA4aDA5Tk0yVUJ3OGNKQVk4ZG9TZHhudTBYeVJUVHZ1d3R1eWVzV21lVVBvVmhfN3ZpVFJOeS10YXVrWnBfa1FqdFRoRFhqUlBlS2REU2k4dEM4M2JCZWhpUmxsRlI1MXljSlhuczRScFd1d2o?oc=5",
@@ -361,109 +256,100 @@
          "paywall": false
         },
         {
+         "title": "Starlink restrictions not lifted in Ukraine despite Trump's claims, defence officials say",
+         "url": "https://www.euronews.com/2026/10/23/starlink-restrictions-not-lifted-in-ukraine-despite-trumps-claims-defence-officials-say",
+         "outlet": "Euronews.com",
+         "lean": null,
+         "published": "2026-10-23T10:07:39+00:00",
+         "paywall": false
+        },
+        {
          "title": "Starlink still restricted for Ukraine despite Trump saying Musk lifted speed limits",
          "url": "https://www.politico.eu/article/starlink-still-restricted-for-ukraine-donald-trump-elon-musk-lifted-speed-limits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication",
          "outlet": "POLITICO",
          "lean": null,
          "published": "2026-10-23T08:09:47+00:00",
          "paywall": false
+        },
+        {
+         "title": "Trump Says Musk Has Lifted Starlink Restrictions On Ukraine While Kyiv Reports Ongoing Issues",
+         "url": "https://www.rferl.org/a/ukraine-russia-war-starlink-starshield-congress/33881387.html",
+         "outlet": "Radio Free Europe / Radio Liberty",
+         "lean": null,
+         "published": "2026-10-22T05:37:19+00:00",
+         "paywall": false
         }
        ],
        "related_more": 0,
-       "outlets": 7,
+       "outlets": 8,
        "paywall": false,
        "lean": "center",
-       "score": 13.65,
+       "score": 14.83,
        "tag": null,
        "upvotes": 0
       },
       {
-       "title": "‘Russian humanitarians’ fired missiles at Kyiv: Zelensky takes swipe at Witkoff over Putin praise",
-       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYWlxMXl1UXZsdVBXUmpLNW1VS0ZpZ0FIRmhzRzdZdk5WUnBwR21ncjR6NVNnbnR6VEpvYm40NGxCOF9LeGhCc1BxM0ZaTFpLQldfSV85YWVmbnU4S1pSZHppYVFHZ0Z0a2dfLWphOUdKeGFQcGl4S1VVYjl4MlcwVGNDV1hxbTBQNHk0VGRKb25rN19HVVFDUnVtSUJSdV9QdWVfMmU5ODYxTjB0LVd1X3JPVFRGbW1iQ2k4MVRQckV1Vl9fQ1BmQ1loUzhRRDRwM2tDcdIB2gFBVV95cUxOMzZnNFJxb1RVMERoMTdlVTZHVUdhYkhVT2ZuQjN5bUlEUGdqOGpZRG5acmRWUkc0SFVhQm1NTTJvY3FrVVBjVTRNQVZTQ085S3lqaW5uMHdFRng0bnFJdDIxZERjX3NLRUlVUXlGSmE5VEpMakVCbDNmam9aYmhkZ24xbHI1R29CcEVEdHVwRENpZWtzQlFMeFJPSm5yX2lVZGV3TGhNVnZEamVGeFFrRFNRQXNudkY0VGFEUmhWaHRKb1MtYjVObnhzVHhIekItSTdaRWNtbFQ4QQ?oc=5",
+       "title": "Israeli PM Netanyahu orders full closure of West Bank after Hebron attack, two militants killed",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPbHJLblk0OGY1ak1qNlRpanZfejBNNkM4eTRLVk5RNlBlNWpIWTMzbkFpMFktR3d3SG85RS1XVmFnRngyNEdfSlhXcG1EMFJveDh3QTV1LTIxdFRFbllFVmdlYWFvZmozcE96MEc1WlRBRGlVQzdZMlpGVnBEaW1NVEtqT2pDU0lhSFJGQVMzOEg3ZkowcWFYQU5UbUdJX0hPQlE3THUyR1JpUDhsRGtZNlZ0NmNhQno1SlF0QlB6Y1EtS0xLMEpHRTBKdHg1S2RTS1pWc9IB2gFBVV95cUxOVFZIZnNsWjV3SlNtTktkUXpibWpIbWlweWlKMVE2clMyejIxdjh1ZXVscmxlS0JJVFdUMzBCc0lKMWI5QU1fdEljckFCWERncTBlOGtrT2U5bml3ajlkdHJXb2FQTFVKNGFscW1WWG00WHdQUHRTNkdQaDdNUGt6ekRGb2UtMldRRHBDaEZCa1NXcTJEQVB1QkpXUUY0X3BiMGRZTlFYQWlTcjFiRDFmRGg4ak1pdHVUQ2lxcF91WUF6ZGJ6OWxUelFCbHZTLXEwNjJNdldGNk5BZw?oc=5",
        "outlet": "WION",
        "kind": "news",
-       "published": "2026-10-22T18:01:00+00:00",
-       "snippet": "The president made the comment in an interview with ABC News two days after U.S. Envoy Steve Witkoff praised Vladimir Putin as \"a humanitarian.\" Hours later, Russia struck Kyiv with ballistic missiles and cluster munitions.",
+       "published": "2026-10-23T09:39:00+00:00",
+       "snippet": "Netanyahu said that the Israeli army prevented what could have been a major attack in the occupied West Bank, with the two assailants allegedly carrying a large quantity of ammunition in their vehicle.",
        "related": [
         {
-         "title": "Zelensky mocks Steve Witkoff’s comment calling Putin a ‘humanitarian’",
-         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1k1eWZxSXZYaUlfVkw0ZWdqdGxDZTIzb3N4eEZtNFVsUGlXVm5TMHR2YjFjc0k2NkFLTzdrODZmdjRqdElSMXpCRFlFd09MLW9lR1B3SWotUExvUWhEV05Ob1VhcU00TjJkR0Q2NXViZXN0VFRrYmU5NW00Q3BCcXRnVGRXZG43aWs0ejBqd2RFUDFFTTRNZjVyVkZMRkYyQ2hoM0liWHBSc25JVmZqcU9oOEE2TGtqNFE?oc=5",
-         "outlet": "Washington Examiner",
-         "lean": "right",
-         "published": "2026-10-22T15:30:43+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Zelensky 'maybe not such a big humanitarian as Putin,' he quips as Ukraine's relations with Trump unravel",
-         "url": "https://kyivindependent.com/zelensky-maybe-not-such-a-big-humanitarian-as-putin-he-quips-as-ukraines-relations-with-trump-unravel/",
-         "outlet": "The Kyiv Independent",
-         "lean": null,
-         "published": "2026-10-24T02:28:06+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 3,
-       "paywall": false,
-       "lean": "right",
-       "score": 13.63,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "‘Fake hits, mines’ in Hormuz? Trump accuses Iran of driving up oil prices ahead of US midterms",
-       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQi1rc3VWek11UC1JcFFtUmVLblJFSUFPMEpzejRfN2NxeXF6REJfSFJkVFJTLUdRbGpYRGJMYUtjMEs5cEh4ZmNiX3pNNDNRdDlwRW9yTlA3MERKQUFCSXB4TE1YeGpZVEVmdG1LMU51d3JYSW9zZWhXbEl4bDlaT3ZiOHBhZWtRN1pBbndmR3ZpSEdSWmZZTmh3RjJRSEJGUm1oSFEwQlN0MHpQclEydno0Z29xSkFHTmI5ZWdYTUFDSVl0dVczd1M4R0FCSUXSAdQBQVVfeXFMTzZYd1JQLWNnMHdKbVpubmQzZy1QTVdpeFA1SnRodlpCUVBFbEliQVp6MXlDMHZOODVDSjh1dC1JTmlWMmM4akpiejRFLTd2LTUyQTRwRFRTMVpuV3I3QkN1dlMwQXUwS0tXOFZJckZiNDVFZk1TcGFvZW1RcmtqNVNzZkdqc2pLTlRkaHpUeFdRUjFJX2JSZ3FyaXJaemVuekwyaHRYZ3V0MGgxY1dMMV9Ta1hpTVZhNGFFTGZZRXNBQTNINldpVlQyYXBBZF9NM2FEWW4?oc=5",
-       "outlet": "WION",
-       "kind": "news",
-       "published": "2026-10-22T16:54:00+00:00",
-       "snippet": "",
-       "related": [
-        {
-         "title": "'Iran Doing Everything to Drive Up Oil Prices Ahead of Midterms': Trump Lashes Out at Tehran Regime",
-         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVDRILXViNE5tNWhfdjlvcEUzSlhUSXlqQ29FbkVVajhoeVNWTnhtbVBnOXJHSDRPZkVUT1Y0TWVWRHFMeHgzREVxSXMwZ2RDZUY0dDBVNkF1VUVVVHVwRnNvOHlQTHI5UU4yVXlsNzE4c0lBNzU5TFF0Mzd1RndSMnRkS2ZVSklaQ0xWdWIzUW1pQkRmejlDejFpTnVHRDdHbjlGYjdYalhsZ1htSzk1RmpnRld1NTkyUG1wbG5jOEluV1BHVDdSVzNFczFYVU9CSHRYWnNyQVAtM1FNMFNIVmpsLTVsMXdTWGxJ0gHwAUFVX3lxTFBMYVlZd25yRlkyV2V0QURrbnZtcER6Yk9Ha3JYWFVxUk1mLXhSdzlHdnJUVjBKbFlzS19md3ZwOGRLMjhBbnFDeDIyNV9zN1FuMXBxSnJoVE1TNE82cG9xUVZGVnBrSDV6MXdXTjI3d0QwaDh4d0FONnVlQ2ZEbEhUekRkel9lZGI4TVZUZGVEaVJ1Q19XRnNYZFFOVWlrZmM2OXdHdTdIaFYzNk93SmJfYWJ4czc3TG1FQm95Q2xYdENNX21iTFgwSGZpYlY3MDVLTGE4cEFabVk1SHp0OURBaDNOWTZfWEdEUnZVUDgycw?oc=5",
+         "title": "Netanyahu Orders Lock-down of West Bank After Hamas-Linked Terror Attack Injures 5",
+         "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQ0xlMmlweGdZRWUwWWR4cFFlUU9RQm56TVJpV1Uwc2ZROFNleVk1SHZzbW9SdzllWWhvTm9GRElJRk8taVFQOVd6VHpRakl6VEVSOUhpU3RZUHVENkZObm5LRVVxc3NaSmQzRVVXUTdQVkZ0NThQQXF2Sml1OThJSUxjb1k4blRYYnFwejZfZ2p5WW9lZnhxR0hVVXpFWUxEVjJlZFFPMHByTXNRMUVmeHVjQTdQcWc3bHA5U0ZuTmNSNmh5Z3FJSkd0R0RnUWVzT0tzaUFLWU5WSmJaZUVSRGQ5SkfSAeoBQVVfeXFMT2tCQjc4MURiUjZBV0VwcWltYVJNRFFKejlneTRVcTNkSjRMa0FYRnNHTzJnclFZT252UTV4RjNUaGs4OWhZRFlGa1d6Wi1zX0JpdDk3YmozdFY1TzJWMGpWT2U3d0d4WHhLYXRodEhLRW9HWnpBRThjOUowTDAtZE9rQkVpNlB1bmZrSHB4Z2kzbXZMMEpJLTc0QmpGNTFYYnRqQzFrblpCZkJjOUVyNE56WGNKN1hRNk82UEI3cTZEcUhOcnRoYzh3ZGhGVlBRYk8tR09rNW1ueFNwRWJXNzZMSXNXeGJQTnNR?oc=5",
          "outlet": "Republic",
          "lean": "right",
-         "published": "2026-10-23T02:07:19+00:00",
+         "published": "2026-10-23T09:38:07+00:00",
          "paywall": false
         },
         {
-         "title": "Trump accuses Iran of pushing up oil prices ahead of US midterm elections",
-         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2xGdEs2NW9adlBBRkdOcU1vV3kyVXg2ZDVacmlhcWk1Y3pQRkpSZXgwbk1CUm5rRlFmaWJGMFkyNURtZzIwejVJMTFHNUczUWpYR045dzBJal9SclQ3QTh6c1BQS21YdVFTWUViajdlcmNiS0xSbWFLbUppa1ppTjdITlFtUEpOQlBWRl9vNlA2eUFzUExqNVRLa0UtWm9r?oc=5",
-         "outlet": "energynews.pro",
-         "lean": null,
-         "published": "2026-10-23T11:32:44+00:00",
+         "title": "Attack in the West Bank kills 2 Israeli soldiers, and other Mideast news",
+         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjk1RXRCNHBkeXhWRXgwMTdlX3RERmtfNFBpMVlYY3BjTlVaUnpfMmdXdEFZdDdzQjVTMVlIYzhVQnpHZmQxTWdYeFNqOERVc0ZPQVhKcmFKRXVINThvdVJyS2tud2p1ZThUdDF6UTNSempUcFczUnFoWV8tbGZBZ2UxOGM2RXZlUXBiYktTS1h0UQ?oc=5",
+         "outlet": "AP News",
+         "lean": "center",
+         "published": "2026-10-23T23:43:00+00:00",
          "paywall": false
         },
         {
-         "title": "Ukraine, Mideast War Drive Trump's Midterm Headache As US Oil Prices Surge",
-         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnVKTUJvcVA2Z1VZNVh2UFFEMm5JcXZ1R3pvSVNhZF9Ld2VlMUVaOW1GYU9LcG83S3F6S3lqMlE2MmdlbTZkM0JmVFZCU0dhMElNaDkwMl9TbjRydi1vOGVNbzB4dl9mZWZUT1dPenczUmthWklZQnJVVXp2YzZtNEdQZVpHRTA0VjFPemphVWo2alBhSF9nU3h0U0FxbTFXTmNuODRXdEgyYkkxQjNVelVNNNIBuwFBVV95cUxPMjBDdUQzUlFlWlZoWGpucUxzbmE5OW82bXh0QkJxVVlXZmlIaUI1Z2p6cGFselpFX2xiS3ZSUWJ6VjZNM09qZlVMT3N3cW1xMW92YWlvT0xiM3V2WTVuX1l4QTY0ek1lNFR3eG5OOWhyWFZVM2Y3clFSNVhWazRsWGtVVlJ5MzBpTDZUczk2dXFrQlVnTmFRUFJMRjJycGJmQkpwMDFkbUllSmxULVkwRFBfLU5SV2FVaHRz?oc=5",
-         "outlet": "NDTV",
-         "lean": "left",
-         "published": "2026-10-23T05:19:43+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Trump claims Iran is 'faking hits' in Hormuz to drive up oil prices ahead of midterms",
-         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUJtd20zUUlyMjlzR1VmSDdNS09rQWFVTG5Zai1STXBuVkJfNnhrSGxhQkVkTzZhczUxb1RibmJBamw2V2oyWVZyQ1FybzRMTlhxX0V4MF9EeU5SN3VkUXBJOXh5UHc0MHlPdHB1THBNdWVQeVo4bV9PMUpJcmFjWEdhYnFseTZGMklHeWQtOGZqTjF2eE1FVFdLaUFCZjc2WTBNdkZLR2djeW5sbHpMZ05oWGF5c01OMllTSEllclV1Y2tZQnU4dtIBzgFBVV95cUxNMm5VTEF3X3RQeWR5Xzg2dElrakRxUmpjeVB1Ym0wLUZWbGpxMlNhTGhpaDZ1SUx5UEF3U1dXUHVPT0FDNUJiU0dDcUFES2gyTzhqUmJ6aW5ybjdZclNhWmhXaDhxaVhJaEZacFlYd0NRa2RsbHJTUVNvXzE1N1RUdmhrX01kZF9XZjJ2SmdrVVFFQXhlVUpINGdjTG5ab01mWFhvclppbjJsbDNnaWEtREJvNmdkclZJMkVRNVh2NlBRVE12dTFHS0hnWlNWdw?oc=5",
-         "outlet": "Firstpost",
-         "lean": "right",
-         "published": "2026-10-23T05:13:54+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Trump: Iran is Trying to Drive Up Oil Prices Before Midterm Elections",
-         "url": "https://english.aawsat.com/node/5332443",
+         "title": "Netanyahu Says Extensive West Bank Military Operation ‘On the Way’ After Attack",
+         "url": "https://english.aawsat.com/node/5332802",
          "outlet": "ASHARQ AL-AWSAT English",
          "lean": null,
-         "published": "2026-10-22T16:14:05+00:00",
+         "published": "2026-10-23T15:11:08+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Far-right Israeli Minister Orders Buildings Demolished in West Bank after Attack",
+         "url": "https://english.aawsat.com/node/5332669",
+         "outlet": "ASHARQ AL-AWSAT English",
+         "lean": null,
+         "published": "2026-10-23T10:44:54+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Netanyahu orders West Bank closure as attack wounds Israelis before election",
+         "url": "https://www.lemonde.fr/en/international/article/2026/10/23/netanyahu-orders-west-bank-closure-as-attack-wounds-israelis-before-election_6762244_4.html",
+         "outlet": "Le Monde.fr",
+         "lean": null,
+         "published": "2026-10-23T09:34:29+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Netanyahu Orders West Bank Closure as Attack Wounds Israelis before Election",
+         "url": "https://english.aawsat.com/node/5332586",
+         "outlet": "ASHARQ AL-AWSAT English",
+         "lean": null,
+         "published": "2026-10-23T06:05:24+00:00",
          "paywall": false
         }
        ],
        "related_more": 0,
-       "outlets": 6,
+       "outlets": 5,
        "paywall": false,
        "lean": "right",
-       "score": 13.42,
+       "score": 14.15,
        "tag": null,
        "upvotes": 0
       },
@@ -496,7 +382,97 @@
        "outlets": 2,
        "paywall": false,
        "lean": "left",
-       "score": 12.87,
+       "score": 12.86,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "‘Russian humanitarians’ fired missiles at Kyiv: Zelensky takes swipe at Witkoff over Putin praise",
+       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYWlxMXl1UXZsdVBXUmpLNW1VS0ZpZ0FIRmhzRzdZdk5WUnBwR21ncjR6NVNnbnR6VEpvYm40NGxCOF9LeGhCc1BxM0ZaTFpLQldfSV85YWVmbnU4S1pSZHppYVFHZ0Z0a2dfLWphOUdKeGFQcGl4S1VVYjl4MlcwVGNDV1hxbTBQNHk0VGRKb25rN19HVVFDUnVtSUJSdV9QdWVfMmU5ODYxTjB0LVd1X3JPVFRGbW1iQ2k4MVRQckV1Vl9fQ1BmQ1loUzhRRDRwM2tDcdIB2gFBVV95cUxOMzZnNFJxb1RVMERoMTdlVTZHVUdhYkhVT2ZuQjN5bUlEUGdqOGpZRG5acmRWUkc0SFVhQm1NTTJvY3FrVVBjVTRNQVZTQ085S3lqaW5uMHdFRng0bnFJdDIxZERjX3NLRUlVUXlGSmE5VEpMakVCbDNmam9aYmhkZ24xbHI1R29CcEVEdHVwRENpZWtzQlFMeFJPSm5yX2lVZGV3TGhNVnZEamVGeFFrRFNRQXNudkY0VGFEUmhWaHRKb1MtYjVObnhzVHhIekItSTdaRWNtbFQ4QQ?oc=5",
+       "outlet": "WION",
+       "kind": "news",
+       "published": "2026-10-22T18:01:00+00:00",
+       "snippet": "The president made the comment in an interview with ABC News two days after U.S. Envoy Steve Witkoff praised Vladimir Putin as \"a humanitarian.\" Hours later, Russia struck Kyiv with ballistic missiles and cluster munitions.",
+       "related": [
+        {
+         "title": "Zelensky mocks Steve Witkoff’s comment calling Putin a ‘humanitarian’",
+         "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV1k1eWZxSXZYaUlfVkw0ZWdqdGxDZTIzb3N4eEZtNFVsUGlXVm5TMHR2YjFjc0k2NkFLTzdrODZmdjRqdElSMXpCRFlFd09MLW9lR1B3SWotUExvUWhEV05Ob1VhcU00TjJkR0Q2NXViZXN0VFRrYmU5NW00Q3BCcXRnVGRXZG43aWs0ejBqd2RFUDFFTTRNZjVyVkZMRkYyQ2hoM0liWHBSc25JVmZqcU9oOEE2TGtqNFE?oc=5",
+         "outlet": "Washington Examiner",
+         "lean": "right",
+         "published": "2026-10-22T15:30:43+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Zelensky 'maybe not such a big humanitarian as Putin,' he quips as Ukraine's relations with Trump unravel",
+         "url": "https://kyivindependent.com/zelensky-maybe-not-such-a-big-humanitarian-as-putin-he-quips-as-ukraines-relations-with-trump-unravel/",
+         "outlet": "The Kyiv Independent",
+         "lean": null,
+         "published": "2026-10-24T02:28:06+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 3,
+       "paywall": false,
+       "lean": "right",
+       "score": 13.61,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Ukraine, Mideast War Drive Trump's Midterm Headache As US Oil Prices Surge",
+       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnVKTUJvcVA2Z1VZNVh2UFFEMm5JcXZ1R3pvSVNhZF9Ld2VlMUVaOW1GYU9LcG83S3F6S3lqMlE2MmdlbTZkM0JmVFZCU0dhMElNaDkwMl9TbjRydi1vOGVNbzB4dl9mZWZUT1dPenczUmthWklZQnJVVXp2YzZtNEdQZVpHRTA0VjFPemphVWo2alBhSF9nU3h0U0FxbTFXTmNuODRXdEgyYkkxQjNVelVNNNIBuwFBVV95cUxPMjBDdUQzUlFlWlZoWGpucUxzbmE5OW82bXh0QkJxVVlXZmlIaUI1Z2p6cGFselpFX2xiS3ZSUWJ6VjZNM09qZlVMT3N3cW1xMW92YWlvT0xiM3V2WTVuX1l4QTY0ek1lNFR3eG5OOWhyWFZVM2Y3clFSNVhWazRsWGtVVlJ5MzBpTDZUczk2dXFrQlVnTmFRUFJMRjJycGJmQkpwMDFkbUllSmxULVkwRFBfLU5SV2FVaHRz?oc=5",
+       "outlet": "NDTV",
+       "kind": "search",
+       "published": "2026-10-23T05:19:43+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "'Iran Doing Everything to Drive Up Oil Prices Ahead of Midterms': Trump Lashes Out at Tehran Regime",
+         "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQVDRILXViNE5tNWhfdjlvcEUzSlhUSXlqQ29FbkVVajhoeVNWTnhtbVBnOXJHSDRPZkVUT1Y0TWVWRHFMeHgzREVxSXMwZ2RDZUY0dDBVNkF1VUVVVHVwRnNvOHlQTHI5UU4yVXlsNzE4c0lBNzU5TFF0Mzd1RndSMnRkS2ZVSklaQ0xWdWIzUW1pQkRmejlDejFpTnVHRDdHbjlGYjdYalhsZ1htSzk1RmpnRld1NTkyUG1wbG5jOEluV1BHVDdSVzNFczFYVU9CSHRYWnNyQVAtM1FNMFNIVmpsLTVsMXdTWGxJ0gHwAUFVX3lxTFBMYVlZd25yRlkyV2V0QURrbnZtcER6Yk9Ha3JYWFVxUk1mLXhSdzlHdnJUVjBKbFlzS19md3ZwOGRLMjhBbnFDeDIyNV9zN1FuMXBxSnJoVE1TNE82cG9xUVZGVnBrSDV6MXdXTjI3d0QwaDh4d0FONnVlQ2ZEbEhUekRkel9lZGI4TVZUZGVEaVJ1Q19XRnNYZFFOVWlrZmM2OXdHdTdIaFYzNk93SmJfYWJ4czc3TG1FQm95Q2xYdENNX21iTFgwSGZpYlY3MDVLTGE4cEFabVk1SHp0OURBaDNOWTZfWEdEUnZVUDgycw?oc=5",
+         "outlet": "Republic",
+         "lean": "right",
+         "published": "2026-10-23T02:07:19+00:00",
+         "paywall": false
+        },
+        {
+         "title": "‘Fake hits, mines’ in Hormuz? Trump accuses Iran of driving up oil prices ahead of US midterms",
+         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQi1rc3VWek11UC1JcFFtUmVLblJFSUFPMEpzejRfN2NxeXF6REJfSFJkVFJTLUdRbGpYRGJMYUtjMEs5cEh4ZmNiX3pNNDNRdDlwRW9yTlA3MERKQUFCSXB4TE1YeGpZVEVmdG1LMU51d3JYSW9zZWhXbEl4bDlaT3ZiOHBhZWtRN1pBbndmR3ZpSEdSWmZZTmh3RjJRSEJGUm1oSFEwQlN0MHpQclEydno0Z29xSkFHTmI5ZWdYTUFDSVl0dVczd1M4R0FCSUXSAdQBQVVfeXFMTzZYd1JQLWNnMHdKbVpubmQzZy1QTVdpeFA1SnRodlpCUVBFbEliQVp6MXlDMHZOODVDSjh1dC1JTmlWMmM4akpiejRFLTd2LTUyQTRwRFRTMVpuV3I3QkN1dlMwQXUwS0tXOFZJckZiNDVFZk1TcGFvZW1RcmtqNVNzZkdqc2pLTlRkaHpUeFdRUjFJX2JSZ3FyaXJaemVuekwyaHRYZ3V0MGgxY1dMMV9Ta1hpTVZhNGFFTGZZRXNBQTNINldpVlQyYXBBZF9NM2FEWW4?oc=5",
+         "outlet": "WION",
+         "lean": "right",
+         "published": "2026-10-22T16:54:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Trump accuses Iran of pushing up oil prices ahead of US midterm elections",
+         "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPY2xGdEs2NW9adlBBRkdOcU1vV3kyVXg2ZDVacmlhcWk1Y3pQRkpSZXgwbk1CUm5rRlFmaWJGMFkyNURtZzIwejVJMTFHNUczUWpYR045dzBJal9SclQ3QTh6c1BQS21YdVFTWUViajdlcmNiS0xSbWFLbUppa1ppTjdITlFtUEpOQlBWRl9vNlA2eUFzUExqNVRLa0UtWm9r?oc=5",
+         "outlet": "energynews.pro",
+         "lean": null,
+         "published": "2026-10-23T11:32:44+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Trump claims Iran is 'faking hits' in Hormuz to drive up oil prices ahead of midterms",
+         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdUJtd20zUUlyMjlzR1VmSDdNS09rQWFVTG5Zai1STXBuVkJfNnhrSGxhQkVkTzZhczUxb1RibmJBamw2V2oyWVZyQ1FybzRMTlhxX0V4MF9EeU5SN3VkUXBJOXh5UHc0MHlPdHB1THBNdWVQeVo4bV9PMUpJcmFjWEdhYnFseTZGMklHeWQtOGZqTjF2eE1FVFdLaUFCZjc2WTBNdkZLR2djeW5sbHpMZ05oWGF5c01OMllTSEllclV1Y2tZQnU4dtIBzgFBVV95cUxNMm5VTEF3X3RQeWR5Xzg2dElrakRxUmpjeVB1Ym0wLUZWbGpxMlNhTGhpaDZ1SUx5UEF3U1dXUHVPT0FDNUJiU0dDcUFES2gyTzhqUmJ6aW5ybjdZclNhWmhXaDhxaVhJaEZacFlYd0NRa2RsbHJTUVNvXzE1N1RUdmhrX01kZF9XZjJ2SmdrVVFFQXhlVUpINGdjTG5ab01mWFhvclppbjJsbDNnaWEtREJvNmdkclZJMkVRNVh2NlBRVE12dTFHS0hnWlNWdw?oc=5",
+         "outlet": "Firstpost",
+         "lean": "right",
+         "published": "2026-10-23T05:13:54+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Trump: Iran is Trying to Drive Up Oil Prices Before Midterm Elections",
+         "url": "https://english.aawsat.com/node/5332443",
+         "outlet": "ASHARQ AL-AWSAT English",
+         "lean": null,
+         "published": "2026-10-22T16:14:05+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 6,
+       "paywall": false,
+       "lean": "left",
+       "score": 13.41,
        "tag": null,
        "upvotes": 0
       },
@@ -537,7 +513,7 @@
        "outlets": 4,
        "paywall": false,
        "lean": null,
-       "score": 12.66,
+       "score": 12.64,
        "tag": null,
        "upvotes": 0
       },
@@ -586,7 +562,72 @@
        "outlets": 5,
        "paywall": false,
        "lean": "left",
-       "score": 12.39,
+       "score": 12.37,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "India-China face-off continues near Arunachal’s Taksing, reveals ITBP chief in first official confirmation of tensions",
+       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPa2pUcndzdVlEbDBWZXJuM3dwaHNrbzdUV2JlNUJWalVRMHNMelVNcUhncFZZd0RCX2cwQmFrYkhYOXp2Y0lmbElUcVd3YnhtWVhBZVFTOXVEYU0wSnA3NFdiSG8tUl9CMU9rUnpWTjl6U211U0Vnc0RPY09vemtmNjVvX0d3TVg0bTdCNF82czJnVmRfTDREVkNJTi1MdUhkN3lrWjNXZXhiVFRRTDZXYm1rMmR5TGhzUVFTMUhIM1lfTHlrdVJOdWVqa1ZNM2xNT09aTTVMc3lQc2R6ck9FZ3Y5VmtqUWp5ZTlKM0dGeVRIUFNpX0hVbXIwT3BUbUp1eUQ1eXVCMTcycDBSMVpsVNIBlgJBVV95cUxQRnl3XzVpb3dXVVRrWWVXanNxTEJ3dTdLZkxOMHNOQ25ScXZzWXFmd01sYU1VZkZVNlIyS1A5OElqR1hpUFktZUlMZFFqVzdWcTJHQmpzY2xtMGtHNi1BSnNRZC1BMG84R3cySGxxaWJwbEF4QXBlU1JGLU84dkJSUkdULXJzR3Jsa1dXeEtYUXB1LXdCbmh2SGZFVE10VklWWTMtV0Z3S1ltWm1DcUlxcXQzXzF3Y1ZyWGJ1UVdrejBaUTV5RTdzMkJ1MUhVYXk1SFZoR1k2Z3hzZk8wSDIwc0t3MXplMkl6bzh2REZFdFE3d2JuUGNkXzBTUU05Vk1OWnpYMkw4QkZnc2JVY2xtWUtMLWZrZw?oc=5",
+       "outlet": "WION",
+       "kind": "news",
+       "published": "2026-10-23T03:36:00+00:00",
+       "snippet": "Reports of confrontations between Indian and Chinese troops in Arunachal Pradesh had emerged in July.",
+       "related": [
+        {
+         "title": "Face-off with China continues at several locations along Arunachal border: ITBP chief",
+         "url": "https://scroll.in/latest/1096596/face-off-with-china-continues-at-several-locations-along-arunachal-border-itbp?utm_source=rss&utm_medium=public",
+         "outlet": "Scroll",
+         "lean": "left",
+         "published": "2026-10-23T14:33:50+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Face-Offs with Chinese Troops Continue at Several Points in Arunachal, Says ITBP Chief",
+         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNM3RxOFU3VWRabERmd2JEVlZYLXhVMnpUOFN0dUlXeHM3Ykl2bW05ei1HZUJ4cUhmYWxEQ2s4MlpfR3huMkdLZjhya1I5SXFpejMzaXd6Um5CVHpiZTFpVWt5T1dKTVdHbTMxUUtka2tDYVVCZXhBMlJLZ09CS3JrVEx4MWpGNTRfYmZFUHl0ejZ0N0thY2x3V3NiSzZZREUzdnBTRklBd2Q0cnhlVm0xeUhxNm_SAccBQVVfeXFMTVpOclNMd3UwMTdnMmRhbUNqMDB1djRwZk9hWEcwYkwtWncwTFIwVHRrYld5bjBvNnVfSEVpa0J3ZGh3NkdjSXg4STBNTU9FVU9PcDk1cFVDVU9IQWFUd0h6S0ZIYXUtQ3BybDM4OTBDbU16eXJ5dDhqZWpVOTQ1WVBiVnpMckYxa09MOXh5ekpLZEtqNEx3M0x2d29nY3R2NkZMUkdqWHFZTFdtejR5YkhXVkhTRjBpY3l6Mm5xdEF5Yk5Za1Jpaw?oc=5",
+         "outlet": "The Wire",
+         "lean": "left",
+         "published": "2026-10-23T07:26:22+00:00",
+         "paywall": false
+        },
+        {
+         "title": "ITBP Chief Confirms Ongoing China Face-Offs In Arunachal, Flags New Shaurya Commando Unit",
+         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdi1jWUxSOURzdGZ6Q2FaRlR4NWFYREx4SFpSWlVxaHlPSVlPazFtckxfdzR5RmFTZ1F4RGV3aUNCT2Z5S0JTNWMtdE10ZFRIVDBtTnJOMFFsWkxldzhueGdDN3h0TlVKbWs2UWE5QlYtallVRkpoWjFCbXlaUUppSWFpYjNLZEdwS2t5NXdQYWw0amRZOVpMMGxYUGtyc201VzRUeTNJWG4tY1RORDFJTHItWEk1MXBrTWZj0gHIAUFVX3lxTFA0b2RUaW12WUd2a1NOUkhJQlBab0tFU21nTWpURXNiM2FtTFpMMVZfY1BkYkM0MHZub0tRU3pWcjNJUlBXTlRoQ1o4R3BNbXdINy1PV1FiOEQ1ZlFIeW14azBkSnUwamF3QmdRdkJmdEhpMkZ3WVV1NDh3OWRmZU5XVDY5bU51bHRFdjhrMWFlMHh6aEcxbzhCaUFkeGhSX2NtSTBqMFd3aXJXdlJKNUk4TVd0OS1DVjNrZTJYR25SQTBkOTRDNzVj?oc=5",
+         "outlet": "The Pioneer",
+         "lean": "right",
+         "published": "2026-10-23T05:42:56+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Row over ITBP chief's Arunachal 'face-off' remark, Congress questions govt",
+         "url": "https://www.hindustantimes.com/india-news/row-over-itbp-chiefs-face-off-in-arunachal-remarks-congress-questions-govt-101792732160301.html",
+         "outlet": "Hindustan Times",
+         "lean": "center",
+         "published": "2026-10-23T05:24:19+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Chinese troops pitch tents near LAC as face-offs continue, confirms Indian border police chief",
+         "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWmpVaTkxTEhDS2tNZWtJQWN5cGhNTFpPdnB5NEhOMi1MVi1wUERNby1GRlBrNzFqZ0k3VW80dzhWMnVKVmxwS25PQ3IwQ1kzZ0o4Z2UyS252ZDJRRkxIZEp0VVQyb2JwWXdzdnFRbmNSUlc0Z2NfQnRlUGY5b0hmOTFreVJSZHRoRkZ6MS16M1NWVWlNTHVEOEFvYkEtMmVBblVxN3F1eG0xTGtlZlZoeHZZMENWbkpySm1yYlBuNngzSXlsZWQya3JTNjFmTllBS0RheXB3ZkVkMGxiaHh6bzczRTdxS1U2QjhHUnJR0gHzAUFVX3lxTE1CT1VyS1BFVnNnUHNvS2lxUWg4cUpEeXRMNzhUVS1NckpIWkNLYjhxcTRDemduand5TVVWdzF2MVBlcHFMLXV3bnIyRVdFUl92anRVeXlfVVh6M0k4SlF1U2VqUWp6U3ZYeFBEUGFrbU40OGlPanBXOGhlM3JsclM4LXlRMi1uckgycmRVU0cxNDVDUzJ5Z2Y4Y3luNU1NTW1wbWM1OWFTYXVxbkM5X3pHSk1jQ1hGTTRLRVVBVm9JUWJBWkNOdFdtelZETTl3ZHh2OFdOejFPc0swME1YTkJYeE5zMVVGNXp4N2NqVzVubkRJZw?oc=5",
+         "outlet": "Firstpost",
+         "lean": "right",
+         "published": "2026-10-23T04:57:48+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Chinese troops pitch tents near LAC, face-offs with Indian forces continue, says Indo-Tibetan Border Police...",
+         "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQk9VcktQRVZzZ1Bzb0tpcVFoOHFKRHl0TDc4VFUtTXJKSFpDS2I4cXE0Q3pnbmp3eU1VVncxdjFQZXBxTC11d25yMkVXRVJfdmp0VXl5X1VYejNJOEpRdVNlalFqelN2WHhQRFBha21ONDhpT2pwVzhoZTNybHJTOC15UTItbnJIMnJkVVNHMTQ1Q1MyeWdmOGN5bjVNTU1tcG1jNTlhU2F1cW5DOV96R0pNY0NYRk00S0VVQVZvSVFiQVpDTnRXbXpWRE05d2R4djhXTnoxT3NLMDBNWE5CWHhOczFVRjV6eDdjalc1bm5ESWfSAfMBQVVfeXFMTUJPVXJLUEVWc2dQc29LaXFRaDhxSkR5dEw3OFRVLU1ySkhaQ0tiOHFxNEN6Z25qd3lNVVZ3MXYxUGVwcUwtdXducjJFV0VSX3ZqdFV5eV9VWHozSThKUXVTZWpRanpTdlh4UERQYWttTjQ4aU9qcFc4aGUzcmxyUzgteVEyLW5ySDJyZFVTRzE0NUNTMnlnZjhjeW41TU1NbXBtYzU5YVNhdXFuQzlfekdKTWNDWEZNNEtFVUFWb0lRYkFaQ050V216VkRNOXdkeHY4V056MU9zSzAwTVhOQlh4TnMxVUY1eng3Y2pXNW5uREln?oc=5",
+         "outlet": "Firstpost",
+         "lean": "right",
+         "published": "2026-10-23T04:57:48+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 6,
+       "paywall": false,
+       "lean": "right",
+       "score": 11.66,
        "tag": null,
        "upvotes": 0
       },
@@ -602,7 +643,7 @@
        "outlets": 1,
        "paywall": true,
        "lean": "center",
-       "score": 11.6,
+       "score": 11.59,
        "tag": null,
        "upvotes": 0
       },
@@ -618,32 +659,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "right",
-       "score": 11.52,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Trilateral peace talks with Russia, US negotiators to begin in November, Zelensky says",
-       "url": "https://kyivindependent.com/trilateral-peace-talks-with-russia-us-negotiators-to-begin-in-november-zelensky-says/",
-       "outlet": "The Kyiv Independent",
-       "kind": "new",
-       "published": "2026-10-23T19:45:30+00:00",
-       "snippet": "The peace discussions will begin at the technical level with negotiation teams, Zelensky said. If those efforts prove productive, then meetings between Zelensky, Russian President Vladimir Putin, and U.S. President Donald Trump will be held.",
-       "related": [
-        {
-         "title": "Zelensky: US, Ukraine, and Russia will hold trilateral talks in early November but it ‘all depends on the Russians’",
-         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOalJVLVc1Wk1ySFJ0LWZXalY5TEpibUhzS3hEWFVNeThocDBwLUJFTzJkLV82LUI4QW96RnZDV0U5emlhaUMtS01kZEZ2ZFQ0VWRDLWowQ19RNURYbmlXWEtxWm90M2ZvYUIzUGRIcm9fTFhuZDlOM1B6dmo2cjVnWUNYS2E1ZlhEa3dwNlhkMlRWY1ViM3Q5di0wakFjMEVCWFp4MnI4MVRuaXNVOHM0ZVhnQVJvVjZTSVNNOHNR?oc=5",
-         "outlet": "Washington Examiner",
-         "lean": "right",
-         "published": "2026-10-23T18:53:28+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 2,
-       "paywall": false,
-       "lean": null,
-       "score": 11.46,
+       "score": 11.51,
        "tag": null,
        "upvotes": 0
       }
@@ -677,7 +693,7 @@
        "outlets": 1,
        "paywall": true,
        "lean": "left",
-       "score": 12.87,
+       "score": 12.86,
        "tag": null,
        "upvotes": 0
       },
@@ -741,7 +757,7 @@
        "outlets": 1,
        "paywall": true,
        "lean": "left",
-       "score": 9.85,
+       "score": 9.84,
        "tag": null,
        "upvotes": 0
       }
@@ -750,7 +766,7 @@
      "leans": {
       "left": 7,
       "center": 2,
-      "right": 7
+      "right": 8
      }
     },
     {
@@ -850,7 +866,40 @@
        "outlets": 13,
        "paywall": false,
        "lean": null,
-       "score": 14.28,
+       "score": 14.27,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "'American workers first': Marco Rubio responds to Trump's H-1B visa curbs, says restrictions not aimed at Ind",
+       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPMjRBM3RMclZBR1FMaWpPMzFkdkk5OWMycEN1UEIwc2lNb1kzZlc2REw1QVBnS0t2Zk9oX3BRMW9zYW1BbzNwZFhmZ2c5VjgxWURMc1BQdzlVRTNaSXFseUNWeUJkeURsS0NCWjd0ZUkyNzFSdVBLSU5WamMwcHRKbTZXU1dQeVZ6aC1yZzVJNDhyeHl0NWtPdlVrdTFMbWxva3dEblpIc0RFcG85ZFFKcDl6d1VOSVlCNkZnVXc3Uml1NGFrNnFfbER3MjhyQS1CMG9CazRRbXpocExNdTRTSkg5NHdtd1N3SS1nOEU3YVg0VzNOanfSAfsBQVVfeXFMUE5MVjBoSXFRWHVLS3hiQ1dYZTVSdC0yQTJFLWdvbXFURHgwVkp3MmR3SXZ6UFF6bjZwdEZwRzEyTUtqUmRuZVZRUm1qVWo5NEt0QUNqbS1JLVBMbjd0czB5d20tYkMzaTlzX1o1eU9iQzhBZzVCaXk2QWMwSWhGRWJ3QV9mRUtOdlBYS0ppU3RrS1UwLVpjeWY4S05VUUU3RFdGNDNGSmdvckpvZ0pmUmplQmY4NElyZ1NBR0IyYzJQYWZSWFlIaTRJTGI4b2owWTNDdHlVNnE5X0poZldoY3VtSlZRUGQ2LWdPY3BmM0JPYldNWGNwRFJiM0E?oc=5",
+       "outlet": "India.com",
+       "kind": "search",
+       "published": "2026-10-23T01:59:10+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "Marco Rubio India visit",
+         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9oZHBKSFBjNHlFMEM2RXlmZ0pIX1VJREs3ZXN2VlZZS3RHOEFEdXl4Yml4ZWxZX0NLdHFKdm55S1VjNkNWNk9QRjJzLWFOTjlreURRcGd0VEtMTkRMV09HOThGZFE?oc=5",
+         "outlet": "The Pioneer",
+         "lean": "right",
+         "published": "2026-10-23T22:38:57+00:00",
+         "paywall": false
+        },
+        {
+         "title": "'Not Aimed at India': Marco Rubio Defends Changes to US Work Visa Rules, Says Aim Is to Put 'America First'",
+         "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNOTY1QlJGWENQZmdEbE1mM0JRa0VGQnVBUEEtVDFseHhvd04wTGJsem5qUlVTM1kzOFkxdVQ1YlVNX3ZGRkFLOFdhMFJZY21laWh6a3F2OUtzQng2bzl5YXpDUHJYNnRFNXhVUkRuZU04UVBRb0JwOHNndVZ4ZjFJbVNHaXYydUg4TG15Ny12NlRtYTV0enA5ZEhSbjJhS2xWV1c3ZGpXVENpNWhvWXpDRW44NFI1ZTZRdURiZk13Z292OEVMTURwSXJQZ012cmtZVklJdm55YXJuVGdDTl9ad2FpdDBpT3FiZVcwRkZHNEFkZ9IB9wFBVV95cUxQVzczbEJZQXJSREpIMDFmTUNXVHUwWFV4MEFJMTVVOWgzNlBBYzQ5SWJidTNtSFctVUNpUWJPRUJJY2tudHBpZ2tKYm1JMFRWYjhLVXNqNXltUGV2ZVh4ZEFUalNmM0hOb1NFWG5VMzJUVTcwRG4ycWVGcFRqU000cFpKeHZvYm9PN2ZtY29BYlloZ3MtNm1XRXBUY3Q1eWJNd2ZmcFRVQ1hIX1ZNbkhiX2Jac3gzcHI0NmNQWVJDUTcyblZPM1F3YWFMSFBqTlhiUWh1d3YwN1lhMlphdVhKWVRhQXBUblNxZmFMRVJxNTJvWE9JM1Jz?oc=5",
+         "outlet": "Republic",
+         "lean": "right",
+         "published": "2026-10-23T03:59:02+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 3,
+       "paywall": false,
+       "lean": null,
+       "score": 12.3,
        "tag": null,
        "upvotes": 0
       },
@@ -883,7 +932,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": null,
-       "score": 11.31,
+       "score": 11.3,
        "tag": null,
        "upvotes": 0
       },
@@ -899,7 +948,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.97,
+       "score": 10.95,
        "tag": null,
        "upvotes": 0
       },
@@ -924,7 +973,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": "right",
-       "score": 10.79,
+       "score": 10.78,
        "tag": null,
        "upvotes": 0
       },
@@ -940,7 +989,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.48,
+       "score": 10.46,
        "tag": null,
        "upvotes": 0
       },
@@ -956,7 +1005,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.17,
+       "score": 10.16,
        "tag": null,
        "upvotes": 0
       },
@@ -972,7 +1021,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 9.97,
+       "score": 9.95,
        "tag": null,
        "upvotes": 0
       },
@@ -988,7 +1037,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.94,
+       "score": 9.92,
        "tag": null,
        "upvotes": 0
       },
@@ -1004,23 +1053,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.62,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Cuban family with I-220A attends ICE appointment fearing deportation and receives a court date for 2028",
-       "url": "https://en.cibercuba.com/noticias/2026-10-23-u1-e208933-s27061-nid343563-familia-cubana-220a-acude-cita-ice-temiendo-ser",
-       "outlet": "CiberCuba",
-       "kind": "new",
-       "published": "2026-10-23T09:19:25+00:00",
-       "snippet": "A Cuban family with I-220A shares their appointment with ICE in Orlando: they received a migration hearing scheduled for 2028, a new follow-up appointment, and documents that, according to the woman, could assist her in future immigration…",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 9.55,
+       "score": 9.6,
        "tag": null,
        "upvotes": 0
       },
@@ -1036,7 +1069,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.44,
+       "score": 9.42,
        "tag": null,
        "upvotes": 0
       },
@@ -1052,7 +1085,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.32,
+       "score": 9.3,
        "tag": null,
        "upvotes": 0
       }
@@ -1102,7 +1135,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "right",
-       "score": 8.83,
+       "score": 8.82,
        "tag": null,
        "upvotes": 0
       },
@@ -1118,7 +1151,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 8.56,
+       "score": 8.55,
        "tag": null,
        "upvotes": 0
       },
@@ -1134,7 +1167,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 8.37,
+       "score": 8.36,
        "tag": null,
        "upvotes": 0
       },
@@ -1150,7 +1183,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 7.77,
+       "score": 7.76,
        "tag": null,
        "upvotes": 0
       }
@@ -1187,7 +1220,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": "center",
-       "score": 15.31,
+       "score": 15.3,
        "tag": null,
        "upvotes": 0
       },
@@ -1244,7 +1277,7 @@
        "outlets": 6,
        "paywall": false,
        "lean": "left",
-       "score": 14.55,
+       "score": 14.54,
        "tag": null,
        "upvotes": 0
       },
@@ -1260,7 +1293,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 13.9,
+       "score": 13.88,
        "tag": null,
        "upvotes": 0
       },
@@ -1276,7 +1309,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "right",
-       "score": 13.84,
+       "score": 13.82,
        "tag": null,
        "upvotes": 0
       },
@@ -1292,7 +1325,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 13.83,
+       "score": 13.82,
        "tag": null,
        "upvotes": 0
       },
@@ -1325,7 +1358,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": "center",
-       "score": 12.51,
+       "score": 12.49,
        "tag": null,
        "upvotes": 0
       },
@@ -1350,7 +1383,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": "left",
-       "score": 12.02,
+       "score": 12.0,
        "tag": null,
        "upvotes": 0
       },
@@ -1366,7 +1399,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 11.97,
+       "score": 11.96,
        "tag": null,
        "upvotes": 0
       },
@@ -1382,7 +1415,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "right",
-       "score": 11.04,
+       "score": 11.03,
        "tag": null,
        "upvotes": 0
       },
@@ -1398,7 +1431,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "left",
-       "score": 11.77,
+       "score": 11.76,
        "tag": null,
        "upvotes": 0
       },
@@ -1423,7 +1456,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": "center",
-       "score": 11.61,
+       "score": 11.6,
        "tag": null,
        "upvotes": 0
       },
@@ -1439,7 +1472,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 11.38,
+       "score": 11.37,
        "tag": null,
        "upvotes": 0
       }
@@ -1473,7 +1506,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 3.74,
+       "score": 3.73,
        "tag": null,
        "upvotes": 0
       }
@@ -1505,11 +1538,11 @@
        "snippet": "",
        "related": [
         {
-         "title": "Gold and silver plunge as oil rally fuels inflation fears and Fed rate hike bets",
-         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0xZWERqaUUtczVyenlHT3VEeVktR2t3RUtvM1Bna29WYnhySUNZN1Vibkd4RzBqRjlWRlhGZlVSZzNWSE4tbmJESGtHbjZHejdyVm93WXpBWjFzU0JiYThYTWpSM0wtVlN4SzBTN2hPaVNYZFYzYjl6U3NDR18yNGIyci1UX05rWmJTS3dnODNzZzhpamZaSGdFaWFwNUFOTXhhY2xQOEV2RElXQlhLQmFiaGs4TnduU1Z2bTR6YWdBT2tfT2R3SHIzQmRpTHM?oc=5",
-         "outlet": "Economies.com",
+         "title": "Gold eyes weekly loss of over 3% as Fed interest rate decision looms",
+         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQTVjU1hSdWdxNkxCVWc1OWZyR1VTZE1WbGdiblo0UW01bG5vYU9Sanh5NG1zQnlsZG5aM2UzdjdqR0xjSHRHUEE3cF82UGd1em1jNkgzNmhIeW9pQUtaVDRzejl1NUtZUUZicUpXWlVKcEt3NXF3OHdUbXRLSG1ZaWdib21WQmhMOVpDMXdjV2VIN0FrN1JhRmVSVUNsVHdzWkE?oc=5",
+         "outlet": "FXStreet",
          "lean": null,
-         "published": "2026-10-23T14:00:00+00:00",
+         "published": "2026-10-23T16:16:50+00:00",
          "paywall": false
         },
         {
@@ -1541,48 +1574,40 @@
        "outlets": 5,
        "paywall": false,
        "lean": null,
-       "score": 12.72,
+       "score": 12.71,
        "tag": null,
        "upvotes": 0
       },
       {
-       "title": "Fed rate hike odds drop below 20% amid weak U.S. housing and steady inflation signals",
-       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbE9wWXZTZldpS093UVpZaTd1TnBIUko4UXRBTjNGdUtMdExWbmNhNkhFdmdWRXhhUmRqVEVvNkpLbk9zZms0RE84T3J3TEVwUnR4UV9HZk5UWFUycTBodUJwM0ZxZUJPdkRIMzF1M1Y5aFFoM1ByUDBjckU1T19xR01RT3dGU1ZYeEhBbDVCOXVVTE1PanhaMUgyZDF4Q1o4NUpN?oc=5",
+       "title": "Unexpected Fed rate hike in October could shake Bitcoin more than a December increase.",
+       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkVuOHBSdlJ3dDVmbF9sV2Ntbm5FQUJySXlEbTBpYmhONlhKU3VlSnc1djRuZmtIemlWY2VwRlZrT1RrTW9iREUzSFdMb0VOcWRMb0EwOW1fdFhZR2lwbFBLWGxucFVicTNUbkh6TDd1di1RR3BWb24ycDU1YTBJZjN1NGVUY01saGtpdEFlOXA4dzVIeEhfM0p4S1BFQUdZM0FBbDd0dlZlX3ZLY1hwbg?oc=5",
        "outlet": "Pluang",
        "kind": "search",
-       "published": "2026-10-24T02:06:37+00:00",
+       "published": "2026-10-24T02:34:21+00:00",
        "snippet": "",
        "related": [
         {
-         "title": "Bitcoin Price Slides After Fed Holds Interest Rates Steady, Rate Hike Odds Rise",
-         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVXlrOGJQQ2I4WnJWeThMMXdxTGFNZGNsUHZwXzNEVU1Ib0Q1bklSb0w2cC0zcjZyaU9LeGtPeWRXTUxMWW03dkRjZjhuRTY2UVdEMGk3SHZhNmROcUNDSml6Zm1zRHlpX2d5Z1FmWUNoWXIxS1hROFB4V1RiZHpKOVZfNkRVYm5JTGtlMDUzR3VqRnFuQUJ3?oc=5",
-         "outlet": "CoinMarketCap",
+         "title": "Fed Rates: Traders Price 92% Chance of October Hold, With a December Hike Next",
+         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWdMdk9wbXZOZ3NjYlJVVUNnTTlyTVdkSEVLaTdIRk5FcFhpbC0zY0tYZnp2X3l0bWY4OHpfRnBSbFBmYlNZNHBmeG80bkxleGVMSW1uVV9fdHFQeXI0NHhwQkNwSjFfaUxnY2ZHdUlqbVp4UHJ6TnVtek01eEtTT2dmU0lXbWtYU0l0OEpXNzV0Rm9ZUndjYnlocVA3ZEd2Z3d3VEt2aUQ1WVFKWkxYcTRvaw?oc=5",
+         "outlet": "Action Network",
          "lean": null,
-         "published": "2026-10-22T23:08:56+00:00",
+         "published": "2026-10-23T11:00:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Economists unanimously expect Fed rate hike in December",
+         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRWJjU3JpcW9jamYxQU1QUEpSSHVfM1EyVVJkdlpUajZqcDQ3WjYtOU9tREthckRhMW9QMkNXZWlhQ2cybzhZaFdlNExDTGJUVzgzbGZRbEY5U3RUR3lXczYxVUtxM00zQk5XWllVdHpHajZVd3ppN2h6RTMwNGRORkgxVG5DQVdDR0xtQ1hfNm0xS1lITEE5OGppeEp1SHVBTjhV?oc=5",
+         "outlet": "www.malaysiasun.com",
+         "lean": null,
+         "published": "2026-10-22T22:51:00+00:00",
          "paywall": false
         }
        ],
        "related_more": 0,
-       "outlets": 2,
+       "outlets": 3,
        "paywall": false,
        "lean": null,
-       "score": 11.99,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "ECB Consumer Expectations Survey results – September 2026",
-       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
-       "outlet": "ECB",
-       "kind": "official",
-       "published": "2026-10-23T08:00:00+00:00",
-       "snippet": "",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 11.61,
+       "score": 12.62,
        "tag": null,
        "upvotes": 0
       },
@@ -1595,6 +1620,22 @@
        "snippet": "",
        "related": [
         {
+         "title": "Banks Pass On 93 Bps Rate Cut, Lagging RBI's 125 Bps Reduction",
+         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZDdDNHFhTlF5bGtYV2FYS3RBdmlCdTZGWTV4akdaUHhBclo0VXhFZWpZNEVLZTBrNDRwUWZwNjBEODQyOERuSlBrMVRPNmV3MkRXV09TRndra1BEWFpnWDN2RmdxbUpoQWFmZkxMMjlkT3FNclJJTE9HY0otNEdjTTZMR0RJYjM2LWR2UHE2b1dhZ3p2RWpTblEwd0dwU2JFOFRHX191cmJaTWfSAbABQVVfeXFMTVktc3dreXZkX2s0T1B4WUczQkdEYndEYWE5XzFlQWIxRlNJRDdHa09QTVZENDh0TktuaUJxTV9vbmh6S2tLR1BjN1VXMHlnZDlvOThXUlQyWjVXeXJqaW5ibU5KMVVGX21KbE5pclRZZlM5RVV1cTgzOHB1Z01WRk82VHlmSjVTRUtsbzR3YjBjVlpjMzllUi0xZ2U4emVORXMwOGpneFZFM0hJOUpscm8?oc=5",
+         "outlet": "Lokmat Times",
+         "lean": null,
+         "published": "2026-10-23T13:57:10+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Banks Transmit 93 bps Lending Rate Cuts Amid RBI Policy Rate Changes",
+         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb1FmNXJPd3JlSWZnZTlCMWlpb0hFOGl1QW1XYTZIMG01WklBYmlrUVZxczlJN29LN2JmUU93M1RmOTNKSzU4Uzg3aU5mbGttbWQwYkszaVI0R1B5SS04S1c2bUVhSUlQeGhCQklsZzRYNTlnYmMwSk1LdHdabVRVUHNzVUhjSXFHTlVSdlpDeWJBWkhvMDFscjNjTkZLSmp1OG1YWXl6QmtVQmZyeUxRR1FxVXBIN3FSelljWEFqU25MeDZHWEpkZVRpM2hZS1nSAc8BQVVfeXFMT29RZjVyT3dyZUlmZ2U5QjFpaW9IRThpdUFtV2E2SDBtNVpJQWJpa1FWcXM5STdvSzdiZlFPdzNUZjkzSks1OFM4N2lOZmxrbW1kMGJLM2lSNEdQeUktOEtXNm1FYUlJUHhoQkJJbGc0WDU5Z2JjMEpNS3R3Wm1UVVBzc1VIY0lxR05VUnZaQ3liQVpIbzAxbHIzY05GS0pqdThtWFl5ekJrVUJmcnlMUUdRcVVwSDdxUnpZY1hBalNuTHg2R1hKZGVUaTNoWUtZ?oc=5",
+         "outlet": "Asianet Newsable",
+         "lean": null,
+         "published": "2026-10-23T13:51:23+00:00",
+         "paywall": false
+        },
+        {
          "title": "Banks pass on 93 bps rate cut to borrowers against RBI's 125 bps repo reduction: RBI Bulletin",
          "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMS1ScDFxSGoxU2dJQ2g2RmVWM0VGNTdZOUJkVEJvREpQS2FIaFpWYU9mQU9qVnFFS3pUcHFkTlVLLWJQdzVFY3ljTlB3OGNQRm90aGUxY2paSXZuVUhOWVNIc1loaDhXX3gzdkwxS2lmZDZRNFhNSWZyaTYxQ3hBTU5na3JHUVhsVjJKUVJTcXhxU0dqTW9WRzJ2U1FyRU0tcVQ0bHlUc1QtS1dzdF92b3YwYVhsdi1tNmRPUWRkVWt5ZHBfSThMRkRDY1NEdXBzdEFQMXVPUVltUQ?oc=5",
          "outlet": "ANI News",
@@ -1604,7 +1645,7 @@
         },
         {
          "title": "The RBI’s October pivot is beyond the 25 bps repo rate hike",
-         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0lvNUZVeE9acmdZejg0dWpZVkJCY05obFVkQ1pzejlmaU52bnJmYWZiam5YLXB0UFN1SUxzbFA2WEU2dVdTVlJEVlhtelNyUUdsRW4zT1pzVy15S0ROQWx6Yzh0OU1vLUxnWlk2WWlZa1RnVVowRWhVcjJaUE9TZld5ZWRHbnRWaWpsWkF6aFVWQnRVT3VQQTYya3c3eElBam5MSjF5ZXZxei1MSnFrbjE0QnBTUdIBuwFBVV95cUxQSWEwQkpxX2hZZVgyVk1YOGZPal9nUXZUU0g0ZzVhRzloWU11aFlMSWM5dnhFdTRib0oxMGJvVzZUMU9iR2ZMVzJ1UXV6SzBNQzlQVzFHUHdoTFlLOTZyRVl2Rjkxcnh2RTdTYzhfWDFmUU5rSDhnVzl3cTNNVkdmVUR1TWRZNFR2eUptQ2NWTlFHQWVoeXBvSUVSX1NKcGlyeVA2QVdNYm9ZWC11OUxzNWpBQVp2SVNxZXlF?oc=5",
+         "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWEwQkpxX2hZZVgyVk1YOGZPal9nUXZUU0g0ZzVhRzloWU11aFlMSWM5dnhFdTRib0oxMGJvVzZUMU9iR2ZMVzJ1UXV6SzBNQzlQVzFHUHdoTFlLOTZyRVl2Rjkxcnh2RTdTYzhfWDFmUU5rSDhnVzl3cTNNVkdmVUR1TWRZNFR2eUptQ2NWTlFHQWVoeXBvSUVSX1NKcGlyeVA2QVdNYm9ZWC11OUxzNWpBQVp2SVNxZXlF0gG7AUFVX3lxTFBJYTBCSnFfaFllWDJWTVg4Zk9qX2dRdlRTSDRnNWFHOWhZTXVoWUxJYzl2eEV1NGJvSjEwYm9XNlQxT2JHZkxXMnVRdXpLME1DOVBXMUdQd2hMWUs5NnJFWXZGOTFyeHZFN1NjOF9YMWZRTmtIOGdXOXdxM01WR2ZVRHVNZFk0VHZ5Sm1DY1ZOUUdBZWh5cG9JRVJfU0pwaXJ5UDZBV01ib1lYLXU5THM1akFBWnZJU3FleUU?oc=5",
          "outlet": "Moneycontrol.com",
          "lean": "center",
          "published": "2026-10-23T05:59:33+00:00",
@@ -1612,19 +1653,19 @@
         }
        ],
        "related_more": 0,
-       "outlets": 3,
+       "outlets": 5,
        "paywall": false,
        "lean": null,
-       "score": 11.6,
+       "score": 12.36,
        "tag": null,
        "upvotes": 0
       },
       {
-       "title": "Japan inflation accelerates, paving way for rate hike",
-       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUR5SzVJczFZVHFyRTR5NjNYelFxY3ktekpVdHpsbEhGMW1BVGx2X1F6MElGdXZ2TWNFbklNbmFjdlUta294bE0tMFkzNU5oSWpwYkJfUGt6VzFaVGM0aElBVWVTREJzZHBRcDd5NHdUTWtxa25FQk5pSm9ONVJuODlKVzY?oc=5",
-       "outlet": "RTE.ie",
+       "title": "Japan Core Inflation Hits 2.1% in September, Cementing Bank of Japan Rate Hike Bets",
+       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbk1iX21mMXNPYU5LbHJUYmFwWEtnQ0dTZVZTRnRqeGd1OE1keU1Nal84azRISk1zTHhZQWFkb3hXYWhiVFg3MEhXRTVOcF9kYmhpMmdxblVoa0Fra3RjZzM4S1I1SUlWWW9iX0NveGtkSnM0ZWhVYWxfam9vUEZIQks3dGZ2aTlfeUt0R3pmd0dGTUxkYjJFX2RJM0Fpa0kyeGUtR1FpNFgySTFvcWI2Q1ZULVlOUQ?oc=5",
+       "outlet": "https://streamlinefeed.co.ke/",
        "kind": "search",
-       "published": "2026-10-23T06:10:08+00:00",
+       "published": "2026-10-23T10:54:10+00:00",
        "snippet": "",
        "related": [
         {
@@ -1634,6 +1675,14 @@
          "lean": "center",
          "published": "2026-10-23T02:22:00+00:00",
          "paywall": true
+        },
+        {
+         "title": "Japan inflation accelerates, paving way for rate hike",
+         "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUR5SzVJczFZVHFyRTR5NjNYelFxY3ktekpVdHpsbEhGMW1BVGx2X1F6MElGdXZ2TWNFbklNbmFjdlUta294bE0tMFkzNU5oSWpwYkJfUGt6VzFaVGM0aElBVWVTREJzZHBRcDd5NHdUTWtxa25FQk5pSm9ONVJuODlKVzY?oc=5",
+         "outlet": "RTE.ie",
+         "lean": null,
+         "published": "2026-10-23T06:10:08+00:00",
+         "paywall": false
         },
         {
          "title": "Japan’s inflation accelerates, paving way for interest rate hike",
@@ -1653,10 +1702,26 @@
         }
        ],
        "related_more": 0,
-       "outlets": 4,
+       "outlets": 5,
        "paywall": false,
        "lean": null,
-       "score": 11.37,
+       "score": 12.08,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "ECB Consumer Expectations Survey results – September 2026",
+       "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+       "outlet": "ECB",
+       "kind": "official",
+       "published": "2026-10-23T08:00:00+00:00",
+       "snippet": "",
+       "related": [],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 11.61,
        "tag": null,
        "upvotes": 0
       },
@@ -1681,23 +1746,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": "center",
-       "score": 11.31,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Unexpected Fed rate hike in October could shake Bitcoin more than a December increase.",
-       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTkVuOHBSdlJ3dDVmbF9sV2Ntbm5FQUJySXlEbTBpYmhONlhKU3VlSnc1djRuZmtIemlWY2VwRlZrT1RrTW9iREUzSFdMb0VOcWRMb0EwOW1fdFhZR2lwbFBLWGxucFVicTNUbkh6TDd1di1RR3BWb24ycDU1YTBJZjN1NGVUY01saGtpdEFlOXA4dzVIeEhfM0p4S1BFQUdZM0FBbDd0dlZlX3ZLY1hwbg?oc=5",
-       "outlet": "Pluang",
-       "kind": "search",
-       "published": "2026-10-24T02:34:21+00:00",
-       "snippet": "",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 10.99,
+       "score": 11.3,
        "tag": null,
        "upvotes": 0
       },
@@ -1708,12 +1757,128 @@
        "kind": "search",
        "published": "2026-10-23T16:15:56+00:00",
        "snippet": "",
+       "related": [
+        {
+         "title": "Swiss Franc retreats as markets turn to Fed's interest rate decision",
+         "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMDkyeDJrWWZOLWh1U0k3M08xdWJkbDRmaWdSQnpuY2lIVjZIODI3ZnNQZGZHdklZcGFOUE4xa3pRb1dsTlpEandRZEpfZWtKSGxrVTJOd2w4bms5V3dtSjRVd2JCZGRoRU1SMENoZ2hkakRMQmRDcWdvUUpnQUJBZHNTUW9mWGt4cEVLajFqRkhUZm9IdHBIbzVZNWFNSkx0WDE3a2J2bU1KWThHTUR4N2M4ZVFsblBmYlhXYg?oc=5",
+         "outlet": "FXStreet",
+         "lean": null,
+         "published": "2026-10-23T16:13:58+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 2,
+       "paywall": false,
+       "lean": null,
+       "score": 11.16,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Gold and silver plunge as oil rally fuels inflation fears and Fed rate hike bets",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN0xZWERqaUUtczVyenlHT3VEeVktR2t3RUtvM1Bna29WYnhySUNZN1Vibkd4RzBqRjlWRlhGZlVSZzNWSE4tbmJESGtHbjZHejdyVm93WXpBWjFzU0JiYThYTWpSM0wtVlN4SzBTN2hPaVNYZFYzYjl6U3NDR18yNGIyci1UX05rWmJTS3dnODNzZzhpamZaSGdFaWFwNUFOTXhhY2xQOEV2RElXQlhLQmFiaGs4TnduU1Z2bTR6YWdBT2tfT2R3SHIzQmRpTHM?oc=5",
+       "outlet": "Economies.com",
+       "kind": "search",
+       "published": "2026-10-23T14:00:00+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "Silver hits three-month low with 5% slide as bets on Fed rate hike mount",
+         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZXhOeUNXc0pEUERpaU5weTR2OXBqQmpHclVkUl9MdkE2RlhSZ2FScE9ZRGJlMmVfSWQzd3BpZFltQTZaaGJmZ29ITUV3NzEwWDhsdDBDUW52bWRjaTE4VnUzVE13SnZZZTIzN25Uc0pyb3NSOE1sS016UUpDY0pVaWlNYTRZYkpPMzRsWkpxWWRidE9SQm5CWlFtRTM5M2VEbTUzbjJEaU9PN19BdGc0eUdMSFZUQ0hQOWVpWDJhb2ppcDY0UzU3ZlBYVzRCYlkxcHc?oc=5",
+         "outlet": "www.tmgm.com",
+         "lean": null,
+         "published": "2026-10-22T17:25:54+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Stronger Fed rate hike bets drive silver down 5% to three-month low",
+         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcWFaLTdoNmRHc3RmRjNqZGRMNUdPZnU1a0pIMGpJaW90V2NjSmVkYk1DS29pX1BEVnVmS3VsOWxQeGdYNFoteFFTaVJ4SlZfZzkzMW5xdnBJakxaQlBFVjVkeEg1OF84enVmRnQ4YmJrQ1EtN0hLV19pTm5GV1lhMlpFUE8zQ3ZnRUxBT3ZwUVhOTGxoanNtUUJTczI3RVZIUTBRanlpREZYOXlybU9NdjZldXo5aklCbld2c2pOZnV6RFRwS3FwaU1SdUlOZFE0VkE?oc=5",
+         "outlet": "www.tmgm.com",
+         "lean": null,
+         "published": "2026-10-22T16:46:12+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 2,
+       "paywall": false,
+       "lean": null,
+       "score": 10.97,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Fed rate hike odds drop below 20% amid weak U.S. housing and steady inflation signals",
+       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbE9wWXZTZldpS093UVpZaTd1TnBIUko4UXRBTjNGdUtMdExWbmNhNkhFdmdWRXhhUmRqVEVvNkpLbk9zZms0RE84T3J3TEVwUnR4UV9HZk5UWFUycTBodUJwM0ZxZUJPdkRIMzF1M1Y5aFFoM1ByUDBjckU1T19xR01RT3dGU1ZYeEhBbDVCOXVVTE1PanhaMUgyZDF4Q1o4NUpN?oc=5",
+       "outlet": "Pluang",
+       "kind": "search",
+       "published": "2026-10-24T02:06:37+00:00",
+       "snippet": "",
        "related": [],
        "related_more": 0,
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.13,
+       "score": 10.94,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Why is US Stock Market Down Today? Dow Jones Slips 500 Points, S&P 500 Falls 0.24%, Nasdaq Climbs 0.13% as SpaceX Rally, AI Demand & Fed Rate Hike Ahead of Big Tech Earnings — Check Latest Updates",
+       "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPOTdPNWV1TzJaOXA0Q0tOTVVIN1JZcUxubUI0cnFyTXo5SC1kVUVBOUY3U0FPQWZic3Jaa0xRU2x3c3E1TVNhOHJ5Z2ZDR2RVQ2Ftek5DQnhwOEtDYkdRa3hrcFh1MzFweVJhUFQ5dUVyYUpwanM5cEV5WG1ZZHc1eFBLYXBXRjF0WXFsYWxwVWFTUDVtU0lQeEJNdDNoemc3ellVOElXQ0pmMjdrblVuUlFzRWIwamZoUjVEZE9ueWhWNlZIbk00WW1MNW04bUFpU09PYUxBWkhHbjNlMFNjTW0yUjVBbFFFaUU4X3JtN1owT1lfWlYzei1DeUZ3T3lSY2o2YWFhbUhJQlZpX3BQT3R6SGhNWkhrYmZhbWwzcUc5bTBOTVN6Z0xlcDNydWhGNDlyR1NBWlRZaVRTWWo2cEc1OV9EbVM2dkNYMEN6ckfSAdYCQVVfeXFMUFd4WkdGTy1LQ2VFdXRYOGc3STliVE1Jci1vejdyUlhva25fMVQ2d2E2NVhtRThFSzRlY0hWbUNDQnJVZ09zZTBFdlBBLTViZ2ROTWdtZlRvdUhpRlo5SllyNmR3RjNwak8xelAwSzdEbmRqekNBNDZSRDVtRUNkX2hJaE5ZNlpLRTdaV25sSUhKRlZEd2hlN2ZERmllcHVkWnVYcHRTLVNRYWNBNDVzdlFGblowaW5XRXpNVmlXc05ueXZvU3NOb0pTeDRsZ0FpVzdhVFM1a3BtV2N3UWtQekp6dnIzSWV1Tk4weDRPRkFTVVVGc1RBWW9nc3VBSzc0UDU0U1pIcUFWaTBmUkxpZzJnbE8xVm1yc2ZlVFlxTTNnZHFGWGl3ME9VYzVmcDdDaXh4RWEyVWVRbWl4Sk1CbHdIMjRmNTctWUhaS084THBpNHhwZkpB?oc=5",
+       "outlet": "The Sunday Guardian",
+       "kind": "search",
+       "published": "2026-10-23T16:58:50+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "Why is US Stock Market Down Today? Dow Jones Slips 200 Points, S&P 500 Falls 1.25%, Nasdaq Climbs 1.04% as SpaceX Rally, AI Demand & Fed Rate Hike Ahead of Big Tech Earnings — Check Latest Updates",
+         "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxPaDFRUVBra1duT1NfZlkybm8ybmJfUlQwdFMwa0E1eXNGMDdjaTNYZjhfVGdvMGhyZVdoZDNTQ1ZEX09BRlNnT2xIYWFKSm9zNk0tSnlldjA2THl2M0pFQmdERkJHU3MwTG9Obm9fTjhFSG4tMWRkeGhMb0JLbkRvQTdTUzN1SFR6WW92UHJoVWhid01aU2FRMHNmdFRNLUIwQ2VjVmRRd2tBZ0Z3LVVIRlUta3l0NU9LbFZEaXBFbjhxZDdlQ21lajdPcnRrZ2NKYmxVdUIxd0U4YjBJcVdRRkZuVEY5b3daazllUGM4SmVMYmNoN2ZfcmZXRElaNkxienplRktNTUFOSFRfSEtWTjVCclJrcXAzRl9fSUdNTWpBMGxNWHBzZmtXZWRsNWtTVEc0ZWpJRGFMdmdsWDZ2LURmY291ZzJ2VDJvVDJGZmjSAdYCQVVfeXFMTldpV2dHX1VJLXNKZGc1MVNwb2ZTRFQ4UUxBUTU1V2wyLS1fZDQ0OVh0bGNiXzMxVkp5ak54cG9Kckl3Vkk0ZFhkN280eE0wY3FuTEtteERwcy1yOVhabHZ2TXVrLXN4OXRYenBqeUswUGtaNjlJQmg3aktVQVhqU3l3c19HU2IwNXFhaVZtaGRuRGNyOGZWSXhhaFRvZnBITWlmbHgyaEN3MDNBdzN4SDhoZFl2dlFOYXBYODBTRlJKWnI3d1c0NVZJNFA0cUY3WEZoWlRuUFFSUnFrczVnUkhWcHU4UUs4Nm5rWGJIZzVRTk9uS3p4cHpzb1JURXBSTk5UNHNoYW5CZUtjanRSLVh6YktVVDExYmM5MEN3N2hxeDd4SmN2U2NjeXJyTGxwdi1yWWVBNlJ5SFROWFoyQi03NTE4QXBFd2pvZFQ5Z1F0UnZtREZn?oc=5",
+         "outlet": "The Sunday Guardian",
+         "lean": null,
+         "published": "2026-10-22T16:17:58+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 10.18,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "S&P 500 Today LIVE: Index Falls 1.21% as AI Stock Sell-Off, Rising Oil Prices & Fed Rate Hike Fears Hit Wall Street; Nvidia, Microsoft & Amazon in Focus; Check What Investors Should Watch",
+       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPUFNkSmlwNkxWS3E3bXBtMjlNRV9ka1ZYTm03V0RYaUtJNUxnem5yRmc4SDNMZFRyeGpwSVp3NTFqWHUwWU9IMmhkSWpZOS0tZEN5akJWZGRwWmV5emNIRGFHU2UxWUZtN0psX3VmenFySng1R290cFdaWXhlY0ZEcm56bU5ubi1qQXA3Rm12SzRMSGtDR3JBRGwxQU5iQUpEYWhNdWhPbnJJRnNSdkRSTjRNM3NkaHlmTkVYVml4WmlaZm93Y1JmdEtpdEF1VU1EOHpsV2Z1RXNNdllGX2JXZy1SZzVwWWllRjNFV3hXbHo0cktlTkZUZWxaYjVuYUlPNk5OTlZXblZaUlRCdkUyM2hlR1pmZ1FUWEhNMkp5YzlrLVoxVWh1M1dsZDE2endOWHI0ZmhMSnFiRzk0bDJtZURCOGtTQdIBywJBVV95cUxQcEY4bzNCVEc0UWxPempma2NjT3R1V1daVVNXdUxVNEEySG5oVW1ITERQY1c3eGdzaDAtWm4zSEtDMi1QRDZjeUFmSnl6bUhUaXNrMGNXc3lKMnZ5eEpqMnRDdEp3N3RpRWpzRGJHbDN5ZUc3YnZ4eTFBNm9ZYWIybUpMcURFaEdody1YM0pmWXZ0czRHX0ZQY01RQUxGQzBOYTNJa0t6VjZCVk5tem9ONERrbEpRRjVkQTJZUHlXV3BEUEpIbkE2QmVya3VUbmVYRDZEeW04MHNUdXJ4QjdVVTU0cG1sc0lfWHpncUdkR1ZFbFVPbW9rT1dDRjRrMW8zeEcxWWhjLWtCZXZWZ3dlaEpJSkZqSFkyYlFCSTMteXBYSm82OFBMZFBwYjdObGp1X1BjTzBMODF0Qy0wWF9lX21TYVNJNUpHTzI4?oc=5",
+       "outlet": "The Sunday Guardian",
+       "kind": "search",
+       "published": "2026-10-23T16:33:23+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "Nasdaq Today LIVE: Nasdaq Composite Falls 2.6% as AI Stock Sell-Off Hits Wall Street; Nvidia, Intel & Microsoft in Focus Amid Oil Surge and Fed Rate Hike Fears; Check What Investors Should Watch",
+         "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxQMEJtUmxpOGRVWDVkd0FuLXppSU9IOV9jbWdick96QU9IYkxIVVdjaFpZcXI4WFZEQ1RBc2hmS2lWYUlMdVlGeTl5MmUzQ0gxUXp4S1k3Z0R5YzZyaEtIOGV3cHZVZm1vMC13dXgtWkw1cURzVThacEVMOF9DLWcySGpzRHEzb0tIbGpjOUY1cEZRLVpETk1OeFU5S3hCWHZ4d3lCZjY3VmZ1emU3QkM4cnBQdUczS3FtYUJxXzJrQXd0dkFTYVkyQ1NBLVFwYzVLc3N4Y1dacVd1b0xLZzdHZXZ5alJqdVB3TmVCOGZrWV9STV9tZ2twYll0cmVrTTQ1dWwxaHVuNmdnaGV3RUh1MUVGV1hNNVFFNl9Wa1RmOE9CRjZKWlVFMWdqOGh0Vm05M2xiTDFpNk1uak1YNVk2ejVIbkdiOFlHd3pNcGF2T3N2YlR00gHaAkFVX3lxTE5FSXRoNnpUb0Q0SEhUNEtTU2cxSE1XRE1vVG81Z3dTRW1HVThfYzNqd0k1VTdkZHFCbHgwT0FpZTVuVmNuVXZZVkVBQUVrbkhlUTVteHJoQ2E5Q21KTkJfTlBxNFpxUU4yQmtHaGdPaDhRTko4c3RaYlhiZXVCSW1YU18ybW5qV3RyZ011ZTczYlYySHpQTlE0QlpMZ2FNZUc4N090b0taQlJqUm0xVTRmajdfNmdHNEVQTXZqRTkyYTYxZ2UzMzJxMXE1aWhyWjU5blF6M2VGUHVLT0R1TS11anZEX2NJZlhoS2JLWi1PU1RiWGFfTzVhUENIQ2FLXzBqY2NRRmxuNUVFZGhTVzFQNFNNWTAtU0djcWRMTm9haGhWR2ZuMzh5bEJmclhHTzhCSFE0YTR6UjVxVXdtNGJfOHFGa2l0WThQTHNBRlhFVFNhZ0laSW5EbHc?oc=5",
+         "outlet": "The Sunday Guardian",
+         "lean": null,
+         "published": "2026-10-23T16:10:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Dow Jones Today LIVE: Index Falls 1% as Oil Prices Surge & AI Stock Sell-Off Hits Wall Street; Nvidia, Microsoft & Telecom Shares in Focus Amid Fed Rate Hike Fears; Check What Investors Should Watch",
+         "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxQRFJSbU9mYVhmT1F6Q1ByLTg1R2hONEdMblBZNFBzSjd1MWhqUF9XS0xuOUYwU0JmVUgxdlFQWEF5VjNUamhpUkFZZDFGcTFROTIxaGktX3M1amxJQzY5dVozU3NMWldIaThQWGRPanc3R2x5WE05aVRFYko4Rnd4b2duTmd1V3AyY2g5TzRhWUdhRERiLS1qZEN3Q19kdzVQVXZQZmxVRnJ1WVp6VjdXTHU5cHpGYkNiZUdNUE9ZTmdYZzREZUE2ZjZERWp2QkE5TEhPMWg1REl2dVZST1p0QzVHQl85M0hEU0ZUeXJ3d3U1LWdiQTJfZGY3QUYwY0Vkd2FCdXJsbkdraUREcTJlOFg0cVNYQWRPTk5qNzlQb3pMYjh5WHByclUxT05rVG9vWVlkRE1rN1FIWVlKczJLeWgtUUVEemhkVTBUNUJ3bVpzcWlVMTQ0NNIB3gJBVV95cUxNS1NZM0liQnh3QVdYS253T1Y2cDZYVThLWlk3cFhrdnhhTWtBeDhoZnNvSUJsazN3YlUwRk5ubDZPTWEwZEh1WFN2NGZVbnAySVZoV0ltWjltX25Cd0lqc0Rkal93a1h5Qm5FUG5tS1dmZWNtODhUZ2NQclROOVotSnJEVHI4dFE0dkZEMjJGRG5fbFJOa0F0ZDNXdlhaMkU0VDMwelB4QlRQQ2lyaThjUTNhWEl2ZTZJNktILWhqVW8ydC1QaE1qQ3pGQmJFUTBnRjlTYVF1MXlxSUtvbHlNZHpRb09FeW5ReTloUnFGOEhELS1QWjhjTEZNbjRjOE9jMkNaQnFDTVQtZlJvcGhkR0NYcHgyb2ltYmM3MEJlZDZfUDBLN2tQQ05VbDlORWhOeVljQkZuTm9lRjl0WTkwS2tBQmUtZjY3bm55NGttYUd0TmF4T09lRU1MR2dCdw?oc=5",
+         "outlet": "The Sunday Guardian",
+         "lean": null,
+         "published": "2026-10-23T16:05:25+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 10.14,
        "tag": null,
        "upvotes": 0
       },
@@ -1729,55 +1894,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.12,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "RBI to conduct 4-day Variable Rate Repo (VRR) auction under LAF on October 26, 2026",
-       "url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63861",
-       "outlet": "RBI",
-       "kind": "official",
-       "published": "2026-10-24T02:41:51.494006+00:00",
-       "snippet": "On a review of current and evolving liquidity conditions in the near term, it has been decided to conduct a Variable Rate Repo (VRR) auction on Monday, October 26, 2026, as under: Sl. No. Notified Amount (₹ crore) Tenor (day) Window Timing Date of…",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 10.0,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Eurozone October Composite PMI at 51.9, French Political Turmoil Weighs; ECB December Rate Hike Expectations Grow",
-       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MNU8yb0xXd0dPdGF3bWlSSnFGUm5MODZNZU5XcWREbzV5blpfX3lELW5OX1JVZFVKRlJ2UlB3MlJwZGpqdWF3Z0NYQ1BTalpDX20weklGQy1JRGFxMmpjWVZjLTRRcHpDMGJXRlVWNzZKYkVkN1E?oc=5",
-       "outlet": "BigGo Finance",
-       "kind": "search",
-       "published": "2026-10-23T11:25:00+00:00",
-       "snippet": "",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 9.73,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "RBI Rate Hike: This Bank Has Updated Its FD Interest Rates - Check Top Offers In October",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQalRwNXh2aVl4YlduYUZ0M1l4TndMOUFPSmRJdnJET0lNS3VScUFhTDNQVkNfX3JNeU1EMDRwUi1KS2g4MUN1Tmc4d0ZzcnpXUU1MNlNJQlhFbmZTeTRqdERTWVIxM1lqbE5PYmJMNy1uUU1jWkdRaWF4MG95MDNiUUZZR25CYk92eDJ4UlVhakpudnVRalZSVmtSOHg1Rjlydy1oSzlkQmhEZXhvanJhNUFuN1ZJS3U1YUo2SEVkb2hBWmgtUndtN0ktMmhXUXE1WUVWbTJ0by1QYlnSAeMBQVVfeXFMTzdVZGhWTHpNSjJTTVpFcG5pODk2WDQwT1dvSnVYcnhESTJGZnhtby0wdWQzWXl3TU9Wc09CY3FXR1I2RXB1UG5EM3RDM2xnTjltNFEzQUNfZG9XcFZSLVNmZ0RkdlVCdnhNRGJRQlhjREs0ZDBYN0tnakxRQ0NINXl1TURfQnRoYkNydlVwVEVTb2tkR0tPdlRDZ29rQWotRi04LWswZVl0cmxka0FIaVdrODVlVFJEdzhVUmlLTWx0ckhyUkpXbFZ1a0RUU3dlRTdnNFREdkVaM21XeUtCV1lzcjg?oc=5",
-       "outlet": "NDTV Profit",
-       "kind": "search",
-       "published": "2026-10-23T09:59:13+00:00",
-       "snippet": "",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 9.61,
+       "score": 10.1,
        "tag": null,
        "upvotes": 0
       }
@@ -1852,7 +1969,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.22,
+       "score": 10.21,
        "tag": null,
        "upvotes": 0
       },
@@ -1877,7 +1994,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 5.87,
+       "score": 5.86,
        "tag": null,
        "upvotes": 0
       },
@@ -1916,16 +2033,16 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 12.97,
+       "score": 12.96,
        "tag": null,
        "upvotes": 0
       },
       {
-       "title": "Trump eases tariffs on Canadian imports weeks before US midterms, offering relief to Maine",
-       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOeXExc1p4X1pVbTk1UElhbV93NGlhQklFOVJteWNOSE5DcVdzc002MGIxQWdXNEZiOG1OaFVtTnRhdXRpV25xSGN3ejhIdUtvYlFEd29HYy1mNzlCUURaTGhKcWUtUmxabnQwdVRscmNGcEVOZjV3d2t4MzBSUEtZdXdVNTJ5S2wzblpsRUp1V3NGNkNkU1VrcWp5M3A1WVBTaXJEUjhMY0Vhb19PQUk0clhEX0VRVXVmMk1fem40by0yUk1VX2VhMkVOc19ETXl5eDZOb3QyakNfd3llOWVvXzdxaVE3OUVnbmY2ajI2YVEyN1VuWndudktrcnF3eFBTQ3gzRjc2Qms4M0hMYWNRSNIBlgJBVV95cUxQR1VrUFhROEtkNXBMY0FmbmpwU1drQ0hEM0lDWmprV0tVLXNscXZ5YmRONkZEdE0zem9jeHFyMXVObVV3UU5TVWFrM3BhVnAyM3N2N0hDZjBqME9jUHZuZkl4R1J0VTdPU01PUzhwTGtRU0ktR2ZyRjhQdVpsa0RISmFHblhNUlVUZUJMRDhnOXZza3R3QzdkUHhGRlRGY0lkNUI5bjZ0VklocFBvaXdOWTFidzdCdlQxOEhLbVhVWmpNMTNDRUFGYjZTYjZYcU4yNk5KeFlDTnBjWFpuTWdvejZ5cWh6clNHa1BJZkdHeDJSREZHZDN6Uk1jVW9kcW9mUElnaXpFQ2Rub2lKNEF4X1ZWR25fUQ?oc=5",
-       "outlet": "The Times of India",
+       "title": "Susan Collins Says She Convinced the Trump Administration to Lift Some Tariffs on Canada",
+       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1l6UEJPT1M1dGhzRnYxc252czhCY3VxRm94amx2dHhhSTlWVjdVam5rY3hTcW5hQVRBYzR3M2tONTZKOFl1LW03Nm02QjQzSENrbVVscmdrejZUR1paaHNYV1JWdHpGNDc0cXAzSjBDbkZpT0tyMHhsdElxTko1TFBzZktrQTJJdWhxaE9qOGNkaGdmeEVz?oc=5",
+       "outlet": "NOTUS",
        "kind": "search",
-       "published": "2026-10-23T22:39:00+00:00",
+       "published": "2026-10-23T20:55:54+00:00",
        "snippet": "",
        "related": [
         {
@@ -1945,35 +2062,11 @@
          "paywall": false
         },
         {
-         "title": "Susan Collins Says She Convinced the Trump Administration to Lift Some Tariffs on Canada",
-         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb1l6UEJPT1M1dGhzRnYxc252czhCY3VxRm94amx2dHhhSTlWVjdVam5rY3hTcW5hQVRBYzR3M2tONTZKOFl1LW03Nm02QjQzSENrbVVscmdrejZUR1paaHNYV1JWdHpGNDc0cXAzSjBDbkZpT0tyMHhsdElxTko1TFBzZktrQTJJdWhxaE9qOGNkaGdmeEVz?oc=5",
-         "outlet": "NOTUS",
-         "lean": null,
-         "published": "2026-10-23T20:55:54+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Trump Administration Lifts Some Tariffs on Canadian Imports",
-         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGRks2dGtRbHRMd1Y0MEcybUMzVUljXzNfSmxnei1WcFVJS0lnMFZmRkN2TmdYemtsc0RsVWlfYjZqTHFOYlYzYTVQXzA5aXJQNnlTbmpkUUluN0pBQjFjek0yYVBoYVRPTlE?oc=5",
-         "outlet": "SuaraGarut.ID",
-         "lean": null,
-         "published": "2026-10-23T19:58:00+00:00",
-         "paywall": false
-        },
-        {
          "title": "Trump administration cancels some Canada tariffs amid close midterm races",
          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVElRUlRYNE1DeV9WMkYwaXlScS01OTI1MVotc2Rob1AtZW90Tk13eGJuWWFhOVpEQndDUzBZeFQ3ZFlQcWJJZ0ZZdDdtaFlnTHg2WjdTT25wVm1FUkNEMFQwakN0c2NidkVrUlRseEJCd0g3cW1haXJVS1dhVURvWm9iTldyQWZPOHFjS1dIdVBtZk5nTmk5a3NB?oc=5",
          "outlet": "NBC News",
          "lean": "left",
          "published": "2026-10-23T19:53:48+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Trump Administration Exempts More Canadian Imports From Tariffs",
-         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMU9QZkZPSThsSFg1b09XUGVMdXJJRjN5N3BlS0ZQYzFGcDNWUy01d3NSeU53ZU1jUUc3V3JCOE1DcmRzTzBlQ0thbjdBcFlfZUFfMmdWMV9qRGM4bDcxRm5YUjdpQ3J5RGpsZTV0MXMxVnFPMi1LZg?oc=5",
-         "outlet": "Demokratis.co.id",
-         "lean": null,
-         "published": "2026-10-23T19:37:00+00:00",
          "paywall": false
         },
         {
@@ -1986,10 +2079,10 @@
         }
        ],
        "related_more": 0,
-       "outlets": 8,
+       "outlets": 5,
        "paywall": false,
-       "lean": "center",
-       "score": 9.78,
+       "lean": null,
+       "score": 9.06,
        "tag": null,
        "upvotes": 0
       },
@@ -2005,23 +2098,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 8.93,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Fiscal Sustainability (FS)",
-       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWnRMQ3ZQemx4ZV9ZNFRkdnZWYTY2MFpqWGlIOW44VlE4TlN0MnFPZ1NfZkpWYzVSeFBRUW9CUXc0eUkwVmF3c2xLQzJGdHplQnoxVklmQXJrX09LVWQtRXFoaE5TczFEUTRLQy1mbS1hX0lpQ3ZpamI1VEtldC1sV2xETUwtUXh3TjB2dHhB?oc=5",
-       "outlet": "IMF",
-       "kind": "official",
-       "published": "2026-10-23T15:59:12+00:00",
-       "snippet": "",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 8.78,
+       "score": 8.92,
        "tag": null,
        "upvotes": 0
       },
@@ -2037,7 +2114,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 8.47,
+       "score": 8.46,
        "tag": null,
        "upvotes": 0
       },
@@ -2053,23 +2130,40 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 8.36,
+       "score": 8.35,
        "tag": null,
        "upvotes": 0
       },
       {
-       "title": "Fiscal Monitor (October 2026) - Expenditure",
-       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iM1I1UTF1WGZkWkhucU1DTFpMcXBHMmtEaUNZT2phQ3pERzczSzlIMXJiOV9mMGNnSjVacVQ0dTM5WXRlTXJHcmxKQWhWbFBVOUVITlJmUVkzSUM3a20teVk1bmtWSjhVXzBBTmpR?oc=5",
-       "outlet": "IMF",
-       "kind": "official",
-       "published": "2026-10-22T19:04:07+00:00",
+       "title": "Trump eases tariffs on Canadian imports weeks before US midterms, offering relief to Maine",
+       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOeXExc1p4X1pVbTk1UElhbV93NGlhQklFOVJteWNOSE5DcVdzc002MGIxQWdXNEZiOG1OaFVtTnRhdXRpV25xSGN3ejhIdUtvYlFEd29HYy1mNzlCUURaTGhKcWUtUmxabnQwdVRscmNGcEVOZjV3d2t4MzBSUEtZdXdVNTJ5S2wzblpsRUp1V3NGNkNkU1VrcWp5M3A1WVBTaXJEUjhMY0Vhb19PQUk0clhEX0VRVXVmMk1fem40by0yUk1VX2VhMkVOc19ETXl5eDZOb3QyakNfd3llOWVvXzdxaVE3OUVnbmY2ajI2YVEyN1VuWndudktrcnF3eFBTQ3gzRjc2Qms4M0hMYWNRSNIBlgJBVV95cUxQR1VrUFhROEtkNXBMY0FmbmpwU1drQ0hEM0lDWmprV0tVLXNscXZ5YmRONkZEdE0zem9jeHFyMXVObVV3UU5TVWFrM3BhVnAyM3N2N0hDZjBqME9jUHZuZkl4R1J0VTdPU01PUzhwTGtRU0ktR2ZyRjhQdVpsa0RISmFHblhNUlVUZUJMRDhnOXZza3R3QzdkUHhGRlRGY0lkNUI5bjZ0VklocFBvaXdOWTFidzdCdlQxOEhLbVhVWmpNMTNDRUFGYjZTYjZYcU4yNk5KeFlDTnBjWFpuTWdvejZ5cWh6clNHa1BJZkdHeDJSREZHZDN6Uk1jVW9kcW9mUElnaXpFQ2Rub2lKNEF4X1ZWR25fUQ?oc=5",
+       "outlet": "The Times of India",
+       "kind": "search",
+       "published": "2026-10-23T22:39:00+00:00",
        "snippet": "",
-       "related": [],
+       "related": [
+        {
+         "title": "Trump Administration Lifts Some Tariffs on Canadian Imports",
+         "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBGRks2dGtRbHRMd1Y0MEcybUMzVUljXzNfSmxnei1WcFVJS0lnMFZmRkN2TmdYemtsc0RsVWlfYjZqTHFOYlYzYTVQXzA5aXJQNnlTbmpkUUluN0pBQjFjek0yYVBoYVRPTlE?oc=5",
+         "outlet": "SuaraGarut.ID",
+         "lean": null,
+         "published": "2026-10-23T19:58:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Trump Administration Exempts More Canadian Imports From Tariffs",
+         "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBUMU9QZkZPSThsSFg1b09XUGVMdXJJRjN5N3BlS0ZQYzFGcDNWUy01d3NSeU53ZU1jUUc3V3JCOE1DcmRzTzBlQ0thbjdBcFlfZUFfMmdWMV9qRGM4bDcxRm5YUjdpQ3J5RGpsZTV0MXMxVnFPMi1LZg?oc=5",
+         "outlet": "Demokratis.co.id",
+         "lean": null,
+         "published": "2026-10-23T19:37:00+00:00",
+         "paywall": false
+        }
+       ],
        "related_more": 0,
-       "outlets": 1,
+       "outlets": 3,
        "paywall": false,
-       "lean": null,
-       "score": 8.34,
+       "lean": "center",
+       "score": 8.3,
        "tag": null,
        "upvotes": 0
       },
@@ -2099,6 +2193,22 @@
        "upvotes": 0
       },
       {
+       "title": "Czech 2027 budget: deficit grows, and Babis is not worried",
+       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSVdVODFTSlZHM0tZWEgzVDNUaDhlYWp5NXRTNk1KVElWc0FsM1ZVMHVSQXBIT0x6M0dBQmxQZUxFS0JOQmJETUFJRnRWdFoxMXJqeHBoWWV2UUtUMEtSNFFPNlJrRktyc2ZaX3VlclVUMVA0aU94SnNlSU5JY1haTGp5d0dXeG9VNk5sTTIyM09Nc2UtTExQNVhCd2NsYmo5OEJET0VlN3NCYVlfX2ppd2RMM3Zra2c?oc=5",
+       "outlet": "Around Prague",
+       "kind": "search",
+       "published": "2026-10-23T12:05:21+00:00",
+       "snippet": "",
+       "related": [],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 7.77,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "Oil revenue slump leaves Iraq facing $23bn budget deficit",
        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmRhcXh5QV8xRUhyLUlNanB3WjJwN0RTM00zVUtQTExNR1phQWRtSzFEeEFzaHdUZGJ1cVhoM0VLUWVqdHRSUEdMRzdObkdQYjItdWpWQ0JUUEZWTGN6Q1Y0YmplalpsTGM5TXhBRjVabXJkMUtNYTBLd0N0c0dlZUhPUTB5TnRCN2xscGs1LVB1WGxyNXFqNGFR?oc=5",
        "outlet": "Arabian Gulf Business Insight | AGBI",
@@ -2110,7 +2220,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 7.77,
+       "score": 7.75,
        "tag": null,
        "upvotes": 0
       },
@@ -2126,7 +2236,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 6.63,
+       "score": 6.62,
        "tag": null,
        "upvotes": 0
       },
@@ -2151,7 +2261,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": "center",
-       "score": 6.62,
+       "score": 6.6,
        "tag": null,
        "upvotes": 0
       },
@@ -2167,7 +2277,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 6.43,
+       "score": 6.41,
        "tag": null,
        "upvotes": 0
       }
@@ -2272,7 +2382,7 @@
        "outlets": 16,
        "paywall": false,
        "lean": null,
-       "score": 15.99,
+       "score": 15.98,
        "tag": null,
        "upvotes": 0
       },
@@ -2281,7 +2391,7 @@
        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa1Q4MmJITVBwYzlHaHVYVnAyQ3RUUGt5azhfajdiVVNXRi1GbGR0UnBYbzhRanRQYnRVeC04Rm5Xc3dUdEJNcnpMbHFTUWdadlZxR1VmNmRTYXdPRm84S2l5TE0yNnl2a0YxM3R1T1M5REduZHBGTkJqb09FUUdKTWdPUHl1Skt5VjVxVjI4THJscW9PQTI5SS1YaFVkWkVTVmNrZGhlZU1Ddw?oc=5",
        "outlet": "Quantum Commodity Intelligence",
        "kind": "search",
-       "published": "2026-10-23T18:34:37+00:00",
+       "published": "2026-10-23T20:37:37+00:00",
        "snippet": "",
        "related": [
         {
@@ -2299,6 +2409,14 @@
          "lean": "center",
          "published": "2026-10-22T19:29:00+00:00",
          "paywall": true
+        },
+        {
+         "title": "Oil prices climb as Saudi attacks heighten supply concerns",
+         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0R1a0hQaFJuYjdjcnZ3NmUwclFOb2RLY1NMTGktN25EeEZYVl9WWVA4UkNTM1lDQ3RUZDZOQ2pkTEVkd1dsc3p0SEZDOWJ1V2tXWWRZdk0zdm5SZThhcG1rcHBxRGF6Ml9fSzBoV2tvbjBnenY4OURnZUtJWU1HMXNoa1FQZ2V4NGltSGtVZ1J5YkJ3eDBCVlJTMUdVZkd3LUJmSVQ5R3dCa0JHcE4tNmVhSXVBRkFNQlpTMWdrSk1zdjIwU3c?oc=5",
+         "outlet": "Oil & Gas Journal",
+         "lean": null,
+         "published": "2026-10-23T18:28:11+00:00",
+         "paywall": false
         },
         {
          "title": "Brent Tops $117 as Houthi Strikes on Saudi Arabia Rattle Supply, Short Covering Adds Fuel",
@@ -2341,116 +2459,27 @@
          "paywall": false
         },
         {
-         "title": "Brent crude nears $114 as Houthi attacks raise Saudi oil supply fears",
-         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVEphRU1vTm90eUFjZV96d3V2Tnl2N0MzV0NBVkYtNl9kRkJxaG9sVGF4WVp0Zkt6aUR2MjJtc0NNU0tKZGZPYzlwRFpHdEk4YXcxbEdVT0RKaWFqYkhfNndlVV9MbjdUTXNaVS13NEh2TFh1TkhNVTZnT0NqempzcWUwWHBtNWtTVXBnOFZFOXVoT3hwUUI5RFE2ZzdsNVQxOVJPeE5BUWpGQXQ3dWV30gG0AUFVX3lxTE5ZLUpOVC1DSWlUekotTE5sSG1sSGthZy1uSXRQN3lMVzhvaFhxMHpVTGtwMjVxLWFwYjlsYTlqTFZZRE1GV3dyMEpHME5LdFREQkZjS29XUnJPVDV5LTlsejhNNXJTVUxKMjlRZHJ3UlNOTUtZc1UwQWphZ2d1LVB6aTFBZDdETmZfTWp5N2VyUmZpeGxQLVYwLTdRTW5MX1JueS1mOTNGQU4xaUE4c2o2bkFzMw?oc=5",
-         "outlet": "Free Press Kashmir",
+         "title": "Brent rises amid mounting oil supply concerns",
+         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzFENGdjT25sRzJUSkdKTjFOSmhQekd0NkZNQmkxUDhUSjhFNU5zSTE0LTlmUnNqaHV6MGpxckpkSUstVjlpSU1RXzhNSGFjeUVWUkZsbEF2ZXBjYmNQeUQ3LXQ3Z2RjMU5kaVlBQ18tUE5RdGFWbGxmaXBUOXUwNE1uZEN6bmc0?oc=5",
+         "outlet": "https://www.engine.online/",
          "lean": null,
-         "published": "2026-10-23T07:19:41+00:00",
+         "published": "2026-10-23T10:02:27+00:00",
          "paywall": false
         },
         {
-         "title": "Brent crude oil price nears $114, WTI tops $100 amid Houthi attacks on Saudi Arabia",
-         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdUZneGtNZEFNNXJkaFF5SEN5cFZLVy1uVFZaS08tMVlyQjRtY1JRS3FibnpSRloxdWhYUmpaN3R2ckxVR0tEb0U0dHpjVGMtLTkxRDR3WTg3bDlkM3NzbDRrMmM2WUVqbGpPUFlYcGFZbUdFZGE1YlJGeFAxOUlXWlAyVE44TW9kbWtyTjA0T0t4ZTF1Ni1UcGhOdXJjcGJPaUZlcFkwYjlLSU80YmZNOHd4NFlyVVBJVjJlVnVuNW1IbTRVeEJ2T2NuWUt1WFJBcEJJUTRaWXNLbUxOenfSAeMBQVVfeXFMTkN1WVdJVlNmV2l1UmFjUFdSeVVPWTA2NmhsWEtsMGtzUG9rVThJQXROZGVpVnNFOHdSczZ1dnlrVF9aUW9lRVFZcDVESGI4aFktcFUzTEJPbjhYTGdDZm1yTXZBMFl1QnZBM3U0QzdCZVNNWFB2b1UwU2YwYl90cXJPaU5xN3ZZNnhJcmRhX1Jyelc2YUplS1dtZ1Q0T1ExTEt5M1ZQRmZUMEpDWnBZOENUQ3FHOVE3QWhtTHNaTmNTQkVXUlFYckRQaWNtZlBqMnhjVUJwREpfS0k0c016SWIwTDA?oc=5",
-         "outlet": "Moneycontrol.com",
-         "lean": "center",
-         "published": "2026-10-23T06:15:11+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Brent Hits $114 as Houthi Attacks Threaten Saudi Energy Infrastructure",
-         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVXp4ZEdPLTA3dlp1dndrT0JRWGF6UlRQaXAybzkwZl9iQVc1SHlXQzllV2FuaHhEUVotUEVpcU9ZNnJjMlBMRFFMMnlkeUhlT0FQVHE0Rms5bWhOb1BpYWdwTDgyblNYZ01YZ2tmWmFzUC05aDV4dW1pUXdiTFhfSjV2RW8zSzVnM0Myd2FTX0l3bTQ4bXdpWjBNODlyWm5wLTRfU0VnNXdIRk5jVnRBaGtBazUxUVd2enNxeVl5WFJ1cVXSAcgBQVVfeXFMT1BKTTBwRTFqOXJSbEZ3UTZVT3dkanlreS1FeXpKOHZVZXptZG0tR2tYdEpZVTY4RDdLbDlfXzRBLUNxeG41T2lLUGVlTVVzMGxWY29MNzFsZk9aa3A0eE05TENDQ05uNGZVc25VdE1QN2JRZXpiZmdqa3l1UVk3T2htaURPSVgxdENrN2pTa1kwS05pZG5SaGxoby12S18yaGo2aHZHdHRGLXI1dFhsem5QcXVsMzBTazdjZXFMRndWbEVXdHM2bTQ?oc=5",
-         "outlet": "Crude Oil Prices Today | OilPrice.com",
+         "title": "Oil prices rise as Hormuz tensions, Libya supply risks heighten concerns",
+         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnhDWVM4Q3hpVzYwa3VUelk5eUdkaHhBeVpjc3lVTHhOdUpydU9FaTF0RngwNDlndTdYUFpKczhoTnpOcExZUXNXTzdvd3RsNzhhdUp1UkZRNDJOUXEycjdjZ3gxTDYzTlB5WDc2Mno2UmlGcGJzRkxPcHdJT1pLdW95UHlBMTRNN0JQSjJia3pqcmlqY0xlaENsQVU3b005aG9yVFpUdTlhUUhpblY5V0g1NNIBuwFBVV95cUxPYWFfM19nRFpGaldFeW42X3FuOXRZTkh2WTZ2LUZEQ05JYVFVWmdzSWRaZXhuTl9YTGJnSDgtbUZ1S1hnMGVVUkRwQVNsamNnNWJTbDdpVGUzZGFabkdhY1YxamJpSFJ6TU42T2xkSm1Na2VNZXhlbm9EVXc2RUotLUdVTGJYRV9SUmx2VjRnZ3liRkQwMlJfcEVCb1FDXzFHQXZjMGl3akU5UDlTemR4djN6blEwV1pKWUhj?oc=5",
+         "outlet": "Anadolu Ajansı",
          "lean": null,
-         "published": "2026-10-23T05:33:50+00:00",
+         "published": "2026-10-23T07:28:58+00:00",
          "paywall": false
         }
        ],
-       "related_more": 4,
-       "outlets": 14,
+       "related_more": 10,
+       "outlets": 20,
        "paywall": false,
        "lean": null,
-       "score": 14.28,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "22-week high: Crude Oil climbs following Gulf attacks",
-       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZHlRRFBfY1lUOThGa3ZsLTRhTFpxVXhqZzJYLVhQZ0s1cTZlcWdQZ1M3c1hBYTFRb255SllEQ21jTnRkSXc0U01sMHhyNUJPdEFUc0FPYUJMekVJX0p1VGhSQ0ZFQVVPVnNfU2JEQzNXVkNWWkIxV1lLcnQtS0JudzlLT094cE1QXzVQUllIdmdlc1pZZ2NBTXdXNDVfU3N5T295QmoxakFlU2Y0aHlBYjBZNExROGc?oc=5",
-       "outlet": "www.tmgm.com",
-       "kind": "search",
-       "published": "2026-10-23T23:16:25+00:00",
-       "snippet": "",
-       "related": [
-        {
-         "title": "U.S. Stocks Fall as Oil Prices Hit Five-Month High",
-         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnFqcHZzUWtWdEtpVnRIZ1dmdERZRlV6dzJaMXpEQ0prY2lHZG9qSHQzTGR5bTFzRF82VXRlQVJXMDdPRkR6T2hPSjZGMm1CZVVXbGI1U2ItYnRFS3h3ejFuZVY2VkFSdy1ZNGh5VjJsNlphM0hMb2thbFhTQ0lvd1hCTl9uaDNhVG9MVUNFcXRSUGdaYXRJMA?oc=5",
-         "outlet": "Wall Street Journal",
-         "lean": "center",
-         "published": "2026-10-23T20:34:00+00:00",
-         "paywall": true
-        },
-        {
-         "title": "National Gas Prices Fall to $4.27 as Crude Oil Climbs Toward $100",
-         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPX21OLVgtNHVJQWYzOF9rMmh1U3NZLV9icUZ4eTNtaDdqQXNoV3ZsTlkzYTA0YzBWa3RlTHY1dlVTZDdoSzA1XzVpQ1ZWejdKcVpzb0x3aWlQZHJxbEUxUkw5RmFIVmpoa25qdk5SdG1qZlpwcWRXcWp0aHE5STh1Q3lTazRWZWh4SFc4MWIwdmIzMmVyTzdXVDJKREhOUk9IWEljSERUSHE3YUZqSmc?oc=5",
-         "outlet": "Clarksville Online",
-         "lean": null,
-         "published": "2026-10-23T23:00:13+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Oil prices climb as Saudi attacks heighten supply concerns",
-         "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQM0R1a0hQaFJuYjdjcnZ3NmUwclFOb2RLY1NMTGktN25EeEZYVl9WWVA4UkNTM1lDQ3RUZDZOQ2pkTEVkd1dsc3p0SEZDOWJ1V2tXWWRZdk0zdm5SZThhcG1rcHBxRGF6Ml9fSzBoV2tvbjBnenY4OURnZUtJWU1HMXNoa1FQZ2V4NGltSGtVZ1J5YkJ3eDBCVlJTMUdVZkd3LUJmSVQ5R3dCa0JHcE4tNmVhSXVBRkFNQlpTMWdrSk1zdjIwU3c?oc=5",
-         "outlet": "Oil & Gas Journal",
-         "lean": null,
-         "published": "2026-10-23T18:28:11+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Crude Oil rises to a 22-week high on Gulf attacks",
-         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaGRUN09iclhFTHhrQWVDRkd6SDh0Um5Ibi1sNWdRdTAzR1ZqTjhCR0N6bm1VNE1ITm5xX2xHVkN3bkNYV19JMHEzYTAxTnBvT3dDLU1YZHZRQ2xQVjlWVFNoQXowLW5ibzRXOHJZZEtmUDZtdU1JYS0taWN2R0Z4YjVubGllcUhfSVJPRUtST2hKeVJVNHFZ?oc=5",
-         "outlet": "FXStreet",
-         "lean": null,
-         "published": "2026-10-23T17:07:24+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears",
-         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
-         "outlet": "Reuters",
-         "lean": "center",
-         "published": "2026-10-22T23:54:39+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Oil prices hit five-month high as Houthi attacks raise supply fears",
-         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVklUXy1lMzQ3cUx6Uy03MnIxTmUzRmtwamdfc2o0bVJzRDRuc1BvckJEdU00OGpBalJnZnMwVkdiaTladG5DV29qY0R2SWliWU1LZFFhT3FwcnNhVVdGb2lpRkRFelFpVUVmeUhIOFJtT1pJbjUxQUNpaEFGcEdZX1pxaU5rTEdWVDdOZVpxdi1JeHFnYnp3?oc=5",
-         "outlet": "The Journal Record",
-         "lean": null,
-         "published": "2026-10-22T19:53:53+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Oil hits five-month high as Houthi attacks stoke supply fears",
-         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUJCYWJFR1VUQ2JfYVlWWVBxSzYwMnEzcVQxUU9faWFiYm9qNGxZd2NrX3c1MDZULThNTHRmdG9LOHoxbDdGaHlHcms5aGo0QWxWVGJrSzZSREl6QjJ6eWNGclhyVWpSa0VtMHBIVnBJc2J5YWNMUzdCSVhneWtkTFpqT19Bdw?oc=5",
-         "outlet": "Yahoo Finance",
-         "lean": null,
-         "published": "2026-10-22T17:23:57+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Oil prices jump to five-month high as attacks threaten global supply",
-         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5",
-         "outlet": "The Guardian",
-         "lean": "left",
-         "published": "2026-10-22T16:10:00+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 9,
-       "paywall": false,
-       "lean": null,
-       "score": 14.01,
+       "score": 14.97,
        "tag": null,
        "upvotes": 0
       },
@@ -2523,7 +2552,7 @@
        "outlets": 7,
        "paywall": false,
        "lean": "left",
-       "score": 13.37,
+       "score": 13.35,
        "tag": null,
        "upvotes": 0
       },
@@ -2556,7 +2585,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": "center",
-       "score": 12.72,
+       "score": 12.7,
        "tag": null,
        "upvotes": 0
       },
@@ -2597,7 +2626,7 @@
        "outlets": 4,
        "paywall": false,
        "lean": null,
-       "score": 12.66,
+       "score": 12.64,
        "tag": null,
        "upvotes": 0
       },
@@ -2654,7 +2683,7 @@
        "outlets": 6,
        "paywall": false,
        "lean": null,
-       "score": 12.42,
+       "score": 12.41,
        "tag": null,
        "upvotes": 0
       },
@@ -2679,48 +2708,32 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 12.25,
+       "score": 12.24,
        "tag": null,
        "upvotes": 0
       },
       {
-       "title": "Brent rises amid mounting oil supply concerns",
-       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzFENGdjT25sRzJUSkdKTjFOSmhQekd0NkZNQmkxUDhUSjhFNU5zSTE0LTlmUnNqaHV6MGpxckpkSUstVjlpSU1RXzhNSGFjeUVWUkZsbEF2ZXBjYmNQeUQ3LXQ3Z2RjMU5kaVlBQ18tUE5RdGFWbGxmaXBUOXUwNE1uZEN6bmc0?oc=5",
-       "outlet": "https://www.engine.online/",
+       "title": "Crude oil price forecast as Brent hits $117 amid US-Iran war fears",
+       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPTEh6enlYZDhrREJEc3UxUFV0SVlBN3U5ZGUzTlNoeGRsTG9YOG5sSHpycGxKTWZaTlQweXp3cU54bkp5YXNlMF9wWFcyR3JVbHVGeGFQbTdfblJieVRJN2JySVk4ODE5Rzh2OHJxQUMtUzF2ZkZqMU5qcVA0c29UTGwteEMzNzg5TkNZTEJwcXR6U0hlUl9XQ3U4T0xrZV9mZXNfT3dNNko3NnQzS293?oc=5",
+       "outlet": "Invezz",
        "kind": "search",
-       "published": "2026-10-23T10:02:27+00:00",
+       "published": "2026-10-24T00:39:26+00:00",
        "snippet": "",
        "related": [
         {
-         "title": "Oil prices rise as Hormuz tensions, Libya supply risks heighten concerns",
-         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMnhDWVM4Q3hpVzYwa3VUelk5eUdkaHhBeVpjc3lVTHhOdUpydU9FaTF0RngwNDlndTdYUFpKczhoTnpOcExZUXNXTzdvd3RsNzhhdUp1UkZRNDJOUXEycjdjZ3gxTDYzTlB5WDc2Mno2UmlGcGJzRkxPcHdJT1pLdW95UHlBMTRNN0JQSjJia3pqcmlqY0xlaENsQVU3b005aG9yVFpUdTlhUUhpblY5V0g1NNIBuwFBVV95cUxPYWFfM19nRFpGaldFeW42X3FuOXRZTkh2WTZ2LUZEQ05JYVFVWmdzSWRaZXhuTl9YTGJnSDgtbUZ1S1hnMGVVUkRwQVNsamNnNWJTbDdpVGUzZGFabkdhY1YxamJpSFJ6TU42T2xkSm1Na2VNZXhlbm9EVXc2RUotLUdVTGJYRV9SUmx2VjRnZ3liRkQwMlJfcEVCb1FDXzFHQXZjMGl3akU5UDlTemR4djN6blEwV1pKWUhj?oc=5",
-         "outlet": "Anadolu Ajansı",
+         "title": "Crude Oil Forecast: Weekend Iran Strike Fears Lift Oil Toward War Highs",
+         "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQU2JlalJqTlFzZFkybDAzeUhUbkgwWDJtVGo2eUI0aGpzb0hGbmhpVnRQVXNaVm1FY3N2XzBlWmc0dGZTTzVOUENQVDF5VzZHMG8weFBEUzF6QUxHMURDcVBFWEtzc2otVEV1OUgwS0FISFpmOThxcURJaWV2T2NxSVJlWExoZDhLSTBzV2ZNR3VtT3d4Y05CUUtiNDdVUXNZeWc3MUdNLUhGTUFTaUhldkNuU0s1cklKUjhKUnoxN2zSAcABQVVfeXFMUFNiZWpSak5Rc2RZMmwwM3lIVG5IMFgybVRqNnlCNGhqc29IRm5oaVZ0UFVzWlZtRWNzdl8wZVpnNHRmU081TlBDUFQxeVc2RzBvMHhQRFMxekFMRzFEQ3FQRVhLc3NqLVRFdTlIMEtBSEhaZjk4cXFESWlldk9jcUlSZVhMaGQ4S0kwc1dmTUd1bU93eGNOQlFLYjQ3VVFzWXlnNzFHTS1IRk1BU2lIZXZDblNLNXJJSlI4SlJ6MTds?oc=5",
+         "outlet": "FOREX.com",
          "lean": null,
-         "published": "2026-10-23T07:28:58+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Oil prices barely changed amid concerns about supply disruptions",
-         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcVVGMHhtZ1BKY0FDd294TlpIUHIyenZpaElOTFMyNzBjNDRaMzlHYUc4NDEzR1BQQUpJdkpzV1FfYmxyMFBCb1dHRWZWcDNlUjB5NjNRNWZ1Mm5FWTR6bGlLMm5tNDg4TlU4Q0RHSjZlT3Q3bW0wRmVSUmt2NllYYVl3?oc=5",
-         "outlet": "Mezha.net",
-         "lean": null,
-         "published": "2026-10-23T06:52:27+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Crude Oil Price Today: Brent Crosses $113 As Saudi Supply Risks, Libya Disruption Stoke Concerns",
-         "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeWFydTB3Z3l3NnNFSUM4WjNaRDM4bDJRX3pKNDVGWnpRa3RHbnl3MXNhX0xsSmZFbGtvMGpLUU5qeGxLM3Qxc0p2WjZDZVdwbXAwbjRlT3dMdkhOV3VrTmw0OHNwM2lKMU5WWFlIOTEwX1YwdzUxVzZLQnlZYlhtazV4dnRJbGpqQ0lSTmNXdzBXb0N5R3dRNVpiREphZ3hOaV8yOWsxS2M1a25LU0VoR2ltV05jb21GeWxlNTFlcVdUUjc2Z042WlRvRE9zYmFDZTNvSzBpRTAzNTNuVzFVTdIB5gFBVV95cUxOUEMtalI1amFaVUx6SmM4YXUzbl8yWS1XcFJPd1hTWklsRUFhcXY2Slp3aTBVbVNJOHdGY2hjMFJINkEtRkFScXI0LWtkeGROV19CcGZ2VVlESjMtZ2ZfbjNCQVlxY1R1VXViMWlodGtDODF3LTROOFNBUUhUZWxwS1BQTGZCbmRpM3A0ZW95N1psdjBDclE4c1RTZTMyRzI1N3lTdkJfbHJRMmtWZDNrWk8tTHJaSkc5Nl9aN1M4U1hsUEJucnlYUEJVYzdVTXJYbjQ2MUJrR01ucWRrQ09OMDFKQ1Vfdw?oc=5",
-         "outlet": "News18",
-         "lean": "right",
-         "published": "2026-10-23T02:09:02+00:00",
+         "published": "2026-10-23T16:21:47+00:00",
          "paywall": false
         }
        ],
        "related_more": 0,
-       "outlets": 4,
+       "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 11.69,
+       "score": 11.86,
        "tag": null,
        "upvotes": 0
       },
@@ -2736,7 +2749,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 11.65,
+       "score": 11.64,
        "tag": null,
        "upvotes": 0
       },
@@ -2752,7 +2765,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 11.15,
+       "score": 11.14,
        "tag": null,
        "upvotes": 0
       },
@@ -2768,7 +2781,56 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.94,
+       "score": 10.93,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Oil prices hit five-month high as Houthi attacks stoke Middle East supply fears",
+       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzBEdGVKYmZ3VVpJajg0TW5DN2VHVEM2aDVTcFJKQVduMnVMTU5NbVcyMGxBanBHY3VvMzJQR1VrQWM4b0hLeG1YaTFWcldTeU9yTlBXc3FiR1FtcUp0SmxhRkJkWmpmZ2x6X3VGZHZEUDNLTE9LTFZNSlBWWjNJVGtaV3YwWkc4QVhxbHozYkx5THpZMVlYVDAtd0dqbUMyOUcyVk91NEYxaFFCZklRWWhjQm5qN2NvVHdWdnZIQVJSMk0?oc=5",
+       "outlet": "Reuters",
+       "kind": "search",
+       "published": "2026-10-22T23:54:39+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "U.S. Stocks Fall as Oil Prices Hit Five-Month High",
+         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdnFqcHZzUWtWdEtpVnRIZ1dmdERZRlV6dzJaMXpEQ0prY2lHZG9qSHQzTGR5bTFzRF82VXRlQVJXMDdPRkR6T2hPSjZGMm1CZVVXbGI1U2ItYnRFS3h3ejFuZVY2VkFSdy1ZNGh5VjJsNlphM0hMb2thbFhTQ0lvd1hCTl9uaDNhVG9MVUNFcXRSUGdaYXRJMA?oc=5",
+         "outlet": "Wall Street Journal",
+         "lean": "center",
+         "published": "2026-10-23T20:34:00+00:00",
+         "paywall": true
+        },
+        {
+         "title": "Oil prices hit five-month high as Houthi attacks raise supply fears",
+         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNVklUXy1lMzQ3cUx6Uy03MnIxTmUzRmtwamdfc2o0bVJzRDRuc1BvckJEdU00OGpBalJnZnMwVkdiaTladG5DV29qY0R2SWliWU1LZFFhT3FwcnNhVVdGb2lpRkRFelFpVUVmeUhIOFJtT1pJbjUxQUNpaEFGcEdZX1pxaU5rTEdWVDdOZVpxdi1JeHFnYnp3?oc=5",
+         "outlet": "The Journal Record",
+         "lean": null,
+         "published": "2026-10-22T19:53:53+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Oil hits five-month high as Houthi attacks stoke supply fears",
+         "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOaUJCYWJFR1VUQ2JfYVlWWVBxSzYwMnEzcVQxUU9faWFiYm9qNGxZd2NrX3c1MDZULThNTHRmdG9LOHoxbDdGaHlHcms5aGo0QWxWVGJrSzZSREl6QjJ6eWNGclhyVWpSa0VtMHBIVnBJc2J5YWNMUzdCSVhneWtkTFpqT19Bdw?oc=5",
+         "outlet": "Yahoo Finance",
+         "lean": null,
+         "published": "2026-10-22T17:23:57+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Oil prices jump to five-month high as attacks threaten global supply",
+         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSkIzeWdNTnhad3RfQTdsMFg0OHQ5ejlGVjF2R016akVNelJYNDdVQVNsaE5PRXQ2SWJpT1JDbG5RRmtDdWFEazN2b3FLYkY3eUx5Rmk4bThDcVZmWExKcTFBVW51cEpSUHBPd0ZsUGVnWXF5eTJxY0V1aHlaYUtQTHhsYU00WjdtWk8yOS1UMW9SVVAwN2I3bU43OA?oc=5",
+         "outlet": "The Guardian",
+         "lean": "left",
+         "published": "2026-10-22T16:10:00+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 5,
+       "paywall": false,
+       "lean": "center",
+       "score": 10.89,
        "tag": null,
        "upvotes": 0
       }
@@ -2786,7 +2848,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 7.87,
+       "score": 7.86,
        "tag": null,
        "upvotes": 0
       }
@@ -2809,7 +2871,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.27,
+       "score": 10.25,
        "tag": null,
        "upvotes": 0
       },
@@ -2825,7 +2887,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.99,
+       "score": 9.97,
        "tag": null,
        "upvotes": 0
       },
@@ -2841,7 +2903,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 5.24,
+       "score": 5.22,
        "tag": null,
        "upvotes": 0
       }
@@ -2890,7 +2952,7 @@
        "outlets": 4,
        "paywall": false,
        "lean": null,
-       "score": 12.47,
+       "score": 12.45,
        "tag": null,
        "upvotes": 0
       },
@@ -2915,7 +2977,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 11.93,
+       "score": 11.92,
        "tag": null,
        "upvotes": 0
       },
@@ -2931,7 +2993,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.65,
+       "score": 10.64,
        "tag": null,
        "upvotes": 0
       },
@@ -2947,7 +3009,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.67,
+       "score": 9.66,
        "tag": null,
        "upvotes": 0
       },
@@ -2963,7 +3025,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 8.61,
+       "score": 8.6,
        "tag": null,
        "upvotes": 0
       },
@@ -2979,7 +3041,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 7.64,
+       "score": 7.62,
        "tag": null,
        "upvotes": 0
       },
@@ -2995,7 +3057,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 7.4,
+       "score": 7.39,
        "tag": null,
        "upvotes": 0
       },
@@ -3011,23 +3073,23 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.7,
+       "score": 4.68,
        "tag": null,
        "upvotes": 0
       },
       {
        "title": "Rising US Deficits Stoke Inflation Fears, Lifting Treasury Yields and Backing Gold Demand",
-       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZjZPUVZYMjRfa0hJaFpzWVMyMDhOM2d3QXp4XzRCQlVUTm50eHd0ZVNaaW1IMlMtQVJkRm1RX3ZMZ2laeWdtVDlNQV9wczR2eUdZQUh5bUtBcU5sWTlZWWMwVVdWSnpqN0h3UUtDbk5zeDIyZ3FwS1FwTGp4UkI3ZXFsUTQzcTN1Y2huNUo4dTBhVEQwbWViMF92cC0yOHNOQWdWaUJTTkJKYzA4NW1WdVlWREZqX1VST2NPaXVNWVhvRHJETUZhSTd5bE9Db2M?oc=5",
+       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPd3NWWE5WTW1sMkxFZGV5S1lJb2VyZUZuOExEMEh3WXVIT0lFVUpWS0VWMjdWd0U0TlhwOV8yUzg3NzBIU2U1VU5XSnNiWnR2SGgxc0FhNW5sQjZoREVlRS01ekVrdUY2UEhzdnFRNlk5enE0a0JhaHU1dEh5N255b25sRzUyTVNqZkRDRUdGVXhkcmZqU3BiekRDTGJqY2VFWmVzVmtpVU9KeWdaV01WejJHOFhHOTUwYlMteVJ1NGdrTWp6dGpxMDdLdWVWRVk?oc=5",
        "outlet": "VT Markets",
        "kind": "search",
-       "published": "2026-10-23T11:07:00+00:00",
+       "published": "2026-10-23T10:13:08+00:00",
        "snippet": "",
        "related": [],
        "related_more": 0,
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 3.7,
+       "score": 3.61,
        "tag": null,
        "upvotes": 0
       }
@@ -3045,7 +3107,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.78,
+       "score": 4.77,
        "tag": null,
        "upvotes": 0
       },
@@ -3100,7 +3162,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.66,
+       "score": 10.64,
        "tag": null,
        "upvotes": 0
       },
@@ -3116,7 +3178,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.36,
+       "score": 10.35,
        "tag": null,
        "upvotes": 0
       },
@@ -3141,7 +3203,138 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 8.67,
+       "score": 8.66,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "First human case of Shamonda virus reported in France as patient dies",
+       "url": "https://news.un.org/feed/view/en/story/2026/10/1168652",
+       "outlet": "UN SDGs",
+       "kind": "official",
+       "published": "2026-10-22T12:00:00+00:00",
+       "snippet": "A patient in France has died after being infected with Shamonda virus, the first recorded human case of the disease. Read Full Story on UN News",
+       "related": [
+        {
+         "title": "France reports first human case of livestock virus Shamonda, patient dies; what we know so far",
+         "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZEk1eUJIa2ozdzJRNlRnQXNJVkt4VDE3RXNCQmhmbXlCRkNuVzcxTkI0eXBMZWQ2RnNLUk5uRGFJb3BzQk5OajFVUTRRQ3ZCRWVCWjUyUGxBQXA5TDZ1aER1Q1NDS2JSdlp4SlpnVFZQUzl0bmlkN1dmellSZWNjRlhuNW1iSWY4UUZWTmFxWVlTSkFVZG1qU0tKS3VjUU5BV0c2RDRFYUlUTGJIWUJjNmFLMllldXRwQTFFNjdVcFBYamo0V2dfOFZWNzd6RVMtNVHSAdcBQVVfeXFMTWJpX3pHNFQwb2FGRHB2SWxGVlBuY05zM3lXWnVaOGt1TWtpa2hmTjJxNExEcnlmQjBfYW9teXBad1JSVGpLcG1SUGhJU3JwYVc2U3RGc0R4eFpjM2xBSElXYWc3cXYyUmpaWWpfQ0JIV05yVDU1Nnplb2FSbTJyTHVvR1JxbklFRnNMUkNIVHpjU2UzekV6MkFObWVsUVZ0eWl0bjRMNk5jS2FYbnZQX1d5MWxqbG9JaW9hNjN2aF9QcElWdUZWcFRHbFlFRmtieXJJOXl0ZVk?oc=5",
+         "outlet": "WION",
+         "lean": "right",
+         "published": "2026-10-22T19:28:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "First human case of cattle virus Shamonda: How worried should Europe be? EU agency explains",
+         "url": "https://www.euronews.com/2026/10/23/shamonda-virus-first-human-case-is-an-alert-not-a-reason-to-panic-says-eu-health-agency",
+         "outlet": "Euronews.com",
+         "lean": null,
+         "published": "2026-10-23T13:54:42+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 3,
+       "paywall": false,
+       "lean": null,
+       "score": 7.38,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+       "url": "https://news.un.org/feed/view/en/story/2026/10/1168662",
+       "outlet": "UN SDGs",
+       "kind": "official",
+       "published": "2026-10-23T12:00:00+00:00",
+       "snippet": "The head of the World Health Organization (WHO) is a self-confessed fan of K-pop sensation ENHYPEN and this week, he got the chance to tell them so in person. Read Full Story on UN News",
+       "related": [
+        {
+         "title": "Blood brothers: WHO chief joins ENHYPEN to celebrate drive success",
+         "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNXzQ2eWJGaVl5QlFVaUVaVmF6UGY5TkwyOGlXQjFuenR2YW9TWUJNR1NYT3FjTjM3SThRQ0ZIVFBONVA1SU8xdWhTTnROcXEyQnJ3QndYZ2daYTF2M3J4SVJDdzJQN1dwcjhUMm5KcEY2WUxPUGs2WkRuQVdOQTQzNWZMcjlyd1lLQURuYU8ydURDQlgwU3N0RVNRTEpHRExSYU02V1o3SU5PdU5DcUYtLW5iRHZlUVRMT0J0ZENR?oc=5",
+         "outlet": "Welcome to the United Nations",
+         "lean": null,
+         "published": "2026-10-23T12:00:00+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 2,
+       "paywall": false,
+       "lean": null,
+       "score": 6.73,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "CS sensitizes deptts on SDG-aligned budgeting ahead of next financial year",
+       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONHhIT0JoSy14WG9yRXdZYjJvOGNfVTMzYmVQd0ZfUnd3T1V4cjAxMms4T0JRMlFiWWZEQWtOY1h6Q0s3ZXhUVURHblUzN1VpTTRfOEZrVW5hcDZ0MEdTTXBwWGhoYTJXU1d6TzlUejhEUncwVm1vQ1VtV2Z4NDJUcXlUd3REUnV2b2xfYXdLaEozWmVhQTU1UWtueFVNYkFGV2RfWnJpc0VTMVhGWmfSAa4BQVVfeXFMTjR4SE9CaEsteFhvckV3WWIybzhjX1UzM2JlUHdGX1J3d09VeHIwMTJrOE9CUTJRYllmREFrTmNYekNLN2V4VFVER25VMzdVaU00XzhGa1VuYXA2dDBHU01wcFhoaGEyV1NXek85VHo4RFJ3MFZtb0NVbVdmeDQyVHF5VHd0RFJ1dm9sX2F3S2hKM1plYUE1NVFrbnhVTWJBRldkX1pyaXNFUzFYRlpn?oc=5",
+       "outlet": "Daily Excelsior",
+       "kind": "search",
+       "published": "2026-10-23T23:29:59+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "CS Sensitizes Departments On SDG-Aligned Budgeting Ahead Of Next Financial Year",
+         "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSm9HNjJZRVNTYWFpcHQzQjQwb25vRGw5RUlJUXpoUnh1d0hQOEoxTTN4b3RqcnlMR1VYN2Q2MGwyQ05mYjVSSGo5a29KdVFfQWh5Z3hRNkc4YzZsTHlIUjNiVVlVMzRxWEpuTXFUNEhOSWdpTzdKLW5IZ1Y1OWJWVVJwNDhQVE81a243eXMxQUZSNmI3cGtFc3J1M3BNd2ZEaWgyT1N5MjFDbmZ4SVNmZ1A0MHLSAbQBQVVfeXFMTkpvRzYyWUVTU2FhaXB0M0I0MG9ub0RsOUVJSVF6aFJ4dXdIUDhKMU0zeG90anJ5TEdVWDdkNjBsMkNOZmI1UkhqOWtvSnVRX0FoeWd4UTZHOGM2bEx5SFIzYlVZVTM0cVhKbk1xVDRITklnaU83Si1uSGdWNTliVlVScDQ4UFRPNWtuN3lzMUFGUjZiN3BrRXNydTNwTXdmRGloMk9TeTIxQ25meElTZmdQNDBy?oc=5",
+         "outlet": "Daily Excelsior",
+         "lean": null,
+         "published": "2026-10-23T13:37:40+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 6.72,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "‘Burden and loss’ builds in DR Congo, as Kenya strengthens Ebola containment",
+       "url": "https://news.un.org/feed/view/en/story/2026/10/1168655",
+       "outlet": "UN SDGs",
+       "kind": "official",
+       "published": "2026-10-23T12:00:00+00:00",
+       "snippet": "As Ebola continues to spread in the Democratic Republic of the Congo (DRC), more resources are needed to fight the disease and feed patients and families, UN agencies said on Friday. Read Full Story on UN News",
+       "related": [],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 5.69,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Soil mapping aims to boost agricultural production in Kenya",
+       "url": "https://news.un.org/feed/view/en/story/2026/10/1168657",
+       "outlet": "UN SDGs",
+       "kind": "official",
+       "published": "2026-10-23T12:00:00+00:00",
+       "snippet": "A new Kenyan initiative is helping farmers better understand their soils in a bid to improve crop yields amid intensifying climate shocks. Read Full Story on UN News",
+       "related": [],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 5.69,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "SDGs: Mbah Moves Enugu Beyond Projects, Targets Lasting Development Impact",
+       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYkNzQUNidXFzWm1QaEZJNV9PMzdvblVfZXhQSWhYS2g4WWRhaTZER2tsT2tzWWtmTjF5TExCMUN5eGZkQ1VyLTYwNUZfM0ZEU0U5anN3VVhwMm14WnZMZEgwcGNqVDloZWxhSVM0d3pxUXdhRFQwNGFxMTl5c1BBd3pEemw5VHpwZEd3Skp0bVdjekVSbGZPRUhWVQ?oc=5",
+       "outlet": "LEADERSHIP Newspapers",
+       "kind": "search",
+       "published": "2026-10-23T06:34:15+00:00",
+       "snippet": "",
+       "related": [],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 5.31,
        "tag": null,
        "upvotes": 0
       }
@@ -3221,7 +3414,7 @@
        "outlets": 6,
        "paywall": false,
        "lean": null,
-       "score": 13.21,
+       "score": 13.2,
        "tag": null,
        "upvotes": 0
       },
@@ -3262,23 +3455,40 @@
        "outlets": 4,
        "paywall": true,
        "lean": null,
-       "score": 12.71,
+       "score": 12.7,
        "tag": null,
        "upvotes": 0
       },
       {
        "title": "Miami Startup BOB Raises $5.5M To Build An AI-Powered Banking Platform",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGN5bHpjdi1QTkVuUnI0ZExuR1ozZkc0eURwdUxqNHQtZ1JtcVpPU2lNcXI4bC1xMmpRQ3JEM25QMzN6aGJBd3hnTk52VkdiZjcxMDViVnU3MWlqdnYtS1FYLVJxd0F1NktrenR2ekJha19naHI0VXhQaF9vdVRCTVhYd0dLQm5CeVZjRkJ0anZYSFNIUDJRSzQ5U0EteThTRXRhcDlLNmdHMGMxdTc1azZtQlZSRzJWZU5YaG43MGFsYVE?oc=5",
-       "outlet": "PR Newswire",
+       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPV3c1YnBkU3hUNXpjM0Jjdk5Ha2RKbGpJR2doMGpBRkNmMUQ2SW5vbDg5Mko3Zmo5TUxLWXJMX1MzVGJmUk1RVWZvR0l1SkxLUWhiY2E2VTBudjZ3WFFvbERUdjNIQVIzbXYxa1RWd3VJTlkyVGtDNGRlVXRUd0lqY3psQWZMWlBmVlcxemE0ZVU3N2FLOHhORVRXcTExRlM1QUxiNG9CMVdRNWhkRnk0RUpjUkRUbnJyakJkTEk2NEFySVJjSnc?oc=5",
+       "outlet": "StreetInsider",
        "kind": "search",
-       "published": "2026-10-23T15:30:00+00:00",
+       "published": "2026-10-23T15:42:17+00:00",
        "snippet": "",
-       "related": [],
+       "related": [
+        {
+         "title": "Miami Startup BOB Raises $5.5M To Build An AI-Powered Banking Platform",
+         "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXVoczBWWmZhX0Nla3VqSGlqQmtONTVHT2I1QVAtbnhSOWd1czNWWVpKX2VBUTRQTWVCNmFla19sb3FQZWZjUE40d0V2eC1yYURwNWlCTlpFV2VLZHlwVWRFTElZSVU1YjhKQVVYM04xdFhXZE8tSXFHYVFnRmV4UQ?oc=5",
+         "outlet": "Yahoo Finance UK",
+         "lean": null,
+         "published": "2026-10-23T15:30:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Miami Startup BOB Raises $5.5M To Build An AI-Powered Banking Platform",
+         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWGN5bHpjdi1QTkVuUnI0ZExuR1ozZkc0eURwdUxqNHQtZ1JtcVpPU2lNcXI4bC1xMmpRQ3JEM25QMzN6aGJBd3hnTk52VkdiZjcxMDViVnU3MWlqdnYtS1FYLVJxd0F1NktrenR2ekJha19naHI0VXhQaF9vdVRCTVhYd0dLQm5CeVZjRkJ0anZYSFNIUDJRSzQ5U0EteThTRXRhcDlLNmdHMGMxdTc1azZtQlZSRzJWZU5YaG43MGFsYVE?oc=5",
+         "outlet": "PR Newswire",
+         "lean": null,
+         "published": "2026-10-23T15:30:00+00:00",
+         "paywall": false
+        }
+       ],
        "related_more": 0,
-       "outlets": 1,
+       "outlets": 3,
        "paywall": false,
        "lean": null,
-       "score": 10.07,
+       "score": 11.72,
        "tag": null,
        "upvotes": 0
       },
@@ -3294,7 +3504,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.0,
+       "score": 9.98,
        "tag": null,
        "upvotes": 0
       },
@@ -3310,7 +3520,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.91,
+       "score": 9.9,
        "tag": null,
        "upvotes": 0
       },
@@ -3326,7 +3536,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.89,
+       "score": 9.88,
        "tag": null,
        "upvotes": 0
       },
@@ -3342,7 +3552,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.85,
+       "score": 9.84,
        "tag": null,
        "upvotes": 0
       },
@@ -3358,7 +3568,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.71,
+       "score": 9.7,
        "tag": null,
        "upvotes": 0
       },
@@ -3374,7 +3584,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.55,
+       "score": 9.54,
        "tag": null,
        "upvotes": 0
       },
@@ -3390,7 +3600,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.45,
+       "score": 9.43,
        "tag": null,
        "upvotes": 0
       },
@@ -3406,23 +3616,23 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.35,
+       "score": 9.33,
        "tag": null,
        "upvotes": 0
       },
       {
-       "title": "AI Code-Validation Startup Blacksmith Raises $66M Series C at $1B Valuation",
-       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4wX041NTBfQVNwUkJSbjl5bERaT2RiM2FxN3R0UXQxcDFOdFlieFktMFZzYXFjam0zZHZyZVdTdHI5TTRGalVJS1VrajBnTnZUTVNJ?oc=5",
-       "outlet": "Wowtale",
+       "title": "Could Europe lose its AI talent as startups look abroad for funding and fewer barriers?",
+       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSDQzY0QwcWhpQ1hDd1N5QU9XOF9EUm5fb1FhWFI5RTVsUDU4YUpQRlFaR2luMHdIdkgtcFh4QkpubGNSeXZSdXd0a3ZEaFBpWnRoUUtjQjFOT1RRRVl3dGhXdFF4TnVXdnNCTUtRNm5URy1Vd2t5d1pvWlA0UXV0endMUWpXSkY1M3FDZjVlY002Ykk4MmlVNFdMLTNDRmJLaGVEMkRDSjRiYUJPZzFCa2xkLUZtWHZKdWliVDByVFB5Mk9DMTRPYXZKU25hUWVlTFNKWWZBdkxLMmZhdWw4R2ptaFhJdUY5NFRYZzgyekQxWnPSAfgBQVVfeXFMUGN0MEhnbkY0M2ZiX1pCdXZFdzJLUlAwRThTdmEyODhFalN6LVFNZEtHdnp5ZlRKcVpUcTY5cVp2ZVNVUFNkVzlrdmV3VlFjYmhCdGlfeU9DeGRlT2RRVS1sZUIxeWExc0RUcm1HOWRXOUZwOGxoWDRMdnd6aWhjZldaS283dGRNbk5MZU5tR0lKQzNJUVBpcDJFb3FORmhxek1CaE5fUHhDSDgxZE1paFdLWEg3ZlRaRVFLZWhFNUpzc282WF9XVnpTM1hNeVhJYUV1cTJjN2FDR3hmRFR2Ny1sZ214NU1zcVBaNmpRWnVtRktoWnA2THQ?oc=5",
+       "outlet": "hrme.economictimes.indiatimes.com",
        "kind": "search",
-       "published": "2026-10-22T20:57:39+00:00",
+       "published": "2026-10-23T03:30:00+00:00",
        "snippet": "",
        "related": [],
        "related_more": 0,
        "outlets": 1,
        "paywall": false,
-       "lean": null,
-       "score": 8.52,
+       "lean": "center",
+       "score": 9.05,
        "tag": null,
        "upvotes": 0
       }
@@ -3528,7 +3738,7 @@
        "outlets": 9,
        "paywall": false,
        "lean": null,
-       "score": 13.22,
+       "score": 13.21,
        "tag": null,
        "upvotes": 0
       },
@@ -3538,16 +3748,8 @@
        "outlet": "YourStory.com",
        "kind": "search",
        "published": "2026-10-24T02:15:43+00:00",
-       "snippet": "The iPhone Duo, Apple's first foldable phone, sparked long lines in Miami Beach starting Wednesday. It is priced at $1,999.",
+       "snippet": "",
        "related": [
-        {
-         "title": "First foldable iPhone causes long lines in Miami",
-         "url": "https://en.cibercuba.com/noticias/2026-10-24-u1-e199894-s27061-nid343648-primer-iphone-plegable-provoca-largas-filas-miami",
-         "outlet": "CiberCuba",
-         "lean": null,
-         "published": "2026-10-23T23:24:23+00:00",
-         "paywall": false
-        },
         {
          "title": "Apple Launches into Foldable Market as iPhone Duo Sales Begin",
          "url": "https://english.aawsat.com/node/5332596",
@@ -3558,10 +3760,10 @@
         }
        ],
        "related_more": 0,
-       "outlets": 3,
+       "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 12.61,
+       "score": 11.99,
        "tag": null,
        "upvotes": 0
       },
@@ -3577,7 +3779,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.63,
+       "score": 10.62,
        "tag": null,
        "upvotes": 0
       },
@@ -3593,7 +3795,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.54,
+       "score": 10.52,
        "tag": null,
        "upvotes": 0
       },
@@ -3609,7 +3811,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.31,
+       "score": 10.29,
        "tag": null,
        "upvotes": 0
       },
@@ -3634,7 +3836,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.28,
+       "score": 10.27,
        "tag": null,
        "upvotes": 0
       },
@@ -3659,7 +3861,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 10.24,
+       "score": 10.22,
        "tag": null,
        "upvotes": 0
       },
@@ -3675,7 +3877,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.86,
+       "score": 9.84,
        "tag": null,
        "upvotes": 0
       },
@@ -3700,7 +3902,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 9.11,
+       "score": 9.09,
        "tag": null,
        "upvotes": 0
       },
@@ -3716,7 +3918,7 @@
        "outlets": 1,
        "paywall": true,
        "lean": null,
-       "score": 8.94,
+       "score": 8.93,
        "tag": null,
        "upvotes": 0
       },
@@ -3732,7 +3934,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 8.34,
+       "score": 8.33,
        "tag": null,
        "upvotes": 0
       },
@@ -3741,14 +3943,14 @@
        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uNnY0Q1VjZkRuem1IQS1rUVRFNG5PYkdKcFpkemZVYURRdEhrcHNSUER5cGp3UG9DR2hYUTdmeUhDZkJMeU85ek1lZFAzODg1Y2ZTNjlrQUo3Vm50S0M4djd5VmVyTnNaVzFn?oc=5",
        "outlet": "Bandwidth Blog",
        "kind": "search",
-       "published": "2026-10-23T14:50:46+00:00",
+       "published": "2026-10-23T14:30:20+00:00",
        "snippet": "",
        "related": [],
        "related_more": 0,
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 8.01,
+       "score": 7.97,
        "tag": null,
        "upvotes": 0
       }
@@ -3815,7 +4017,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 11.9,
+       "score": 11.89,
        "tag": null,
        "upvotes": 0
       },
@@ -3886,7 +4088,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 7.6,
+       "score": 7.59,
        "tag": null,
        "upvotes": 0
       },
@@ -3902,7 +4104,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 5.21,
+       "score": 5.19,
        "tag": null,
        "upvotes": 0
       },
@@ -3918,7 +4120,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 3.84,
+       "score": 3.82,
        "tag": null,
        "upvotes": 0
       },
@@ -3934,7 +4136,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 3.37,
+       "score": 3.35,
        "tag": null,
        "upvotes": 0
       }
@@ -4032,7 +4234,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.76,
+       "score": 4.75,
        "tag": null,
        "upvotes": 0
       }
@@ -4043,7 +4245,7 @@
        "url": "https://huggingface.co/papers/2610.30949",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-23T14:41:51.494006+00:00",
+       "published": "2026-10-23T14:52:09.943074+00:00",
        "snippet": "We present IQuest-Q1, a sparse Mixture-of-Experts (MoE) agentic foundation model with 320B total parameters (15B activated). IQuest-Q1 is developed through a three-stage process: (1) stable and efficient pre-training, combining Stable SplitNorm…",
        "related": [
         {
@@ -4068,7 +4270,7 @@
        "url": "https://huggingface.co/papers/2610.25100",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-23T14:41:51.494006+00:00",
+       "published": "2026-10-23T14:52:09.943074+00:00",
        "snippet": "Large language models need effective ways to acquire and use external knowledge beyond what they retain from pretraining. Continued pretraining risks catastrophic forgetting, while retrieval at inference time can add substantial overhead. External…",
        "related": [],
        "related_more": 0,
@@ -4084,7 +4286,7 @@
        "url": "https://huggingface.co/papers/2610.30418",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-23T14:41:51.494006+00:00",
+       "published": "2026-10-23T14:52:09.943074+00:00",
        "snippet": "Modern LLM agents can retrieve information from accessible documents, and then disclose a sensitive conclusion assembled from them. This mosaic effect creates a critical risk for agents operating over confidential data. We quantify its realization…",
        "related": [
         {
@@ -4109,7 +4311,7 @@
        "url": "https://huggingface.co/papers/2610.26233",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-23T14:41:51.494006+00:00",
+       "published": "2026-10-23T14:52:09.943074+00:00",
        "snippet": "Tool-using voice agents often leave users waiting after speech ends, even when actionable information arrives earlier in the request. Speculative approaches begin work during speech, but chunk-bounded or interrupt-on-update generation can truncate a…",
        "related": [],
        "related_more": 0,
@@ -4125,7 +4327,7 @@
        "url": "https://huggingface.co/papers/2610.19705",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-23T14:41:51.494006+00:00",
+       "published": "2026-10-23T14:52:09.943074+00:00",
        "snippet": "LLM routing dynamically selects and coordinates heterogeneous language models across diverse tasks. However, existing approaches are largely built around a predefined execution paradigm, such as single-round, multi-round, or agentic routing, which…",
        "related": [],
        "related_more": 0,
@@ -4141,7 +4343,7 @@
        "url": "https://huggingface.co/papers/2610.30755",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-23T14:41:51.494006+00:00",
+       "published": "2026-10-23T14:52:09.943074+00:00",
        "snippet": "LLM memory is widely used in long-term conversation understanding. Agentic memory systems often use mutation, structural organization, learned retrieval strategies, or other complex operations. Is this complexity always necessary? We study Raw-RAG…",
        "related": [],
        "related_more": 0,
@@ -4157,7 +4359,7 @@
        "url": "https://huggingface.co/papers/2610.31494",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-23T14:41:51.494006+00:00",
+       "published": "2026-10-23T14:52:09.943074+00:00",
        "snippet": "Vision-language models (VLMs) can perform a broad range of tasks across diverse settings, yet their performance in agentic contexts remains poorly understood. Although online evaluations in simulators and real-world environments are essential for…",
        "related": [],
        "related_more": 0,
@@ -4173,7 +4375,7 @@
        "url": "https://huggingface.co/papers/2610.31158",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-23T14:41:51.494006+00:00",
+       "published": "2026-10-23T14:52:09.943074+00:00",
        "snippet": "Deep research agents synthesize open-web evidence into long reports, but current benchmarks do not evaluate research centered on a source video. We introduce Video-Centered Deep Research Report Generation. Given a video and user request, an agent…",
        "related": [
         {
@@ -4206,7 +4408,7 @@
        "url": "https://huggingface.co/papers/2610.30181",
        "outlet": "HF Daily Papers",
        "kind": "paper",
-       "published": "2026-10-23T14:41:51.494006+00:00",
+       "published": "2026-10-23T14:52:09.943074+00:00",
        "snippet": "Despite substantial progress in Deep Search agents, their ability to conduct end-to-end research in real-world open Web environments remains insufficiently evaluated. Unlike static retrieval settings, information on the real-world Web is distributed…",
        "related": [],
        "related_more": 0,
@@ -4229,7 +4431,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.26,
+       "score": 10.25,
        "tag": null,
        "upvotes": 0
       },
@@ -4245,7 +4447,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.18,
+       "score": 10.17,
        "tag": null,
        "upvotes": 0
       },
@@ -4261,7 +4463,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.04,
+       "score": 10.03,
        "tag": null,
        "upvotes": 0
       },
@@ -4293,7 +4495,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.7,
+       "score": 9.69,
        "tag": null,
        "upvotes": 0
       },
@@ -4325,7 +4527,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 6.3,
+       "score": 6.29,
        "tag": null,
        "upvotes": 0
       }
@@ -4347,7 +4549,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.5,
+       "score": 9.48,
        "tag": null,
        "upvotes": 0
       },
@@ -4372,7 +4574,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 6.02,
+       "score": 6.01,
        "tag": null,
        "upvotes": 0
       },
@@ -4405,7 +4607,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": null,
-       "score": 5.94,
+       "score": 5.93,
        "tag": null,
        "upvotes": 0
       },
@@ -4421,7 +4623,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 5.71,
+       "score": 5.7,
        "tag": null,
        "upvotes": 0
       },
@@ -4437,7 +4639,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.57,
+       "score": 4.56,
        "tag": null,
        "upvotes": 0
       },
@@ -4453,7 +4655,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.34,
+       "score": 4.32,
        "tag": null,
        "upvotes": 0
       },
@@ -4469,7 +4671,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.31,
+       "score": 4.29,
        "tag": null,
        "upvotes": 0
       },
@@ -4485,7 +4687,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.18,
+       "score": 4.17,
        "tag": null,
        "upvotes": 0
       },
@@ -4501,7 +4703,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.09,
+       "score": 4.08,
        "tag": null,
        "upvotes": 0
       },
@@ -4517,7 +4719,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.03,
+       "score": 4.02,
        "tag": null,
        "upvotes": 0
       },
@@ -4527,13 +4729,13 @@
        "outlet": "Social Media Today",
        "kind": "news",
        "published": "2026-10-22T22:36:18+00:00",
-       "snippet": "On a third quarter earnings call, CEO Mark Zuckerberg touted the artificial intelligence agent’s download numbers and outlined its benefits.",
+       "snippet": "In its third-quarter earnings transcript, CEO Mark Zuckerberg touted the artificial intelligence agent’s download numbers and outlined its benefits.",
        "related": [],
        "related_more": 0,
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.02,
+       "score": 4.0,
        "tag": null,
        "upvotes": 0
       },
@@ -4558,7 +4760,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 3.98,
+       "score": 3.96,
        "tag": null,
        "upvotes": 0
       }
@@ -4588,7 +4790,7 @@
         },
         {
          "title": "Generative Bionics to build European ‘physical AI data factory’ for humanoid robots",
-         "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUDB5Rmk0VFBqNzZGaWF0aW9CbGVRNDAtczRncnRMOWNUYXdFdF9JQWc4X1gtRFhTR3AyTmtKMlYtLVNaX0NyYjBVWlVCUU9xd3RMNjljektROU1zNlJ0c0tqWVZJeWNfMHhSajJtQ2FwZHlHb3dpM04wejRleFY2anFnZDQzR29UdGtqS2F6Vi1pV0M4M3lzNnFodWM3LWtHNDlabUtYQjlJVW9rTThJd2RoaEI1ZWFLaU50LVVvbWx3Tm9rTkpIaVZRSDRBeVl0RFpGbQ?oc=5",
+         "url": "https://roboticsandautomationnews.com/2026/10/23/generative-bionics-to-build-european-physical-ai-data-factory-for-humanoid-robots/106245/",
          "outlet": "Robotics & Automation News",
          "lean": null,
          "published": "2026-10-23T08:53:59+00:00",
@@ -4599,7 +4801,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": null,
-       "score": 16.0,
+       "score": 15.99,
        "tag": null,
        "upvotes": 0
       },
@@ -4615,7 +4817,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 14.07,
+       "score": 14.05,
        "tag": null,
        "upvotes": 0
       },
@@ -4631,7 +4833,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 12.45,
+       "score": 12.44,
        "tag": null,
        "upvotes": 0
       },
@@ -4664,7 +4866,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": null,
-       "score": 11.62,
+       "score": 11.61,
        "tag": null,
        "upvotes": 0
       },
@@ -4680,7 +4882,23 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.72,
+       "score": 10.7,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "[Science Video] KAIST humanoid robot attends National Assembly audit",
+       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45clhiWU9Wd3E0Rm9FdE1WLW9vSElVNmVZUUFVX2VKX1dkRGxNV3pTR19EUnJRR1JqcTFHWHk5LWJYNkR6SkgyMEZpdFBZQU5oT2lHOQ?oc=5",
+       "outlet": "DongA Science",
+       "kind": "search",
+       "published": "2026-10-23T23:00:00+00:00",
+       "snippet": "",
+       "related": [],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 10.68,
        "tag": null,
        "upvotes": 0
       },
@@ -4696,7 +4914,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.37,
+       "score": 10.35,
        "tag": null,
        "upvotes": 0
       },
@@ -4712,7 +4930,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.3,
+       "score": 10.28,
        "tag": null,
        "upvotes": 0
       },
@@ -4728,7 +4946,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.23,
+       "score": 10.22,
        "tag": null,
        "upvotes": 0
       },
@@ -4744,7 +4962,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.23,
+       "score": 10.21,
        "tag": null,
        "upvotes": 0
       },
@@ -4760,7 +4978,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.05,
+       "score": 10.03,
        "tag": null,
        "upvotes": 0
       },
@@ -4776,23 +4994,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.97,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "RoboParty RP1 Humanoid Releases Full PCB Files; Chinese Data Laws Cannot Be Waived",
-       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNld0a2xQTGEwaTVCMTljVXlIZUNLSmpsMkx6alRiRXNsNWw0ejdPNFowSnpPWmJPbE80RXg0dFJzeEVITVpla000b2lqSFFCMzhtanpiYk0zVmpORENqcFQzd0VMR1FiaS0xY3ZRYl9uQWwwWGRrTXNtZTE2SmFReVZpYnlXUGd6WEhabW9DVzYzR2g2aGVQZWwxQVdNSl9VTUtmSnJUWUJIZWJURDYtS1RtUFU3dWktcDFGbVY1cjM5QU8zMV9EVUstVms1dw?oc=5",
-       "outlet": "Tech Times",
-       "kind": "search",
-       "published": "2026-10-23T13:57:29+00:00",
-       "snippet": "",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 9.94,
+       "score": 9.96,
        "tag": null,
        "upvotes": 0
       }
@@ -4810,7 +5012,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 14.69,
+       "score": 14.68,
        "tag": null,
        "upvotes": 0
       }
@@ -4844,7 +5046,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.62,
+       "score": 10.61,
        "tag": null,
        "upvotes": 0
       },
@@ -4860,7 +5062,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.58,
+       "score": 10.57,
        "tag": null,
        "upvotes": 0
       },
@@ -4876,7 +5078,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.53,
+       "score": 10.52,
        "tag": null,
        "upvotes": 0
       },
@@ -4892,7 +5094,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.53,
+       "score": 10.52,
        "tag": null,
        "upvotes": 0
       },
@@ -4908,7 +5110,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.46,
+       "score": 10.45,
        "tag": null,
        "upvotes": 0
       },
@@ -4940,7 +5142,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.29,
+       "score": 10.28,
        "tag": null,
        "upvotes": 0
       }
@@ -5003,7 +5205,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 10.85,
+       "score": 10.84,
        "tag": null,
        "upvotes": 0
       },
@@ -5019,7 +5221,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.84,
+       "score": 10.83,
        "tag": null,
        "upvotes": 0
       },
@@ -5051,7 +5253,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 5.8,
+       "score": 5.79,
        "tag": null,
        "upvotes": 0
       },
@@ -5147,7 +5349,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 3.79,
+       "score": 3.78,
        "tag": null,
        "upvotes": 0
       }
@@ -5165,7 +5367,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 7.76,
+       "score": 7.75,
        "tag": null,
        "upvotes": 0
       },
@@ -5283,7 +5485,7 @@
        "outlets": 4,
        "paywall": false,
        "lean": "center",
-       "score": 13.79,
+       "score": 13.78,
        "tag": null,
        "upvotes": 0
       },
@@ -5348,81 +5550,7 @@
        "outlets": 7,
        "paywall": false,
        "lean": "left",
-       "score": 13.61,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Conte plays down 'unfounded' Man Utd speculation",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
-       "outlet": "BBC Sport",
-       "kind": "news",
-       "published": "2026-10-23T12:15:53+00:00",
-       "snippet": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United.",
-       "related": [
-        {
-         "title": "Antonio Conte denies advanced talks to replace Michael Carrick as Manchester United manager",
-         "url": "https://sportstar.thehindu.com/football/epl/manchester-united-coach-antonio-conte-update-huerzeler-carrick-pressure-resign-football/article71616575.ece",
-         "outlet": "Sportstar",
-         "lean": "left",
-         "published": "2026-10-23T13:52:45+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Fabian Hurzeler, Antonio Conte distance themselves from potential Manchester United job",
-         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjZXTy1JNUdNcjd1cEV6SFBvdFRNOWNXOFdrVi1MWlVJb0NCRjZjZlhUamhEejNHY1ZCRjFSLTNzUnNwWmx2VWpNQkpzQnlIODAwdFNtNGNTTnhXanVEWEpKdlZmNjVKRkY2U1hwSHhXc0Nhb3pfM3Q0NWQ0WFlTM1haYllYNjNyZ2E1U0l1bXZLdkNZY3pQcg?oc=5",
-         "outlet": "The Athletic",
-         "lean": "left",
-         "published": "2026-10-23T13:12:06+00:00",
-         "paywall": true
-        },
-        {
-         "title": "Antonio Conte, Fabian Hürzeler distance themselves from Man United job",
-         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3dtVUowbHR5eFFCaXdqR2dPRS13NHJ4aTZkdEl1T1N2SS1hZ3o0aDBWODh0TktTNjhHcFB0V0JrbXpOdU9od1RIMURXSXJpSFV3V2VsU3lGeGd4RXFHcXlLRG8wZll1WVc0TGZiOXNfLTBQT3NYZEl4MHNJbktGRkVMUEJSTXM0SjN0R1dHa3pIb3c2U19peGdhTXVaY2REMjVqV2h3?oc=5",
-         "outlet": "ESPN FC",
-         "lean": null,
-         "published": "2026-10-23T12:07:00+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Antonio Conte makes official Man Utd statement",
-         "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/man-utd-news-antonio-conte-statement-instagram-michael-carrick-sack-rumours",
-         "outlet": "FootballTransfers.com",
-         "lean": null,
-         "published": "2026-10-23T11:43:00+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 5,
-       "paywall": false,
-       "lean": "center",
-       "score": 13.35,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Tottenham's Roberto De Zerbi denies Chelsea raids of former club Brighton are extra motivation for derby",
-       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaERkM0xxaGJxcTFuOFg5UnhnZG15TFhzODB1alkwXzMxRFB3U0g3R0FtSkswTXN3YThkSXc3LTdJOUpTYjJfSjhGVjR6bWZHUWppdXNLQXZJM0VLUjlQY3dzSVROdlJEcy1saVB1S2lBT2lhRE1wZjR4RExPNnVWbWkwZmJBQVZFWHgzMi14Nlg5VEVNVUdxUlhRUGVwSGlGRTJjd1A3TlJFQ1JzS3FGWU5zeW1OTmxEaG5R?oc=5",
-       "outlet": "ESPN FC",
-       "kind": "news",
-       "published": "2026-10-23T14:33:00+00:00",
-       "snippet": "",
-       "related": [
-        {
-         "title": "Tottenham's Roberto De Zerbi denies Chelsea raids of former club Brighton are extra motivation for derby",
-         "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoQXQyVEZ1NjNnUWVEcFpzRWZjRWNEZVZtLWs1QmlzaUFkdXQycDhZcGtVc2RGNFR5TXFkODRrQjBVNFZyZElKck9Vd3Z6SXFqMzFXWDV1RUpPQQ?oc=5",
-         "outlet": "ESPN",
-         "lean": null,
-         "published": "2026-10-23T14:33:00+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 2,
-       "paywall": false,
-       "lean": null,
-       "score": 13.03,
+       "score": 13.6,
        "tag": null,
        "upvotes": 0
       },
@@ -5438,7 +5566,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "center",
-       "score": 13.01,
+       "score": 13.0,
        "tag": null,
        "upvotes": 0
       },
@@ -5511,48 +5639,7 @@
        "outlets": 8,
        "paywall": false,
        "lean": "left",
-       "score": 12.56,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Fernandes to stay captain as Rooney calls Man Utd players babies",
-       "url": "https://www.bbc.co.uk/sport/football/articles/cqe8rglz8p90o?at_medium=RSS&at_campaign=rss",
-       "outlet": "BBC Sport",
-       "kind": "news",
-       "published": "2026-10-22T16:19:30+00:00",
-       "snippet": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his post-match criticism of Michael Carrick after the 4-1 Champions League defeat by Como.",
-       "related": [
-        {
-         "title": "Wayne Rooney calls Manchester United players ‘selfish’ after Bruno Fernandes criticises coaching staff",
-         "url": "https://sportstar.thehindu.com/football/rooney-calls-manchester-united-players-selfish-bruno-fernandes-criticism/article71615124.ece",
-         "outlet": "Sportstar",
-         "lean": "left",
-         "published": "2026-10-23T07:50:19+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Wayne Rooney: Bruno Fernandes, Man United players acting like 'babies'",
-         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFJ4TXg3d2pIU25WSklZdVlYaWxjeXJNLThRdEl0MnpmZ3JLcjZwbjFUcTRsR0stMWRRUURRMHhkOXpOWVBDRWxpYnUzd2VvWjI2TFJELWpwN18tV1JVTXM0YWVUbW1JOERfOEJKb3BJUFc5WDRaTDhvTzdZcFNSRVlYNmNHa0hjTW1pTGZhUjdGMUQzUVA4Qw?oc=5",
-         "outlet": "ESPN FC",
-         "lean": null,
-         "published": "2026-10-22T19:21:00+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Rooney Calls United Squad ‘Selfish Babies’ After Fernandes Criticism",
-         "url": "https://english.aawsat.com/node/5332601",
-         "outlet": "ASHARQ AL-AWSAT English",
-         "lean": null,
-         "published": "2026-10-23T06:49:17+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 4,
-       "paywall": false,
-       "lean": "center",
-       "score": 12.51,
+       "score": 12.55,
        "tag": null,
        "upvotes": 0
       },
@@ -5585,7 +5672,7 @@
        "outlets": 4,
        "paywall": false,
        "lean": "center",
-       "score": 12.21,
+       "score": 12.2,
        "tag": null,
        "upvotes": 0
       },
@@ -5601,7 +5688,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "left",
-       "score": 11.94,
+       "score": 11.93,
        "tag": null,
        "upvotes": 0
       },
@@ -5617,7 +5704,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "left",
-       "score": 11.57,
+       "score": 11.55,
        "tag": null,
        "upvotes": 0
       },
@@ -5633,7 +5720,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 11.53,
+       "score": 11.52,
        "tag": null,
        "upvotes": 0
       },
@@ -5649,7 +5736,64 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 11.37,
+       "score": 11.36,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Premier League predictions: Chelsea vs Tottenham, Arsenal vs Everton and the rest of GW8",
+       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZElfN2IwTXBPR1pYVE9zeDVrNWxxQUVFVndZcjR1S0JrU2g4MTJDYkVDb0Zfa1pjZ3FoUXBlWlVuUmNBREhvUVFDbmppLWRxMVAzT0otN0l6aXlHYl90QnE0ZHNhQ3hVT25pX29MRGNUTkFLMDhwdVlTRG5RQnNKb0NPSnNZWU42M3Rj?oc=5",
+       "outlet": "The Athletic",
+       "kind": "news",
+       "published": "2026-10-23T06:57:14+00:00",
+       "snippet": "",
+       "related": [],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": true,
+       "lean": "left",
+       "score": 10.34,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "A Ballon d'Or campaign as fierce off the pitch as on it",
+       "url": "https://www.bbc.co.uk/sport/football/articles/c65yng4x302jo?at_medium=RSS&at_campaign=rss",
+       "outlet": "BBC Sport",
+       "kind": "news",
+       "published": "2026-10-23T06:06:38+00:00",
+       "snippet": "The Ballon d'Or is football's greatest individual accolade - and the thirst to win it has grown in recent years.",
+       "related": [],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": "center",
+       "score": 10.27,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "United States to host inaugural Women’s Club World Cup in 2028 as first seven teams confirmed - The Athletic",
+       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLUVSQU5HNkpmSFhBOGtqb2lTS3VzcGlIZ0pvMy10bkFCZ0lYNlZvUjhzYk5wNDdNenkyZ2lhNlY2WHpsVjF3Rll2SmxvNG5lTVJrZlV4eFdEUDNzYmd6SVhkYWVBeDBVOEwycGdFdGowTXNTaUE3ZVVNSEdiTzRSMFJpbkdldw?oc=5",
+       "outlet": "The Athletic",
+       "kind": "news",
+       "published": "2026-10-22T16:11:00+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "FIFA picks the US as host of the first Women’s Club World Cup in 2028",
+         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOajkyR3FXSVhmWmI3LV9pell0UkhiSWstSTdrN0NqTzBXSUpvcXU5LWNFUUg5MjlCb2tKVXlRRlpwY1dPcUtZR3Y4NXVrNWM0VjRrbWVONXo2MU5qdFh4Y0JWaTB6bGlPbThlOF9fbGhTN1VyMnRENG9HYnRfbURMc0lNVFkzT19nWjE5WQ?oc=5",
+         "outlet": "AP News",
+         "lean": "center",
+         "published": "2026-10-22T16:57:00+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 2,
+       "paywall": true,
+       "lean": "left",
+       "score": 10.21,
        "tag": null,
        "upvotes": 0
       }
@@ -5662,6 +5806,152 @@
      "title": "Transfers",
      "news": [
       {
+       "title": "Conte plays down 'unfounded' Man Utd speculation",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cmvg6j8jezn7o?at_medium=RSS&at_campaign=rss",
+       "outlet": "BBC Sport",
+       "kind": "news",
+       "published": "2026-10-23T12:15:53+00:00",
+       "snippet": "Antonio Conte says he is not in advanced talks with any club, in response to speculation he has held talks with Manchester United.",
+       "related": [
+        {
+         "title": "Antonio Conte denies advanced talks to replace Michael Carrick as Manchester United manager",
+         "url": "https://sportstar.thehindu.com/football/epl/manchester-united-coach-antonio-conte-update-huerzeler-carrick-pressure-resign-football/article71616575.ece",
+         "outlet": "Sportstar",
+         "lean": "left",
+         "published": "2026-10-23T13:52:45+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Fabian Hurzeler, Antonio Conte distance themselves from potential Manchester United job",
+         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONjZXTy1JNUdNcjd1cEV6SFBvdFRNOWNXOFdrVi1MWlVJb0NCRjZjZlhUamhEejNHY1ZCRjFSLTNzUnNwWmx2VWpNQkpzQnlIODAwdFNtNGNTTnhXanVEWEpKdlZmNjVKRkY2U1hwSHhXc0Nhb3pfM3Q0NWQ0WFlTM1haYllYNjNyZ2E1U0l1bXZLdkNZY3pQcg?oc=5",
+         "outlet": "The Athletic",
+         "lean": "left",
+         "published": "2026-10-23T13:12:06+00:00",
+         "paywall": true
+        },
+        {
+         "title": "The spectre of Antonio Conte looms over Manchester United. Should they press the button?",
+         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM3lyTWlaYkcxLURwSTVoUDVaQ3pHRjcyWkV1LWN4MGU1WUluTHhYRUlOeWtJTFdxNFhZVXl1Tzd4dGVNaEk4bFQ2QmJNMEF6Zks4ekRDbEpNVmFmcWUtNDE2UE1nT0lobWVGMWRXWkRvR3NQMUdfbmFsOUhQTEtUOFpWZ2pFaGxyS2c3T3JtQjJQcDVRTTVOTFlIdjRmc2t3RjNDMDJpUDk4TlU?oc=5",
+         "outlet": "The Athletic",
+         "lean": "left",
+         "published": "2026-10-23T13:00:55+00:00",
+         "paywall": true
+        },
+        {
+         "title": "Antonio Conte, Fabian Hürzeler distance themselves from Man United job",
+         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQM3dtVUowbHR5eFFCaXdqR2dPRS13NHJ4aTZkdEl1T1N2SS1hZ3o0aDBWODh0TktTNjhHcFB0V0JrbXpOdU9od1RIMURXSXJpSFV3V2VsU3lGeGd4RXFHcXlLRG8wZll1WVc0TGZiOXNfLTBQT3NYZEl4MHNJbktGRkVMUEJSTXM0SjN0R1dHa3pIb3c2U19peGdhTXVaY2REMjVqV2h3?oc=5",
+         "outlet": "ESPN FC",
+         "lean": null,
+         "published": "2026-10-23T12:07:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Man Utd Transfer News: United Hold Talks with Antonio Conte",
+         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMDBHQkhQNkJfckU3OUdla3UzOU1rR1VjSDJOSnJIakNEWnFmM0d3ekYwb3RPZ3hpSV92WjFzTU1JeHR4VG9MRGtrYTc5Q09QNjFoMmRDT25QMGMyWlJoOTgxTW1ydFh2RDRuRGNaZG5YbVFyOG9OS3JSdWdNa09VWVUwbDEwS3RhLVBLYjVMYW9YZWVUTnMtU3JET2oxb2ZvVkdGU2s3UVZUWUhkRmdsekpDdXc3RUJHbGZ2OTlPaG1uRGgzMGFXV25pUHc?oc=5",
+         "outlet": "The Transfer Tavern",
+         "lean": null,
+         "published": "2026-10-23T20:00:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Antonio Conte makes official Man Utd statement",
+         "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/man-utd-news-antonio-conte-statement-instagram-michael-carrick-sack-rumours",
+         "outlet": "FootballTransfers.com",
+         "lean": null,
+         "published": "2026-10-23T11:43:00+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 6,
+       "paywall": false,
+       "lean": "center",
+       "score": 15.12,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Carrick refuses to rule out dropping Fernandes in emotional address",
+       "url": "https://www.bbc.co.uk/sport/football/articles/cq78pv0073dlo?at_medium=RSS&at_campaign=rss",
+       "outlet": "BBC Sport",
+       "kind": "news",
+       "published": "2026-10-23T13:55:37+00:00",
+       "snippet": "Michael Carrick speaks for five uninterrupted minutes at media briefing to outline what Manchester United means to him, then refuses to rule out dropping Bruno Fernandes.",
+       "related": [
+        {
+         "title": "Carrick refuses to rule out dropping Bruno Fernandes for Man United clash with Bournemouth",
+         "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQjVHNGx1djVidDBWb2MzZGZJc1RCR24wNE9GQ0wxaTg1ajVkVWh6T0wtMktxOEpsa2NUQzdtQ1VmcFhzdFVnWHd0S2Zucl92RGpkSWtnR2dFdS1nb05Cb01sdUVyalhYaDhNOVExc3BDREhrNWtkTUhIdGlWaEQyOUYwaC1Sakh3LS1sM3JoR0FwLUJiMGlxVlR0VTBNYV9HUm1oNmNzR1JYVnk5LV9WMFh0eEhnQkVfZGZfd2ZMYw?oc=5",
+         "outlet": "ESPN FC",
+         "lean": null,
+         "published": "2026-10-23T13:15:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Should Man Utd boss Carrick drop captain Fernandes?",
+         "url": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&at_campaign=rss",
+         "outlet": "BBC Sport",
+         "lean": "center",
+         "published": "2026-10-23T08:28:21+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Wayne Rooney calls Manchester United players ‘selfish’ after Bruno Fernandes criticises coaching staff",
+         "url": "https://sportstar.thehindu.com/football/rooney-calls-manchester-united-players-selfish-bruno-fernandes-criticism/article71615124.ece",
+         "outlet": "Sportstar",
+         "lean": "left",
+         "published": "2026-10-23T07:50:19+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Bruno Fernandes' home burgled during Man United loss against Como",
+         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNWxNeS1ONHhuMXdicHFFelR1Y0l3RzBZcW5HMU5tSXZKOGlncE9TYld0dnVlQXI5dkhtNHlrMjVKNlAzdHVYd21TZl9CMXFMYVdFd2lESm9ETmlpdW5nWndybnZ5VWNqN0N4bTA3MHgySldCRFR3cEJQSkt0dU5vX3FhdVBLYjRVM3dkNEdLcFFUM0Fmd2VaRHYxdHhXUQ?oc=5",
+         "outlet": "ESPN FC",
+         "lean": null,
+         "published": "2026-10-23T07:27:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Wayne Rooney: Bruno Fernandes, Man United players acting like 'babies'",
+         "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTFJ4TXg3d2pIU25WSklZdVlYaWxjeXJNLThRdEl0MnpmZ3JLcjZwbjFUcTRsR0stMWRRUURRMHhkOXpOWVBDRWxpYnUzd2VvWjI2TFJELWpwN18tV1JVTXM0YWVUbW1JOERfOEJKb3BJUFc5WDRaTDhvTzdZcFNSRVlYNmNHa0hjTW1pTGZhUjdGMUQzUVA4Qw?oc=5",
+         "outlet": "ESPN FC",
+         "lean": null,
+         "published": "2026-10-22T19:21:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Fernandes to stay captain as Rooney calls Man Utd players babies",
+         "url": "https://www.bbc.co.uk/sport/football/articles/cqe8rglz8p90o?at_medium=RSS&at_campaign=rss",
+         "outlet": "BBC Sport",
+         "lean": "center",
+         "published": "2026-10-22T16:19:30+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Bruno Fernandes tipped to leave Man United in £80m January transfer",
+         "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPcUFuX2Q2TUhITlhzODBTTU5KZkExY2JYdzM5dlk4TjBQUk8zWk1NS0dkdm1pYVNBSTIyMjE4ZjNXUTRVaG9KSV82OE5jdFBiYk9walJOMHpscmpXNHFDT2NuNVdfc3gyTW9MSngxdUJXZkNzM2pGbnd3cXNJZllMQkxrZlo1NE02WmZKMXVfUWZoQQ?oc=5",
+         "outlet": "talkSPORT",
+         "lean": null,
+         "published": "2026-10-23T10:34:33+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Rooney Calls United Squad ‘Selfish Babies’ After Fernandes Criticism",
+         "url": "https://english.aawsat.com/node/5332601",
+         "outlet": "ASHARQ AL-AWSAT English",
+         "lean": null,
+         "published": "2026-10-23T06:49:17+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 5,
+       "paywall": false,
+       "lean": "center",
+       "score": 14.34,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
        "title": "Transfer rumors, news: Barcelona to end up signing Sullivan?",
        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYTdzUURFaE8zOEx1d3gxeV9TNER1RjZGVjRhVXNaU2FLMHpvZWZfbkh5SzFaNW5mdGVuTk1oY1dLeUFIRzJVd0VQWG5UMVp5SWc2eHRjR0YwLVQwVi1vSmQ1VFpGVkJzZU50UjMxQnJtXzlEZEJlNVVGS1JTOFpjdDRqSFRmSFEtTlZhTms2bEtnd2ZiOVdkaXJzbnVrOFZ5NHZIOG1EZjZBa2FoSVVzaXdZSGVfNTM2?oc=5",
        "outlet": "ESPN FC",
@@ -5673,7 +5963,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 14.33,
+       "score": 14.32,
        "tag": null,
        "upvotes": 0
       },
@@ -5714,89 +6004,7 @@
        "outlets": 4,
        "paywall": false,
        "lean": "center",
-       "score": 12.16,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Premier League transfer LATEST: Man Utd eye Howe, with Arsenal interested in Baena",
-       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcjN2aXp2RDJfcXppam44VUU5amxUTks1YVVHYTEtek03WmhacE5DWUpYZWo0VURWTGpHbllHZnptZ1V5bUVfSHdQR1lraVFNZDNpZWNVWi1WbmZFOTR6NkI2UGZVRnNlT3pZdFAtVnM4MVRiSXZXVjZKa2txZkNYc2xya2ZoRjRsd3VoMlF3TkxXcTFlS2JoSkxSbkVCUDI2VUtwRXF2M3Y1dG1JY2JvOU5xUlA1aDh4X1dPdHdHNDVjc295SVphdA?oc=5",
-       "outlet": "Transfermarkt",
-       "kind": "search",
-       "published": "2026-10-23T20:17:46+00:00",
-       "snippet": "",
-       "related": [
-        {
-         "title": "Best Premier League transfers of the season XI: Tottenham man is in!",
-         "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0h2bmxCaHg4NXFJNEMzdFhpaWNEOFNzVnoydHJEOEwtSGI4UkhPUThMTklIQ0FVYnRwVFFhNnQwbnBfOElpUVdSSWhJMzh5RTVLMlpaU25VV1E0b20tSzZoSDJpRTlGWlEtY29WZ2lKaHNycl85cnZuVm1GRkxDa2NB?oc=5",
-         "outlet": "Football365",
-         "lean": null,
-         "published": "2026-10-23T16:27:54+00:00",
-         "paywall": false
-        },
-        {
-         "title": "English Premier League Transfers",
-         "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZd05WS1B4a2xnTTllQUUya1l2YjZxU1l4WXJpbl9xWnl6S1NsMm96WnVjTHpSQXpZLURtM21JNzBGTXJyYUZOdDFkTHVOM0NnX0lxMHBFQQ?oc=5",
-         "outlet": "Tribuna.com",
-         "lean": null,
-         "published": "2026-10-23T09:53:15+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 3,
-       "paywall": false,
-       "lean": null,
-       "score": 12.11,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Transfer Centre LIVE! Football transfer news, updates and rumours",
-       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PVDVxRC1wc0FibnViR1BVdGIyT19iN3ltNmJyZGJBSjhXcjEzaWZGbnc1LUhUaVdUSXJScTFkcTF0RXVzZVlseGVWQTNia0FRa2pfeGhxRmFGc2VZaU9qdnV3?oc=5",
-       "outlet": "Sky Sports",
-       "kind": "search",
-       "published": "2026-10-24T01:20:08+00:00",
-       "snippet": "",
-       "related": [
-        {
-         "title": "Scottish Premiership news, transfers, rumours, gossip and more",
-         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaHlJWEtxaXQtTGxoM0w4SE1XSUZ6ZTFqbzlsalJxUXZyRVJIbmpUajYxWlhDWWNjUTBzSXZ2dkoteUowbWNzdFZXUGtUZmNuMmxFZXBPckpTWFpMVHlENXpualpqblN5TnZSVmNpRUl3X0ktUGk1VjVsWWhyS1NweTFKRFYyMmtieXFqVzRIdERsYlBzbXdEa0YtenYzWTRkWXdueW5zVVhtd3VUTHYxOUg2NA?oc=5",
-         "outlet": "Sky Sports",
-         "lean": null,
-         "published": "2026-10-23T16:15:17+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
-         "outlet": "Sky Sports",
-         "lean": null,
-         "published": "2026-10-23T15:49:07+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Newcastle transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts",
-         "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQektvRWxpTEZNU1Z4Yi0yOVJwYWdTc2hzbDFYT2I4eGhBVFEzQkNpTzFmUTgtRFVDQ2xfRTFaTldaQkFHblNjd0xmSXAybWpyNHFYaC1TbFppNV9BZDJ3SENqSVlDY1NIclNwTE85ZUszM25MeWZ0eTlrOWxXWDhOdEpDcEVxVDVjaU5tbzNkR085c1ZmMGduc3gybVdZMHgwUmxIR29aa3oyWEJxd2RrYzZoT19ub01CMktIWGFLYS1fUURieGtqRVJLMFAwME1UZ0Fhd1AwQW4xbTIycUJmWjRCY3B3RmtPS3NPLVB2Zw?oc=5",
-         "outlet": "Sky Sports",
-         "lean": null,
-         "published": "2026-10-23T13:16:11+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Brighton transfers, latest news, rumours and gossip: Live updates, goals and highlights",
-         "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdlVzNlVtMC05LXpTOVZIZldVUnpwalhTSkZqRFRvS1FCdU5jb1VfaERoZmxHTUlRSndjMW1LaXlScmtDYUhGdHlkMlBZR3ltQVFFLXM3dXQtZElDWDZRLTZkYThuTTMydVBYWXdGLTQ4eVFGeGFHdTFmOXY4MnlCbVNLdFpEc3dkUXdnOWVZZUh0TW9TaDg5VXA4VFBXaVQyTVR0cU1hbXFNTGlfQVhqMVVTemlnRm5peFotYkVWSEFReW1FS3N1eWFUNUQ1eFJjUHBr?oc=5",
-         "outlet": "Sky Sports",
-         "lean": null,
-         "published": "2026-10-22T20:26:32+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 10.89,
+       "score": 12.14,
        "tag": null,
        "upvotes": 0
       },
@@ -5812,7 +6020,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.44,
+       "score": 10.43,
        "tag": null,
        "upvotes": 0
       },
@@ -5828,7 +6036,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.28,
+       "score": 10.26,
        "tag": null,
        "upvotes": 0
       },
@@ -5844,7 +6052,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.07,
+       "score": 10.05,
        "tag": null,
        "upvotes": 0
       },
@@ -5860,7 +6068,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.79,
+       "score": 9.77,
        "tag": null,
        "upvotes": 0
       },
@@ -5885,7 +6093,81 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 9.6,
+       "score": 9.59,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Liverpool latest: Chelsea transfer battle intensifies as Trent Alexander-Arnold tipped for move",
+       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbEg0ZThCeVdnQXdpTjJpRTQwT1FaeWc0bk80dnVKUkZCQW12XzlFc2dhdHhDQzhERmlaaFZrN2xENlpVclF2bGNpNHhzSHV6WUh1SUdpVXlFSXR1ZWpBS0ZYa0lkZGR5ODhTYkhBRVEwSUZqMkxUTXlyd1BnNWhwM3d1MFJHOWRzdzJIdTBIa0lkbFBMRXc1LUlFN2pYWmlWa2lQUkE4azczUdIBrwFBVV95cUxPWXFWUHJOamZldWZrbHg1anQ1NHFMU0dYUDFsRkpDS192YzEtLTNzNFdIeVd2cEtuclF0MVFlSWxGTnFYdmZxQnRlaVZNbGh4QnNsMUVOS3gyRzNsMTVvekJrUmhGcEVvLWs1SzVUaHl4dktDc21fcUpMZFBoVW0zNVRHMmt3SmpDbG1EaUZfZ25QbnlBdFJWUGRNeHM2a29uMzgtYl9DOXdlUTdYOWxv?oc=5",
+       "outlet": "Liverpool Echo",
+       "kind": "search",
+       "published": "2026-10-23T05:00:00+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "Liverpool news: Trent Alexander-Arnold tipped for rival transfer as Chelsea battle emerges",
+         "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOU0lQaGtmUFJ0bzlLTHBpdFFzMV9EallvZml0cjhESzYwLWhSUGVJZnUyU0I2b0pFNzNOQk1yeERYUC00c2gwdGtYNjRwOFlvYWJFdW1uaFFhcHRkV2NjQTNPZE13X3A4U1BYQUd5aEZ5UkpITEpzQ0xxQUFtN3hsbUNudWd2S1daVzctZzU2NjFkdzc4WWdxVXlMRjNZTFHSAZ8BQVVfeXFMTlNJUGhrZlBSdG85S0xwaXRRczFfRGpZb2ZpdHI4REs2MC1oUlBlSWZ1MlNCNm9KRTczTkJNcnhEWFAtNHNoMHRrWDY0cDhZb2FiRXVtbmhRYXB0ZFdjY0EzT2RNd19wOFNQWEFHeWhGeVJKSExKc0NMcUFBbTd4bG1DbnVndktXWlc3LWc1NjYxZHc3OFlncVV5TEYzWUxR?oc=5",
+         "outlet": "Daily Mirror",
+         "lean": null,
+         "published": "2026-10-23T04:00:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Trent Alexander-Arnold tipped for shock Premier League return in January amid Real Madrid struggles",
+         "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmUyaldIQm1tdzE4MDdrQmlpWFM0Q09Ob3N3b3B2djNTUHdYcGZRZHB1Z2tOTDY5UjV3ODhycDFPQUdWU2dfS2t6YzhwMGpTTzRWV1RyMW53UHIwRFQwYXNqcm5ERkVPOURxQUJkaExfVnBBNjk2MUZrcXVYeHgzdFRjMGRlSFpCUjR4QXkyVzQ5bHUtYkxF0gGcAUFVX3lxTE1JdTlMc2hid2dJcmhWelJsWkQzX285YURoUTlRc3BpU1BPQjNkYnJXQlhDb2lKRDRvX3ZqdWJiYjV6S1pjTjU4V0h2Z20zTW5saW5TcE5YZjJ0TmRxR0VtNkFHb1JYQVBmV0pIUjZWZll2UGZYWnZVdG9kRlV1Tk5tcVpzalhwdzU5SzI4RmhpOFdEVDFuUVo5UUYwbg?oc=5",
+         "outlet": "CaughtOffside",
+         "lean": null,
+         "published": "2026-10-22T23:07:56+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Trent Alexander-Arnold weighing up Real Madrid future as Premier League clubs plot possible transfer: Reports",
+         "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdTJndjhTSnZmYkRJcldzR19IS3o4bTF3THpFQzJsWEc5a1dXbFV4T3pYUUdzaUFDTE5QdHBWcDlzYkR0S0c3dHBWZ0pNRjhFUjcwcmZMNi1wRkVlZmVWRnhMUjd5WDVJem9UVzVuNFNCQWlMNHVPNkFyYXloQml2b21Ib0VaU0ljTVF4X2lwZzBFcFlQRkdCU1ZMZXJIQ3FkZXpWWEIyYk5sOHVGWnMxNHpDcG8tbFJPR0lLbVdTNkVnQnZ2NElOeU50WkR4ZG9UeVdQbGJFZXdIcWJvNXc?oc=5",
+         "outlet": "Sportskeeda",
+         "lean": null,
+         "published": "2026-10-22T17:21:00+00:00",
+         "paywall": false
+        },
+        {
+         "title": "Trent Alexander-Arnold in line for surprise move back to the Premier League with Liverpool rivals",
+         "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNendwYjNGbEF1N2ZnR3lKOWxISG5xTDRaeTZ4TDZnckp1UTQzMHBSVGl5UFY2LWFDbllwbHpBc1ItTVZvdVItNmdCVDQ4dDRrd3hCaGNXNXQ4VTM1UGYySVNXZ2RTMXM4X0pFd2F0Z2I4alBYRlVnTHRTUW9tMm9VRVpqdXRsYjNKXzVwS2l1eGJNckRBZ3VyQWdVMWtxZUlUZ2tTV2UtYVdldFlCbzB3cFhZSUxNUjd2eDg5SmVIRzVVU3hMV1N0ZjB3NE83MVE?oc=5",
+         "outlet": "FourFourTwo",
+         "lean": null,
+         "published": "2026-10-22T15:00:00+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 5,
+       "paywall": false,
+       "lean": null,
+       "score": 9.59,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Arsenal Transfer News Today: ‘Generational talent’ targeted",
+       "url": "https://www.footballtransfers.com/en/transfer-news/uk-premier-league/2026/10/arsenal-transfer-news-today-tresoldi-prescott-calafiori-bruno-guimaraes",
+       "outlet": "FootballTransfers.com",
+       "kind": "new",
+       "published": "2026-10-23T19:03:00+00:00",
+       "snippet": "All the latest Arsenal transfer news and rumours, including updates on Nicolo Tresoldi, Riccardo Calafiori and Leonard Prescott.",
+       "related": [
+        {
+         "title": "Arsenal Transfer News Today: ‘Generational talent’ targeted",
+         "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVzB4bEs1UG1hT21GMC16aGdXeVhnR3VNeWZGTnF4M0ZUZDY3ZHgyVER3SE9PdzdQOV94ZWFHWUc2Sy00dkhWV2dPRnhVeFpiMlRLR19NazZzOVc0aGxFTk5JbVp1Z09jQWxmT2l6UGJfM05UWjg1V0J4ckk1Q3dfU3ZoZ2IxVlVUbEhJOU4tVE5mNWNWSmZWRHZFRVlTWU5QdUVEb2lwdjVSV2duYjhRVzRJOTFzRURoQXdfQXZzZTZ2Z2JDWVRWWG9JRHh3UQ?oc=5",
+         "outlet": "LiveScore",
+         "lean": null,
+         "published": "2026-10-23T21:03:09+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 2,
+       "paywall": false,
+       "lean": null,
+       "score": 9.55,
        "tag": null,
        "upvotes": 0
       },
@@ -5918,39 +6200,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 9.52,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Transfer Rumors: Haaland Makes Barcelona, Real Madrid Demand; Man Utd Battle Chelsea for Paz",
-       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeFF5T19zaGF5eEdHUlh1STVvMzYwT1Y2TTVMNFVNWEIyeHhQWnJWWEoycnhxOERmWXU0aUtyY0xiRTEyRlZvOEJtVHpvVzc1SmtNUEt2eFIxV3RHQjZJT2RUdjZHbl9KelpDV0pQVTJUWHVqSWxDRFlEWjZmaHRCNExWODgwZ3Boa0FRZGsxUEZIVDJLOTBLUERKUHlDeGxnM0pkZURJd0lTOV8wMGJNU00ybDVwU2dWYWRnek5QUnpSZzlqNlV1eGVkYm1IU1dQdjhKdWxwWEpHemM?oc=5",
-       "outlet": "LiveScore",
-       "kind": "search",
-       "published": "2026-10-23T23:19:52+00:00",
-       "snippet": "",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 8.72,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Transfer news LIVE: Arsenal to revive Vini Jr interest as Man Utd want Nico Paz",
-       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcFZ5blM0RHhoTFE2NXlPMV8xQnpxYnN5QlFaSFJLbWhXelNReXR2MDM5UEhRYVI5UmgyM1lUSnY0OEZvMF9GZVh6MXhmRVotSjM2UlFJeVN2X2pNNGd6SHh5V0NqcXo3bnJ1dk5QRWRLN1ZLbmdBWngxMW9UVFVjelNFdlpkQzJrRHVpUzFwZGRzb0FkM0RIWDJuLXVhMXlSRFVldWhQamJGMUF6WUVhZzJ0R1ZCUmszX2dzTVI1X3c1b0E?oc=5",
-       "outlet": "Transfermarkt",
-       "kind": "search",
-       "published": "2026-10-23T22:11:35+00:00",
-       "snippet": "",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 8.62,
+       "score": 9.51,
        "tag": null,
        "upvotes": 0
       }
@@ -5961,7 +6211,33 @@
     {
      "id": "europe",
      "title": "Champions League & Europe",
-     "news": [],
+     "news": [
+      {
+       "title": "The story behind Ronald Araujo, Liverpool's new fan favorite",
+       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaXdvaWdmVGxFWFFJWFMyVHZ0Zk85STZKUm56WEV2eVhGMXpybGNCZDBUTVBkeUVsbldWXzFBd0t6Z3VRZ3JyQkk1TUVGNzVBWGlKR1FQVGlIbDJ0T0hhcGNHdC1HRlBVLW96Ui1wYVZTMEVLMHlpTEhEN1drRWVwVFVnTW9tbUF5a1NseGxJY2lZRy1WelhNQldkY2ZCcmsw?oc=5",
+       "outlet": "ESPN FC",
+       "kind": "news",
+       "published": "2026-10-23T07:19:00+00:00",
+       "snippet": "",
+       "related": [
+        {
+         "title": "Team News: Liverpool consider £47m Ronald Araujo transfer after Champions League heroics",
+         "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObmJGWHJYdmRsLTJ6SFU5WnBmTWhzb3FpVnA2bFdaRWJnM3lpYmYwSzRSVlljMDM1eGVQdXI2T0RqOURaQ2tvV3h0cnJrUkgzYkttbGtQLTFCbmVzZjVUZ1RycTZ1a0VQbng5UWhvYi1EUEF6SkFRMzdvUUd0R0VjSHBJbUZjQjJsWWpuT3ZONHk4MkRMNTlyQ3pVQlNNQTlfT2x5ZnpZQU5Cc0Q4Z3EyZUlxelNPRlM4LVg3YXBHcWNCWnBRb2hKSFhLS0xoOTJlUGQyWHNHR0ZxN1hOdldCdWtlOUNURGNsVHhBcTBncjgtczF6ZVY3RmM0c3BjemIz?oc=5",
+         "outlet": "Sports Mole",
+         "lean": null,
+         "published": "2026-10-22T18:12:55+00:00",
+         "paywall": false
+        }
+       ],
+       "related_more": 0,
+       "outlets": 2,
+       "paywall": false,
+       "lean": null,
+       "score": 14.41,
+       "tag": null,
+       "upvotes": 0
+      }
+     ],
      "analysis": [],
      "papers": []
     },
@@ -5983,22 +6259,6 @@
        "paywall": false,
        "lean": null,
        "score": 10.63,
-       "tag": null,
-       "upvotes": 0
-      },
-      {
-       "title": "Kane, Yamal, Mbappé or Messi: Who Should Win the 2026 Men’s Ballon d’Or?",
-       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDR6V2s2ejhzU0ZoU3IzODVFYzI4dFA5V3ItSGpncTd2N0lnVENRNUV4NU9SWm5ESnZWbVhaSld6R3owcG5sS1pCZTFBb3gtMXZZeWdwQ3NiWmdzWV91NlNJcjUyTElraFVpLV9mLWlyLXpSV3NoYnYwbmM1dXlMZmFDYWg3Tks1OVNoRnBGTG9wVVNiVUR0TVh5Q05pQktqUzRBUUhUR0N1VE9kcmpGNjBR?oc=5",
-       "outlet": "Opta Analyst",
-       "kind": "blog",
-       "published": "2026-10-24T02:02:20+00:00",
-       "snippet": "",
-       "related": [],
-       "related_more": 0,
-       "outlets": 1,
-       "paywall": false,
-       "lean": null,
-       "score": 4.99,
        "tag": null,
        "upvotes": 0
       },
@@ -6030,7 +6290,23 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.78,
+       "score": 4.77,
+       "tag": null,
+       "upvotes": 0
+      },
+      {
+       "title": "Kane, Yamal, Mbappé or Messi: Who Should Win the 2026 Men’s Ballon d’Or?",
+       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdDR6V2s2ejhzU0ZoU3IzODVFYzI4dFA5V3ItSGpncTd2N0lnVENRNUV4NU9SWm5ESnZWbVhaSld6R3owcG5sS1pCZTFBb3gtMXZZeWdwQ3NiWmdzWV91NlNJcjUyTElraFVpLV9mLWlyLXpSV3NoYnYwbmM1dXlMZmFDYWg3Tks1OVNoRnBGTG9wVVNiVUR0TVh5Q05pQktqUzRBUUhUR0N1VE9kcmpGNjBR?oc=5",
+       "outlet": "Opta Analyst",
+       "kind": "blog",
+       "published": "2026-10-23T14:00:49+00:00",
+       "snippet": "",
+       "related": [],
+       "related_more": 0,
+       "outlets": 1,
+       "paywall": false,
+       "lean": null,
+       "score": 4.73,
        "tag": null,
        "upvotes": 0
       },
@@ -6046,7 +6322,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.74,
+       "score": 4.73,
        "tag": null,
        "upvotes": 0
       },
@@ -6087,7 +6363,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.69,
+       "score": 4.68,
        "tag": null,
        "upvotes": 0
       }
@@ -6180,7 +6456,7 @@
        "outlets": 4,
        "paywall": false,
        "lean": null,
-       "score": 17.85,
+       "score": 17.84,
        "tag": "athletics",
        "upvotes": 0
       },
@@ -6213,7 +6489,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": null,
-       "score": 17.4,
+       "score": 17.39,
        "tag": "tennis",
        "upvotes": 0
       },
@@ -6254,7 +6530,7 @@
        "outlets": 4,
        "paywall": false,
        "lean": null,
-       "score": 16.4,
+       "score": 16.38,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -6287,7 +6563,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": "left",
-       "score": 15.39,
+       "score": 15.37,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -6320,7 +6596,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 15.04,
+       "score": 15.03,
        "tag": "athletics",
        "upvotes": 0
       },
@@ -6345,7 +6621,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "left",
-       "score": 13.79,
+       "score": 13.78,
        "tag": "other",
        "upvotes": 0
       },
@@ -6370,7 +6646,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 13.65,
+       "score": 13.64,
        "tag": "athletics",
        "upvotes": 0
       },
@@ -6411,7 +6687,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": "left",
-       "score": 13.2,
+       "score": 13.18,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -6444,7 +6720,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": null,
-       "score": 12.69,
+       "score": 12.67,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -6487,22 +6763,39 @@
          "lean": null,
          "published": "2026-10-22T17:05:20+00:00",
          "paywall": false
-        },
+        }
+       ],
+       "related_more": 0,
+       "outlets": 4,
+       "paywall": false,
+       "lean": null,
+       "score": 12.28,
+       "tag": "cricket",
+       "upvotes": 0
+      },
+      {
+       "title": "Kimi Antonelli rookie card sells for staggering $878,400 ahead of F1 title opportunity",
+       "url": "https://www.motorsport.com/f1/news/kimi-antonelli-rookie-card-sells-for-staggering-878400-ahead-of-f1-title-opportunity/10867588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+       "outlet": "Motorsport.com",
+       "kind": "news",
+       "published": "2026-10-23T22:19:10+00:00",
+       "snippet": "A one-of-a-kind Kimi Antonelli rookie card has sold for $878,400 at auction, making it the second most expensive Formula 1 card ever sold, just days before the Mercedes driver could become world champion. The card, a 2025 Topps Chrome F1 Chrome…",
+       "related": [
         {
-         "title": "Sri Lanka trumps Brook's record double century to beat England by 2 wickets in cricket tri-series",
-         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWd0OGY0ZllVLWxsenRDOVhHdUM2MUN1Qk9zN1JFN0tpZmpCa3FUN19ieTZrdnQ4bzhITHFPZGpIVFVrd3U4Q1ZYQ0UtaHJpUGpzb3BjV3BvdW80QjIydG9xdVhEWHJ3QkxaU2JBZmlJcEU4UFo0UllQbk9YVlM2ZkVaWWg1cHF2eXRhU1JJajVUWVQ0a3J6TmNR?oc=5",
-         "outlet": "AP News",
-         "lean": "center",
-         "published": "2026-10-22T23:48:00+00:00",
+         "title": "How Kimi Antonelli can win the F1 title this weekend",
+         "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUnZIVGRTR0VkYndnS21zZHNHRVFnTmtWZ0NzV18zdEZSbzMzRlNKQTRYV09ISnZmSHNkVEhHZmY5UEY2M0ZjX05VWk1WOW9zcnhXWTg3WEtuclhRdkhYUHFBVXNHOFJKNFgwT1FtYnktTmZfN3RrVnYxSFVrTncyamlTNlhnbGZqWjhYTDJyNzk1U3NKMlBLU2g1ay1rSFA0OVNlTHp4RXdqVHZVQ2c?oc=5",
+         "outlet": "The Telegraph",
+         "lean": "right",
+         "published": "2026-10-23T06:00:00+00:00",
          "paywall": false
         }
        ],
        "related_more": 0,
-       "outlets": 5,
+       "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 12.63,
-       "tag": "cricket",
+       "score": 11.66,
+       "tag": "f1",
        "upvotes": 0
       },
       {
@@ -6517,7 +6810,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 11.61,
+       "score": 11.59,
        "tag": "f1",
        "upvotes": 0
       },
@@ -6550,7 +6843,7 @@
        "outlets": 3,
        "paywall": false,
        "lean": "left",
-       "score": 11.53,
+       "score": 11.51,
        "tag": "athletics",
        "upvotes": 0
       },
@@ -6566,7 +6859,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 11.01,
+       "score": 11.0,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -6582,7 +6875,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": "left",
-       "score": 10.81,
+       "score": 10.79,
        "tag": "other",
        "upvotes": 0
       },
@@ -6631,7 +6924,7 @@
        "outlets": 5,
        "paywall": false,
        "lean": "center",
-       "score": 10.73,
+       "score": 10.72,
        "tag": "f1",
        "upvotes": 0
       },
@@ -6656,7 +6949,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": "left",
-       "score": 10.73,
+       "score": 10.72,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -6665,7 +6958,7 @@
        "url": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-the-united-states-2026.1cMIRGYoxjaKQoBFIORCea",
        "outlet": "Formula 1",
        "kind": "official",
-       "published": "2026-10-24T02:41:51.494006+00:00",
+       "published": "2026-10-24T02:52:09.943074+00:00",
        "snippet": "The drivers and teams report back on all the action from Friday practice at the Circuit of The Americas ahead of the United States Grand Prix.",
        "related": [
         {
@@ -6673,7 +6966,7 @@
          "url": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-the-united-states-2026.3cC2d5dlTvN0egy2pb11Ko",
          "outlet": "Formula 1",
          "lean": null,
-         "published": "2026-10-24T02:41:51.494006+00:00",
+         "published": "2026-10-24T02:52:09.943074+00:00",
          "paywall": false
         },
         {
@@ -6681,7 +6974,7 @@
          "url": "https://www.formula1.com/en/latest/article/we-need-to-be-careful-leclerc-warns-against-high-expectations-at-united-states-gp.3YLWMX7LEph9Fo3qfBbsQn",
          "outlet": "Formula 1",
          "lean": null,
-         "published": "2026-10-24T02:41:51.494006+00:00",
+         "published": "2026-10-24T02:52:09.943074+00:00",
          "paywall": false
         },
         {
@@ -6689,7 +6982,7 @@
          "url": "https://www.formula1.com/en/latest/article/fp2-leclerc-sets-the-pace-from-antonelli-and-verstappen-in-second-practice-at-united-states-grand-prix.4lRGhApoylA3exqOxagIqx",
          "outlet": "Formula 1",
          "lean": null,
-         "published": "2026-10-24T02:41:51.494006+00:00",
+         "published": "2026-10-24T02:52:09.943074+00:00",
          "paywall": false
         },
         {
@@ -6794,7 +7087,7 @@
        "outlets": 4,
        "paywall": false,
        "lean": "left",
-       "score": 10.52,
+       "score": 10.5,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -6827,96 +7120,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 10.35,
-       "tag": "cricket",
-       "upvotes": 0
-      },
-      {
-       "title": "WTC Points Table 2025-27 after SA vs AUS 2nd Test: South Africa gains, Australia remains top",
-       "url": "https://sportstar.thehindu.com/cricket/wtc-points-table-updated-latest-standings-points-south-africa-vs-australia-2nd-test/article71614689.ece",
-       "outlet": "Sportstar",
-       "kind": "news",
-       "published": "2026-10-23T10:55:08+00:00",
-       "snippet": "WTC: Check the latest standings update in the World Test Championship 2025-27 after South Africa beat Australia in the second Test in Gqeberha.",
-       "related": [
-        {
-         "title": "What next for Australia after chastening defeat by South Africa?",
-         "url": "https://www.bbc.co.uk/sport/cricket/articles/cmg473p9vz6xo?at_medium=RSS&at_campaign=rss",
-         "outlet": "BBC Sport",
-         "lean": "center",
-         "published": "2026-10-22T17:25:22+00:00",
-         "paywall": false
-        },
-        {
-         "title": "South Africa’s slow, sudden victory over Australia reminded us why Test cricket is special - The Athletic",
-         "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTTEzLW52aE1tUDdBQlc5LTE3T3dTNnhTa1FSNnM2aFd2c0Y0bmRGcnZnd19vb1BaaHNZX0FlR3lOb0J0TmhXbGZSUnplUU52QzE3MDIxOFpQQkRWbGVPZW02TENQbmlKY2xxWklUODd2a0c1dmc4V3Bsa2JUemtvbzB4WERQUUYtdEd6XzRPczc?oc=5",
-         "outlet": "The Athletic",
-         "lean": "left",
-         "published": "2026-10-22T17:13:56+00:00",
-         "paywall": true
-        },
-        {
-         "title": "Full Highlights: South Africa vs Australia | 2nd Test",
-         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdVljRVYzMGhlaUVsNkxaT1kzTTVybTBSekVkUVZlTDktblRhbzFzRExzMzdlSGpxM2NVbkcycURCbUY5czN4TlpHRmVkV1lfMV80ZkthWWppbWViYkRTcklsbGNpSXJJVVBwS3hEZnY1ODNrSE1iYV9aZmJ2cDNQQUMtRTRiajF4dlV3RzB1MmtNNjRvX2pRYWtZZw?oc=5",
-         "outlet": "Cricbuzz",
-         "lean": null,
-         "published": "2026-10-22T15:55:06+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Day Highlights: South Africa vs Australia, Day 5 | 2nd Test",
-         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU25vZDBmUkJxOEY1MWNzWXZVUEJzNS04NkRRT1Utd2F4WGtMV2htTFNlQUFQdmhvM3lzMmZHc0FISWRGVW1fTlJTcTBlZ0wxNHpHTFZTQVpKTzJsWWFFbDlDckpseE5wZFJfdGxwZHU1MlFCd1k1VnlJWHZkX2k1RTRVd1BmYlpUd0U0WTRIRDFJUE81U2JSVkJSMFRmb3lRVHc?oc=5",
-         "outlet": "Cricbuzz",
-         "lean": null,
-         "published": "2026-10-22T15:55:06+00:00",
-         "paywall": false
-        },
-        {
-         "title": "The questions Australia face after humbling innings defeat by South Africa",
-         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUXhmelUwN1pyQ2h1NEc0WXdMdTZYM2lDend1aVNZYVRQbXlndlVKbTlQdVFvX2hLSWVaUDhnV2F5WDJBaEtZODZUcmRkVHZQc1NQOVhveWg5MWF2Mkhzckc4bWJabDFFdjl2SzVCRnkxQkNpN2dzblIxeGF5VkVZbEFwanE1VGNlT0lxUm1wekxGRVhGcTBaOEJOblZQNnN4UjR3?oc=5",
-         "outlet": "The Telegraph",
-         "lean": "right",
-         "published": "2026-10-22T15:13:00+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Short Highlights: South Africa vs Australia, Day 5 | 2nd Test",
-         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWnNROTJKT1ZNRF9rR01YOEl4U3I5eHJEVjJtYnU2X3RxdXFqUjR0MUVBeFRhTEtfdGNFd0FqVTU5eWhNeHRNalV0Q25YNUw4OWdvSUZabG10ZWpHNUs0NV9Yc0NSRGU0cXBBOWUzeHE2M2dRTVRBVGVrcjlNWmVURTk1RHVIN0ZSVzNPVmZjbDFxTDRfX3JTN2xlTlRCd3Y2NTJPQg?oc=5",
-         "outlet": "Cricbuzz",
-         "lean": null,
-         "published": "2026-10-22T15:10:53+00:00",
-         "paywall": false
-        },
-        {
-         "title": "Highlights: South Africa vs Australia, 3rd Session, Day 5 | 2nd Test",
-         "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdzBvSi1sYU1nQklVVTJ4eEROZlhzUU95UzF5TFlSZEh5cVA0aDZjT2ttNnhRYjNETEczNlZVQkRuSFY3d1lxNjRlam54bnhSeVN3ZHNib2Y0RXhIX00xTEJVS1dBUmhSSWJaRXRJQ21KM3RIc29wQ2dVdk9QZ3dfdkJxM2ZEbzdoVUlBTGdzWDF4MnRKT0lFRFdGOXdBNUZKazlOTktMYkZGcHRP?oc=5",
-         "outlet": "Cricbuzz",
-         "lean": null,
-         "published": "2026-10-22T15:10:53+00:00",
-         "paywall": false
-        },
-        {
-         "title": "All Fours: South Africa vs Australia, Day 5 | 2nd Test",
-         "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3ZrSUR2UkVSVDIxUWhjU2IteHJxYmZFQndUQTdERDFzNkE1QlNWeVNTRFg4QkVJNl9vSWVKcU5GdXJLTlVyaDY1aHNZTWl0SGxlczNsM0FXLTJ0N1oxYkxnd01lZkUzYkowYkpPeHpFV2ZFOVVWc194V2Q4MHRYMFRQVmlDWU52M0ZfY1R5Y3ZYMDNLaUxyZ1Iwaw?oc=5",
-         "outlet": "Cricbuzz",
-         "lean": null,
-         "published": "2026-10-22T14:48:50+00:00",
-         "paywall": false
-        },
-        {
-         "title": "All Wickets: South Africa vs Australia, Day 5 | 2nd Test",
-         "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlc0Ym9VQnB1TmtTTVZuaV9UbUtUVVNJVGJPYXRtVXpDTXFnemZvMVZQVmZzSDd4WkYwNDNWbXlDemFsYkhwY3ZmQmduNXlSV045N25NRFNUTExQRFF3RGdMZHM5dE55QWtadFlkNWpFbjZBaE10dURiR2EyY3RUczJiWFNhS0c4VmRxdGhZUW4yOFd5dlF3VERHLTN3QQ?oc=5",
-         "outlet": "Cricbuzz",
-         "lean": null,
-         "published": "2026-10-22T14:48:50+00:00",
-         "paywall": false
-        }
-       ],
-       "related_more": 0,
-       "outlets": 5,
-       "paywall": false,
-       "lean": "left",
-       "score": 10.1,
+       "score": 10.34,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -6941,7 +7145,7 @@
        "outlets": 2,
        "paywall": false,
        "lean": null,
-       "score": 9.98,
+       "score": 9.96,
        "tag": "other",
        "upvotes": 0
       },
@@ -6957,7 +7161,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.69,
+       "score": 9.68,
        "tag": "f1",
        "upvotes": 0
       },
@@ -7038,7 +7242,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.26,
+       "score": 9.25,
        "tag": "f1",
        "upvotes": 0
       }
@@ -7065,7 +7269,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 9.72,
+       "score": 9.71,
        "tag": "cricket",
        "upvotes": 0
       },
@@ -7145,7 +7349,7 @@
        "outlets": 1,
        "paywall": false,
        "lean": null,
-       "score": 4.13,
+       "score": 4.12,
        "tag": "cricket",
        "upvotes": 0
       }
@@ -7200,21 +7404,6 @@
     "Russian drones strike Kyiv hospital, injure 12 across the city"
    ],
    "yaml": "  kyivindependent_com: { type: rss, kind: blog, name: \"The Kyiv Independent\", url: \"https://kyivindependent.com/news-archive/rss/\" }\n  # then add kyivindependent_com to: politics.world"
-  },
-  {
-   "name": "Federal Register Documents published on or after 09/20/2026",
-   "domain": "federalregister.gov",
-   "sections": [
-    "Politics › World & geopolitics"
-   ],
-   "reason": "cited by Exponential View, FDD",
-   "added": "2026-10-21",
-   "samples": [
-    "Submission for OMB Review; Comment Request",
-    "Proposed Collection; Comment Request",
-    "Small Vertical Shaft Engines From China; Determinations"
-   ],
-   "yaml": "  federalregister_gov: { type: rss, kind: blog, name: \"Federal Register Documents published on or after 09/20/2026\", url: \"https://www.federalregister.gov/api/v1/documents.rss?conditions[sections][]=news&order=newest\" }\n  # then add federalregister_gov to: politics.world"
   },
   {
    "name": "Business Insider",
@@ -7306,21 +7495,6 @@
    "yaml": "  world_nuclear_news_org: { type: rss, kind: blog, name: \"World Nuclear News\", url: \"https://world-nuclear-news.org/rss\" }\n  # then add world_nuclear_news_org to: politics.world"
   },
   {
-   "name": "tovima.com",
-   "domain": "tovima.com",
-   "sections": [
-    "Politics › World & geopolitics"
-   ],
-   "reason": "cited by FDD, The National Interest",
-   "added": "2026-10-23",
-   "samples": [
-    "Carney, Erdogan Unveil Trade and Defense Partnership in Ankara",
-    "How Does the Ukrainian Military Use Starlink?",
-    "The battle for Israel’s future"
-   ],
-   "yaml": "  tovima_com: { type: rss, kind: blog, name: \"tovima.com\", url: \"https://www.tovima.com/feed\" }\n  # then add tovima_com to: politics.world"
-  },
-  {
    "name": "POLITICO",
    "domain": "politico.eu",
    "sections": [
@@ -7336,21 +7510,6 @@
    "yaml": "  politico_eu: { type: rss, kind: blog, name: \"POLITICO\", url: \"https://www.politico.eu/feed/\" }\n  # then add politico_eu to: politics.world"
   },
   {
-   "name": "The Manila Times",
-   "domain": "manilatimes.net",
-   "sections": [
-    "AI › VC views & AI revenue"
-   ],
-   "reason": "6 matching items via search",
-   "added": "2026-10-23",
-   "samples": [
-    "MicroVision Begins Commercial Production of MOVIA(TM) Pro to Meet Immediate Customer Demand for Superior Short-Range Sensing and Onboard Perception, Enabling Physical AI at the Edge",
-    "Allooloo Technologies Corp. Launches AI Agent Products for Financial Services Agents: Know Your Product and News",
-    "Blackbaud Expands AI-Powered Innovation for Social Impact at bbcon Sydney"
-   ],
-   "yaml": "  manilatimes_net: { type: rss, kind: blog, name: \"The Manila Times\", url: \"https://www.manilatimes.net/blog/feed\" }\n  # then add manilatimes_net to: ai.vc_revenue"
-  },
-  {
    "name": "Fortune",
    "domain": "fortune.com",
    "sections": [
@@ -7363,21 +7522,6 @@
     "Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet"
    ],
    "yaml": "  fortune_com: { type: rss, kind: blog, name: \"Fortune\", url: \"https://fortune.com/feed/fortune-feeds/?id=3230629\" }\n  # then add fortune_com to: ai.ads_social"
-  },
-  {
-   "name": "CiberCuba",
-   "domain": "en.cibercuba.com",
-   "sections": [
-    "Politics › US policy affecting immigration"
-   ],
-   "reason": "8 matching items via search",
-   "added": "2026-10-24",
-   "samples": [
-    "The U.S. moves up the dates for several family visas by a year: What does this mean for Cuba?",
-    "Travel restrictions for Cubans: which U.S. visas are still suspended and who can still travel",
-    "U.S. court approves detention without bail for immigrants even if they have been in the country for decades: what does this mean for Cubans with I-220A?"
-   ],
-   "yaml": "  en_cibercuba_com: { type: rss, kind: blog, name: \"CiberCuba\", url: \"https://en.cibercuba.com/rss.xml\" }\n  # then add en_cibercuba_com to: politics.us_immigration"
   },
   {
    "name": "AI Insider",
@@ -7497,6 +7641,37 @@
     "Dodging Russian Drones On Ukrainian Road To Frontline Druzhkivka"
    ],
    "yaml": "  rferl_org: { type: rss, kind: blog, name: \"Radio Free Europe / Radio Liberty\", url: \"https://www.rferl.org/api/\" }\n  # then add rferl_org to: politics.world"
+  },
+  {
+   "name": "The Transfer Tavern",
+   "domain": "footballtransfertavern.com",
+   "sections": [
+    "Football › Transfers"
+   ],
+   "reason": "6 matching items via search",
+   "added": "2026-10-24",
+   "samples": [
+    "Liam Delap makes Chelsea admission after addressing transfer decision",
+    "Arsenal handed transfer update as Bournemouth make January decision on injured star",
+    "Arsenal revive interest in ‘versatile’ La Liga star as Arteta eyes January reinforcements"
+   ],
+   "yaml": "  footballtransfertavern_com: { type: rss, kind: blog, name: \"The Transfer Tavern\", url: \"https://www.footballtransfertavern.com/feed/\" }\n  # then add footballtransfertavern_com to: football.transfers"
+  },
+  {
+   "name": "Wowtale",
+   "domain": "en.wowtale.net",
+   "sections": [
+    "AI › Funding & hot startups",
+    "AI › Robotics"
+   ],
+   "reason": "6 matching items via search",
+   "added": "2026-10-24",
+   "samples": [
+    "Mach9 Raises $34M Series A for AI CAD That Turns LiDAR Scans Into Civil Engineering Drawings",
+    "Physical AI Asset-Health Platform Tractian Raises $130M Series D at $1.4B Valuation",
+    "Warp Sciences Emerges From Stealth With $215M Series A for US Chemistry CRO"
+   ],
+   "yaml": "  en_wowtale_net: { type: rss, kind: blog, name: \"Wowtale\", url: \"https://en.wowtale.net/feed/\" }\n  # then add en_wowtale_net to: ai.funding, ai.robotics"
   }
  ],
  "problems": [
@@ -7564,11 +7739,11 @@
   }
  ],
  "stats": {
-  "sources": 236,
-  "sources_ok": 235,
-  "items": 9200,
-  "kept": 4530,
-  "stories": 3590,
-  "shown": 274
+  "sources": 237,
+  "sources_ok": 236,
+  "items": 9159,
+  "kept": 4361,
+  "stories": 3460,
+  "shown": 281
  }
 }

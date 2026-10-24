@@ -45,21 +45,6 @@ sources:
   - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
   - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
   - Russian drones strike Kyiv hospital, injure 12 across the city
-- id: disc_federalregister_gov
-  type: rss
-  url: https://www.federalregister.gov/api/v1/documents.rss?conditions[sections][]=news&order=newest
-  name: Federal Register Documents published on or after 09/20/2026
-  sections:
-  - politics.world
-  kind: discovered
-  domain: federalregister.gov
-  reason: cited by Exponential View, FDD
-  added: '2026-10-21'
-  last_qualified: '2026-10-21'
-  samples:
-  - Submission for OMB Review; Comment Request
-  - Proposed Collection; Comment Request
-  - Small Vertical Shaft Engines From China; Determinations
 - id: disc_businessinsider_com
   type: rss
   url: https://feeds.businessinsider.com/custom/all
@@ -151,21 +136,6 @@ sources:
   - Hydraulic tests completed at Turkey's Akkuyu 1
   - Bangladesh's Rooppur 1 achieves criticality
   - Agreement signed on second Polish nuclear power plant
-- id: disc_tovima_com
-  type: rss
-  url: https://www.tovima.com/feed
-  name: tovima.com
-  sections:
-  - politics.world
-  kind: discovered
-  domain: tovima.com
-  reason: cited by FDD, The National Interest
-  added: '2026-10-23'
-  last_qualified: '2026-10-23'
-  samples:
-  - Carney, Erdogan Unveil Trade and Defense Partnership in Ankara
-  - How Does the Ukrainian Military Use Starlink?
-  - The battle for Israel’s future
 - id: disc_politico_eu
   type: rss
   url: https://www.politico.eu/feed/
@@ -181,22 +151,6 @@ sources:
   - Farage plays down his Trump friendship in Britain — and talks it up to MAGA
   - ‘There is no immunity to Donald Trump’
   - Brussels proposes delaying tuition fee demand till after UK-EU summit
-- id: disc_manilatimes_net
-  type: rss
-  url: https://www.manilatimes.net/blog/feed
-  name: The Manila Times
-  sections:
-  - ai.vc_revenue
-  kind: discovered
-  domain: manilatimes.net
-  reason: 6 matching items via search
-  added: '2026-10-23'
-  last_qualified: '2026-10-24'
-  samples:
-  - MicroVision Begins Commercial Production of MOVIA(TM) Pro to Meet Immediate Customer Demand for Superior Short-Range Sensing
-    and Onboard Perception, Enabling Physical AI at the Edge
-  - 'Allooloo Technologies Corp. Launches AI Agent Products for Financial Services Agents: Know Your Product and News'
-  - Blackbaud Expands AI-Powered Innovation for Social Impact at bbcon Sydney
 - id: disc_fortune_com
   type: rss
   url: https://fortune.com/feed/fortune-feeds/?id=3230629
@@ -212,22 +166,6 @@ sources:
   - An $8 billion Treasury break helped bring Meta’s tax rate to 2%. Now it has a week to answer senators about data center
     tax credits
   - Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet
-- id: disc_en_cibercuba_com
-  type: rss
-  url: https://en.cibercuba.com/rss.xml
-  name: CiberCuba
-  sections:
-  - politics.us_immigration
-  kind: discovered
-  domain: en.cibercuba.com
-  reason: 8 matching items via search
-  added: '2026-10-24'
-  last_qualified: '2026-10-24'
-  samples:
-  - 'The U.S. moves up the dates for several family visas by a year: What does this mean for Cuba?'
-  - 'Travel restrictions for Cubans: which U.S. visas are still suspended and who can still travel'
-  - 'U.S. court approves detention without bail for immigrants even if they have been in the country for decades: what does
-    this mean for Cubans with I-220A?'
 - id: disc_theaiinsider_tech
   type: rss
   url: https://theaiinsider.tech/feed/
@@ -347,3 +285,34 @@ sources:
   - White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City
   - 'Every Day We ''Wake Up Poorer'': Iranians Battle Economic Woes'
   - Dodging Russian Drones On Ukrainian Road To Frontline Druzhkivka
+- id: disc_footballtransfertavern_com
+  type: rss
+  url: https://www.footballtransfertavern.com/feed/
+  name: The Transfer Tavern
+  sections:
+  - football.transfers
+  kind: discovered
+  domain: footballtransfertavern.com
+  reason: 6 matching items via search
+  added: '2026-10-24'
+  last_qualified: '2026-10-24'
+  samples:
+  - Liam Delap makes Chelsea admission after addressing transfer decision
+  - Arsenal handed transfer update as Bournemouth make January decision on injured star
+  - Arsenal revive interest in ‘versatile’ La Liga star as Arteta eyes January reinforcements
+- id: disc_en_wowtale_net
+  type: rss
+  url: https://en.wowtale.net/feed/
+  name: Wowtale
+  sections:
+  - ai.funding
+  - ai.robotics
+  kind: discovered
+  domain: en.wowtale.net
+  reason: 6 matching items via search
+  added: '2026-10-24'
+  last_qualified: '2026-10-24'
+  samples:
+  - Mach9 Raises $34M Series A for AI CAD That Turns LiDAR Scans Into Civil Engineering Drawings
+  - Physical AI Asset-Health Platform Tractian Raises $130M Series D at $1.4B Valuation
+  - Warp Sciences Emerges From Stealth With $215M Series A for US Chemistry CRO
