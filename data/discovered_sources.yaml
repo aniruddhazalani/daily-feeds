@@ -25,7 +25,7 @@ sources:
   domain: euronews.com
   reason: cited by FDD, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-23'
+  last_qualified: '2026-10-24'
   samples:
   - '''Time to make a deal,'' Trump tells Zelenskyy as he complains US has got ''nothing back'' from Ukraine'
   - 'Investment summit: German government strikes AI deal with Nvidia'
@@ -40,7 +40,7 @@ sources:
   domain: kyivindependent.com
   reason: cited by Phillips O'Brien, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-23'
+  last_qualified: '2026-10-24'
   samples:
   - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
   - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
@@ -100,7 +100,7 @@ sources:
   domain: sundayguardianlive.com
   reason: 7 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-10-22'
+  last_qualified: '2026-10-24'
   samples:
   - 'LIVE | Silver Price Today [22 October 2026]: MCX Silver Drops at ₹2.29 Lakh/kg Amid Trump-Iran War, Fed Policy Uncertainty;
     Check Latest City-Wise Silver Rates in Delhi, Mumbai, Chennai, Kerala & More'
@@ -131,7 +131,7 @@ sources:
   domain: digitimes.com
   reason: 7 matching items via search
   added: '2026-10-23'
-  last_qualified: '2026-10-23'
+  last_qualified: '2026-10-24'
   samples:
   - MIPI expands beyond smartphones into AR glasses and humanoid robots
   - Tesla's Megapack boom meets AI power crunch, but margin gains raise questions
@@ -176,7 +176,7 @@ sources:
   domain: politico.eu
   reason: cited by FDD, UnHerd
   added: '2026-10-23'
-  last_qualified: '2026-10-23'
+  last_qualified: '2026-10-24'
   samples:
   - Farage plays down his Trump friendship in Britain — and talks it up to MAGA
   - ‘There is no immunity to Donald Trump’
@@ -191,7 +191,7 @@ sources:
   domain: manilatimes.net
   reason: 6 matching items via search
   added: '2026-10-23'
-  last_qualified: '2026-10-23'
+  last_qualified: '2026-10-24'
   samples:
   - MicroVision Begins Commercial Production of MOVIA(TM) Pro to Meet Immediate Customer Demand for Superior Short-Range Sensing
     and Onboard Perception, Enabling Physical AI at the Edge
@@ -273,3 +273,77 @@ sources:
   - US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says
   - '‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite'
   - France, UK carry out joint airborne nuclear-strike exercise for first time
+- id: disc_wiz_io
+  type: rss
+  url: https://www.wiz.io/feed/rss.xml
+  name: Wiz Blog | RSS feed
+  sections:
+  - ai.llms
+  kind: discovered
+  domain: wiz.io
+  reason: cited by Newcomer, Simon Willison
+  added: '2026-10-24'
+  last_qualified: '2026-10-24'
+  samples:
+  - 'ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors'
+  - 'From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage'
+  - 'Securing the Mission at Machine Speed: Wiz AI Agents Arrive in Wiz for Gov'
+- id: disc_time_com
+  type: rss
+  url: https://time.com/feed/
+  name: TIME
+  sections:
+  - politics.world
+  kind: discovered
+  domain: time.com
+  reason: cited by The National Interest, UnHerd
+  added: '2026-10-24'
+  last_qualified: '2026-10-24'
+  samples:
+  - The Atlantic and Pacific Oceans Are Not Trump’s to Rename
+  - Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters
+  - China Cannot Remain the World’s Factory. What Comes Next?
+- id: disc_theverge_com
+  type: rss
+  url: https://www.theverge.com/rss/index.xml
+  name: The Verge
+  sections:
+  - ai.vc_revenue
+  kind: discovered
+  domain: theverge.com
+  reason: cited by Newcomer, Stratechery
+  added: '2026-10-24'
+  last_qualified: '2026-10-24'
+  samples:
+  - OpenAI now trains its frontier AI models with no internet access
+  - Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
+- id: disc_roboticsandautomationnews_com
+  type: rss
+  url: https://roboticsandautomationnews.com/feed/
+  name: Robotics & Automation News
+  sections:
+  - ai.robotics
+  kind: discovered
+  domain: roboticsandautomationnews.com
+  reason: 6 matching items via search
+  added: '2026-10-24'
+  last_qualified: '2026-10-24'
+  samples:
+  - 'Canton Fair at 70: Service robots get dedicated zone as buyers demand real-world performance'
+  - 'The Overlooked Interface: How HMIs Shape Automation in GMP Production'
+  - ETH scientists set to bring Terminator-style robots to life with lab-grown muscles
+- id: disc_rferl_org
+  type: rss
+  url: https://www.rferl.org/api/
+  name: Radio Free Europe / Radio Liberty
+  sections:
+  - politics.world
+  kind: discovered
+  domain: rferl.org
+  reason: cited by FDD, Phillips O'Brien
+  added: '2026-10-24'
+  last_qualified: '2026-10-24'
+  samples:
+  - White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City
+  - 'Every Day We ''Wake Up Poorer'': Iranians Battle Economic Woes'
+  - Dodging Russian Drones On Ukrainian Road To Frontline Druzhkivka
