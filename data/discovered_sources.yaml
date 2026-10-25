@@ -116,7 +116,7 @@ sources:
   domain: digitimes.com
   reason: 7 matching items via search
   added: '2026-10-23'
-  last_qualified: '2026-10-24'
+  last_qualified: '2026-10-25'
   samples:
   - MIPI expands beyond smartphones into AR glasses and humanoid robots
   - Tesla's Megapack boom meets AI power crunch, but margin gains raise questions
@@ -285,34 +285,3 @@ sources:
   - White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City
   - 'Every Day We ''Wake Up Poorer'': Iranians Battle Economic Woes'
   - Dodging Russian Drones On Ukrainian Road To Frontline Druzhkivka
-- id: disc_footballtransfertavern_com
-  type: rss
-  url: https://www.footballtransfertavern.com/feed/
-  name: The Transfer Tavern
-  sections:
-  - football.transfers
-  kind: discovered
-  domain: footballtransfertavern.com
-  reason: 6 matching items via search
-  added: '2026-10-24'
-  last_qualified: '2026-10-25'
-  samples:
-  - Liam Delap makes Chelsea admission after addressing transfer decision
-  - Arsenal handed transfer update as Bournemouth make January decision on injured star
-  - Arsenal revive interest in ‘versatile’ La Liga star as Arteta eyes January reinforcements
-- id: disc_en_wowtale_net
-  type: rss
-  url: https://en.wowtale.net/feed/
-  name: Wowtale
-  sections:
-  - ai.funding
-  - ai.robotics
-  kind: discovered
-  domain: en.wowtale.net
-  reason: 6 matching items via search
-  added: '2026-10-24'
-  last_qualified: '2026-10-25'
-  samples:
-  - Mach9 Raises $34M Series A for AI CAD That Turns LiDAR Scans Into Civil Engineering Drawings
-  - Physical AI Asset-Health Platform Tractian Raises $130M Series D at $1.4B Valuation
-  - Warp Sciences Emerges From Stealth With $215M Series A for US Chemistry CRO
