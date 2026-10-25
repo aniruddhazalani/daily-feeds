@@ -50,8 +50,8 @@ settings:
   discovery:
     enabled: true
     window_days: 14
-    search_hits: 6        # qualifying items from Google News results…
-    search_days: 3        # …seen on at least this many different days
+    search_hits: 10       # qualifying items from Google News results…
+    search_days: 5        # …seen on at least this many different days
     citations: 3          # distinct trusted sources linking to the domain
     max_new_per_day: 5
     max_active: 40
@@ -64,6 +64,8 @@ ignore_sources:          # muted 2026-10-24: noise picked up by discovery
   - cibercuba.com
   - en.cibercuba.com
   - manilatimes.net
+  - footballtransfertavern.com  # muted 2026-10-25: fan transfer-rumour blog
+  - en.wowtale.net             # muted 2026-10-25: startup press-release reposts
 
 # Political lean of outlets, by domain (subdomains included). Used to label headlines and,
 # in feeds with `balance: true`, to keep left and right in balance. Ratings follow
