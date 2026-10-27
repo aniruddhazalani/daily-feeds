@@ -25,7 +25,7 @@ def _fmt_local(iso: str, tz: str, fmt: str) -> str:
     return datetime.fromisoformat(iso).astimezone(ZoneInfo(tz)).strftime(fmt)
 
 
-def render_site(out: Path, days: list[dict], show_first: int = 5) -> None:
+def render_site(out: Path, days: list[dict], show_first: int = 5, refresh: dict | None = None) -> None:
     days = sorted(days, key=lambda d: d["date"])
     if not days:
         return
@@ -42,11 +42,11 @@ def render_site(out: Path, days: list[dict], show_first: int = 5) -> None:
 
     for i, day in enumerate(days):
         latest = i == len(days) - 1
-        html = tpl.render(day=day, dates=dates, latest=latest, show_first=show_first, base="../",
+        html = tpl.render(day=day, dates=dates, latest=latest, show_first=show_first, refresh=refresh or {}, base="../",
                           pretty_date=datetime.fromisoformat(day["date"]).strftime("%A, %d %B %Y"))
         (out / "archive" / f"{day['date']}.html").write_text(html)
         if latest:
             (out / "index.html").write_text(
-                tpl.render(day=day, dates=dates, latest=True, show_first=show_first, base="",
+                tpl.render(day=day, dates=dates, latest=True, show_first=show_first, refresh=refresh or {}, base="",
                            pretty_date=datetime.fromisoformat(day["date"]).strftime("%A, %d %B %Y")))
     (out / ".nojekyll").write_text("")

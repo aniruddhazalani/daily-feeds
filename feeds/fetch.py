@@ -4,6 +4,7 @@ from __future__ import annotations
 import asyncio
 import html
 import logging
+import math
 import re
 import time
 from dataclasses import dataclass, field, replace
@@ -75,8 +76,10 @@ def outbound_domains(html_text: str, own: str) -> list[str]:
     return out
 
 
-def gnews_url(query: str, kind: str, settings: dict) -> str:
-    days = 7 if kind in ("blog", "official") else 2
+def gnews_url(query: str, kind: str, settings: dict, hours: float = 0) -> str:
+    if not hours:
+        hours = 168 if kind in ("blog", "official") else 36
+    days = max(2, math.ceil(hours / 24))
     region = settings.get("gnews_region", {"hl": "en-IN", "gl": "IN", "ceid": "IN:en"})
     q = quote(f"{query} when:{days}d")
     return f"https://news.google.com/rss/search?q={q}&hl={region['hl']}&gl={region['gl']}&ceid={region['ceid']}"
@@ -186,7 +189,7 @@ async def _get(client: httpx.AsyncClient, url: str, headers: Optional[dict] = No
 
 def source_url(src: Source, settings: dict) -> str:
     if src.type == "gnews":
-        return gnews_url(src.query or "", src.kind, settings)
+        return gnews_url(src.query or "", src.kind, settings, src.window_hours)
     if src.type == "arxiv":
         return arxiv_url(src)
     yesterday = (datetime.now(timezone.utc) - timedelta(days=1)).date().isoformat()

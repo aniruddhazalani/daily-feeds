@@ -61,7 +61,8 @@ def filter_items(cfg: Config, items: list[Item], seen: dict[str, str], today: st
         if len(it.title.split()) < 3 or any(p.search(it.title) for p in junk):
             stats["junk"] += 1
             continue
-        hours = windows.get(it.kind, 36)
+        src = cfg.sources.get(it.source_id)
+        hours = src.window_hours if src and src.window_hours else windows.get(it.kind, 36)
         if now - it.published > timedelta(hours=hours):
             stats["window"] += 1
             continue

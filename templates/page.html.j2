@@ -5,14 +5,16 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{{ day.site_title }} — {{ day.date }}</title>
 <meta name="description" content="Daily headlines: politics, finance, AI, football and other sports.">
+<meta name="feeds-generated" content="{{ day.generated_at }}">
 <link rel="stylesheet" href="{{ base }}style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%23c2410c'/><path d='M9 10h14M9 16h14M9 22h9' stroke='white' stroke-width='3' stroke-linecap='round'/></svg>">
 </head>
-<body>
+<body{% if latest and refresh.repo %} data-repo="{{ refresh.repo }}" data-workflow="{{ refresh.workflow or 'daily.yml' }}" data-min-minutes="{{ refresh.min_minutes or 60 }}"{% endif %}>
 {% macro item_row(it, hidden) %}
-<li class="item{% if hidden %} more{% endif %}"{% if it.tag %} data-tag="{{ it.tag }}"{% endif %}>
+<li class="item{% if hidden %} more{% endif %}"{% if it.tag %} data-tag="{{ it.tag }}"{% endif %} data-url="{{ it.url }}">
   <a class="title" href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>
   <div class="meta">
+    {% if it.where %}<a class="where" href="#{{ it.anchor }}">{{ it.where }}</a>{% endif %}
     {% if it.kind | badge %}<span class="badge b-{{ it.kind }}">{{ it.kind | badge }}</span>{% endif %}
     {% if it.tag and it.tag != 'other' %}<span class="badge b-tag">{{ it.tag }}</span>{% endif %}
     <span class="outlet">{{ it.outlet }}</span>
@@ -54,14 +56,25 @@
       <h1>{{ day.site_title }}</h1>
       <p class="date">{{ pretty_date }} · updated {{ day.generated_at | local('%H:%M') }} {{ 'IST' if day.timezone == 'Asia/Kolkata' else day.timezone }}{% if not latest %} · <a href="{{ base }}index.html">back to today</a>{% endif %}</p>
     </div>
-    <label class="archive">
-      <span class="sr">Archive</span>
-      <select id="archive" aria-label="Open another day">
-        {% for d in dates %}<option value="{{ base }}archive/{{ d }}.html"{% if d == day.date %} selected{% endif %}>{{ d }}</option>{% endfor %}
-      </select>
-    </label>
+    <div class="controls">
+      {% if latest and refresh.repo %}<button id="refresh" class="btn" type="button">Refresh</button>{% endif %}
+      <label class="archive">
+        <span class="sr">Archive</span>
+        <select id="archive" aria-label="Open another day">
+          {% for d in dates %}<option value="{{ base }}archive/{{ d }}.html"{% if d == day.date %} selected{% endif %}>{{ d }}</option>{% endfor %}
+        </select>
+      </label>
+    </div>
+  </div>
+  <div class="wrap status-row">
+    <span id="refresh-status" class="status" role="status"></span>
+    <span class="read-controls">
+      <label class="toggle"><input type="checkbox" id="hide-read"> Hide read</label>
+      <button id="mark-read" class="linkish" type="button">Mark this tab read</button>
+    </span>
   </div>
   <nav class="tabs wrap" role="tablist">
+    {% if day.top %}<button role="tab" class="tab" data-tab="top" aria-selected="false">Top stories <span class="count">{{ day.top | length }}</span></button>{% endif %}
     {% for f in day.feeds %}
     {% set n = namespace(c=0) %}{% for s in f.sections %}{% set n.c = n.c + s.news|length + s.analysis|length + s.papers|length %}{% endfor %}
     <button role="tab" class="tab" data-tab="{{ f.id }}" aria-selected="false">{{ f.title }} <span class="count">{{ n.c }}</span></button>
@@ -71,6 +84,17 @@
 </header>
 
 <main class="wrap">
+{% if day.top %}
+<section class="panel" id="panel-top" data-panel="top" hidden>
+  <p class="lede">The most widely covered stories today, across every feed. Expand a story to see all its articles; the label shows where it sits.</p>
+  <details class="section" open>
+    <summary><h2>Top stories</h2><span class="count">{{ day.top | length }}</span></summary>
+    <ul class="items expanded">
+      {% for it in day.top %}{{ item_row(it, false) }}{% endfor %}
+    </ul>
+  </details>
+</section>
+{% endif %}
 {% for f in day.feeds %}
 <section class="panel" id="panel-{{ f.id }}" data-panel="{{ f.id }}" hidden>
   <div class="jump">
@@ -89,7 +113,7 @@
       {% if s.leans %}<span class="balance" title="Outlet lean of the stories shown">{% for l in ['left', 'center', 'right'] %}<span class="l-{{ l }}">{{ l | capitalize }} {{ s.leans[l] }}</span>{% endfor %}</span>{% endif %}
     </summary>
     {% if total == 0 %}
-      <p class="empty">Nothing new in the last 24 hours.</p>
+      <p class="empty">Nothing new today.</p>
     {% else %}
       {{ item_list(s.news, '' if not (s.analysis or s.papers) else 'Headlines') }}
       {{ item_list(s.analysis, 'Analysis & blogs') }}
@@ -130,6 +154,29 @@
   </details>
   {% endif %}
 </footer>
+{% if latest and refresh.repo %}
+<dialog id="refresh-setup">
+  <form method="dialog">
+    <h3>Set up one-click refresh</h3>
+    <p>Refreshing starts the build on GitHub, which needs permission. This is a one-time setup on each device.</p>
+    <ol>
+      <li><a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Create a fine-grained token</a>.
+        Under <b>Repository access</b> pick <b>Only select repositories → {{ refresh.repo.split('/')[1] }}</b>, and under
+        <b>Permissions → Actions</b> choose <b>Read and write</b>. Nothing else is needed.</li>
+      <li>Paste it below. It's saved only in this browser, and the page sends it only to GitHub.</li>
+    </ol>
+    <input id="token-input" type="password" autocomplete="off" placeholder="github_pat_…" aria-label="GitHub token">
+    <p id="token-error" class="error" hidden></p>
+    <div class="dialog-actions">
+      <a href="https://github.com/{{ refresh.repo }}/actions/workflows/{{ refresh.workflow or 'daily.yml' }}" target="_blank" rel="noopener">Or run it on GitHub</a>
+      <span>
+        <button value="cancel" class="linkish">Cancel</button>
+        <button id="token-save" value="save" class="btn">Save and refresh</button>
+      </span>
+    </div>
+  </form>
+</dialog>
+{% endif %}
 <script src="{{ base }}app.js"></script>
 </body>
 </html>

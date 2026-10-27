@@ -148,3 +148,38 @@ main { padding-top: 14px; padding-bottom: 24px; }
   h1 { font-size: 18px; }
   .section { padding: 2px 12px 8px; }
 }
+
+/* controls: refresh, read tracking */
+.controls { display: flex; align-items: center; gap: 8px; }
+.btn { font: inherit; font-size: 13px; font-weight: 600; color: #fff; background: var(--accent); border: 0; border-radius: 8px; padding: 6px 12px; cursor: pointer; white-space: nowrap; }
+.btn:disabled { color: var(--muted); background: var(--chip); cursor: default; }
+.linkish { font: inherit; font-size: 12.5px; color: var(--muted); background: none; border: 0; padding: 0; cursor: pointer; text-decoration: underline; text-underline-offset: 2px; }
+.status-row { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; min-height: 22px; padding-top: 4px; font-size: 12.5px; color: var(--muted); }
+.status:empty { display: none; }
+.status { color: var(--accent); }
+.read-controls { display: flex; gap: 14px; align-items: center; margin-left: auto; }
+.toggle { display: inline-flex; gap: 5px; align-items: center; cursor: pointer; }
+.toggle input { accent-color: var(--accent); margin: 0; }
+.item.is-read > .title, .item.is-read > .snippet { opacity: .5; }
+.item.is-read > .meta { opacity: .7; }
+body.hide-read .item.is-read { display: none !important; }
+.b-fresh { color: #fff; background: var(--accent); }
+.where { font-size: 11.5px; font-weight: 600; color: var(--accent); text-decoration: none; background: var(--accent-soft); border-radius: 4px; padding: 1px 6px; }
+.where:hover { text-decoration: underline; }
+
+/* refresh setup dialog */
+dialog { max-width: min(520px, calc(100vw - 32px)); border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: var(--text); padding: 18px 20px; }
+dialog::backdrop { background: rgb(0 0 0 / .4); }
+dialog h3 { margin: 0 0 6px; font-size: 17px; }
+dialog p, dialog li { font-size: 14px; }
+dialog ol { padding-left: 20px; }
+dialog a { color: var(--accent); }
+dialog input { width: 100%; font: inherit; font-size: 14px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); color: var(--text); }
+.dialog-actions { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-top: 14px; font-size: 13px; }
+.dialog-actions span { display: flex; gap: 12px; align-items: center; }
+.error { color: var(--right); font-size: 13px; }
+
+@media (max-width: 520px) {
+  .controls { flex-direction: column; align-items: flex-end; gap: 6px; }
+  .read-controls { margin-left: 0; }
+}

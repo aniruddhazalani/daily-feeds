@@ -19,6 +19,8 @@
 #   exclude:     [terms]          any match drops the item from this section
 #   require_any: [terms]          item must match at least one of these (optional)
 #   min_score / max_items / max_analysis / max_papers: optional overrides
+#   window_hours: keep stories this long for slow-moving sections (e.g. 168 = 7 days);
+#                 the already-shown list stops repeats
 
 settings:
   site_title: Daily Feeds
@@ -45,6 +47,10 @@ settings:
   # Group articles about the same story (even with different headlines) under one entry.
   # similarity: 0–1, higher = stricter. 0.4 was tuned on real days: ~95% of groups correct.
   story_grouping: { enabled: true, similarity: 0.4, min_shared: 2, max_hours_apart: 48 }
+  # Top stories tab: the most widely covered stories across all feeds.
+  top_stories: { count: 15, min_outlets: 3 }
+  # Refresh button on the page. The workflow also refuses manual builds within min_minutes of the last one.
+  refresh: { repo: aniruddhazalani/daily-feeds, workflow: daily.yml, min_minutes: 60 }
   archive_days: 60
   seen_days: 14
   discovery:
@@ -436,14 +442,19 @@ feeds:
 
       dedollarization:
         title: De-dollarization & BRICS payment rails
+        window_hours: 168
         sources: [setser, atlantic_geoecon, pettis, omfif, gn_dedollar, bis_press]
         include: { "de-dollarization": 5, dedollarization: 5, "dollar dominance": 5, "reserve currency": 4,
                    BRICS: 3, yuan: 2, renminbi: 3, "rupee trade": 4, "local currency": 3, "local currencies": 3,
                    mBridge: 5, CIPS: 4, SWIFT: 3, "gold reserves": 4, "central bank gold": 4, gold: 1, CBDC: 2,
                    petroyuan: 5, "dollar's": 2, dollar: 1, "payment system": 3, "cross-border payments": 3,
-                   "capital flows": 2, "Treasury holdings": 3 }
+                   "capital flows": 2, "Treasury holdings": 3, reserves: 2, "reserve managers": 4,
+                   "monetary system": 4, "international monetary": 4, "swap lines": 4, "liquidity lines": 4,
+                   currency: 1, currencies: 2, settlement: 2, payments: 1, Treasuries: 2, "foreign exchange": 2 }
         require_any: [dollar, "dollar's", BRICS, yuan, renminbi, rupee, "reserve currency", "local currency",
-                      "local currencies", mBridge, CIPS, SWIFT, gold, CBDC, "cross-border payments", "capital flows"]
+                      "local currencies", mBridge, CIPS, SWIFT, gold, CBDC, "cross-border payments", "capital flows",
+                      reserves, "reserve managers", payments, "monetary system", "international monetary", currency,
+                      currencies, settlement, "swap lines", "liquidity lines", Treasuries, "foreign exchange", FX]
 
       us_debt:
         title: US debt & interest costs
@@ -455,6 +466,7 @@ feeds:
 
       agendas:
         title: Project 2025 / UN Agenda 2030
+        window_hours: 168
         sources: [gn_project2025, gn_agenda2030, un_sdg]
         include: { "Project 2025": 6, "Heritage Foundation": 3, "Agenda 2030": 6, "Sustainable Development Goals": 4,
                    SDG: 3, SDGs: 3, "2030 Agenda": 6 }
@@ -496,6 +508,7 @@ feeds:
 
       recsys:
         title: Recommendation systems
+        window_hours: 168
         sources: [eugene_yan, netflix_tech, spotify_research, pinterest_eng, meta_eng, linkedin_eng, airbnb_tech,
                   doordash_eng, instacart_tech, uber_eng, nvidia_tech, arxiv_ir, hf_papers]
         include: { recommendation: 5, recommendations: 4, recommender: 5, recsys: 5, ranking: 3, retrieval: 3,
@@ -534,6 +547,7 @@ feeds:
 
       conferences:
         title: Conferences
+        window_hours: 168
         sources: [neurips_blog, iclr_blog, gn_conferences, arxiv_cl, arxiv_ir, arxiv_lg_llm, hf_papers]
         include: { NeurIPS: 5, NIPS: 5, ICML: 5, ICLR: 5, CVPR: 5, ICCV: 5, ECCV: 5, ACL: 4, EMNLP: 5, NAACL: 5,
                    KDD: 5, RecSys: 5, SIGIR: 5, WWW: 3, "Web Conference": 5, MLSys: 5, AAAI: 4, IJCAI: 4, COLM: 5,
@@ -565,6 +579,7 @@ feeds:
 
       europe:
         title: Champions League & Europe
+        window_hours: 168
         sources: [bbc_football, guardian_football, espn_fc, sky_football, athletic_football]
         include: { "Champions League": 5, "Europa League": 5, "Conference League": 5, UEFA: 3, "group stage": 3,
                    "league phase": 4, "knockout": 3, "round of 16": 4, "quarter-final": 3, "semi-final": 3 }

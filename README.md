@@ -8,6 +8,12 @@ A personal news page with five feeds: **Politics, Finance, AI, Football, Other S
 
 See [PLAN.md](PLAN.md) for the full design.
 
+## On the page
+
+- **Top stories:** the first tab lists the 15 most widely covered stories of the day across every feed (3+ outlets). Each is labelled with its feed and section; click the label to jump there. Tune with `settings.top_stories`.
+- **Read tracking:** opening any article of a story marks the story as read, and it fades. "Hide read" hides read stories, and "Mark this tab read" clears a tab. Tab counts show unread stories. Stories that weren't on the page the last time you looked get a **New** badge. All of this is stored in your browser only, so each device keeps its own.
+- **Refresh:** the button rebuilds the page with the latest news (about 3 minutes) and reloads it when the new version is live. It's limited to **once an hour**. The button shows when the next refresh is allowed, and the workflow itself refuses manual builds within an hour of the last build (`settings.refresh.min_minutes`). One-time setup per device: the first click asks for a GitHub fine-grained token with **Actions: Read and write** on this repository only. It's stored only in that browser and sent only to GitHub. To bypass the limit yourself, run the workflow on GitHub with **force** ticked.
+
 ## Run locally
 
 ```bash
@@ -44,6 +50,8 @@ Other commands:
 **Tune a section:** run `--explain feed.section`, then adjust keyword weights, `exclude`, or `min_score`.
 - Short capitalised terms (`ICE`, `OPT`, `Fed`) match case-sensitively. Everything else ignores case.
 - `junk_titles` under `settings` drops job ads, archive pages and similar everywhere.
+
+**Slow sections:** a section can set `window_hours` to keep stories longer. De-dollarization, Project 2025 / Agenda 2030, Recommendation systems, Conferences and Champions League use 7 days (`168`). The already-shown list stops repeats, so a longer window only adds stories you haven't seen.
 
 **Story grouping:** articles about the same story are grouped under one entry, even when the headlines differ. Expand "N more articles" to see the others with their outlet and lean. Grouping compares the distinctive words in headlines and snippets, weighted by how rare each word is that day, so names count for more than common words like "Trump" or "India". News, analysis and papers are grouped separately. Tune it with `settings.story_grouping`: raise `similarity` (default 0.4) if unrelated stories end up together, lower it if one story is split across entries.
 

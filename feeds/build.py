@@ -61,6 +61,19 @@ def item_json(cfg: Config, s: Scored) -> dict:
     }
 
 
+def top_stories(cfg: Config, candidates: list[tuple[Scored, str, str]]) -> list[dict]:
+    """The day's most widely covered stories across every feed (headlines only, no repeats)."""
+    tcfg = cfg.settings.get("top_stories") or {}
+    count, min_outlets = int(tcfg.get("count", 15)), int(tcfg.get("min_outlets", 3))
+    best: dict[int, tuple[Scored, str, str]] = {}
+    for s, where, anchor in candidates:  # a story can be shown in two feeds; keep its best placement
+        if id(s.cluster) not in best or s.score > best[id(s.cluster)][0].score:
+            best[id(s.cluster)] = (s, where, anchor)
+    ranked = sorted(best.values(), key=lambda t: (len(t[0].cluster.outlets), t[0].score), reverse=True)
+    picked = [t for t in ranked if len(t[0].cluster.outlets) >= min_outlets][:count]
+    return [{**item_json(cfg, s), "where": where, "anchor": anchor} for s, where, anchor in picked]
+
+
 def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = True, save: bool = True, out: str = "site") -> int:
     tz = ZoneInfo(cfg.settings.get("timezone", "UTC"))
     now = datetime.now(timezone.utc)
@@ -84,11 +97,13 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
 
     feeds_out = []
     shown_sources: set[str] = set()
+    top_candidates: list[tuple[Scored, str, str]] = []  # (story, "Feed › Section", anchor)
     for feed in cfg.feeds:
         ranked = rank.rank_feed(cfg, feed, clusters, now)
         sections = []
         for sec in feed.sections:
             buckets = ranked[sec.id]
+            top_candidates += [(s, f"{feed.title} › {sec.title}", f"{feed.id}-{sec.id}") for s in buckets["news"]]
             for lst in buckets.values():
                 for s in lst:
                     shown_sources |= s.cluster.source_ids
@@ -103,6 +118,8 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
             sections.append(sec_out)
         tags = sorted({i["tag"] for sec in sections for b in ("news", "analysis", "papers") for i in sec[b] if i["tag"]})
         feeds_out.append({"id": feed.id, "title": feed.title, "tags": tags, "sections": sections})
+
+    top = top_stories(cfg, top_candidates)
 
     if discover_sources and (cfg.settings.get("discovery") or {}).get("enabled", True):
         new_sources = discover.update(cfg, results, kept, clusters, shown_sources, today, now, save=save)
@@ -122,6 +139,7 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
         "generated_at": now.isoformat(),
         "timezone": str(tz),
         "site_title": cfg.settings.get("site_title", "Daily Feeds"),
+        "top": top,
         "feeds": feeds_out,
         "new_sources": new_sources,
         "problems": problems,
@@ -144,6 +162,6 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
     days = [json.loads(f.read_text()) for f in snapshots]
     if not save or not any(d["date"] == today for d in days):
         days = [d for d in days if d["date"] != today] + [snapshot]
-    render.render_site(Path(out), days, int(cfg.settings.get("show_first", 5)))
+    render.render_site(Path(out), days, int(cfg.settings.get("show_first", 5)), cfg.settings.get("refresh"))
     log.info("rendered %d stories across %d feeds → %s/index.html", snapshot["stats"]["shown"], len(feeds_out), out)
     return 0

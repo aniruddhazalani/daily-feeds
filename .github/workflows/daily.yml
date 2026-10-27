@@ -13,7 +13,12 @@ on:
     - cron: "37 21 * * *"   # 03:07 IST
     - cron: "7 22 * * *"    # 03:37 IST
     - cron: "37 22 * * *"   # 04:07 IST
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      force:
+        description: "Build even if the last build was less than an hour ago"
+        type: boolean
+        default: false
 
 permissions:
   contents: write   # commit data/ (archive, seen list, discovered sources)
@@ -32,26 +37,38 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          sparse-checkout: data/days
+          sparse-checkout: |
+            data/days
       - id: guard
-        # Scheduled runs skip if this morning's page (built after 03:00 IST) already exists.
-        # Manual runs always build.
+        # Scheduled runs: skip once this morning's page (built after 03:00 IST) exists.
+        # Manual runs (the page's Refresh button): skip if the last build was less than
+        # refresh.min_minutes ago (feeds.yaml), unless started with force.
         run: |
-          python3 - <<'PY' >> "$GITHUB_OUTPUT"
-          import json, os, pathlib
+          python3 - <<'PY'
+          import json, os, pathlib, re
           from datetime import datetime, timedelta, timezone
           ist = timezone(timedelta(hours=5, minutes=30))
           now = datetime.now(ist)
-          snap = pathlib.Path(f"data/days/{now.date()}.json")
-          built_this_morning = False
-          if snap.exists():
-              built = datetime.fromisoformat(json.loads(snap.read_text())["generated_at"]).astimezone(ist)
-              built_this_morning = built >= now.replace(hour=3, minute=0, second=0, microsecond=0)
-          skip = os.environ["EVENT"] == "schedule" and built_this_morning
-          print("run=" + ("false" if skip else "true"))
+          snaps = sorted(pathlib.Path("data/days").glob("*.json"))
+          last = (datetime.fromisoformat(json.loads(snaps[-1].read_text())["generated_at"]).astimezone(ist)
+                  if snaps else None)
+          m = re.search(r"refresh:.*min_minutes:\s*(\d+)", pathlib.Path("feeds.yaml").read_text())
+          min_minutes = int(m.group(1)) if m else 60
+          if os.environ["EVENT"] == "schedule":
+              skip = bool(last and last.date() == now.date() and last.hour >= 3)
+              why = "this morning's page is already built"
+          else:
+              skip = (os.environ["FORCE"] != "true" and last is not None
+                      and now - last < timedelta(minutes=min_minutes))
+              why = f"last build was at {last:%H:%M} IST; refreshes are limited to one per {min_minutes} min" if last else ""
+          if skip:
+              print(f"::notice::Skipping build: {why}")
+          with open(os.environ["GITHUB_OUTPUT"], "a") as out:
+              out.write("run=" + ("false" if skip else "true") + "\n")
           PY
         env:
           EVENT: ${{ github.event_name }}
+          FORCE: ${{ inputs.force }}
 
   build:
     needs: check

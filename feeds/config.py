@@ -38,6 +38,7 @@ class Source:
     max_results: int = 100
     fallback: Optional[str] = None  # Google News query used if the feed is blocked
     discovered: bool = False
+    window_hours: float = 0.0  # how far back to keep items: its kind's window, or longer if a section asks
     meta: dict = field(default_factory=dict)  # discovery bookkeeping
 
     @property
@@ -68,6 +69,7 @@ class Section:
     max_items: int
     max_analysis: int
     max_papers: int
+    window_hours: Optional[float] = None  # longer time window for slow-moving sections
 
     @property
     def key(self) -> str:
@@ -192,6 +194,7 @@ def load(path: Path = CONFIG_PATH, with_discovered: bool = True) -> Config:
                 max_items=int(sraw.get("max_items", settings.get("default_max_items", 12))),
                 max_analysis=int(sraw.get("max_analysis", settings.get("default_max_analysis", 6))),
                 max_papers=int(sraw.get("max_papers", settings.get("default_max_papers", 8))),
+                window_hours=float(sraw["window_hours"]) if sraw.get("window_hours") else None,
             ))
         if not sections:
             raise ConfigError(f"feed {fid}: needs at least one section")
@@ -223,4 +226,12 @@ def load(path: Path = CONFIG_PATH, with_discovered: bool = True) -> Config:
             for key in d.get("sections", []):
                 if key in keys:
                     cfg.section(key).source_ids.append(sid)
+    # A source keeps items as long as the longest window of any section that lists it.
+    windows = settings.get("windows_hours", {}) or {}
+    for src in sources.values():
+        src.window_hours = float(windows.get(src.kind, 36))
+    for sec in cfg.sections():
+        if sec.window_hours:
+            for sid in sec.source_ids:
+                sources[sid].window_hours = max(sources[sid].window_hours, sec.window_hours)
     return cfg

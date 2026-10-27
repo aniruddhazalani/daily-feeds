@@ -249,6 +249,12 @@ Guardrails: at most 5 new sources per day, at most 40 discovered sources active 
 6. Create the GitHub repo, add the Actions workflow (commits `data/` and deploys Pages), and do a first scheduled run.
 7. README: how to add a feed or section, promote or mute a source, and tune a section.
 
+## Reading features (added 2026-10-27)
+- **Top stories tab:** stories shown in any feed's headlines, ranked by number of outlets and then score. Top 15 with ≥ 3 outlets; each placed at its best-scoring feed and section.
+- **Slow sections:** a per-section `window_hours` (7 days for five sections). A source keeps items for the longest window of any section that lists it, but each section only scores items inside its own window. The recency penalty stretches to match.
+- **Read tracking (browser-only):** a story is read once any of its articles is opened. Read stories fade or can be hidden, tab counts show unread, and stories not on the page at the last visit get a "New" badge.
+- **Refresh button:** calls GitHub's `workflow_dispatch` API with a fine-grained token stored only in that browser, then polls the page and reloads when the new build is live. The hourly limit is enforced in the workflow's `check` job: manual runs within `refresh.min_minutes` of the last build are skipped unless started with `force`.
+
 ## Story grouping (added 2026-10-24)
 - After near-duplicate merging, `feeds/group.py` groups articles about the same story using TF-IDF over headline (×2) + snippet. Weights come from the day's own items, so rare words (names, places, specific terms) dominate.
 - An article joins a group when it shares ≥ 2 distinctive words with it (words in ≤ 3 % of the day's items) and its cosine similarity to the group's centroid is ≥ 0.4, within 48 h. Matching against the centroid instead of pair-to-pair stops chaining into topic blobs. A second pass merges groups that ended up as two halves of one story.

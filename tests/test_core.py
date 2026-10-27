@@ -75,6 +75,21 @@ class Scoring(unittest.TestCase):
         self.assertIsNone(bad)
         self.assertIn("excluded", reason)
 
+    def test_slow_section_keeps_older_stories_but_others_do_not(self):
+        # bis_press feeds both central_banks (normal window) and dedollarization (7 days).
+        old = Cluster([item("BIS report on mBridge and cross-border payments in yuan and rupee", source_id="bis_press",
+                            kind="official", hours_old=200)])
+        older_than_week, _ = score(self.cfg, self.cfg.section("finance.dedollarization"), old, NOW)
+        self.assertIsNone(older_than_week)
+        four_days = Cluster([item("BIS report on mBridge and cross-border payments in yuan and rupee", source_id="gn_dedollar",
+                                  kind="search", hours_old=96)])
+        slow, _ = score(self.cfg, self.cfg.section("finance.dedollarization"), four_days, NOW)
+        self.assertIsNotNone(slow)
+        news = Cluster([item("Fed holds interest rates, signals cuts", source_id="gn_rates", kind="search", hours_old=96)])
+        normal, reason = score(self.cfg, self.cfg.section("finance.central_banks"), news, NOW)
+        self.assertIsNone(normal)
+        self.assertIn("window", reason)
+
     def test_item_from_unlisted_source_is_not_a_candidate(self):
         sec = self.cfg.section("finance.oil")
         s, reason = score(self.cfg, sec, Cluster([item("Brent crude jumps", source_id="cricinfo")]), NOW)

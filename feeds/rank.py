@@ -3,7 +3,7 @@ from __future__ import annotations
 
 import math
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 from functools import lru_cache
 from typing import Optional
 
@@ -31,11 +31,18 @@ def pick_primary(items: list[Item], weights: dict[str, float]) -> Item:
     return max(items, key=lambda it: (weights.get(it.source_id, 0), it.upvotes, not it.via_search, it.published))
 
 
+def kind_window(cfg: Config, kind: str) -> float:
+    return float((cfg.settings.get("windows_hours") or {}).get(kind, 36))
+
+
 def score(cfg: Config, sec: Section, cl: Cluster, now: datetime) -> tuple[Optional[Scored], str]:
     """Return (Scored, "") or (None, reason it was dropped)."""
-    in_sec = [it for it in cl.items if it.source_id in sec.source_ids]
+    # Sources may keep items longer for a slow section elsewhere; each section only
+    # considers items inside its own window.
+    in_sec = [it for it in cl.items if it.source_id in sec.source_ids
+              and now - it.published <= timedelta(hours=sec.window_hours or kind_window(cfg, it.kind))]
     if not in_sec:
-        return None, "not from this section's sources"
+        return None, "not from this section's sources (within its window)"
     titles, snippets = cl.text()
     # Exclude/require look only at this section's own articles, so one stray related
     # article on a grouped story can't knock the story out of (or into) the section.
@@ -63,8 +70,11 @@ def score(cfg: Config, sec: Section, cl: Cluster, now: datetime) -> tuple[Option
     topical = TOPICAL_BONUS if any(cfg.sources[it.source_id].topical for it in in_sec) else 0
     source = max(weights.values())
     coverage = 1.5 * math.log(max(len(cl.outlets), 1))
-    age_h = max((now - cl.newest).total_seconds() / 3600, 0)
-    recency = -age_h / RECENCY_DIVISOR.get(primary.kind, 12)
+    divisor = RECENCY_DIVISOR.get(primary.kind, 12)
+    if sec.window_hours:  # stretch the age penalty to match a longer window
+        divisor *= max(1.0, sec.window_hours / kind_window(cfg, primary.kind))
+    age_h = max((now - max(it.published for it in in_sec)).total_seconds() / 3600, 0)
+    recency = -age_h / divisor
     upvotes = math.log1p(max(it.upvotes for it in cl.items)) if primary.kind == "paper" else 0.0
     total = kw + topical + source + coverage + recency + upvotes
     parts = {"keyword": round(kw, 2), "topical": topical, "source": source, "coverage": round(coverage, 2),
