@@ -25,7 +25,7 @@ sources:
   domain: euronews.com
   reason: cited by FDD, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-28'
   samples:
   - '''Time to make a deal,'' Trump tells Zelenskyy as he complains US has got ''nothing back'' from Ukraine'
   - 'Investment summit: German government strikes AI deal with Nvidia'
@@ -40,7 +40,7 @@ sources:
   domain: kyivindependent.com
   reason: cited by Phillips O'Brien, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-26'
+  last_qualified: '2026-10-28'
   samples:
   - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
   - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
@@ -70,7 +70,7 @@ sources:
   domain: footballtransfers.com
   reason: 11 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-28'
   samples:
   - Arsenal confirmation as wonderkid decision stuns Chelsea
   - 'Chelsea Transfer News Today: Manu Kone unlocks everything as record signing eyed'
@@ -101,7 +101,7 @@ sources:
   domain: english.aawsat.com
   reason: cited by FDD, The National Interest
   added: '2026-10-22'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-28'
   samples:
   - Private Sector Fuels Saudi Arabia’s Growth Lead Among G20 Economies
   - Saudi Crown Prince Receives Written Message to King Salman from Egyptian President
@@ -191,7 +191,7 @@ sources:
   domain: lemonde.fr
   reason: cited by Commodity Context, FDD
   added: '2026-10-24'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-28'
   samples:
   - Russia and Ukraine agree to truce in Oleshky
   - Trump lifts some Canada tariffs ahead of midterms
@@ -236,7 +236,7 @@ sources:
   domain: time.com
   reason: cited by The National Interest, UnHerd
   added: '2026-10-24'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-28'
   samples:
   - The Atlantic and Pacific Oceans Are Not Trump’s to Rename
   - Why Trump’s Rebrand of Artificial Intelligence to Super Intelligence Matters
@@ -280,7 +280,7 @@ sources:
   domain: rferl.org
   reason: cited by FDD, Phillips O'Brien
   added: '2026-10-24'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-28'
   samples:
   - White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City
   - 'Every Day We ''Wake Up Poorer'': Iranians Battle Economic Woes'
