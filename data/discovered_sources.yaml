@@ -25,7 +25,7 @@ sources:
   domain: euronews.com
   reason: cited by FDD, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-28'
+  last_qualified: '2026-10-29'
   samples:
   - '''Time to make a deal,'' Trump tells Zelenskyy as he complains US has got ''nothing back'' from Ukraine'
   - 'Investment summit: German government strikes AI deal with Nvidia'
@@ -40,7 +40,7 @@ sources:
   domain: kyivindependent.com
   reason: cited by Phillips O'Brien, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-28'
+  last_qualified: '2026-10-29'
   samples:
   - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
   - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
@@ -55,7 +55,7 @@ sources:
   domain: businessinsider.com
   reason: cited by Stratechery, The National Interest, Tomasz Tunguz
   added: '2026-10-22'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-29'
   samples:
   - 'Peter Thiel breaks with Trump over Iran war: ''We should not have done it'''
   - Meta CEO Mark Zuckerberg says Muse and Reality Labs are highly unprofitable — for now
@@ -70,7 +70,7 @@ sources:
   domain: footballtransfers.com
   reason: 11 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-10-28'
+  last_qualified: '2026-10-29'
   samples:
   - Arsenal confirmation as wonderkid decision stuns Chelsea
   - 'Chelsea Transfer News Today: Manu Kone unlocks everything as record signing eyed'
@@ -85,7 +85,7 @@ sources:
   domain: sundayguardianlive.com
   reason: 7 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-10-26'
+  last_qualified: '2026-10-29'
   samples:
   - 'LIVE | Silver Price Today [22 October 2026]: MCX Silver Drops at ₹2.29 Lakh/kg Amid Trump-Iran War, Fed Policy Uncertainty;
     Check Latest City-Wise Silver Rates in Delhi, Mumbai, Chennai, Kerala & More'
@@ -101,7 +101,7 @@ sources:
   domain: english.aawsat.com
   reason: cited by FDD, The National Interest
   added: '2026-10-22'
-  last_qualified: '2026-10-28'
+  last_qualified: '2026-10-29'
   samples:
   - Private Sector Fuels Saudi Arabia’s Growth Lead Among G20 Economies
   - Saudi Crown Prince Receives Written Message to King Salman from Egyptian President
@@ -161,7 +161,7 @@ sources:
   domain: fortune.com
   reason: cited by Newcomer, Platformer
   added: '2026-10-24'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-29'
   samples:
   - An $8 billion Treasury break helped bring Meta’s tax rate to 2%. Now it has a week to answer senators about data center
     tax credits
@@ -176,7 +176,7 @@ sources:
   domain: theaiinsider.tech
   reason: 7 matching items via search
   added: '2026-10-24'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-29'
   samples:
   - Spotify Bets on AI Agents as a Growth Driver After Strong Third Quarter
   - Nirva Announces $25M in Funding for AI Pendant That Listens Only to Its Wearer
@@ -191,7 +191,7 @@ sources:
   domain: lemonde.fr
   reason: cited by Commodity Context, FDD
   added: '2026-10-24'
-  last_qualified: '2026-10-28'
+  last_qualified: '2026-10-29'
   samples:
   - Russia and Ukraine agree to truce in Oleshky
   - Trump lifts some Canada tariffs ahead of midterms
@@ -206,7 +206,7 @@ sources:
   domain: defensenews.com
   reason: cited by FDD, The National Interest
   added: '2026-10-24'
-  last_qualified: '2026-10-24'
+  last_qualified: '2026-10-29'
   samples:
   - US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says
   - '‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite'
@@ -251,7 +251,7 @@ sources:
   domain: theverge.com
   reason: cited by Newcomer, Stratechery
   added: '2026-10-24'
-  last_qualified: '2026-10-26'
+  last_qualified: '2026-10-29'
   samples:
   - OpenAI now trains its frontier AI models with no internet access
   - Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
