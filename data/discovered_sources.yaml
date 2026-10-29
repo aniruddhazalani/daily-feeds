@@ -10,7 +10,7 @@ sources:
   domain: ft.com
   reason: cited by Newcomer, Phillips O'Brien, Platformer
   added: '2026-10-20'
-  last_qualified: '2026-10-20'
+  last_qualified: '2026-10-30'
   samples:
   - Data centres need protection from drone warfare
   - Zelenskyy, Europe and the end of Trump whispering
@@ -25,7 +25,7 @@ sources:
   domain: euronews.com
   reason: cited by FDD, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-30'
   samples:
   - '''Time to make a deal,'' Trump tells Zelenskyy as he complains US has got ''nothing back'' from Ukraine'
   - 'Investment summit: German government strikes AI deal with Nvidia'
@@ -40,7 +40,7 @@ sources:
   domain: kyivindependent.com
   reason: cited by Phillips O'Brien, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-30'
   samples:
   - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
   - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
@@ -70,7 +70,7 @@ sources:
   domain: footballtransfers.com
   reason: 11 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-30'
   samples:
   - Arsenal confirmation as wonderkid decision stuns Chelsea
   - 'Chelsea Transfer News Today: Manu Kone unlocks everything as record signing eyed'
@@ -101,7 +101,7 @@ sources:
   domain: english.aawsat.com
   reason: cited by FDD, The National Interest
   added: '2026-10-22'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-30'
   samples:
   - Private Sector Fuels Saudi Arabia’s Growth Lead Among G20 Economies
   - Saudi Crown Prince Receives Written Message to King Salman from Egyptian President
@@ -116,7 +116,7 @@ sources:
   domain: digitimes.com
   reason: 7 matching items via search
   added: '2026-10-23'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-30'
   samples:
   - MIPI expands beyond smartphones into AR glasses and humanoid robots
   - Tesla's Megapack boom meets AI power crunch, but margin gains raise questions
@@ -146,7 +146,7 @@ sources:
   domain: politico.eu
   reason: cited by FDD, UnHerd
   added: '2026-10-23'
-  last_qualified: '2026-10-26'
+  last_qualified: '2026-10-30'
   samples:
   - Farage plays down his Trump friendship in Britain — and talks it up to MAGA
   - ‘There is no immunity to Donald Trump’
@@ -176,7 +176,7 @@ sources:
   domain: theaiinsider.tech
   reason: 7 matching items via search
   added: '2026-10-24'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-30'
   samples:
   - Spotify Bets on AI Agents as a Growth Driver After Strong Third Quarter
   - Nirva Announces $25M in Funding for AI Pendant That Listens Only to Its Wearer
@@ -206,7 +206,7 @@ sources:
   domain: defensenews.com
   reason: cited by FDD, The National Interest
   added: '2026-10-24'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-30'
   samples:
   - US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says
   - '‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite'
@@ -221,7 +221,7 @@ sources:
   domain: wiz.io
   reason: cited by Newcomer, Simon Willison
   added: '2026-10-24'
-  last_qualified: '2026-10-24'
+  last_qualified: '2026-10-30'
   samples:
   - 'ARTEX in the Wild: Storm-0940 Expands Targeting of IT and Software Vendors'
   - 'From Phishing to LLMjacking: Threat Actors Targeting Cloud Billing Accounts for LLM Usage'
@@ -265,7 +265,7 @@ sources:
   domain: roboticsandautomationnews.com
   reason: 6 matching items via search
   added: '2026-10-24'
-  last_qualified: '2026-10-27'
+  last_qualified: '2026-10-30'
   samples:
   - 'Canton Fair at 70: Service robots get dedicated zone as buyers demand real-world performance'
   - 'The Overlooked Interface: How HMIs Shape Automation in GMP Production'
@@ -280,7 +280,7 @@ sources:
   domain: rferl.org
   reason: cited by FDD, Phillips O'Brien
   added: '2026-10-24'
-  last_qualified: '2026-10-28'
+  last_qualified: '2026-10-30'
   samples:
   - White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City
   - 'Every Day We ''Wake Up Poorer'': Iranians Battle Economic Woes'
