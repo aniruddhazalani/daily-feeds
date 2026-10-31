@@ -106,9 +106,18 @@ def _line(i: int, s: Scored, where: str, cfg: Config, continuing: Optional[dict]
     return " | ".join(x.replace("\n", " ") for x in parts)
 
 
-def _call_claude(lines: list[str], profile: str, icfg: dict) -> dict[int, dict]:
+def _cli_error(proc: subprocess.CompletedProcess) -> str:
+    """The CLI's own explanation of a failure (its JSON 'result' field, or stderr)."""
+    try:
+        out = json.loads(proc.stdout)
+        return f"{out.get('subtype', '')}: {out.get('result') or out.get('error') or ''}".strip(": ")[:400]
+    except (json.JSONDecodeError, TypeError):
+        return (proc.stderr or proc.stdout or "").strip()[:400]
+
+
+def _call_claude(lines: list[str], profile: str, icfg: dict, model: str) -> dict[int, dict]:
     system = f"{RUBRIC}\n\nReader profile:\n{profile.strip()}"
-    cmd = ["claude", "-p", "--output-format", "json", "--model", str(icfg.get("model", "opus")),
+    cmd = ["claude", "-p", "--output-format", "json", "--model", model,
            "--effort", str(icfg.get("effort", "low")), "--tools", "", "--no-session-persistence",
            "--strict-mcp-config", "--system-prompt", system, "--json-schema", json.dumps(SCHEMA)]
     # Run outside the repo so no project settings or instructions are picked up.
@@ -116,10 +125,10 @@ def _call_claude(lines: list[str], profile: str, icfg: dict) -> dict[int, dict]:
         proc = subprocess.run(cmd, input="\n".join(lines), capture_output=True, text=True, cwd=cwd,
                               timeout=int(icfg.get("timeout_seconds", 300)))
     if proc.returncode != 0:
-        raise RuntimeError(f"claude exited {proc.returncode}: {(proc.stderr or proc.stdout)[:300]}")
+        raise RuntimeError(f"claude exited {proc.returncode} ({model}): {_cli_error(proc)}")
     out = json.loads(proc.stdout)
     if out.get("is_error"):
-        raise RuntimeError(f"claude error: {str(out.get('result'))[:300]}")
+        raise RuntimeError(f"claude error ({model}): {_cli_error(proc)}")
     data = out.get("structured_output")
     if data is None:  # older CLIs put the JSON in the text result
         data = json.loads(out.get("result") or "{}")
@@ -149,11 +158,14 @@ def rate(cfg: Config, stories: list[tuple[Scored, str]], continuing: dict, save:
         batches = [keys[i:i + size] for i in range(0, len(keys), size)]
         today = date.today().isoformat()
 
+        models = [str(icfg.get("model", "opus"))] + [str(m) for m in (icfg.get("fallback_models") or [])]
+        model = models[0]
+
         def run(batch: list[str]) -> dict[str, dict]:
             lines = [_line(i, todo[k][0], todo[k][1], cfg, continuing.get(id(todo[k][0].cluster)))
                      for i, k in enumerate(batch)]
             try:
-                rated = _call_claude(lines, icfg.get("profile", ""), icfg)
+                rated = _call_claude(lines, icfg.get("profile", ""), icfg, model)
             except Exception as e:  # one failed batch must never break the build
                 log.warning("impact: batch of %d failed: %s", len(batch), e)
                 return {}
@@ -161,7 +173,14 @@ def rate(cfg: Config, stories: list[tuple[Scored, str]], continuing: dict, save:
 
         # The first batch doubles as a probe: if Claude can't be reached (no login, expired
         # token), skip the rest instead of waiting through every timeout.
-        first = run(batches[0])
+        # If the main model is refused (e.g. not included in the plan), try the fallbacks on that batch.
+        first = {}
+        for model in models:
+            first = run(batches[0])
+            if first:
+                break
+        if first and model != models[0]:
+            log.warning("impact: using fallback model %s", model)
         cache.update(first)
         if not first:
             log.warning("impact: first batch failed; skipping the other %d batches", len(batches) - 1)

@@ -70,6 +70,7 @@ settings:
     enabled: true
     feeds: [politics, finance, ai]
     model: opus
+    fallback_models: [sonnet]   # tried if the plan refuses the main model
     effort: low
     hide_below: 3
     weight: 3.0            # score points per impact level above/below 3
