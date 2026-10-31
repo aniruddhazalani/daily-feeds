@@ -120,9 +120,13 @@ def _call_claude(lines: list[str], profile: str, icfg: dict, model: str) -> dict
     cmd = ["claude", "-p", "--output-format", "json", "--model", model,
            "--effort", str(icfg.get("effort", "low")), "--tools", "", "--no-session-persistence",
            "--strict-mcp-config", "--system-prompt", system, "--json-schema", json.dumps(SCHEMA)]
+    env = os.environ.copy()
+    for var in ("CLAUDE_CODE_OAUTH_TOKEN", "ANTHROPIC_API_KEY"):
+        if env.get(var):  # a token copied from a wrapped terminal line can carry spaces or newlines
+            env[var] = "".join(env[var].split())
     # Run outside the repo so no project settings or instructions are picked up.
     with tempfile.TemporaryDirectory() as cwd:
-        proc = subprocess.run(cmd, input="\n".join(lines), capture_output=True, text=True, cwd=cwd,
+        proc = subprocess.run(cmd, input="\n".join(lines), capture_output=True, text=True, cwd=cwd, env=env,
                               timeout=int(icfg.get("timeout_seconds", 300)))
     if proc.returncode != 0:
         raise RuntimeError(f"claude exited {proc.returncode} ({model}): {_cli_error(proc)}")
