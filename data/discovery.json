@@ -1,5 +1,12 @@
 {
  "citations": {
+  "137ventures.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
+   }
+  ],
   "13newsnow.com": [
    {
     "date": "2026-10-29",
@@ -207,6 +214,13 @@
     "source_id": "national_interest"
    }
   ],
+  "abebooks.co.uk": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "abl.org.lb": [
    {
     "date": "2026-10-21",
@@ -265,6 +279,13 @@
     "source_id": "netflix_tech"
    }
   ],
+  "about.usps.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
+    "source_id": "propublica"
+   }
+  ],
   "aboutamazon.com": [
    {
     "date": "2026-10-20",
@@ -275,6 +296,13 @@
     "date": "2026-10-29",
     "post": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
     "source_id": "simon_willison"
+   }
+  ],
+  "academic.oup.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "accenture.com": [
@@ -317,6 +345,13 @@
     "source_id": "national_interest"
    }
   ],
+  "aclu-tn.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "acq.osd.mil": [
    {
     "date": "2026-10-23",
@@ -329,6 +364,13 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/buzz/bone-swords-sacred-chickens-anti-bullet-charms-brief-history-witchcraft-warfare-wl-103026",
     "source_id": "national_interest"
+   }
+  ],
+  "actionnews5.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "adamsmith.org": [
@@ -693,6 +735,13 @@
     "source_id": "fdd"
    }
   ],
+  "alec.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "alexlieberman.com": [
    {
     "date": "2026-10-22",
@@ -797,6 +846,25 @@
     "date": "2026-10-21",
     "post": "https://unherd.com/2026/10/france-has-not-fallen/?edition=us",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "americafirstpolicy.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
+  "americanmind.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "americanprogress.org": [
@@ -804,6 +872,11 @@
     "date": "2026-10-21",
     "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "amherst.edu": [
@@ -877,6 +950,13 @@
     "source_id": "national_interest"
    }
   ],
+  "anirishaside.ie": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "ankitmaloo.com": [
    {
     "date": "2026-10-24",
@@ -941,6 +1021,13 @@
     "date": "2026-10-30",
     "post": "https://nationalinterest.org/blog/buzz/pete-hegseth-just-fired-pentagons-top-strategic-planner-ps-102926",
     "source_id": "national_interest"
+   }
+  ],
+  "apnorc.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/james-blair-trump-midterm-elections/689175/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "app.ai.engineer": [
@@ -1129,6 +1216,13 @@
     "date": "2026-10-30",
     "post": "https://nationalinterest.org/blog/buzz/pete-hegseth-just-fired-pentagons-top-strategic-planner-ps-102926",
     "source_id": "national_interest"
+   }
+  ],
+  "arpa-h.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
    }
   ],
   "arstechnica.com": [
@@ -1492,6 +1586,11 @@
     "date": "2026-10-31",
     "post": "https://unherd.com/2026/10/why-your-commute-is-getting-noisier/?edition=us",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "bbc.com": [
@@ -1603,6 +1702,13 @@
     "date": "2026-10-21",
     "post": "https://www.fdd.org/analysis/qatars-lebanon-assistance-cannot-excuse-beirut-from-disarming-hezbollah/",
     "source_id": "fdd"
+   }
+  ],
+  "belfasttelegraph.co.uk": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "belpol.pro": [
@@ -1724,6 +1830,13 @@
     "date": "2026-10-28",
     "post": "https://tomtunguz.com/the-third-product-market-fit-in-ai/",
     "source_id": "tunguz"
+   }
+  ],
+  "blackstaffpress.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "blackwells.co.uk": [
@@ -1933,6 +2046,18 @@
     "date": "2026-10-27",
     "post": "https://www.fdd.org/analysis/russian-operatives-plant-deepfake-targeting-u-s-midterm-elections/",
     "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
+  "bridgedetroit.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/kronos-moroun-cadillac-heights-detroit-concrete-impact",
+    "source_id": "propublica"
    }
   ],
   "britannica.com": [
@@ -1950,6 +2075,11 @@
     "date": "2026-10-27",
     "post": "https://www.thefp.com/p/arthur-brooks-you-are-not-the-victim-stanford-prison-experiment-happiness",
     "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/indias-northeast-jews-prepare-for-israel/",
+    "source_id": "gateway_house"
    }
   ],
   "britishbeautycouncil.com": [
@@ -1985,6 +2115,13 @@
     "date": "2026-10-31",
     "post": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
     "source_id": "latent_space"
+   }
+  ],
+  "burchett.house.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "businessinsider.com": [
@@ -2039,6 +2176,13 @@
     "source_id": "free_press"
    }
   ],
+  "calbar.ca.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "calcalistech.com": [
    {
     "date": "2026-10-24",
@@ -2063,6 +2207,13 @@
     "date": "2026-10-21",
     "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
     "source_id": "unherd"
+   }
+  ],
+  "campaignlegal.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
    }
   ],
   "camral.github.io": [
@@ -2126,6 +2277,13 @@
     "date": "2026-10-27",
     "post": "https://www.fdd.org/analysis/a-ban-on-georgias-opposition-would-complete-georgian-dreams-capture-of-the-state/",
     "source_id": "fdd"
+   }
+  ],
+  "cavesofireland.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "cbc.ca": [
@@ -2215,6 +2373,16 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/buzz/white-house-trick-no-treat-for-dc-residents-ps-103026",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+    "source_id": "propublica"
    }
   ],
   "cdc.gov": [
@@ -2317,6 +2485,13 @@
     "date": "2026-10-27",
     "post": "https://nationalinterest.org/blog/middle-east-watch/what-will-israels-elections-mean-for-palestine",
     "source_id": "national_interest"
+   }
+  ],
+  "chalkbeat.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "channel4.com": [
@@ -2667,6 +2842,13 @@
     "source_id": "national_interest"
    }
   ],
+  "climateinvestigations.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+    "source_id": "propublica"
+   }
+  ],
   "clydeco.com": [
    {
     "date": "2026-10-20",
@@ -2780,6 +2962,16 @@
     "date": "2026-10-27",
     "post": "https://nationalinterest.org/blog/buzz/japan-just-confirmed-wont-give-missiles-ukraine-ps-102626",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "cnsmaryland.org": [
@@ -2954,6 +3146,16 @@
     "date": "2026-10-30",
     "post": "https://nationalinterest.org/blog/techland/only-congress-can-make-americas-new-crypto-rules-last",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "conorfitzgerald.com": [
@@ -3004,11 +3206,30 @@
     "source_id": "national_interest"
    }
   ],
+  "consumerbrandsassociation.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
+   }
+  ],
+  "content.govdelivery.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "content.time.com": [
    {
     "date": "2026-10-28",
     "post": "https://www.wisden.com/cricket-features/from-a-bus-to-team-supremo-the-evolution-of-the-cricket-coach",
     "source_id": "wisden"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "contraptions.venkateshrao.com": [
@@ -3030,6 +3251,13 @@
     "date": "2026-10-29",
     "post": "https://www.thefp.com/p/adam-hamilton-james-talarico-river-page-christianity",
     "source_id": "free_press"
+   }
+  ],
+  "corporate.exxonmobil.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
    }
   ],
   "councilforsouth.gov.lb": [
@@ -3058,6 +3286,13 @@
     "date": "2026-10-27",
     "post": "https://nationalinterest.org/blog/buzz/where-are-americas-aircraft-carriers-now-ps010126",
     "source_id": "national_interest"
+   }
+  ],
+  "cpi.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "cpreview.org": [
@@ -3281,6 +3516,13 @@
     "source_id": "bens_bites"
    }
   ],
+  "da.nashville.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "dailycal.org": [
    {
     "date": "2026-10-22",
@@ -3338,6 +3580,13 @@
     "source_id": "newcomer"
    }
   ],
+  "dam.assets.ohio.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+    "source_id": "propublica"
+   }
+  ],
   "daringfireball.net": [
    {
     "date": "2026-10-20",
@@ -3376,6 +3625,13 @@
     "source_id": "meta_eng"
    }
   ],
+  "datacollaborativeforjustice.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "dawn.com": [
    {
     "date": "2026-10-20",
@@ -3386,6 +3642,13 @@
     "date": "2026-10-30",
     "post": "https://www.fdd.org/analysis/afghanistan-pakistan-border-clashes-continue-amid-reported-pakistani-outreach-to-anti-taliban-groups/",
     "source_id": "fdd"
+   }
+  ],
+  "dc.library.okstate.edu": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "dealroom.co": [
@@ -3509,6 +3772,13 @@
     "source_id": "fdd"
    }
   ],
+  "degc.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/kronos-moroun-cadillac-heights-detroit-concrete-impact",
+    "source_id": "propublica"
+   }
+  ],
   "delivered": [
    {
     "date": "2026-10-31",
@@ -3549,6 +3819,13 @@
     "date": "2026-10-30",
     "post": "https://unherd.com/2026/10/how-transactivism-captured-therapy/?edition=us",
     "source_id": "unherd"
+   }
+  ],
+  "detroitmi.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/kronos-moroun-cadillac-heights-detroit-concrete-impact",
+    "source_id": "propublica"
    }
   ],
   "detroitnews.com": [
@@ -3696,6 +3973,13 @@
     "source_id": "netflix_tech"
    }
   ],
+  "docs.house.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "docs.litellm.ai": [
    {
     "date": "2026-10-26",
@@ -3765,6 +4049,23 @@
     "source_id": "national_interest"
    }
   ],
+  "documentcloud.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "dominiccummings.substack.com": [
    {
     "date": "2026-10-21",
@@ -3791,6 +4092,13 @@
     "date": "2026-10-30",
     "post": "https://nationalinterest.org/blog/silk-road-rivalries/how-chinese-investments-in-afghanistan-are-aiding-the-taliban-and-hurting-the-people",
     "source_id": "national_interest"
+   }
+  ],
+  "drb.ie": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "driveteslacanada.ca": [
@@ -3940,6 +4248,13 @@
     "source_id": "liberty_street"
    }
   ],
+  "economictimes.indiatimes.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/india-and-asean-get-new-momentum/",
+    "source_id": "gateway_house"
+   }
+  ],
   "economist.com": [
    {
     "date": "2026-10-24",
@@ -4017,6 +4332,18 @@
     "date": "2026-10-27",
     "post": "https://www.fdd.org/analysis/a-ban-on-georgias-opposition-would-complete-georgian-dreams-capture-of-the-state/",
     "source_id": "fdd"
+   }
+  ],
+  "eenews.net": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
    }
   ],
   "efile.fara.gov": [
@@ -4325,6 +4652,11 @@
     "date": "2026-10-23",
     "post": "https://nationalinterest.org/blog/energy-world/to-win-its-nuclear-future-america-must-look-to-its-past",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
    }
   ],
   "erikbern.com": [
@@ -4442,6 +4774,13 @@
     "source_id": "fdd"
    }
   ],
+  "evernow.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
+   }
+  ],
   "every.to": [
    {
     "date": "2026-10-20",
@@ -4510,6 +4849,20 @@
     "source_id": "netflix_tech"
    }
   ],
+  "exposedbycmd.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
+  "faber.co.uk": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "factcheck.afp.com": [
    {
     "date": "2026-10-27",
@@ -4522,6 +4875,13 @@
     "date": "2026-10-28",
     "post": "https://nationalinterest.org/blog/buzz/british-norwegian-f-35s-just-protected-us-air-force-b-52-high-north-ps-102726",
     "source_id": "national_interest"
+   }
+  ],
+  "fairelectionscenter.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "fakeitorleaveit.com": [
@@ -4569,6 +4929,13 @@
     "source_id": "fdd"
    }
   ],
+  "fda.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
+   }
+  ],
   "fdd-new.cmail20.com": [
    {
     "date": "2026-10-21",
@@ -4581,6 +4948,18 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/buzz/chinas-fourth-aircraft-carrier-could-arrive-soon-as-next-year-ps-103026",
     "source_id": "national_interest"
+   }
+  ],
+  "fec.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "federalregister.gov": [
@@ -4934,6 +5313,11 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/buzz/white-house-trick-no-treat-for-dc-residents-ps-103026",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/international/2026/10/oleshky-ceasefire-ukraine-press/689179/?utm_source=feed",
+    "source_id": "atlantic_intl"
    }
   ],
   "forcesnews.com": [
@@ -5083,6 +5467,13 @@
     "source_id": "national_interest"
    }
   ],
+  "freep.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
+   }
+  ],
   "frieze.com": [
    {
     "date": "2026-10-20",
@@ -5117,6 +5508,13 @@
     "date": "2026-10-20",
     "post": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/",
     "source_id": "simon_willison"
+   }
+  ],
+  "fulcrum.sg": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/india-and-asean-get-new-momentum/",
+    "source_id": "gateway_house"
    }
   ],
   "funeralai.cc": [
@@ -5252,6 +5650,13 @@
     "source_id": "unherd"
    }
   ],
+  "gis.occ.ok.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/oklahoma-oil-pollution-citation-violations",
+    "source_id": "propublica"
+   }
+  ],
   "gisreportsonline.com": [
    {
     "date": "2026-10-22",
@@ -5287,6 +5692,13 @@
     "source_id": "stratechery"
    }
   ],
+  "globalccsinstitute.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+    "source_id": "propublica"
+   }
+  ],
   "globalmbwatch.com": [
    {
     "date": "2026-10-28",
@@ -5318,6 +5730,13 @@
     "date": "2026-10-21",
     "post": "https://nationalinterest.org/blog/middle-east-watch/how-the-us-can-help-the-gulf-states-build-economic-resilience",
     "source_id": "national_interest"
+   }
+  ],
+  "globenewswire.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
    }
   ],
   "goat.passport.online": [
@@ -5387,6 +5806,11 @@
     "date": "2026-10-24",
     "post": "https://nationalinterest.org/blog/middle-east-watch/why-israel-isnt-leaving-lebanon-any-time-soon",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/indias-northeast-jews-prepare-for-israel/",
+    "source_id": "gateway_house"
    }
   ],
   "gov.pl": [
@@ -5427,6 +5851,13 @@
     "source_id": "unherd"
    }
   ],
+  "governing.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "governor.ny.gov": [
    {
     "date": "2026-10-23",
@@ -5454,6 +5885,11 @@
     "date": "2026-10-31",
     "post": "https://www.fdd.org/analysis/syria-hosts-iraqi-pm-for-visit-amid-security-challenges-in-north-and-south/",
     "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "gowers.wordpress.com": [
@@ -5482,6 +5918,13 @@
     "date": "2026-10-28",
     "post": "https://nationalinterest.org/blog/buzz/one-of-biggest-ships-ever-built-intentionally-being-sunk-hk-102726",
     "source_id": "national_interest"
+   }
+  ],
+  "grist.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
    }
   ],
   "gsmarena.com": [
@@ -5560,6 +6003,11 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/middle-east-watch/hezbollah-expects-lebanon-to-pay-for-its-recovery-heres-why",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/international/2026/10/israeli-expat-vote/689172/?utm_source=feed",
+    "source_id": "atlantic_intl"
    }
   ],
   "haarp.gi.alaska.edu": [
@@ -5602,6 +6050,13 @@
     "date": "2026-10-30",
     "post": "https://nationalinterest.org/blog/silk-road-rivalries/how-chinese-investments-in-afghanistan-are-aiding-the-taliban-and-hurting-the-people",
     "source_id": "national_interest"
+   }
+  ],
+  "hammonds-uk.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "hankunlaw.com": [
@@ -5838,6 +6293,13 @@
     "source_id": "fdd"
    }
   ],
+  "house.louisiana.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+    "source_id": "propublica"
+   }
+  ],
   "houseofstrauss.com": [
    {
     "date": "2026-10-20",
@@ -6015,6 +6477,13 @@
     "source_id": "wisden"
    }
   ],
+  "ice.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/deportations-ingram-texas-287g-jaron-alexander",
+    "source_id": "propublica"
+   }
+  ],
   "id.elsevier.com": [
    {
     "date": "2026-10-21",
@@ -6044,6 +6513,13 @@
     "date": "2026-10-24",
     "post": "https://www.fdd.org/analysis/protests-break-out-in-syria-against-israeli-incursions-and-attacks-as-tensions-rise/",
     "source_id": "fdd"
+   }
+  ],
+  "ifcior.indiannavy.gov.in": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/india-and-asean-get-new-momentum/",
+    "source_id": "gateway_house"
    }
   ],
   "ifixit.com": [
@@ -6146,6 +6622,20 @@
     "date": "2026-10-30",
     "post": "https://nationalinterest.org/blog/buzz/this-day-in-history-us-navy-sailors-rescued-north-korean-ship-somali-pirates-wl-102926",
     "source_id": "national_interest"
+   }
+  ],
+  "impartialreporter.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "imperialcollegelondon.github.io": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+    "source_id": "propublica"
    }
   ],
   "imperiumromanum.pl": [
@@ -6393,6 +6883,13 @@
     "source_id": "semianalysis"
    }
   ],
+  "ipcc.ch": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+    "source_id": "propublica"
+   }
+  ],
   "ippr.org": [
    {
     "date": "2026-10-27",
@@ -6412,6 +6909,20 @@
     "date": "2026-10-22",
     "post": "https://www.newcomer.co/p/emmett-shear-founders-of-simile-sambanova",
     "source_id": "newcomer"
+   }
+  ],
+  "irishpost.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
+  "irishtimes.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "isdp.eu": [
@@ -6506,6 +7017,13 @@
     "date": "2026-10-24",
     "post": "https://nationalinterest.org/blog/silk-road-rivalries/us-central-asia-policy-has-an-afghanistan-problem",
     "source_id": "national_interest"
+   }
+  ],
+  "jancarson.co.uk": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "janes.com": [
@@ -6654,6 +7172,11 @@
     "date": "2026-10-21",
     "post": "https://unherd.com/2026/10/when-the-english-ate-the-rich/?edition=us",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "jstribune.com": [
@@ -6661,6 +7184,25 @@
     "date": "2026-10-22",
     "post": "https://www.fdd.org/analysis/turkeys-justification-for-military-presence-in-syria-doesnt-hold-up/",
     "source_id": "fdd"
+   }
+  ],
+  "judiciary.senate.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
+  "justcity.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "justice.gov": [
@@ -6673,6 +7215,26 @@
     "date": "2026-10-23",
     "post": "https://www.fdd.org/analysis/u-s-must-cut-off-chinese-firms-that-profit-from-stolen-american-ai/",
     "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/oklahoma-oil-pollution-citation-violations",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+    "source_id": "propublica"
    }
   ],
   "justice.gov.sk": [
@@ -6774,6 +7336,11 @@
     "date": "2026-10-31",
     "post": "https://www.employamerica.org/healthcare/the-healthcare-cost-crowdout-continues/",
     "source_id": "employ_america"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/bernie-sanders-michigan-party/689129/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "khaama.com": [
@@ -6821,6 +7388,13 @@
     "source_id": "fdd"
    }
   ],
+  "koerber-stiftung.de": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/be-dynamic-be-like-brazil/",
+    "source_id": "gateway_house"
+   }
+  ],
   "komonews.com": [
    {
     "date": "2026-10-31",
@@ -6849,6 +7423,13 @@
     "source_id": "stratechery"
    }
   ],
+  "krdo.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/bernie-sanders-michigan-party/689129/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
   "kurdistan24.net": [
    {
     "date": "2026-10-27",
@@ -6866,6 +7447,13 @@
     "date": "2026-10-23",
     "post": "https://www.fdd.org/analysis/erdogans-pious-generation-goes-global/",
     "source_id": "fdd"
+   }
+  ],
+  "kvia.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/international/2026/10/oleshky-ceasefire-ukraine-press/689179/?utm_source=feed",
+    "source_id": "atlantic_intl"
    }
   ],
   "kyivindependent.com": [
@@ -6927,11 +7515,25 @@
     "source_id": "simon_willison"
    }
   ],
+  "latimes.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/obama-cheesecake-factory-midterms-trump/689142/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
   "latribune.fr": [
    {
     "date": "2026-10-21",
     "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
     "source_id": "fdd"
+   }
+  ],
+  "law.justia.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "lawsociety.org.uk": [
@@ -6946,6 +7548,13 @@
     "date": "2026-10-20",
     "post": "https://www.platformer.news/openai-states-lawsuit-liability/",
     "source_id": "platformer"
+   }
+  ],
+  "lda.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
    }
   ],
   "leadstories.com": [
@@ -7004,11 +7613,25 @@
     "source_id": "national_interest"
    }
   ],
+  "lee.senate.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "legalnewsline.com": [
    {
     "date": "2026-10-27",
     "post": "https://nationalinterest.org/blog/energy-world/west-virginias-lawsuit-exposes-the-high-cost-of-state-renewable-mandates",
     "source_id": "national_interest"
+   }
+  ],
+  "legalsportsreport.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+    "source_id": "propublica"
    }
   ],
   "legiscan.com": [
@@ -7052,6 +7675,13 @@
     "date": "2026-10-29",
     "post": "https://www.interconnects.ai/p/artificial-analysis-v5-and-the-benchmarkers",
     "source_id": "interconnects"
+   }
+  ],
+  "levernews.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
    }
   ],
   "links.net": [
@@ -7431,6 +8061,13 @@
     "source_id": "phillips_obrien"
    }
   ],
+  "mediamatters.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "meforum.org": [
    {
     "date": "2026-10-21",
@@ -7453,6 +8090,20 @@
     "date": "2026-10-21",
     "post": "https://www.fdd.org/analysis/the-french-republic-is-under-attack/",
     "source_id": "fdd"
+   }
+  ],
+  "members.ameripen.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
+   }
+  ],
+  "memphis.edu": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "menlovc.com": [
@@ -7690,6 +8341,13 @@
     "source_id": "unherd"
    }
   ],
+  "mlk50.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "mng.bz": [
    {
     "date": "2026-10-25",
@@ -7833,6 +8491,11 @@
     "date": "2026-10-21",
     "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/democrats-impeachment-plans-hegseth-pentagon/689195/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "muse.jhu.edu": [
@@ -7840,6 +8503,13 @@
     "date": "2026-10-23",
     "post": "https://unherd.com/2026/10/the-nordics-are-preparing-for-war/?edition=us",
     "source_id": "unherd"
+   }
+  ],
+  "my.lwv.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "naimkassem.com.lb": [
@@ -8155,6 +8825,11 @@
     "date": "2026-10-27",
     "post": "https://nationalinterest.org/blog/energy-world/west-virginias-lawsuit-exposes-the-high-cost-of-state-renewable-mandates",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
    }
   ],
   "news.cctv.com": [
@@ -8589,6 +9264,13 @@
     "source_id": "fdd"
    }
   ],
+  "newschannel5.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "newschannel9.com": [
    {
     "date": "2026-10-29",
@@ -8662,6 +9344,13 @@
     "source_id": "free_press"
    }
   ],
+  "newulsterbiography.co.uk": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "newyorker.com": [
    {
     "date": "2026-10-21",
@@ -8677,6 +9366,11 @@
     "date": "2026-10-30",
     "post": "https://nationalinterest.org/blog/buzz/pete-hegseth-just-fired-pentagons-top-strategic-planner-ps-102926",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "newyorkfed.org": [
@@ -8715,6 +9409,13 @@
     "date": "2026-10-23",
     "post": "https://unherd.com/2026/10/the-power-grab-of-the-ai-doomers/?edition=us",
     "source_id": "unherd"
+   }
+  ],
+  "nlc.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "no3gin.com": [
@@ -8832,6 +9533,21 @@
     "date": "2026-10-30",
     "post": "https://www.fdd.org/analysis/the-u-s-must-crack-down-on-houthi-human-rights-abuses-in-yemen/",
     "source_id": "fdd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "nps.gov": [
@@ -8935,6 +9651,13 @@
     "source_id": "unherd"
    }
   ],
+  "oag.ca.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
+   }
+  ],
   "oceannews.com": [
    {
     "date": "2026-10-24",
@@ -9027,6 +9750,11 @@
     "date": "2026-10-31",
     "post": "https://www.thefp.com/p/ohio-vivek-ramaswamy-amy-acton-sherrod-brown-jon-husted-audrey-fahlberg",
     "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "old.moci.gov.af": [
@@ -9055,6 +9783,13 @@
     "date": "2026-10-21",
     "post": "https://www.fdd.org/analysis/deepening-black-sea-crisis-demands-us-involvement/",
     "source_id": "fdd"
+   }
+  ],
+  "onlycitizensvotecoalition.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "ons.gov.uk": [
@@ -9116,6 +9851,18 @@
     "date": "2026-10-30",
     "post": "https://nationalinterest.org/blog/buzz/belarus-still-building-hardware-for-russian-war-machine-ps-102926",
     "source_id": "national_interest"
+   }
+  ],
+  "opensecrets.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "openui.com": [
@@ -9406,6 +10153,13 @@
     "source_id": "fdd"
    }
   ],
+  "petrieflom.law.harvard.edu": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "pewresearch.org": [
    {
     "date": "2026-10-23",
@@ -9604,6 +10358,16 @@
     "date": "2026-10-31",
     "post": "https://www.newcomer.co/p/big-tech-defied-tradition-with-a",
     "source_id": "newcomer"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/democrats-impeachment-plans-hegseth-pentagon/689195/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "politico.eu": [
@@ -9665,6 +10429,13 @@
     "date": "2026-10-27",
     "post": "https://stratechery.com/2026/the-end-of-the-internet/",
     "source_id": "stratechery"
+   }
+  ],
+  "ppic.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/california-wealth-tax-proposition-40/689206/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "pravda.com.ua": [
@@ -9803,6 +10574,13 @@
     "source_id": "unherd"
    }
   ],
+  "progressivepolicy.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
+   }
+  ],
   "project-syndicate.org": [
    {
     "date": "2026-10-21",
@@ -9846,6 +10624,11 @@
     "date": "2026-10-21",
     "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://projects.propublica.org/american-citizens-detained-dhs-civil-rights/list",
+    "source_id": "propublica"
    }
   ],
   "prospect.org": [
@@ -9890,6 +10673,13 @@
     "source_id": "interconnects"
    }
   ],
+  "publications.tnsosfiles.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "publicknowledge.org": [
    {
     "date": "2026-10-31",
@@ -9916,6 +10706,18 @@
     "date": "2026-10-22",
     "post": "https://www.thefp.com/p/texas-ken-paxton-israel-west-bank-elizabeth-holmes",
     "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/democrats-impeachment-plans-hegseth-pentagon/689195/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
+  "pureadmin.qub.ac.uk": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "pv-magazine.com": [
@@ -10022,6 +10824,13 @@
     "source_id": "tunguz"
    }
   ],
+  "rantnc.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "raytheon.co.uk": [
    {
     "date": "2026-10-24",
@@ -10057,6 +10866,13 @@
     "source_id": "national_interest"
    }
   ],
+  "realclearpolitics.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "realclearpolling.com": [
    {
     "date": "2026-10-21",
@@ -10072,6 +10888,11 @@
     "date": "2026-10-31",
     "post": "https://www.thefp.com/p/ohio-vivek-ramaswamy-amy-acton-sherrod-brown-jon-husted-audrey-fahlberg",
     "source_id": "free_press"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "reason.com": [
@@ -10105,6 +10926,13 @@
     "date": "2026-10-24",
     "post": "https://latent.space/p/ainews-black-october/",
     "source_id": "latent_space"
+   }
+  ],
+  "recyclingleadershipcouncil.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
    }
   ],
   "redakcja.www.gov.pl": [
@@ -10159,6 +10987,13 @@
     "date": "2026-10-24",
     "post": "https://www.newcomer.co/p/anthropics-pending-ipo-has-silicon",
     "source_id": "newcomer"
+   }
+  ],
+  "regulations.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
    }
   ],
   "religionnews.com": [
@@ -10317,6 +11152,13 @@
     "source_id": "national_interest"
    }
   ],
+  "review.law.stanford.edu": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "rferl.org": [
    {
     "date": "2026-10-20",
@@ -10327,6 +11169,13 @@
     "date": "2026-10-24",
     "post": "https://www.fdd.org/analysis/ukrainian-intelligence-details-new-low-cost-russian-cruise-missile/",
     "source_id": "fdd"
+   }
+  ],
+  "rgjournal.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+    "source_id": "propublica"
    }
   ],
   "ribbonfarm.com": [
@@ -10450,6 +11299,13 @@
     "source_id": "fdd"
    }
   ],
+  "rumble.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
   "rusi.org": [
    {
     "date": "2026-10-31",
@@ -10556,6 +11412,27 @@
     "source_id": "fdd"
    }
   ],
+  "scdag.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
+  "scholarlycommons.law.case.edu": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
+  "scholarlycommons.law.northwestern.edu": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "science.nasa.gov": [
    {
     "date": "2026-10-30",
@@ -10580,6 +11457,13 @@
     "date": "2026-10-27",
     "post": "https://nationalinterest.org/blog/buzz/where-are-americas-aircraft-carriers-now-ps010126",
     "source_id": "national_interest"
+   }
+  ],
+  "scotusblog.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
+    "source_id": "propublica"
    }
   ],
   "scrawl.kitlangton.com": [
@@ -10838,6 +11722,13 @@
     "source_id": "stratechery"
    }
   ],
+  "shavei.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/indias-northeast-jews-prepare-for-israel/",
+    "source_id": "gateway_house"
+   }
+  ],
   "shephardmedia.com": [
    {
     "date": "2026-10-24",
@@ -11006,6 +11897,13 @@
     "date": "2026-10-24",
     "post": "https://www.thefp.com/p/sluts-teaching-men-flirting-sex-slutcon",
     "source_id": "free_press"
+   }
+  ],
+  "smithsonianmag.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
    }
   ],
   "smithsresearch.net": [
@@ -11211,6 +12109,13 @@
     "source_id": "chinatalk"
    }
   ],
+  "static.notus.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
+   }
+  ],
   "stats.cricinfo.com": [
    {
     "date": "2026-10-20",
@@ -11249,6 +12154,18 @@
     "date": "2026-10-27",
     "post": "https://robohub.org/robots-in-society-business-and-culture-september-2026/",
     "source_id": "robohub"
+   }
+  ],
+  "storage.courtlistener.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "stratechery.passport.online": [
@@ -11312,6 +12229,13 @@
     "date": "2026-10-22",
     "post": "https://stratechery.com/2026/presented-by-stripe/",
     "source_id": "stratechery"
+   }
+  ],
+  "submarinenetworks.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/india-and-asean-get-new-momentum/",
+    "source_id": "gateway_house"
    }
   ],
   "sudantribune.com": [
@@ -11418,6 +12342,13 @@
     "date": "2026-10-28",
     "post": "https://www.thefp.com/p/this-week-in-canada-a-rodeo-rider-doerkson-conservative",
     "source_id": "free_press"
+   }
+  ],
+  "sustainablepackaging.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
    }
   ],
   "swissinfo.ch": [
@@ -11963,6 +12894,13 @@
     "source_id": "latent_space"
    }
   ],
+  "thequietus.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://unherd.com/2026/10/a-halloween-ghost-story/?edition=us",
+    "source_id": "unherd"
+   }
+  ],
   "theregister.com": [
    {
     "date": "2026-10-29",
@@ -12213,6 +13151,27 @@
     "source_id": "stratechery"
    }
   ],
+  "tndagc.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
+  "tnga.granicus.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
+  "tnhousegop.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "tntsports.co.uk": [
    {
     "date": "2026-10-20",
@@ -12322,6 +13281,13 @@
     "date": "2026-10-30",
     "post": "https://unherd.com/2026/10/how-transactivism-captured-therapy/?edition=us",
     "source_id": "unherd"
+   }
+  ],
+  "travelnewsdigest.in": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/india-and-asean-get-new-momentum/",
+    "source_id": "gateway_house"
    }
   ],
   "trekresources.com": [
@@ -12519,6 +13485,13 @@
     "source_id": "national_interest"
    }
   ],
+  "unep.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/carbon-capture-storage-fossil-fuel-sally-benson",
+    "source_id": "propublica"
+   }
+  ],
   "unesco.org": [
    {
     "date": "2026-10-20",
@@ -12580,6 +13553,13 @@
     "date": "2026-10-24",
     "post": "https://www.fdd.org/analysis/fbi-arrests-alleged-islamic-state-supporter-accused-of-plotting-to-assassinate-texas-congressman/",
     "source_id": "fdd"
+   }
+  ],
+  "usaspending.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
    }
   ],
   "uscode.house.gov": [
@@ -12711,6 +13691,13 @@
     "source_id": "fdd"
    }
   ],
+  "violationtracker.goodjobsfirst.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/oklahoma-oil-pollution-citation-violations",
+    "source_id": "propublica"
+   }
+  ],
   "visionofhumanity.org": [
    {
     "date": "2026-10-21",
@@ -12789,6 +13776,13 @@
     "source_id": "national_interest"
    }
   ],
+  "w.media": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.gatewayhouse.in/india-and-asean-get-new-momentum/",
+    "source_id": "gateway_house"
+   }
+  ],
   "w3.org": [
    {
     "date": "2026-10-20",
@@ -12808,6 +13802,13 @@
     "date": "2026-10-20",
     "post": "https://www.bensbites.com/p/how-i-built-my-everything-app",
     "source_id": "bens_bites"
+   }
+  ],
+  "wapp.capitol.tn.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "war-sanctions.gur.gov.ua": [
@@ -12881,6 +13882,13 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/middle-east-watch/hezbollah-expects-lebanon-to-pay-for-its-recovery-heres-why",
     "source_id": "national_interest"
+   }
+  ],
+  "washingtonlitigationgroup.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
    }
   ],
   "washingtonpost.com": [
@@ -12978,6 +13986,28 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/buzz/white-house-trick-no-treat-for-dc-residents-ps-103026",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/magazine/2026/12/post-revolutionary-cuba-society-religion/689018/?utm_source=feed",
+    "source_id": "atlantic_intl"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
+   }
+  ],
+  "washingtonsun.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/hispanic-latino-voters-texas-senate/689125/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/hhs-alicia-jackson-menopause-treatment-policy",
+    "source_id": "propublica"
    }
   ],
   "washingtontimes.com": [
@@ -13034,6 +14064,13 @@
     "source_id": "latent_space"
    }
   ],
+  "weber.house.gov": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/plastics-industry-recycling-legislation-congress",
+    "source_id": "propublica"
+   }
+  ],
   "weekend.com": [
    {
     "date": "2026-10-22",
@@ -13053,6 +14090,20 @@
     "date": "2026-10-24",
     "post": "https://www.fdd.org/analysis/fbi-arrests-alleged-islamic-state-supporter-accused-of-plotting-to-assassinate-texas-congressman/",
     "source_id": "fdd"
+   }
+  ],
+  "wgme.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+    "source_id": "propublica"
+   }
+  ],
+  "wgno.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/sports-betting-impact-louisiana-ohio-congress",
+    "source_id": "propublica"
    }
   ],
   "whatmodel.sh": [
@@ -13099,6 +14150,16 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/buzz/white-house-trick-no-treat-for-dc-residents-ps-103026",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/midterm-election-propublica-reporting-findings",
+    "source_id": "propublica"
+   },
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
+    "source_id": "propublica"
    }
   ],
   "who.int": [
@@ -13298,6 +14359,13 @@
     "source_id": "national_interest"
    }
   ],
+  "wunc.org": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.propublica.org/article/brent-taylor-memphis-tennessee-preemption-laws",
+    "source_id": "propublica"
+   }
+  ],
   "www.idf.il": [
    {
     "date": "2026-10-21",
@@ -13352,6 +14420,13 @@
     "date": "2026-10-24",
     "post": "https://nationalinterest.org/blog/buzz/could-grand-theft-auto-vi-crash-us-economy-ps-102326",
     "source_id": "national_interest"
+   }
+  ],
+  "yougov.com": [
+   {
+    "date": "2026-10-31",
+    "post": "https://www.theatlantic.com/politics/2026/10/bernie-sanders-michigan-party/689129/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "youngmoney.co": [
@@ -13493,6 +14568,17 @@
     ],
     "title": "Days Before The Midterms, Trump Warns Of \"1929-Style Economic Depression\" If Dems Win, As National Debt Tops $40 Trillion",
     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPOHF6bDJGTTMxM1NUSndzbU55Szk2Ym8zdnBFLVFiN0FUTlhqcjBBUEViVVFOYjN6V2NsVzhaeFpGYWtlMTJtb2l4T0VNYVJyRlZUeDlvUmw4dUZsdXZfdHBWV1ZMNkRKUWFENWgxbndWbGxpdTV2aEVPUHdVZnhqYkkyR0FMRjIzMlNGVUV4Ujl2cml6Zk4tQ0pDbzhVLXEtSDFCWHQxWDVsWHEyeUFLR3JQWW9MaXF4UDM5Z0ZZbnQzMUpQdFN6Vl9TUDZlOHdHbzU1VnpTMFAzNnRQRXZpaC0xaHVRT202X3lzSFZEdUdBQQ?oc=5"
+   }
+  ],
+  "24newshd.tv": [
+   {
+    "date": "2026-10-31",
+    "outlet": "24 News HD",
+    "sections": [
+     "finance.agendas"
+    ],
+    "title": "Ishaq Dar chairs 52nd meeting of SDGs achievement programme",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdTAxZExPai0wbjEzU1VqVERXQ3JZWjZNZFVrb2Ezd2d2RG50N3JVak1iS2w5TXhSSlctcEhQNEMwSDdhUWZuVk4wUFQ1cFM1WUVuV3kxOW9lSWZxUXFvNkJ1Z2VGWkE4elVCUl9KQWJqcTRWb0Rnbi1UeTViajA1T3FFb1VsUG9qSWFiVzgzakdOcVJXUm1v?oc=5"
    }
   ],
   "2paragraphs.com": [
@@ -17129,6 +18215,132 @@
     ],
     "title": "Packers' Christian Watson returns to play after hospital trip for chest injury",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDJQd0NhRURyYm1EUGJzUzNJTFZYeHhwc2NrUlJLamZ0UUUtc3J1bG0yYlpKVTh5ZWZIVmxIbldnS1p0ZVlDby1aUDF4ZnFSeW5BQkFzQVJDYVdHbkRmSkNwa1JUVUcyM0tVZnFjcnhoMzRkc3N2LVYyWFVhVWFrMTdUTTE1SHFKZ3FlaXJyVmI1RkxIZ3VZN0M0Umdtd0VZZkpsS1Zn?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Magic 121-114 Raptors (30 Oct, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1xVXg3ZkZyaHFOaFNpLWZtX09JWHhXSnBWUUxTSDhJTjlxRzZDUHo4Vm9LQzZYdnEtajFRdGROelh3M3lVV1BaakNrejhRNXU4YzZVdkJhTVJ6bnhlN3R1dlZ3?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Packers 27-19 Panthers (30 Oct, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBEdGdRRXB0QWJleW1sNHF0bzAwTm9UXzVpbU4yNV9TYkFmV0F4bGdlM0pDSTBGeDBCNGhJMEhYWnd5YXFhY1RLb2JBLXlUTzZCMlJQY2t2UTR3WE1PMXE1Ui1n?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Rockets vs. Mavericks (31 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wNGZhaFpNZ2lZRE9tX2M0bGkyZEYxQmdva3BEXzFxU1JRaDktUUFGTHNRMFZiTFVJbEVVNjBZc0R3QnRzZnZfdDBORWZXdFJyNDhDR3ZHLTZkdS11cVJIeQ?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Sources: Commanders' Daron Payne likely IR-bound after practice injury",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRVVxeHFmOHhxazRJdkt5cjUzeWZlOTdvdE5fc3JrWWdPa0wxTWUxLWdnMUZqLXdWT1dVYzE1b1JkTUF4NGpQdXNDLVY2a3BBMU94UFBORFg4THl1WnZFbkNnd2xUMnVwRnZlOXNMYVlCQ1h3VjRVOHV2Wmt4ZHZ2RUZSZnAydFhDMHg0cE1weG5PMGw4cnJVVWtuY01fNlRIRFE?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Pistons vs. Nets (30 Oct, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qRmc5Y1lBWXk1M2RNSm1mdWY1dFV4dGZoaTI4OW9qOTBfcEFIWWJESGMyczRWWjB3NUJBQTljVWZ3OEphNVk5RGRYdC1YS2tOaXZKQmMwZnI5SnkxR2o4cw?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Sources: Mark Walter, Josh Kushner finalize all terms of $12.5B Lakers sale",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMy1aSmFreUVOMTJRRGVURHVOZG9XcS1ZeXR5NHRFWVAwOFB2dm9iOVJZX0dFeC1tQ2pVcEt2Y3pDdVhWTEptd21hbGduMGxZcWQ3WXVWQ0RPcHFwOEcyRkNCdGJ0Q3VQa1N6enlxUGJsRm93LU9MMXhyQmExRllSMkpqbWtzV3MyeXRNOE9ndy1GbDBBZWloci02MDREUmNEZkF3?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "With 10 games left and Ejiro Evero out, what's next for Panthers' defense?",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV1czbHZMZU1LeWZWTWE2VV96NjhMRy1vVmhfM3B1RTlPOVpncTlVR1RZOXFfdzNjaHFtdTBnTkctSmI3NF9tRmpENFZIOFNBd1dDbldtUldwSy1wZlpRLXVhUGhVS2d2ZkgtanhndlJFUjREdXNxTFY2Nkl2OW13c2pnbHJtcFpuOFRtbjZDOUhhTElqMUtZYk9naXRlTHM2?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Cardinals rookie RB Jeremiyah Love (ankle) set to return",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQWVaNlp4VGxnU2JpMmJtYy1meU5vbE5jUE9XNWtXX1pXaTh1czB5Qzg5cGpYWXVEQzEyN0ZOWHBic2xQVVVVZmhpUkVveFRQZkpWMW9KbEcyUTV5SFE3bUxWbnV2bFhJbXE5WVpsVG8yYTN4cENRQmczNFI2OEMwZUJDdUVIX1NfTTJacGgyMFVud1Zjd0ZqZ1VjLUFBaXA3?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Lamar Jackson expected to play as Ravens QB calls ankle pain 'bearable'",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNREF3akJfTER5b212eEc1OTZTMTEzbWMwUzY5cXZORS1pWUFaTTRRUktlUFhtSG43Y3JlTE5CYkFpbmV0VkktbEgwM2lBbVIwMEtlUWNxRE1IZnJtM3h3UjAtRFJkazRsWUZoTDluVDY1Xzc3YkxKS19aU2RGSWRzSG1lMTA5dUlfRnFJUUd3bG1lUi1QTEUwZEhFWVU?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Heat unveil updated Dwyane Wade statue after original's face was panned",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTkdRczBOTGlRWlpPSkN0bEl3VnMyQ19QOUMxbV9HOXVONDI2QVZsUXZKcEp3UTNLMllfR2VGWUY5LVowOE12M3ZpWkdFaWRZYlNnLVM3cXBqRHJVSnV1OE8wb1FmS3ZuSEZ2Z3RVcjVzcE9pZENjN2pHc2V4WDR1ZkZOZWdxQVdKQ1J2VUpZb3hJMkQ5aXU2bDdVdjBrbTBqakFORzhmV2xzOUtDVmlFaQ?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Josh Jacobs scores twice as Packers dispatch Panthers",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeGtCRmdFSnhKLWc5UEcwVHlpYjV0UDVVazBZYWlzTU1DTzVaLW82VVBjaEppazBUeXY4b1JRczZ3V3QxVmlNXzR4QllTX0pRQmdvUnhCaXVubDJNLU92UnJySkFhbW1jUTVCeHJuUVZ4alVEcy1ETGVNaTFmOXVRVi11SDdXR1JnaFJSTDhMN1VjT2M0cWkzTUFVcnhabHBBWV95UA?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Week 8 TNF Panthers at Packers: Highlights, key plays",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLWhOSEV0NFppTVI4dnk5R1lXYWxTTFdDV2NISmNWcGlremdnTmRLQ1ZOMXdFUTdNYTJJWl9KT2MtV1V0T2hTNVZFdTBJRnc4WEdqazVWc01BSDlpZmpuUFBQV0JKRS1EZzA4dm1DRWEyZkhZbWUzQTc3ZFJIZk5vLWxDRlJpbUo1bFFfWko4SjJ4b3VLZTNKaEJTMlRDVTljM0VBNkpXZXM1SlhoLWgyVXl0V01UTm8?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "2027 NFL draft Big Board rankings: Mel Kiper's top 25 prospects, best by position",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPakZPY3UtRXhfZ2JxcjBwcWJNVkhSYWxJc2UzLU4wcnMtazZZUmZGdml2MTZ0U2ZpNE5uMWc2UDF5cjB2U2J4S2tmRjdCbFdBdVR0TmFWeExGNlVMVko4MWdwYVoxQnkyRU5BTmRiVkIyQXBTTng5alBuNkoxTmZfNlQ0WkZVLUdweTdkM0pOYmZadkY5bjZGaHNYUDlmM0d3ZnRNVVdxMXRDMkNmbWZidA?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Panthers' Bryce Young says injured knee 'fine' after taking 6 sacks vs. Packers",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQW9YUjQ1QnU5T1dCUXFLY3pzNlJRcWluVm1PaHpPRkxONnNSX2xNNjdNYUV4c2hGcy1KU3ZtTTI4QXc2amItTFdlYkhUSXNyY2tDUHhBMVVhRnd3YnpOX09iTVRsamxQUzA0V0x6bWRieVNzMG5yZE5PWC1qNzFhN2lHVWtNZUotU2lMU3ZqN0VIX0xYQ0FWQnVvb2o?oc=5"
    }
   ],
   "agbi.com": [
@@ -17744,6 +18956,15 @@
     ],
     "title": "Trump's tariffs fail to cut US trade deficit, IW report shows",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPc3Y5NnEwTTNUUGFkZVF2b0tOeVlPQXVIMC1OWWM1cElWVlNfNF84NlBoeXk2QkYzU05LbmxlTDNRcURYbFl2Ml91NnNOWW9IQlg3c3FidUVRd3pYTGd5dE50RUhCS3Y4Y3FuMGxuUWZ0amRCSEJVaWI0dDZRRTNoZ25GNXlybnJBaTRWZ2tvRXl4UmRnTm00UnZ0NUswTGtjOTlBZHB0aVVtQjTSAasBQVVfeXFMT3N2OTZxME0zVFBhZGVRdm9LTnlZT0F1SDAtTlljNXBJVlZTXzRfODZQaHl5NkJGM1NOS25sZUwzUXFEWGxZdjJfdTZzTllvSEJYN3NxYnVFUXd6WExneXROdEVIQkt2OGNxbjBsblFmdGpkQkhCVWliNHQ2UUUzaGduRjV5cm5yQWk0Vmdrb0V5eFJkZ05tNFJ2dDVLMExrYzk5QWRwdGlVbUI0?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "A News",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Trump's tariffs fail to cut US trade deficit, IW report shows",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcHhMRmJaa2JfZFluV2pxMU1aUFFIZDV3UUdnczQ1MFhGY0NLeldKbG1MVG8zZU81c0dsSWNac2lqUFpoMGNNa0xWSVJyUDhHWm5FczBQZ2hsVHpJb3UzZ1RSV1lTb3pvdzlxakpwaFZnVG9kbXdRUF9KZ3NDYnh0dWxQbV9sSl9sbWNmOS1hcXpjcGN3dDgxRVVweEJJVEJNa0s5R1Bn0gGrAUFVX3lxTE9zdjk2cTBNM1RQYWRlUXZvS055WU9BdUgwLU5ZYzVwSVZWU180Xzg2UGh5eTZCRjNTTktubGVMM1FxRFhsWXYyX3U2c05Zb0hCWDdzcWJ1RVF3elhMZ3l0TnRFSEJLdjhjcW4wbG5RZnRqZEJIQlVpYjR0NlFFM2hnbkY1eXJuckFpNFZna29FeXhSZGdObTRSdnQ1SzBMa2M5OUFkcHRpVW1CNA?oc=5"
    }
   ],
   "aninews.in": [
@@ -17773,6 +18994,15 @@
     ],
     "title": "Brent Crude continues to burn, trading at USD 115/Barrel amid Middle East tensions",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdmkzYWVIQTdWcnYyUEgwbkRIWDF5RDRNeVZmM0ZQdUVKRS1INlNWclk1djhqNlVMZjY3Q092R3RfWWdDTHg3d0FpSTZnS0hhdmxrMHBKSGR4VWlBUUg0b3lHLVFTaEs1YTF6d1Q3R183OWZ5UjYzTTl2cEhMd045TUpmUUkyajN5cHlvdFpxZnFQaHZwdVpCY3BVS2hHaGtFZWJxMXljb2xHWXhZMHFvVzZmem1JMEFiVzRaR3haYnNqSENyZlNIbm5sdw?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ANI News",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "G20 talks open in Atlanta as Europe-Russia row scraps group photo; Jaishankar eyes energy, Quad meet",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbzhKVS1xTVkxX1VKSTc1R2pqaEdZWmJrTHU0YnNEMklWZGdUZER1SlA5SW1ncm5ta1Vsby0xWnJFXzRpc1BSa0JRSXNFb2tNSG5MWFZUWkdGSmU3SWVrM1BuYzI1MHFIb053amM1U294Tm1wYWJDcVlJZGE0a09ERHoxQ2ZnUkR6cGF5ZHl4aTFzMmhhaXJxNnp4R1FhWE42aXdVSUx3MTNNOGp6WGxkVkE2aHh1c3RvakFlZEhUZVFCTDR2SkIwb0I0SU5YNmpnLURlbDVzbElTd2pVemVDTGtfcw?oc=5"
    }
   ],
   "aol.co.uk": [
@@ -18064,6 +19294,15 @@
     ],
     "title": "UAE\u2013Canada trade deal to boost UAE economy by $8.7bn and exports by $11.8bn by 2033",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMnZJTXVEUENSR1FfNWtZTXMtT2NpdExjd3NCTGFoM3BoMXRvaTFKNzNVTVVaWEZkb2liRDB5ZUdFejVFejhNLXg4VG1paFplM09uRnBDR25IeWxjVjN0dmVMb05xX1hIOTBTZ1ZWS3NnS19KLTFzcjJPMS15MF9laXZKZmVNX2xURjJvX3VzcVNYMXl4ZFAtem9HTE1kQjlsYjlPZ2F3OENIcnZzMkRyLU5hWk5BeWgxcnVSSlBXQzZ1M1NPaUdiWg?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Arabian Business",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "UAE\u2013DR Congo trade deal enters into force after $3.5bn trade milestone",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPX1diMHQ4X2hiNElNa1I0aGR3Xy1qTDhUTzJyWDRpUnpHZzBMSUpzN0FTWFNCTjZVb2k4RGNWRmJOTWdvcXhWN18wY2VNX2pGWHF0d0Nfd3Myb1laWWkyU3psa2FyNExHMVZiWGRMQ3VtQmMzaXluQXRwVExFanRuRVZR?oc=5"
    }
   ],
   "arabictrader.com": [
@@ -18378,6 +19617,15 @@
     ],
     "title": "Singapore, Saudi Arabia to set up crude oil storage arrangement on Jurong Island",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRFpBb0dYcG1GeG03Q1BJRE04U3M2ZDdzMDF2WWF5eTJTV0dBNDBvQ2dzN0VWd3BsdWhKcjVoZG1kbnZ2MklzZmV1UUVEUnhOWnMzdzk0SDVsTmJzWVRScktfWG9PSy1fUmhrMnhHWTdOMW9iN1lfMzNvZFMxSGcxdUlPNm16MmNSMmEtWm9zTWQ?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "AsiaOne.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Malaysia raises unsubsidised petrol, diesel rates amid rising global oil prices, Money News",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdmItaVJJTnVOdXhURWlTNG9SbHh5R2tCSFZIdWVfckhycDZIWlRWYmN3TlZiNGJQQnFMU0QxUUkxbEdrN0ZrekJjblhhY0VxTnlUbDFnbG1VbjBRSjdVZ0JXdzhfSGxHeTh3ajIyOERJV3V4WXpCU2M5YlZ0SGx0bDIwY1JKeW55UFl4ZTg2dw?oc=5"
    }
   ],
   "asktraders.com": [
@@ -19093,6 +20341,15 @@
     ],
     "title": "From green card to fraud: Kenyans arrested in $130m US ghost student scam",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NY0FCMGN2WGVJWExBenZPUk80YkhFRURwZG4wdmRiX0pZVHhwMXVnUUtiZHYxd1g3VDRoME82blU3VHZjcTlMLWVMQ0NxZEczVm1TaTNmcmRMdHc?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "BBC",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Cubans in Florida waver on Trump and Republicans over immigration",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SOUtTMEZvWW9mVVNCaEM0Z3dRQi15ZWxfVW1tRm9FOG5LcnVVLVQ5eThpWlJzWjgyX3RrTmVQSEZ4VW1yTlkyb1cwVjZxeDcybDNVTU1JbWh6WEk?oc=5"
    }
   ],
   "bbntimes.com": [
@@ -19353,6 +20610,15 @@
     ],
     "title": "OpenAI developing humanoid robots, Sam Altman hints at 2027 demo: Indicates that the AI brain matters more ...",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUjhuaFNhVEtjRmVGMV9uYkVDcWVtTTdReWVJdVVmMWJHRXdsMmg4SVNvWnRxNmZ1MFBsQTFuVTJJMnRMOFJVWktkbGtyNFlvd2JNOHBXc256VzRqeEs5d0pYU3FXSmVERzN6SG55em5yOGt5alF3WWk2NTVEZEN0MUtub1JXMjFTTHVBTDhhVi1uZkxXaF83dzBSbmJ3QzBNNFZHS2l2RHl4Q0dwSFQtS3k3cGRoNVpzTnBj0gHAAUFVX3lxTE1KRm5nSXBWVE1adUJlcjFISlVMVXJETG13Mm14QlV0VWJTYy1GdFRobkJmTDJmbE0zckdZTTNJc3gxRjFVSk5DQmZVWFRVeE9la00wNl9RM0NFSnlwWVU1UmdVZEVVaVR0WVVrckNNS0pUU2hIb25DdnR3cEJvZXJZUGRuZ0g4US1pbF9kWUlsQmt5R0hCN0tRalRaS1duVXdKS1dJbUF6SGxJT1lVVXY1aGgyRGE1dXk1NEFmWmFmYg?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Bhaskar English",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "G20 family photo cancelled as Europeans snub Lavrov: Jaishankar calls for end to attacks on civilian ships,...",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUzZxS2IwRFJNZXZlQ1lZMmt2TU5OMDZESWQ4dldFVHN2Q2dSS056UGEycHc4YUUtSDNKaV85cmtMZmZFaUVhbG1Wak43dkF4bV9Pemh0dlI4TDJDWTZldVlnTXU0Y1NhU3NQM1lvSURzZm9seGFPZTVsT09WbTF2d1RRNVByaElRYmIwUGVhcWxpZ3lpR0RwbjJSSVk3M3gwdnEwTl9iMnZWZjdTa0p0dkdRYkxLVU05akd1NUZ1Znh6MkdtZGfSAcsBQVVfeXFMTWtZVzJpUndqRnNYVFZ0NXBWcnNzSWFna0Vsdy1qRzhDMU82RjNsYnBYWFJsME5sV3dqcTNlcmd2TmZtNUVHOXBnT2RoNlRZWU9MS2tZTEVtRjA0TVVaTVQ3S3RVMC1WbEl5dlBtTk00Mkd0dl9uUmhjaUFRU1VrdVp6ZUdacWxGNXVxWGhTazJCQ0VBX0piNXljX1NSeTJkd1ZMNm9sYkZOMjFJSnBPUklSaklNd2tSR0MwckxUa3BCV0VxbGFpVEtWc3c?oc=5"
    }
   ],
   "bignewsnetwork.com": [
@@ -20112,6 +21378,24 @@
     ],
     "title": "Oil prices rise on supply concerns as Houthis attack Saudi Arabia",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFZiT0JLZUVncEVwbXMyYloxRDFDYkpZcDEybDI4a1c0OF9kVUJRbmo2UVVJUUluWVpGNVg3RlRxOHR2NnkyVzl6RzRFSHJmUGlMMWhHOHlkT0hhTVVTUTlyU2sxbVVVVnNQMGZxSkU4cktyalpMZ1lNUExmUXJORHJHajRLbXVtTE5QZ2g2ZTk4eF9Ndy14MkFrVW44N1ppSEZ5T2lxR3RvX2xsb3ZyNUpXcnk4MFhMV3VXOFZJR0hWNG1sMWhxZUVrcnlnQ0ZmVEVoSnRB0gHbAUFVX3lxTFBTbTNCZ1Z3Z0NrbF93N28ydTRhenpRSXc2SVlrX2dzZnJ5QlNITGZ3STZNcXNmeVRTQlFVX25xZmpWWmR5eUsta2NEZ290N29BZjFqdXB3Q1ZBaGJsYng0OTlMMnVrNGprT2lta2dWY1ZXejNJUGZjTUdkajM0VWtseUotYzRycF9rT1Y5cVFzOHB4Q3AxRERVb045N2xPT1FUaTUtc3ZxSUdGVnFhZUNDalVvbkpBWkNWdGNhQk5ORXlfa1MyakpJQl8zTlBHTVA4bEdTY1p3eHNPRQ?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Business Standard",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet approves \u20b910,000 cr container manufacturing scheme: Why it matters",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMXVHQzNiUzRFZEpXSHRieTcwZlBwZGZzM1NUZU5FRTRuMlF3cHozUUtkRWFYXzdUb0V5ZGhCQ01QVTNDaFZMR0VGOHRncTlCWGRSSjZUUV9SRERuZkVlTi1HbWVldkZ3akdXOXIyczRmRDhUaFVwZklmNjQ2TFpWckQxMzEtV2l5MS05V2ZHNUxvZy1LVDN6T3Flb1NlTVBkWUtzMkRhalRuSlMxNHo1UF9HekpMaVQ4dGxDRlA0MzRERVhVNXNkb3g3Um0yS2FU0gHWAUFVX3lxTFA1eDFva3FBTkZHTGpuV1lMajZjVnFaYjRFLXJtdmdjZHV2bS1jdmJHNlBuR29XWDh4VG14bkFJYzdORkdmaDdYWjY1UURsN05PYnhQZmVqWG5TN1praTZNQW85MkJhazlwVERETFVJVkFobWY5aEYzQ3Z3eHhHSDJVT2syVG9YOXVlYVNwVnJhdV8zMTBfZnpabUtNVWR6d29Ta2dDRklKVmVVclMxZDNaSlBhbzRRQnl4ZFc1ZmJFMVF5eHVLUW84dmpUX0dwS2IzNFktM3c?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Business Standard",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "NITI Aayog plans to organise national leadership workshop for bureaucrats",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWl9TUEJPRER2VGJ1aThqYnV2c18ycVpCQklpZ3NqR0FWbXp4VXIwQ29lTmlUb21wNl9uMU5kUlpsRV9rdFhEQVBPQlNtTHkxRUJXVndzX1NnQl84NW12aWV5Q2JVSWdPU0RCVGhISzBqRVlGcWFHUThoZDY0Rl9xVUw4WHotQVZMT2d0NDFZdVlGWG1lTFA3VHRTUnFPYjBPeGNNZjdZNHlNSExpeUZNb1IzM2NUVk1sbGRNc2pDQTVmR3BpMEFTZm5CSEY4VEdJeWctQtIB2gFBVV95cUxPRUF0cEFtSm5scmRUODRTTUlkc3N6NkNDcHA0aV9PbC1VQlRuVUY2NS1RX04tNUlVOXlFV1JPalV0bUh5b1hCTWVrb2xtWlpHckw4dS1ZUVpsamhwc0JtaW1HdFQyZkRfelRHZnIwMVlEMHZwVGxwWnRXbktXMkZfdDZnM1pTbGVtdENxZ2pJdEltbXZLSHEwQkZnYTdHTnhyS1dYVU1SZmxPWTNIem9hMXlwY1Jkdkk2LWdRQnRnSVFLWXN0VTU3czd0cWhuLWFucjVvWXdqWEkwUQ?oc=5"
    }
   ],
   "business.inquirer.net": [
@@ -20540,6 +21824,15 @@
     ],
     "title": "SpaceX keeps BBB+ credit rating after $40 billion Nvidia AI chip lease deal",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMzVsdXJKZHFUdS1oNTZ6TlMzZDJqaVRkRXF2azc5R2NKUE15UWJrak8zcEppcktZSWVEMnJDX29sTXVqNER1dG9pUWtQTXVTN254cmZXQTFmZ0FJVnMzZHo3V19FMmc1SVc5ajQ5UHZVcnNHaVdsQWU2d2dNZHBfSU82TlNkRWxqTmpUcV9nUUV6cGJmSUJnX1JyQlBRTDdVcE9rQnFfbjdnWE8wRk9nTGUwZWNqS0ZzVVRSSERGVQ?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Business Upturn",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Jaishankar holds bilateral meetings with G20 counterparts in Atlanta, focus on trade, critical minerals and energy",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVUY0Z3NBOURfNXpZM1RtRW1mOHJULTlBRzVzSkhFNkRCWEdORTBINHEwWXVQdXVhQVlPbjlBc2VsWXNOdkdvcF9WellpbzhGS1hDTnJIOEFrS1FpbmV2SVlNbFhUQXJuVUlFbFB3eE1QZ2JQT2tjXzE3NDF4bFZnY3hURE00aDBmb2tsbWptR3Fydk9Bbm5zZG5pcF95eGp2bEh4bjlMVnp5VWV5MGF4ZkNXdDk3OXBKNUVPOGNPWVpxeXYwaW5zU1dGdkNkYlVzQ0dqQzF5NzJPZV9Sc1FWag?oc=5"
    }
   ],
   "businesswire.com": [
@@ -21685,6 +22978,15 @@
     ],
     "title": "WTI Crude Oil futures hold near $98 amid Middle East supply tensions.",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQi02WUFRVmVfallrUWRSTnFYdFZ4cXEzMnJLbnZmeE8xM1hjNnV6ZFVyRy05RE1zdGltTlNvbjFucXl1RE1GUTRkVUNOSm5nNXRDR0lxS29pMXM4V0RlR0R2ZnY3V3ZuazdTdkYtTzlqYUlMdFp6ZERDTHdLaWFhU3NqNkFEYVRVcDFqSlJLeUFXYlpFSW1DVnVtaEhFQ3ZJRUJ4YXNSX3QwcGNSLU1aMA?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "CME Group",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Japanese Yen futures pare gains as Bank of Japan holds rates.",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOYlBxSU9hdFJpMk1ITDdWelA5UG5qelVmVkh1ZjVYU3dQNXNhVHpQSzYyS29sa1plakJsNm10VTBhOWh3YzhvTDZkS21VTTVRaHJtSUZHTk1hNlhTSDN5dUNQRUFmVDFiUFc0Nkw2V0FfTVlIdFBHOVhmVFdDbjFyZUJaMVhNYUEyS09ZOUN1QkMtYnBNTEVHcC11djFUNlhpMFlpOFowalo1ZW0walQ2Y2ZZY2gzY0lvWXBWSUZ0WF9ydmN1bVEzLVUtaw?oc=5"
    }
   ],
   "cnbc.com": [
@@ -22409,6 +23711,15 @@
     ],
     "title": "Results M2 Graded lab deleted/missing",
     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1NuUW4ya1FXWlhNaVlQZ1ZiYTFJM1Z0WWs4R1pVNEVBdlBjVUNEOWdpTnRKOXE0bzI2dk9IbTNGempYcVd2TWFscXVOS3JaZ19tZzVtaVJGQjg5N2JiZS1pS1FhVzc3dTd3VVFTcW44c0hMSE5xNlB5cnljSU5CVGNkcGhsOFk?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "The Batch",
+    "sections": [
+     "ai.llms"
+    ],
+    "title": "Automatically screening AI-generated video clips before human review. What\u2019s working for you?",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTDFvZzhkTGdYZXNZS19GRElpQ2RXVkRHTXR4UjdlbEJ6emFIbTFZMFNDLVQxZG5sNTF6eFJPZElEUzFVZ1djZ2pCeGtKSHZXcUNhSUJZR2JpbnA2M0NpbWFSNnB0Qm40RkFnUTI2V3BuODJ5RS00bnhlUXozcjh0WFRkZ3RIeWhuM0tOUDU0Tk5kTEtTOUxNT0pYdFc2SmhvOWNVOExVVWVQYm85ZnI5aVNlMURqQndBTTZ5X2dDd3NVVW42dFJoRlNuNjJ3dUk?oc=5"
    }
   ],
   "computerworld.com": [
@@ -23632,6 +24943,24 @@
     ],
     "title": "Chinese humanoid robots smash human records in 100m sprint and high jump at Beijing robot games",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM2x1eWIzQmlmNXVnQnFWRkZPUEVWdWowa19acEdJLVRPNjRJNDF2ZjhwdldGdm5BbHVZSERQbmo4Y0NnengxcmFSbmpMai1QUjZWQ1p1Y2ZzYXhMRzlNbmpzQjM2OFdxaHJPWUl2cFNoLVBrd19wekhJS2pfVWc4UnlUcml1d2JqRGFEbW1OeW1qcXc2TFhZbDdoVXRqcm9qbXNWSV85NWV3bzBld1Atc0tfQUpZWW9BOEhUbnNn?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "DD News",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet approves Rs 1,856.67",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNazczNEdRRXdNam9pcUlGRHE3YWFNRmFKNW5ETkphTU9wQnh6d0pyRG5udFVfeWxOVXRYWWNybE5KT2xXOTZrdFdUc29xVVNYZVhoN1hfcG1JNjNSc0pYQTF2SkxOV2RMNU1fVTViemYxa2p2cnU0S3h5T05yS2I4RDZlUFpScmRCYWVaZ3BnSXhkVW1WZFRYdEFUUjhJMjlkbVFqVkctWkF0T2dOcmRXdVF3TGwtMERlWWFYR2Q5TEg2QUluR1FrTFR3ZnRtZDYza0ZMTzVnT3ZFV21kRlE?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "DD News",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet approves Rs 33,660 crore BHAVYA scheme to develop 100 industrial parks",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVdUWWFvNlg0YUpleG5jNmMxYUw2VW00M1BEaXZtRjJtdzJ6WEhTOG1DcmkxeE1kS3JzRWp1amh4SnhPcC02UEVoVTJCTWlvMF9TbmdrSUFqSGdFajFPSjZ6OTZBTml2ZnB2Z3E1MnpQcnN4bHc2alVMUGNmVUczTk9fOVZKX1RDMnJNQTBLcGgyMG9qdkdqR2dzb3Jodzd5a3drWVZn?oc=5"
    }
   ],
   "dealstreetasia.com": [
@@ -23721,6 +25050,17 @@
     ],
     "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWVhINjFHNlc3UUo0U1NZaldqdExmeks2NDZwN0RfMlctX1pnYlJqd2dkYW5aZzZsLVZsMExxTUdDLVVFU1VtWHVNZ2pYVkcySGpPUVlGaGppNmVwQ0dkN0syR3lBWm8wdkQxYkNoZ284OHBQNElZUGt1bnVLVlh2ak8yVnpaZw?oc=5"
+   }
+  ],
+  "defencewatch.in": [
+   {
+    "date": "2026-10-31",
+    "outlet": "Defence Watch",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "India and Tanzania holds inaugural army staff talks to strengthen defence cooperation",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVlB1MWNacEVnMnVDVzNmYzhERnc4MTc5amdReG1BeHBwY29mMjQ3U3d2dFhnc2UyWHNVbUhzZER6T2tCZ0NHVVJkamlVYWtYOHM3Qnhjc1M1akViQUxlMFB3NlYzM0FYQXRNQlZFTzBscGNod1JGOHNvTGxKQVltZmQxQXp6blBIdFVFdjRFZV9JLWhUQlBMLWtzalRsTDVpN0MtbnNIZTAyVWRDbUE0YWExU1VIUGEyNkNmcEZOY1ZqVU1VOVBkWnlSRVY5U3RUckJHLdIB4gFBVV95cUxQN0x1TWI0b205R1dwQlBQeDVKdVprSmlkemdBendraVdid1RIQzRqQ3JLTkU0MDl2MnRvXzJHMUhEQ0RvZmZoSWpUclN5ZTBFRHlOUnkzXzVuNkdxV25pVmJTZlB6OHRhSmRoTmlORGZoQTdjd21TSXBIT2pZWjBjZkpUVnJ1MDNMMEZjLURJYmxOUEo0a09QZmZwSElUVDZOV3kxNE9hUUczalpudE9sRXBGZTlPYUNDQUVHaURGSXF0STlTOWhLTUF3eElfdFR5eko2ZGQtbE00bEM2UVdaT19n?oc=5"
    }
   ],
   "defensenews.com": [
@@ -24964,6 +26304,15 @@
     ],
     "title": "Oil Price Today (October 30): Crude oil jumps to $118 as Trump weighs fresh attacks after midterm. What ar",
     "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNOGdETUh3c2FMRmFsTjJQT0dqV1hIeUVBWVd0VGJLWkpydTM3MkZEa2c3d3BaQ25QNm5VdmZaSWR3MU1YZUNYX0t0TU4yaEpUbzdvc0FaU0tsb2J4bjhfVWRKRzUxc2lpQmFydk1zOFhWeTA3eVcxTlNiZmNDOU03bkRuUUpPRjZwMGhtclZ3OEJiVVFUbElTb1FoaUNtSTlSYjIxUmU3VU1HbW9MTmluYTZSQWFpcWxYR1l5REVEX1pXRVNHSUR2djVaRGRwbG84ZUt1RUJLNDNEY013QWpMX0loTlh3VDlIMnpGZEdoQU9scmlfU1BNMDFRYzR1RjVkVG5sdmp3Vm1UZGJkTUJrX2NTellvMXJmc0RGSUN2Z2ZIQdIBpwJBVV95cUxNRW9zbUVYYm1BNlJtYUtjRWh3ejJzUEJGM2JqN3dpT0dVYk5ZM0V2LTlWWjF5bnZialByQXNhaFFXZjdpM1pqaGE3eVhUc1c1UFFJbFB0VWpsVWRWTU1KYmhWWmtIa2FjU3dhTDZxenlXdmlpdEQtRkY2b3I2QnVadXdLNk1zcWNMYTNSb2pDWHdrSF9mZWRFTmRTVlpkS01uMFpDcG8tUEVkOGdwVVVvV2VsazVCSGNCalAyUk04T2k1VFZ6T1NhUnNCUmJsMjZTcDV4OEE1WVU1MGdzN1NsZUp1eXVic1F5MENUWDVVWW0ycHhJQXBtaExOWXgxbERlbDV6Si1uYmktYy13ZFB6RWxnMGxVYmc3dFBNV3FIWWJnSi1pbTZr?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "The Economic Times",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "India and Tanzania hold Army Staff Talks, discuss strengthening defence cooperation",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSmFjR1otMndjOUd3bk5jSVJiMWNlbGw2MmtTR3FNMlUwQ21jaGUwNXZ1VWhNZWlIWU1FOWUtbW5Vd29wQUlhLVlNU0FFVy01THVXM0d3NWM5b0d3d2s5MHZIX3dPc2lTVGdVMk5vOXUtQW1YOEF6aHp2MDJubEhZcXFPOHpZRV9aXzZqbHhkRGdoOGdCbHl6NmZ3Y1hCbVhKbWpLZEs0b0w3TXQ0VklySDJQYldid1BHZjVkeXZnVW9YbXhSaFR3eUViWjk1QnRXblBnaUZBS0VLZ09t0gHiAUFVX3lxTE03bnpLaFpxb3dsSTJjdUo5RUNDclVaLWNXbUQwalVOZkxQcXgxdERwWnJtY21DWmhPaUtaWFExbG9fdlpTR0FmcG5hY0UyaVJ5NkZraWZ6WGR1dG5ETHRhRUFDUFVjdXBFX28xenpUWWtWOF9wUG95d19HWVJ4bTFqbUwwWGJmTGZDZnlJYnFpUnpzbUoyR2lWRzR5R251T19YUmFwdElReGh6VmdyeWNEakFDMk4xRk5aQkVad2MxeVVpeWZGbUY1RmFtRU5kRWotQkZEUm5PT1RuMFVHNzd6TUE?oc=5"
    }
   ],
   "economictimes.indiatimes.com": [
@@ -25047,6 +26396,15 @@
     ],
     "title": "US oil prices fall as investors gauge risks to Mideast supply",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRUlKSld4NE1qWXFkNFdpcklVUFh1OGZzNmZOZklLUmsxeXRNVEZFa3NDTzdKMENNQVd4OGhxM096TjJmMzI2YW14eXNuMmhhX1F2VmdBd29PdklsbTBaSDZRQjJ6ak16NlBQUXlXZWRJcm4yT2tCdHBfN2lLT0xsZlpNdUlyaEk3anY1Q3lBSHJmM1M0eTVjakNPVUowY096dW9tbUxsQWdNV1JRanNfYkh0Tm1RelJiMkJXUS1qSFZabjVabGNlcGRXMEhTdUo4OGFHUm42UTNLM3V4U3hPUlpEQdIB3AFBVV95cUxQeGNNYjlHX21FaGREY0JmUk1IOUFQMjRsclBOdlJ4aTU4SEFuVUI2SzhxZk5JWS1sX0VRZk5PM1MtTHh0aFB1Y1Q3Wm1MMDRmNUNfZTBFVHRYM094M1B4SkhGZXUzczlRUlNtcDFNVXl3bkU4UXJxMXU5MEh5c205NjlnQmgtR1VDelAzNGpNdHVfRzdWdmRDTzdtNFpaQjNXRDRUVHE5Nk93QXZiWWtlVGR6RXVRQ1pjakVXbUV0R2JaelVIOXlybWc3WGxMSkxBdzZoSkx4TDd6cFJk?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "The Economic Times",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Niti Aayog's Lahiri flags growth risks in case of further monetary policy tightening",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQVNHVFBEdnRMSi1wejh5b2JaX2M2ZElDQ0tYOVVDRENIYkk3YV9CNTNSZl81WjRQQXI1ZU1wY1FNa2tjOUw5bXFDc1h6dHVmc21NSzRYZEFHTHhPWGhERVFFU3gzUy1jWnUxMTVYVWdOV01FNmRXbDI0Qm9qNGJlMXJCUGdQX2JhMno3VVhLTnFKcHVDcHVmb20tTDdxTFNlcmN0YUR0QnUyeFcwTUJ4eHpmR3V0ZExDelJxQjNzLTZwSGNpT1pxU05WcW5mOEk1MXF0TGtCR0E4aHotM05RM21MbTJlZ2g0X0l0N2Rxa21WZnZpdGhhSTlR0gHzAUFVX3lxTE1XT0JIenRoeHlTN0FwWUlKa2ZjY1dBVm95M05XbkpGUDdteXFyY1cyb05sYTRhQU9mQ3VYZVNMTUtlOEROY3pBcUdkcnJFVDh6SGRrV1ljN3I4dUtLUnlHcUhZZ0xfQjFjVldaOGZEUmV3dF9fUXJzQmxDMGNmOTJIaEVCSjdFcWQ1ZzVwM2dIaW5nSGk2X3pCSUtuVVI0MHFVN0g4N1NrUkpLRGotb00zNVJycDAtNkxlU2pFUE1JM196Z0NobmZXdDlXcUZNLUJkWDhfclRac1hOSnhkOE9Wcy0wOGNPMk5wWnBpeVk4QjlGUQ?oc=5"
    }
   ],
   "economies.com": [
@@ -25150,6 +26508,17 @@
     ],
     "title": "\u201cHigher Tariffs, Continued Reliance on Chinese Components\u201d: Europe\u2019s Automotive Supply-Chain Dilemma as Escalating Trade Tensions Threaten Domestic Production",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5kZXNyZWxpcFd6UWQtSVNiTFJzc3NTU21CWDBVeVQtcHdqR2VzZmRaQmpnY1E3TmhZZ2tjUzdJelllM1pKcnp2M0M2UWVEV1V0ZGNpd0UwVQ?oc=5"
+   }
+  ],
+  "economy.gov.az": [
+   {
+    "date": "2026-10-31",
+    "outlet": "\u0130qtisadiyyat Nazirliyi",
+    "sections": [
+     "finance.agendas"
+    ],
+    "title": "9th SDG Dialogue Held in Baku",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQYVFoUUtEWlZMOER5SVFvNm90X2NkYlViVEdESnNOV2Y4d1psVUd3OVFZMWM3YUlicm12cHplRG1UaG1jaDJvdS0zT0cta2Mxb1gwMmwwR0UzYUgzWEdPT00yYUNXaFZZbzNlUlliMnY4VGltZTY2enhMSV9ycjFGWXVNWXVCY1RkR0Z4QnlNNm1veEo2MEktcUxR?oc=5"
    }
   ],
   "edb.gov.sg": [
@@ -28594,6 +29963,24 @@
     ],
     "title": "Bank of Japan Holds Rates at 1.25% for Second Straight Meeting, Acknowledges Inflation Has Met Target for First Time, Opening Door to December Hike",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zZnNiWUQ3YjR2dkdEakU4dGtLMTBjdGJQa3VxNm1uYXFwQmh0UFQ2Q1lpTldMSllrYXJSekswMEpDSFFLMmVHc1YwMldvNGlheUZyU1pCcHBVYnM4Y2NFX2lyX1dSdDdHdUw4WFZlZWNPanhWMlE?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "BigGo Finance",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Tanker Attack in Strait of Hormuz Lifts Oil Prices; Spot Gold Falls Below $3,910, Plunging More Than $110 in a Single Day",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DN2NKb3hMbGduZkxVc2VFOVRMbF9wTDZfd1hKQWZVMHB3SEYyNTdYR2NsWGd6QTI5eWFUSEFEN0x4QnlNV01HY3ozR2dFX0FoN0JwRy10X0VleHJzUFU1TGVfc3M1RFdWNGZQTnJXd2o5bEs0OHc?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "BigGo Finance",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent 2026 Forecast Tops $90 for First Time Since May Amid Supply Disruption",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BNDkydGtHMzB1TlU3NngySzltb3hNc2h4U2dkazJXYlBjc1ZfanpXbXNqalh6RUZRZHY5ZDd6VmlDWTZ3bVN5d3d5MmJ3WHI2ZmxCSUFkYkg0VVhLbEVodUJoZGRzNGYyeFNaMHFxTUFVSFkwWFE?oc=5"
    }
   ],
   "financebuzz.com": [
@@ -29635,6 +31022,15 @@
     ],
     "title": "US Fed keeps rates unchanged; what it means for Indian equity market",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1FXX0VZVlZSZjRaTEhPMGVNTW8xV0NUQ0d0MEVtTEZXWjNCQng0cEFjSTlFeTFJVUwwVFo0V0hPcE9Edm0xUkxFSDdEU0FqeE1qT3BSZTdtOTJ5dUViSEhSejA5ZTlKb2IxTUwtVjRmMWNMN0VXb0dIbjNsREE1ODVqbnVHTDhiZnhUQXNabjZyaXprRHN3NWtDLXExZ1ZWRzg1SmJ6S2tUN2h0TGtlT9IBvgFBVV95cUxNMEJiSVBDWkZLUEN6eXItN1gwYXhOQmVGWEtvd01lYUViWDZ2YXRVcU16MEFiRU1jMEJLdmktSHRqbmVhSXQzS3JTY3l1dHJwcmU3dTBQSno5Wm9xV1Q0OVR6UHhtWVFPOE1PNXdfOC1PQVFHOTlkd2RBZzNHUXZFMXFnZzhmWXduRDRBWVgxTm1zTlpwT1ZWdF9xSVJhQ1VxcnhTNVVOX2xDU3dHeElmcnpnNGkxZEM4cjA1QkJB?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Fortune India",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Banks should act as 'matchmakers' to unlock Bengal's investment potential: NITI Aayog vice-chairman Ashok Lahiri",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNX2RuOXZheXBfd0VjTVFrc19lWnkzSC1jc1lfS20yNWM2cUIxWXF3ZkdkUm56R3dMUkVmWHFtbU1PX2JIQTZqTW5ZZFA0UkpDWXhHbVRhVDVVZHJmOFVkZ1c5ZVFQclZHNFR2MEJuLThmazE5eExmTzdqalNUMS1URmhCNmRzNGZNSGdJWmJOeWxrQ1czQkdyTTJIemhxZF9qQmMxLXFTWEhhb0lwZUpld3UweUxGTExMbHBDYk5aSlkwQWRqOHhBR1lQT1RhTnAxY2xlcXR6X1dzeks1c05GX0JYTTRld0NZaUhOSXZrONIB_AFBVV95cUxOVExRcmU2VVRIcXN2aDlFMnlOU3ZNRDFBRWRUajFTcGg2VElRbENBaG9pNGhRdndkOXlfUkhqMTlWSnRWYU80dUdja3ZhaTBqejRjUjJkWF8zaTlkTGN3MV8tYUsxUXV1TXF1QVhmNFo3LTRSNGd3Y0JWeFZsRWt6ODRQbjNxX0llREN2M0dINHBjVHdhTWw2R09UTFp6bjRuMXE2UXRVdG5md0NsWFhacERhcU15ajcxSnB2TlpMMTJ4UFN2V1BNTzNBOWZPSHVfQUNXcHYySV80bTVuNkdaMW41eGJZT21WLTJxMWZNNTlfUkx5dWUtNmd5SVQ?oc=5"
    }
   ],
   "forum.murthy.com": [
@@ -30101,6 +31497,15 @@
     ],
     "title": "Crude Oil Prices Near $120 Amid West Asia Tensions, US Fed Rate Decision & Supply Risks In Focus",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZlRzQVhwUnZOSW1PRW84ckk0LWJfZ2tFd2g1SEtWUDVVeXRrb0tKOGs1Uk9TRjJlOUFHS2htdF9aeGIxa2o1VnRFN29BOWJCZnphcTdDTEtSYkRnN3BYTHhPOEdNMklhdldUOFBQcERSVS1zMWh1N2JtenZ5eE5FMU1lZEg0LXZYVzZiVnBFS3VDdkVJQktyUXJCMkFYMWdkU1lUcWlTV3NoYUFMUXUyUDdnVUZ2alZEODVmbmNnSWF1YWk0dmxCQ1VORnNLUdIB0wFBVV95cUxNaDV1cFN1eTJkU0pDcGxMQ1hsMVRBLUo4ZzlXbW9WRERMYUNHdkQ3RjdTVEtEY1NURTFkWWViSU9Ta0s0MlNZQmdPekVhWWhjTzZacTFTQm02ZHNla2tGWEJhRWlEbEE0RzBaS29iSlJQejViYVZ1TW1PdXZvZUJYSXlLSmZWbWlNVTVmcnI4amhZVnotTFhINlRTa09xanlMclA0OHNkdXlLTC1GSlZXY2NFZF9CbExNTk40OUo4OERwLU5BaXRlSXNIMnFPdlhFelFB?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Free Press Journal",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "EAM S Jaishankar Meets Canadian Foreign Minister Anita Anand At G20 Meet In Atlanta, Reviews Steady Growth In",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQRXZSbFJTVFp2Y0lUVnVjWVhuRTVwUjU0R2QwS3lpWVktRG5ZWFBzWnRTX0V2bUM3Ny1odjJxemZreWV5eno3MTNONUxKcjBrbzVncXBsbmxwZHdSR1FZRGw0amVKZ09MbnJ5S3Y3V1AyMXB6ZDBxa1NJa3A5S3B3eDhMY2poOS1JZHE2UlY4VHN5dU1IUjFGZU9LRnEwQ0lLMFAxWldYblBrYlo5TzczRWl2SDlBN2xRak16SGhyN0UzODYxbXRhSDJDU1N1c1A3UFdXcmJoQWFkVDVpUWlWa25DZDFIdVdOQVlvQXlUWk1FOWF2RVBQVXh4eG9qa25lZGo5Z9IBigJBVV95cUxPQ2VXbHNSUktBeU5xcnlqcUxId0FudE1QT0NUaW9rNmdzSjh3TTZIb0gyU0kwaGU2MXdJT2FfX052YV9iNkRNbngzWTNoOTE1U0ozS011WnVOdEJyZEVIakhCRUItVTVuSFF0cXhtTlEtR0xZRDVNVEVITkg1UjhCX0ZnRV9KVy1DSzV1SS1FaXlpNUg0WFdsNklqSXdKMm90QnEtWXpkaWZIb0h1bWR3YVdJWGZVSGR0alZRT0NwMGlsTTRfejBfWm5RekdIZFc0QS05RmRmSlVkMXl2NEo3SjluMVFGODYwYmFOQ0Jzb25WbS1tSmt3RXlSQ20yZUxsanRHUHA2TXhNZw?oc=5"
    }
   ],
   "freepresskashmir.news": [
@@ -31254,6 +32659,15 @@
     ],
     "title": "India-US trade deal will not compromise farmers' interests, will give India strong comparative advantage: Pi..",
     "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcjAzU01QWjBacFZ0WHpTSmc4VEJoSjg2ZVl5SUhIbG9WbENjZmVDSGh4UGVJci1nbWVOX2dGdllyWmN2c2Jrd3p4eFNkNC13TlNtaUV0Um9ZSXA3Q21HX3hwSklJZHN6QVotVmhsbXFUeEpKcXVmSmlDcDE1UmViNHcyVWJRNW0wdXFydzU5eWNwd2ZhSUU4NzVFTnVvTUVjcnpza3JPenNxaTdTZC1NdjBvQXBlSjRKdTVUWjdjd0dvb0s1MzdEeFd6ZGxadGtRWnA0bV96UzFCNThOSW96eXYxd2F5QjlfNjFiTndwSDV1bVpENmUwdkRsN3I2Nm5CNldFSjhUSWF2MUQ2RXJIemxfdFA0RXNH0gGYAkFVX3lxTE1yMDNTTVBaMFpwVnRYelNKZzhUQmhKODZlWXlJSEhsb1ZsQ2NmZUNIaHhQZUlyLWdtZU5fZ0Z2WXJaY3ZzYmt3enh4U2Q0LXdOU21pRXRSb1lJcDdDbUdfeHBKSUlkc3pBWi1WaGxtcVR4SkpxdWZKaUNwMTVSZWI0dzJVYlE1bTB1cXJ3NTl5Y3B3ZmFJRTg3NUVOdW9NRWNyenNrck96c3FpN1NkLU12MG9BcGVKNEp1NVRaN2N3R29vSzUzN0R4V3pkbFp0a1FacDRtX3pTMUI1OE5Jb3p5djF3YXlCOV82MWJOd3BINXVtWkQ2ZTB2RGw3cjY2bkI2V0VKOFRJYXYxRDZFckh6bF90UDRFc0c?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ET Government",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Jaishankar attends G20 Foreign Ministers' meeting in US",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3RyZDNsWXpYam5nY0ZGREhnWTNvUE4tMkVnekhDU2JxNXplVy1Jcm85UXpfT1ZZU01mMHJMUEp0QXFkVFhZZUZCVTVuZHVLTnJfZGlTTEVkY2lrYlU3RWNxVzJTeEFmQXRmQTNJNnZhdUNsdlA3eEdQdlFvLWVyMFhwaW5HdEdwdTlPUmdqQ2FOSW1ucWdpOEZYSWxEZ3RyRTA5eTlTRS05dUFfOVdja2lpMmUxRzdZUzdSbnJ3TmVvcEZZWUHSAcsBQVVfeXFMTkt0V0hTb2xVdlJfMWxabnlKUHQ2T1REdU9tT1h2QzlZVnlmN0pjUUViQW1kRDFHTktmUDNSUWZibkR1LUxibTdkWUZKa1ZHLUhBYld0YXNxTTZTN0EwamstQS1nVUI3b2xaN3JOMlQ4dlctMDQ1cDNKQlhkSEE2c1kzNld4VVdwVGZMS0dTNGltTFNxZzhWdGNNbUo5TEF0cU9DNDh0TkVsMXBsU2xiUnJOOFQyRDBLbzY1TElHRmVHUC1seWt5eFJTejQ?oc=5"
    }
   ],
   "grafa.com": [
@@ -31915,6 +33329,17 @@
     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wdmpwbGoyNFotNVM1QmR2V2RJZ29OaFB0YVBscU9TZHB0aUpLalZnZmZhWkN3cnIwMm5pWDRHVkUyaHp0a2JnNg?oc=5"
    }
   ],
+  "ianslive.in": [
+   {
+    "date": "2026-10-31",
+    "outlet": "IANS LIVE",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "EAM Jaishankar meets Canada, Brazil, Argentina, Mexico, Germany FMs at G20 in Atlanta",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdzNkWkJ3Y05NU0FpN3o3blFwRGdmLUhhS3lwMXF1UDBxYzZVMXFkRHQyS3BmSlU1MDhCT3Z3YjZCRW0xYk91ZElLM0NYbnVUVXVVWmZwcmVQVUdYLWYwdU1fcWlZRy1tZGh2UGVqcVM1VXBCaDRjcVQ5cEFZbjN5MnlXT0lFWXAzZG0zQnFBbTBtcGw5aUVwaUxfdmdmQ1FGY0VUdzFLVjdxVFMwZzVreUdGOA?oc=5"
+   }
+  ],
   "ibtimes.co.in": [
    {
     "date": "2026-10-20",
@@ -32292,6 +33717,15 @@
     ],
     "title": "Gold Falls As Sticky US Inflation Fuels Bets On Fed Interest Rate Hike This Year By Kedia Advisory",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbS1oaWFVSGJuS1NOUHFzcE9YTXlIUUlRdVZjR3BjQ0I3LV8yc3p1ek41dDZkM2JiNGxlYmdPOEM2TUpOdDNMaTFKcWtSTlhQa2lQcUxkNm9jaXdoSnBqNXNQVFRxVGFYemNQTzFlWGtieWhrdlI3WUFBdFEwaWU1N1Q2QXRuS1d1WkhhYjA2dFNKNldnTkJBcUhjTG1Md09pSTNPTW9WTFctdWVWR0RyOGEteEV4dUZUZ0RUV21oSVV5Zk1YWEtwRV9QUU9tYWlF?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Investing.com India",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude Oil Slips As Peace Talk Hopes Ease Concerns Over Middle East Supply Risks By Kedia Advisory",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeEEzcW1TZ0k0NjZzYXBpLXY1bnJ2eXBmS29zU0Vzc1doZXZ4cmo0LXBqbTVaVnBubzJpWmhfUHROQzg3SlBHejd3cXBNeThKNzU2TU9FbTNWNlF0UE5UdEpNd040ZkVrQTBWRWNheFh5b2xwYTU0SjhXWnE3TWUtVTItXy13S05pZFNvdjU2c3Q3TUJrSXVPcDhiYXZzM3VlMFZDU1NYa0pSQWMwOVZ4Q05WSUZmVXBuU2hPZmZDeVhZdDVPdkprRm5xZmxpMDQ?oc=5"
    }
   ],
   "ina.iq": [
@@ -32474,6 +33908,15 @@
     ],
     "title": "Economists unanimously expect Fed rate hike in December",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHc4MzFxcTNoa2x0Z0NMVmFoUGxnbWZ3a2F1VnFfSWZLUXBoNWRmYWd5ZGc4WUp6LVlVTnBDdV9RaDNTRzAtSmxmaEU4Tm5LVjl6VV9wWmJaSDBEbEVfNFkwVFlNb055YWN4WHg4N2tNaTdaUTYzY0Q2OVlhV0UzejVRRWFDRVdSTllUX0pSb2U5MGxwTWM4Vlh5QXBpOUVm?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "https://www.indiagazette.com/",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Jaishankar interacts with counterparts at G20 Foreign Ministers' Meeting in Atlanta",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORkJvLWxfSFBKQXRyMFlSVWkxUE05X1YyVUxybnh4eWRMNDRPMnNwY09Dc0ZSM3ZZaGVVRHU1Z3A3dEZsUVJrSWVJaFJWMWJvd2VhbmhpYjc5UlVJN1hDb3JJT0duTm45V0wxWnJwV3ZCWWZMZXFJZ0l1SExWa29ma0t2eDgtSTdoQmVlSkZ6YmlqaktPUkZ6aElxV3pjLU1lR25kNXkzb0JsOHRxTUpLSXJ3alBvU3hWSk56TW1yZEIzZVF1?oc=5"
    }
   ],
   "indianeagle.com": [
@@ -32707,6 +34150,17 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTFVfTHdDZzU2bG8zRjBEaUpPbEhYVFFJdG5FWUEtZ3BON0k3ZlNVcE5yNGFiVmUySG1JSlVjX3Q3dmRrdUYtMXZmazBYdkxxRk1tdERoSktkZ0xNTDdKclBtdEFsNE1yRjBRN0RiaE1LMFZOQ0JJLThBZ29IOURYcU94TnMxdmlsaXkwcTkzVXlpMnM1OUdTSA?oc=5"
    }
   ],
+  "indianinfrastructure.com": [
+   {
+    "date": "2026-10-31",
+    "outlet": "Indian Infrastructure Magazine",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet approves Rs 100 billion scheme to boost container manufacturing",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPV0pxRVFHTjY5aVFhQmo4US1pWGlyUHEzS0ZIbGxicUZ2cXR0by1RVFo0eXhScEpGYjFMUENDUFYxYm9rM2gxaXJFOHMzMTRadjViaC1icXlRMkdKY3NWb3NEOE1GM1JDY0pPYS1MYnFNUkVaaUprQ3pveWdBMGZWUHQ2MmZRYlhIa0pMSnpCdnMzMENVYXV0RXhmdHJwMS1mZlozRGRNUHdWMS1QTVVhUm5pc3pmVW1NcFE?oc=5"
+   }
+  ],
   "indianstartupnews.com": [
    {
     "date": "2026-10-22",
@@ -32864,6 +34318,17 @@
     ],
     "title": "Infosys cuts FY27 growth outlook despite strong AI revenue and deal wins",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUnRMc0dMTGh2bl9GWmh1MlZlSHZLMGFlbldVZE1RT2ZhTjk4UXFGRm4ybl9TN0h2Y3AwSnBoTVppNVlrYTN6X1BpaVdJV2FTeVBRV0IxOWZMX0RZOG54anNrcHdETzR5N3NKVXVsOUlMY2JEdG1hWGxRTC1iMF8wNGxIX0phMnVkQUItMEJTLUcwaW1qWHM5eHo2UEdSNm5QS3d1ZTFMTk9mdw?oc=5"
+   }
+  ],
+  "indiasnews.net": [
+   {
+    "date": "2026-10-31",
+    "outlet": "India's News.Net",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Karanataka Cabinet approves milk price hike by Rs 8 per litre, CM Shivakumar defends by comparing it other states",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOalI3UTZVTGJpM3hyNFpydTdFR2NJbkNacW9qZDRZZC1VUzR4dzZkY19pYWJuZF9MaU9UZmxfRmhybXdlelJiSFROZTdSN1Q5d2xScUdONk5UcTM1dWhvNEQyWmFmYVd3c0RKRmh4VlN4S3N2MHZnclRoSzFnNWtSRDJzNEc1eGpxMmhxQ21DOVFZSHAxN1E2TUpxWnlERTJoT0RfRFIza0FlLVRhZ2w3NVl5OVdpUVNKanVISEpVT041VEs1MmZpTHAwOUFualBUcGxuQll1Q3JNVXJuV3ZMalZMcFI3RVh5UlE?oc=5"
    }
   ],
   "indiatoday.in": [
@@ -33073,6 +34538,15 @@
     ],
     "title": "Trump's ICE Accused of Tricking Cuban Women Into Africa Deportation After Promising Flight to Miami",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR1pjNjJKMzN6b0xoMHJrLUV3YTN3VTNxek9sUVF1VENtZ0hnQ0dERnowTXd0VHpuR0I2XzFYbWZDNnBxVEQyRVJWWWtUeUdYUHZtYmowUVo1bVZ5Tk45bkRaMkdWb010REFMdlpadG1ZbXNNMktLRzl3RDZ0Z05YX2FKLV82djJvS2VsYUpraGJpMWVCUlgxOEVhOEJoNDV0ak1TVVJNZzdfa1ZmcnlVQkZDODVtMVo1eUF3Y1doMW1hZw?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "inkl",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Trump administration plans to deport some Afghan immigrants to Afghanistan",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQM0lMNHhwVFJRT1NnOGFnN2g3ZjBSLUtBRmRxa0ZfWXRNb3ZsemIxcVFibEo2blZWZnZfc3BWSUozNTdNeVMyczlUQU4ydld2T3BpN3FSSUhsZjRVTGRBYk52OURvMS1jcHk4Ym00WFdBY2V4YjJ3NlFMX2RuZExjcmctcmR2YXBULWljWDRzMjNCaWJZbHRuWHZubkdvbGtKOVE?oc=5"
    }
   ],
   "inkorr.com": [
@@ -34754,6 +36228,15 @@
     ],
     "title": "Gold Slides Near Session Low After Fed Holds Rates",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYU9ZUy14OGtlTzhmbjZkOGNBUjl3d3k0a0RUWnNUSUl4WjZDTENPX09qVk9sUHp6R3I3TldUWUlaaWY0UGNUSEQwVVZWSW1jR09BTUVzclhPamZtTHFYM0NWZW00eVVfNUktVUdIMjhvNXpXVWpuMVhqRE81dFRHbmpqWHgyVTVIaEIxeFREMUJIdXo0?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Kalkine",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Woodside Energy Group (ASX:WDS): Brent Oil Supply Risks and LNG Exposure",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUDdnY0RUUDNSaDNHMm5vZzA4QU5lOFhDVDVLV3pGUlc4bEdaZUMtQlNpUUYwejdoeTlLTWpaamQzRDZZNTlXallIZ1BZTU1HZm8tNkZmb2lEYk9vV05EYXQxY1ZRaTNJYVNtaE14MWdpM3E2VEN5b1NYLVd4cGhuRUlfcHB5dEF6M0NobXVwZ2NDM2hHZGFrakppendEZHExYnNsY1hB?oc=5"
    }
   ],
   "kalkinemedia.com": [
@@ -35618,6 +37101,15 @@
     ],
     "title": "With 10 games left and Ejiro Evero out, what's next for Panthers' defense?",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS0lnZXFyQno4dFdhS29BREFPSWVodzhXTkEyY2w3RWdXb0szZndpSXREUnBSbUk1M0FLZzlBZTM4X1ZoWFg4blZlSC1kU0VZaC1jT0FRNkwxeDFqYnh3b0RfLVFmZHREeU9XQmZoM1l5SHZIeV96R2F3b0tlTU5MUHpqNGFTQ19aaFdvalhaaGxveUVWNTdPZldwU29ZMEE?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Packers' Christian Watson taken to hospital with chest injury",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQ1VvS2ctMVY3cDZ3Tzl1YUdvUlZfZlczTVp3VmdmSWctbzBxLV91WHBlNXFQdk9KeGI0ZldsZEJXa2pJZ3RkVmE5ZVc2WS12QzlZY3NfYXlGQnVxQ0V3N0c5N1VneGZHQmZvdDItc1JSQW5rejdzVVYzUjFLUFVRSGdRMnl5SEpCUUlNcDJuTmRFTVBLem9qc1phbWNJN25uTkZ3?oc=5"
    }
   ],
   "ky3.com": [
@@ -35662,6 +37154,15 @@
     ],
     "title": "RBI Governor Sanjay Malhotra Hints Rate Cuts Off Table in Near Term",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNbHFpYkdIV1B2RkhpWVlLRUJmaXZJSGVlOEI5WUpuaVFVeE02dTVUV3RHS1h3STY0VmJPVHY4bWlDbUR5RXpzZnZfOFRCMWxjUFJfX1ZoNktIc0dwdXVKal8za1k3NFFaSElhRnljTHR5a0t2bnpoamV6WGgtX3NkcTYyR1dITDZwWHZfbjZKTkJmRnY0VFBVZl9YVG5rWnVEdE04M0hfci0tTExnRU85aGdLMHROX0dlSnBIeTAyeUJyb0JxNHBSWEI3TlFYTkVWR3ctTER2ZnFuLXMwQW9LNXpVTWdyM2xxcW53TDZuU0ZMRUhjclhLU2lB0gH_AUFVX3lxTE5WVWQxT0VXXzFDTGJ4UUI2UVFYUHQtc1VrdGdacGJMaHF3YnpOWEdSdzhUbGZ1bEF4SThwcXlmRG4zeWEybk5HOHpCemZWWVJqbi1WODRFZTZRVzhSa0dZalFFRmJDS0JtcWJMalMwb3VGSWtZVUVoS2h5Y3VGNWFpOGxzckxyTXBXTDhpZmE4QjFfbmE0dUh0Z0JoZjRkR25WMDNXOW1Wd1AxWFZtQTUySzVVMEZhaVNsTE1VNzRRU21zTlEtdHMybmxCZURTTDdTZTdreE5LendKdS0xdjVCTm5kb1hFOW1zX0pTUUVKQWFKdDNfTHlqcVpobWdXdw?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "LatestLY",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "World News | India and Tanzania Hold Army Staff Talks, Discuss Strengthening Defence Cooperation",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVGtNbUZkQW54elVHN2VXMkY2aXg5Yndac0VrWldkTXFNRGtmVFk5Z2dpSjZFM01NVzVxZG1jREIzWTRBV3JFeHpkU0Q2Z1J3dy1ONjZCWjNFU1V0R29IVEp6eDdUak9jQXBndGlFaXhzUThva0pTRDNHTEZmNXNLLVpLeEpyZ2VpZ25yM3NSdWZZRmF5ckFQYkUyUWVjWDBoRTBXNDI0T3loZmNabkNMbndwcXljdUUxZDY5bVRNSHpsQWIyWWdZVEhld3ZIRjRNMURaN0puMms4bEHSAeABQVVfeXFMT2p5LWdxYjE5Mll6MGhONkJRY0hTbUFjV042WVpQT1gxc2VscFJqVWlrUW1NVVNNT1NRNXAzbkNFelpndVBIYzM3eUFYQWt3OFF6TzFWeS1QX3cxWGJSLUpuVE8tN21Vdzd1eVRRRXQ3Q29CajdtUUZNMHJkX3JtQTNTRndYbG54aXZKNk9CR2N6QnJfQ0w4Z0NHd2lqTmdueVNvTHFjVlNkSXRZek5QT3VITnFQWTVwQzhyMElZSFJpOHR2a1l1MHRNMDhGeGwwWjdvc2tKTzJuOTJSbktEa1g?oc=5"
    }
   ],
   "latimes.com": [
@@ -36610,6 +38111,42 @@
     ],
     "title": "Manchester United in talks with City to complete an Arab transfer",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN2toV2ZDVk5DNkFWeEtKZ2hUbFJZWDlnMV9aYmtGeUJGbkhiNjdleFZTcXZ0aWxfMFNqVXJqbU4yZmlVMnB5ckN3cHNrOEJBeDRDNnlMWWVYWEs0SDZJczBtSkJiSkdtbnlVblU2cklOSmg3Q3lsc25Ja292emVOYnFhZTNNLUN1b21acEc5TjF0UzV4eDV4TlNGUXA1RUs4RjN4U3Rkcnd1NGN1VVFjR252V05RckFIal9mZ1FPUUtiUDBfMk9LcA?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Arsenal Transfer News Today: Eli Kroupi move greenlit as Gunners lead race for \u20ac150m ace",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNck5ZYmt3SHZqdTlYSGYwcllhbVphUTRnTVRGUm5LTmRyRjJjdkw1RG5vWFMyUnc3d0x4UHkzak03S0hySWpERjBZbjVhNWpzRWh1dVg0OEdhQ2p5ajVuZ1l1ZVMyOTA3aFgwOWgteW56bzBHelVTV2oxNTlhVXVTemJvRVVqT3RYanlpWGFXUHhhcEdscnJGVFczTENjT2RNX0xCMW5MMnBQTDNOU1A3ZTZ4TWx4SGVkM0RRdkRnQWlhb1VzWFUybEQ0UUlabldIbV80QV9fMGpNeFRUY1pGcm5oS25ZZldUZlZyZXpsWHFuRWtSX1E?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Arsenal in dreamland as Eli Junior Kroupi makes official transfer statement",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdWRCMFFxdUlleEF5VTFsdFBwRTBKZG5yNm9nWFJFZXRvRVRsc0JrTWo5MUs3UmRhSlY1Y0R5ZlRodXdGSkZ0NXN5N2FTUUkzcGVIT2c4RzJidUpHT19PWmZCRXNKS200N0g5dWd4WUtmeUhUcFpyeG5SbTE1Wk1HOTRVUXRiZ1lIRklwTmJHdkhiOXJuS21nZmtJZ2ZBWFQ0eW03VVFMN2F4dEpEdUVFZG44YzNRUW5vQlhFUC1sZld4U3hMdjNUMDdnbU15WnR4YXZnbWxIejJZQTFJUUhSU3lrVk4yVHM?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Chelsea Transfer News Today: Alex Scott deal on as \u20ac145m star confirms exit wish",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSkVRTHdQZ0djVDc3MTBMcUFYZFU5a2lpVGFEck5SUkp2VV9YRUdyc25iRWVsMEZtd1BKRUpaZF84UG1vaXloS3IxWkxmaGZtaVpETlJ0aFQyd0hra1pwMi1xQ1Q3azgyOG83aG15Ni1kblpyN296Q3RHU2RKemdpVHZveXlsNkk3dXM5aFdfblhhcUlhZ1JadXpVSmpicUdSaWpTX2ZybW1aa01iS0psdTRwbEJsel9BMElDbk5DWDhGSFJQekJmTmRpZXJwZVN2RzFraFNrWlVCOGtndlZtenhEeHBlc3hjOXQw?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Man United eye transfer of proven Premier League star to fix problem position",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQT25NWTVRSEpiZzRoZWc4NVdiNjZ2Uk1tT3kwc3ZhQlhtdkRQSUIxaEpWM0NqYzNVN0cxQlQtV01xLUp5R2x1WlFGeEtVMS01N19nVFhvVENpcUdKNHJEUF8xRjRuYTA0TWJ0ei1ZcktLb0l1dTMtVmhIRDBud1hLU3FOUTJGVnJlcGJaM19EeGUzaXpBcndhRndXUGhLMEtKa211V2hNdkkxTm5MYXp6VVVxNjN3aWFWalhndGJBaEJ3NmVBU0M3ZzFfeGdhNTIxb19YQ1ZObWgzeFNSeDh1NUUwa1Y?oc=5"
    }
   ],
   "local12.com": [
@@ -37021,6 +38558,17 @@
     ],
     "title": "Maestra.io Passes $5M ARR as Its Forward Deployed Marketers Build for DTC Brands Faster With AI",
     "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNcjNXSzl2dWpidllLbDkzYlB6SGNCVFFjTC1nUG44eXJGNHp6UFF3d0hJU3h4bC1jcTJCZS1FcndEN2FudmFGdEJQalZwazF3UGtVc1c4bW5QdGxSbFhfVzU2OGtmd19ZdnFncm1xZTFKV3JaSGM2TXBPQ0tlVG1JTVY2djVSeHlnUWNCVE0tV3lBY2hDZ0ZzR1hrRXNqdWZtX3ZfUkxuMkllUFhWbFJJMUlMUmNIWXhvU2VTWFN5VlZOamdFTS1TM1RlQWRWV28xaVBXTlRmTDB1WmM0Q002NFFqOGpqMjVTZWVObHR1bVBNdTBhbmo0eWpIZ2g3N19C0gGAAkFVX3lxTE1yM1dLOXZ1amJ2WUtsOTNiUHpIY0JUUWNMLWdQbjh5ckY0enpQUXd3SElTeHhsLWNxMkJlLUVyd0Q3YW52YUZ0QlBqVnBrMXdQa1VzVzhtblB0bFJsWF9XNTY4a2Z3X1l2cWdybXFlMUpXclpIYzZNcE9DS2VUbUlNVjZ2NVJ4eWdRY0JUTS1XeUFjaENnRnNHWGtFc2p1Zm1fdl9STG4ySWVQWFZsUkkxSUxSY0hZeG9TZVNYU3lWVk5qZ0VNLVMzVGVBZFZXbzFpUFdOVGZMMHVaYzRDTTY0UWo4amoyNVNlZU5sdHVtUE11MGFuajR5akhnaDc3X0I?oc=5"
+   }
+  ],
+  "manoramayearbook.in": [
+   {
+    "date": "2026-10-31",
+    "outlet": "Manorama Yearbook",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet approves Khelo India Sports Goods Manufacturing Scheme",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNXJ5YldnSEtqaVplc2R0YjBtNWRRbVJLRXFWX21XNmF1NGc1YkNQM2NtSGZVbzhCam02Z3FXSGZDT25OSE5ITEhGLUpSd1FjeGUyV0FxLWN6ZExWMXM2ZnZEQm5rdFdFaXVBTEM5bFlfdldkdXBUS0xYTFptWXVNRF92ckZ6bHRfekE2bnRyQURnX3V2NVd0cDFRYk90NURhcGJCa1ZhRkJwaHpQMVhlczZQeHE3QQ?oc=5"
    }
   ],
   "manufacturing.economictimes.indiatimes.com": [
@@ -38250,6 +39798,15 @@
     ],
     "title": "China sets Guinness World Record with 110 humanoid robots dancing together",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOV1NWd1RHODdOZDFTLTBuRElzRGVyUFo4RmZDcjRGamp1U1g4VG1uSWd5NXhHR1RkcFE2Q2U3VWNGYlRSVGZ2TFFuZTlFUUdDNFlnTENwbU9nTVIzd3FTV09mMk9FOG9vQ01lNXRTUS1QZjl5WWctVVJKdWJXSFpSLXE5MU9GcFVEMU13UkNXZFJUWUxiaU5GQVdzWVpGb0M2dVp4bk1pMjZsNFpHSXZMQ3ZXQzQyeUViRE9lVThsRUtRSFhuc2lnUmRnUHFob3lVZXZvcVVR?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Mid-Day",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Jaishankar arrives in Atlanta for G20 talks, amid energy concerns",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMTR6NzA1UjNXeW0taVd5b0xzNEFnZjJWWWZpUkZqQllfaXIwQXl0WV9qLVNUWDRobjM0c3JpSG5lOVMtSzJwQVQ2UTR5amN2NE9QN0E1WWhmUTAyQjR5VWhaVXlHZV9zb05CTk9lNXFOeVJaaUlseVNGSHlRNE1GRXozaTVWd0NHdDkzZC16S2x1Uy1hOTJtZDFobURsak5WMkZBenRGWWxBeXQycDNkYUN6VlVFTnNUUUZ0NVlCSmdoZlJOZFE1ZUkxamx4RkVfbWZKSzNONkNzVW5Ed2c?oc=5"
    }
   ],
   "middleeasteye.net": [
@@ -38551,6 +40108,15 @@
     ],
     "title": "Cricbuzz Live: Can India chase 181 and take a 2-0 lead?",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWjFnNXRXWEFGV3VwSGNCbWlKbEs3Z09OZklFQkVqN1VZb1NCbDFxX011T1I2TzhkQ1hZUUdNUTVOTEhEVmxEaTIwcGdCS3pHNzBLSjlIbEtLUkZlanQ0TjgwQUo5QkN2MjEtMlJTNEV4YVp0b1hadU5PRWl0alBNX2dqVHpBaU95S212ai1EaXpRbzNZTVV6Z1U0N0JjTlpnT2c?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Cricbuzz",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Cricbuzz Live: NZ set India a daunting 260-run target in 4th T20I",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGpHWWdlRDBQQjY1QnJfNVhjbWNQQVZpTmFUbi04OFdjSHFsdG1EVl9YLVBnWnlNbkpxUEdWQmw4WndXSFgtak53ZDljVlhkVWJkUk9mdzlwOGs1SlRUaGdkRW9tbE5WcmhxSFlKMVBVNUtKMk1xd09DU2dtSGR6a28wUXA1dTBkd0FvX1dtc1FwMGxQOE5BZFFXUnRrbTBfVUx4aTF3ei04TkNEZWJlYQ?oc=5"
    }
   ],
   "modernghana.com": [
@@ -38631,6 +40197,15 @@
     ],
     "title": "Vedanta Oil & Gas Q2 Profit Rises on Higher Oil Prices",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMTY2dmRrTzdjcGV0U052RWxPc2Z4YVNaaDg5M3FyVUpHX3JxdnJFYi1jSmxablpHcVhTN0dQeG1aNDE2ZERHanJBTlp3OHo0eFd2NDdIWHhBU2xyRjZiNUt3STJsZFl3eGRta3ozaWxTeWdEUndCQnhfd21pZkZTVUN6cmRKallQUmRSaGUtVDNub3ZtblQtUzNqSk5DNUVjVUNEX01fMNIBrAFBVV95cUxOdnlWcU45eGY5ak9sRm9tZF9oQVJ5R0s1aGxfeTV4b25PbFJHYzNhc3o1UkZTZEhwRlU5ZDVyZmo4dnpteWhEUmlMNi12WmdVRXVUYjVVRjhvRzh4N25YR0FNU04yMWZsZ1kwbzFwNXM3REFtRzlzNlFYY1U4dE02cWgzUTQ1ZDVCM2dCYXlhdXNnSG1GdVBtTlNMQnpsNGFsSF9WVGVGYlBUYkoy?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Rediff MoneyWiz",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "NITI Aayog: Bengal Needs Regulatory Reforms for Investment",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNUlDaXE0d05ja2laLWZlbUFJS1RibTViUkVhYnVBV0IxVE1ucnFGbm4yT3hXd1lvT1NuQUg5ek5jUWVWNEpZeW5uNHJjYnphQXNZYmtNd0dYbEhwTjEwRDJ1X3ZOdWhLVERpRmE5UlJuMl81TEJ5dGlnTDlRY19LNmJhclZPQmN3QXBpS1VzU01nWlNVX3dRMjB3ZjhwMWE4VE5xejVHY21fVmNxRnFzOHl2c9IBswFBVV95cUxPNUlDaXE0d05ja2laLWZlbUFJS1RibTViUkVhYnVBV0IxVE1ucnFGbm4yT3hXd1lvT1NuQUg5ek5jUWVWNEpZeW5uNHJjYnphQXNZYmtNd0dYbEhwTjEwRDJ1X3ZOdWhLVERpRmE5UlJuMl81TEJ5dGlnTDlRY19LNmJhclZPQmN3QXBpS1VzU01nWlNVX3dRMjB3ZjhwMWE4VE5xejVHY21fVmNxRnFzOHl2cw?oc=5"
    }
   ],
   "moneycontrol.com": [
@@ -39324,6 +40899,17 @@
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNck9qQnpaaUxvLXZ2TmdMNklTMXU1Ym5lalJpaC0xZmZUR2JiWGNnNlZ1WUo3cVg3bTNyeEpxSWtQaXFJX2VnMTRmV3VOcFRqM1NnRXhlaVVhbDFsM3p2ZmQzOEpvaWVTcEZGRTVLdkJOZ09fT0QzYnc4c3hpRjAtY01wNU1UOW5jM24xTXlTYi1FQmo4dE1GbWk0QkdialM3Q3JtOF90enBadU5pazJlWklGVWZzcVQ0a252NVJR?oc=5"
    }
   ],
+  "myind.net": [
+   {
+    "date": "2026-10-31",
+    "outlet": "MyIndMakers",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet approves Rs 40,000 crore to build eight advanced stealth warships for Indian Navy",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcGNCdW43b2JoalFycl9rcThST2E2cXRRQjhFdzR6TkpPel9RQ2hZY3NERXdISFExMUFqNF80ZDU3X3VOWnptTEVXVVR6TFVzbUxtdVZNUDI1eldBX0h5XzBoWWlyOGQ5dXJjY2ZhMlpKSU1FZ2JRLUFVc2JPTEh5T3ExeUllM0lzNk1tRUJsTEtlTzg3cW5pdWxBc3dXVmV5dGx4cTRLS0lFb0QxRnluZzlCRGZMZmltMWc4cHkteGc?oc=5"
+   }
+  ],
   "myjoyonline.com": [
    {
     "date": "2026-10-20",
@@ -39384,6 +40970,17 @@
     ],
     "title": "Bleu Robotics Secures 5 Million Euros for Humanoid AI",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNd2k4cHBmdllzT1JrYTd0OEdMWHNVX2hlRGJpMVc2MzN4UU9oTXY2d3V1ZVpvak80MmdUcVpOZ0RIel9mb253bk1QNHhjSHRzWWhtM3hreDlULXFnbjg0VkJGU0x2VkgydnJyZ2c4Z1RxUzRQWlgydlNxRW5QZENvQVFtcjFrNUJrWVVxclpyM0hNaGs?oc=5"
+   }
+  ],
+  "nacionale.com": [
+   {
+    "date": "2026-10-31",
+    "outlet": "Nacionale",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "US court suspends Green Card lottery for 2027, blocking reopening",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSmxDanQwV3Nid0NBQXVzNm90VHRxbndZWHVZRjhZMHFSMHV0TWVuQk45blhCWHh4dTBiQXlwMUdGZEVMSW9RSGVMdWJTem84dEJsQnR6eDRtRUJwckVSc3dvaUdIclczbzl1VEJTWDBnLTQ0N2t2TFF5ZzRHcVJ2QzJUS3FFSnJIc2Yzc3ZrTjJ6dm9FNTZfaTNoOEYyYVI2WV9CLW54UElMYzVKc1E?oc=5"
    }
   ],
   "nagpurtoday.in": [
@@ -39535,6 +41132,15 @@
     ],
     "title": "Lagarde to resign early as ECB holds rates amid inflation concerns",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5KenNIV0JMV1FLU1ktbk5lTXJmOUVRNEhvQUNZVjdtTi1RbUJyb254dndkS2NqTGtqQ1JybHZzOFBqejc5bndMVVM3djItNkR2OWdNRWM0OUJnbWFseVFR?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Nation Thailand",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent ends October up 13.6% as Iran war risks unsettle markets",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NbHdDWnoyUnRnZXJ5SE5saGxETWFwbjdoWlNyTUllRUJ1dUJNQkVyTmNFY2Z1OUtxdmtpcFRNX0pieFFXZWUzSVFEQ1ZROWREbzhrdFZ2RzBVOVRMU2xZ?oc=5"
    }
   ],
   "natlawreview.com": [
@@ -39704,6 +41310,15 @@
     ],
     "title": "Ukraine, Mideast War Drive Trump's Midterm Headache As US Oil Prices Surge",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQnVKTUJvcVA2Z1VZNVh2UFFEMm5JcXZ1R3pvSVNhZF9Ld2VlMUVaOW1GYU9LcG83S3F6S3lqMlE2MmdlbTZkM0JmVFZCU0dhMElNaDkwMl9TbjRydi1vOGVNbzB4dl9mZWZUT1dPenczUmthWklZQnJVVXp2YzZtNEdQZVpHRTA0VjFPemphVWo2alBhSF9nU3h0U0FxbTFXTmNuODRXdEgyYkkxQjNVelVNNNIBuwFBVV95cUxPMjBDdUQzUlFlWlZoWGpucUxzbmE5OW82bXh0QkJxVVlXZmlIaUI1Z2p6cGFselpFX2xiS3ZSUWJ6VjZNM09qZlVMT3N3cW1xMW92YWlvT0xiM3V2WTVuX1l4QTY0ek1lNFR3eG5OOWhyWFZVM2Y3clFSNVhWazRsWGtVVlJ5MzBpTDZUczk2dXFrQlVnTmFRUFJMRjJycGJmQkpwMDFkbUllSmxULVkwRFBfLU5SV2FVaHRz?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "NDTV",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "PM Modi Holds Roadshow In Gujarat During Two-Day State Visit",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON2pFSk4yMDNkcWdySVhUNjVJR2xtT0pMX0otUVBxaTdhYnloTG52WXMwVHA2YjI2RTlrbXJrRVVwMnNWclBGUHJCMjY4OVlKeWZhTk5UQnptOEZrTklJY0NfalpoRXlsbnAxQ0JmT3hlQ3UzZzIwR1YwSzBvb2o0LW4xNHRkNWNIcnJRQU9tUi1ZNFktaldyNVNUNjN2U0dKT2g0UGxTQ3QxQUxReTZz0gG3AUFVX3lxTE90N0hRQ2dHdTE0NDNKQnJlWXgxRWs0OVloQzNxQzYxZnVwT0doa21DMjM4M1NwdFVfLUtPamxGY3BVVTFsak5ISVV1MmMzZnpFRnNkM1czMHlvZ3QzbkNSRWxjREY5ckN5QWJad1FjVzhHbF9yS3Z2Zk9mWnJ2LUI1NlRYUFRvbTl0akVlanBKejlyNFJSbDVsVGVxS3VQM2lJajNpX2lLNzhuWEYxQklCak5jbXVidw?oc=5"
    }
   ],
   "ndtvprofit.com": [
@@ -40479,6 +42094,15 @@
     ],
     "title": "Trump\u2019s Trade War with Canada Intensifies, Increasing Economic Strain and Job Losses",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2ZjaXZPX0hZblFLZ1EwX2RYUm5BbFVjUUs0czBjSGQ3NzVrQlhzNDRpalRZYlFrVE5XazJVcV9jR2trSWUyTzh6U3JBTVJ5VXN0d1g5YjZEdW5leXF1a01oc3FfdTJUcXdBck1jd3NXVzA3X3JrVDZOTjFpZXFtV1dWaUI3OTNZQjJNX0w0elRiOW92VHdrMWcwd0ZmLXdvTmxUT3pfcElhOGs1a3c?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "SSBCrack",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet Approves Construction of Eight Next Generation Corvettes for Indian Navy at Over Rs 40,000 Crore",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQemk0Y05kRUZiaVpKSDBKOFdxbE5LaU9uM3dpWmY1MURYSE9VaHRPRVJqZFpYcHhLd21RSjBYdzBEaXpneFZnLXNyNGM3NWU2bm1KUV9LbFZncDdnVU9xd3NVV0pGMFU2Z2lFQzBNZFFNc0pSVEhrV1FmRFM5Wkx5VHZrOFptRk84Vm9VMGVfUmN1UU5xN0pHbjF2V2ExM2tIbkt6UTdGUU9lUnZhVlJIWTZrZHpjTDJrRHN1R2ZYY290OElwSGN0c2NR?oc=5"
    }
   ],
   "news18.com": [
@@ -40626,6 +42250,24 @@
     ],
     "title": "Fed Rate Path, AI Revenue To Drive Markets After Midterms, Says UBS\u2019 Alli McCartney: Iran, Oil Overhang May Remain",
     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbFNCMGtmcWdpSWlOQWhqLUpOdDJIV2NvSVlFWUlmWjNyUlhHWGptZFFpcnFzNWxMS2lETTdpbEthMGF0d3NVeWFRbHc2YVVyQlFGcGw5LXhyRzNGc0hZVkp5TmVRX2liLWMyQm9QUmxEeTBaUER1UlhpZTNRWkdrNENTWEVDRTdOYWFOeHc3NXVDdzU1czNSSDVvWkVLSzRBUWFWNEtwWk1ucl9qTHpWZWMyamNmcTlWWXR3RXhsa3pqS1ZsR0tvRlhBeHB0QnZubEVLSVJrS1pWMGRyMGJqLXZSVGZYT1JPMmFqbG10aVd0ZHFKekhjQi1NMlpONjDSAYQCQVVfeXFMUFREUXR2YXg4eE81aC1qZk00Vng4VHIxRWduSUFHRUk0TktZcHlDV0Q5YVQzTl9kdDJNaFRkQ0lMVUlwenpKYjJubWl4ZDJXQXFYQjU2a3Y1OEV2bmFqd3NmbUxSRUdvY1laWEdsNzlQQUdCTVFpMXBQYUFaSDFESE5RaURUZmZSS3RqVGpNdmpsWnBmY0tIUnd1UUhSYjVNNW51d2g3OGlMVmdIVmc5ZkJ1LUtCS1dsYWstVmFnNXRpMUJ4WW1Kc3pVc3pRRXFYbm03RnNacmdjdUd3b09leDg0Y0FHRTdOREp5eDBwWVg4eVdkV19Ya0NmRk9oTzBNSkVMRUc?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Asianet Newsable",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "India and Argentina Set to Expand Bilateral Ties to New Heights Now",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOM3hfajB3c21Lcmo3WjVpVG5TYXNTLThzclRyd0d1cUY2Qzl2VVF5LWgxRkMzV0NzRC1tVGdKZTRGSU1yUUl5b2x2enNlWkROUnpZZTZINVVlWXZiY0tDcnV1eEV2TVFUSWN5WjdHZWhGc2tua09NVFd5cmh4Y1FocXp2aXFSMU1CYUlPeU12dTlnMWZIMXZxcUtFVkhmU1BKaV9zSmpNaXVxLU9TamMyMHg1R0tyU1dQQlpLaWdqV0hKbTI50gHKAUFVX3lxTFBoTHhJcHBHaW1lRlRFMTJoNFZFSkUxRHB5OVNCanR3cjBtOTZacmRIVjF0S1ZCNEpNNko5c2tFSnowZ2RubnRlS0R0U093RmxTRVFzdVRjY0NleGNLcmV6YW4xcGxGSll5U3pHTjV0WURtamkwUW9kaWZvc21BVEJ3OC1oLUluMHoxMTN2QkoySEdjVXppUHo5bWJ3c3VkNzRuZE1GRXpSNk9DOFhRYWswZVFRTmxaVVAtczVLMlV2V0RURnJ3QjI0VXc?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Asianet Newsable",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "India and Armenia Review Bilateral Ties During 12th FOC in New Delhi",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ1Ribk9iMllTd25TOXd4Tm4yZHZLYTFhNWIwSFB0UDFVcE84SjBGZWhYMDhPRzRXN1RkY3h5Wm41MEFlcUM3NUl0c1otSHU3cUJGbGxxN0NjSTFjVFo1WDFkYWRTZEY1dXZvOGl5RWFDQ3FkR3poQ2twcFFheTlEMGVvTThvQy1MRmhvTXhMTWxNQ3hpNG85bm04MkxublpJZkloSndXdmRJVTZuUWZfeThvVTJZM3lHczVoTWlmbU5taDZfcFHSAcsBQVVfeXFMTk0zZ1lyM2sxY3JFakE1Q0lVTldSTERXMkhmNTBsWEhaQjl2a2tsMHNqY0RseDBnTGpIZXFJems1VWJJYkwzN0dJazY4cGRoQU1va2xxc3paeWR0TlNHcG1PS0IxZVlsYkdwd1RSWVpTbVAycXg2THdhaFF3SmEtTWJJUkxXdTZUTENIWEJCX044S2Vxb0VaUFdTVDA2dnVQclpIV284bkFDR2IxRVkzeEZ0Tll4aHZKY0k2T1dxOXJ1aS02QzRqeVFjXzA?oc=5"
    }
   ],
   "newsbytesapp.com": [
@@ -40844,6 +42486,17 @@
     ],
     "title": "AI chip startup Tenstorrent more than doubles its valuation to $6.2 billion in funding round",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HclBoOEhuRG9iZnN2RGJGd280WGEtQnMtRkRNUkx5SUpmZDFzTzBIQVRiNzE1aVdJdU82M1lQZVBRYXhvUG9LWi1PRUlhUTVjR2FEYXVIc0VyNkhkSElQMTRWZGdXZTZsRTZycWdvcVhaUQ?oc=5"
+   }
+  ],
+  "newsonair.gov.in": [
+   {
+    "date": "2026-10-31",
+    "outlet": "News On AIR",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Union Cabinet approves 3% hike in Dearness Allowance for central government employees",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQV19TVjYybVo5RVRuWUlaYkgyZ1RTcy1xenFELUtWWG1qd0kwNlYwc01MR1E3UTIydDFqbTE2R2R4czBNQld0Qko5TXdoRkV3VjBGSGFSanc5TnlQZmpPVW1EeUV6WG1yeUc0MkJyWUtTVk9XS0xHYjd5cWRWcktXR0tUZTFjUW5JVU1SVmlxMEkzSUVOZzZObUpQbFJwTFBIeHU4?oc=5"
    }
   ],
   "newsonjapan.com": [
@@ -41098,6 +42751,17 @@
     ],
     "title": "Goldman Sachs raises Meta stock price target on AI ad growth",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONjQybmIyWHRLUUpRcFBBbnFnUElsZW83M1pXbzhpUm1JRHkweDRTeXQzMDdXWGNCbkF5QVhJZmhzbU9tLXBUYWVjanN3b09iZTlJenZUSzQtUlVBTVdzQzdCVzRVMHFuS3FTUkYtcWFRakFjWFdkdFFhZlFDMEVsaEZEUXV5c2puQmZuZy1FWGY2S2d1UktIWDZ1Zjc0UlJ6TDY0bHR1T1lzRk84cTZOck5FeUpOSmMwZ20xQlN3?oc=5"
+   }
+  ],
+  "niskanencenter.org": [
+   {
+    "date": "2026-10-31",
+    "outlet": "Niskanen Center",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Legal immigration in numbers: October 2026 status update",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zRS1ET2lMOUxUOG1OVk94bmRpOGpmR21CdHA3cWowQ2RhUkVmS2NyXzVWejJXRWFEcmFObGtBS1FWQlBCN2lBWlktVmI3bUFDeFJ3N3FVcVVmaEU?oc=5"
    }
   ],
   "nny360.com": [
@@ -41461,6 +43125,15 @@
     ],
     "title": "Indian Green-Card Holders Face Slowing US Citizenship Approvals",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZXZrTkJLNXZZbC0tUm5ualJlSVZnc1E3YVhLeFl2UjZyZG5BejllUE13TFp0V0w3NFpmSHFHOU8zSGR5UzdUZ0NUeEYzbU9VdUJ0Vi16aVZCTDVqY3lpRVlVQ2dJSUN1VjlRTjZFZnNUd0dMWkItb2Ftb2dQREgzcEJJWWdCUU4yYzdoZ0RQX3FVN0ZraXpvQzZObW9vTEE?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Ommcom News",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "India And Tanzania Hold Army Staff Talks, Discuss Strengthening Defence Cooperation",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZHJiajdwZnozMHA4Y2ZjV2FRcElkRGNFaVJFMU5Hb1QyaFgtdjhPMGJQUHNYWmZGYXJiNklSS0RmMzZoajY2dW9YT3JzeUlQcFZHTEN6NHV5MDloa0EtWlJQUTFHOWFkRTFlODN1TGxGWXNVMEFfamJmLVV1cGRaUGh6RVBjUnd6d2QxRW52SVZjMmFTRDgzQ0E3eVJXMUJDRTJONkgtcEZGUWhQU0xubU01N19aMlRI?oc=5"
    }
   ],
   "oneindia.com": [
@@ -42327,6 +44000,15 @@
     ],
     "title": "\"Raise Capital Now\": Nikhil Kamath Warns AI Gap Could Trigger 2027 Startup Crunch",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYmphT2wxdUt5MldQSW11MFdQRGVENTQteVVQQjRZbXl3cUplZUxtOE8tMWs3OGdSNXBBdnZHRmFTUzFXSk94T3ZFZnJZVFlRcjVhZFhKT2ltM2hnd1gxZzhiaWVTeGFQZDJtYnZKODlNckpSam4zT05pOEdrd2RDcDBWX0drZw?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Pragativadi",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "PM Modi to Inaugurate Mega Bharat Renewable Energy Summit 2026 on Nov 2",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNkFJdmtjY2s0STJXaEZhYjJvVUxjR3pTRXVfX2tUWUlIREh6SHZQaXFCLUl1YnBxQkptb1o2ODFXV2tUdG83dVNjTlVfVW5vNURnTkxBZHkzLUp5aXBNWkUyMjFoVFBwVjhQVkZadm14LXBvNDBoRXBPWTNPdk93QVlUSHFBcGJLcTV5a0lxVTNpb3JoNXZKNXotSzlvNUljYlhpQk16UGE?oc=5"
    }
   ],
   "premierleague.com": [
@@ -42534,6 +44216,17 @@
     ],
     "title": "Property industry braces for interest rate hike as mortgage deals disappear",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdlZPZk5TeGpfT2ZWSFJoQjNXSVJBQVpwRVNMYzdRVVhxMzR1TlFoQ3FEcmthM1hmS0Y5ZlB0eEZvWjF1dEpGTUNVYkhsZnh6eFVMTTNUY2lPYXJDY284SGU0SmZiN3BYQjFSSzhoV1hmRHBXZ3pBWEl2ME5HaWlkZk43TGdsSkZ0RXNJLVpaeHo5TkhCWi0wM19IaWhBa1RtdE5HdVdCZGdodDkw?oc=5"
+   }
+  ],
+  "propnewstime.com": [
+   {
+    "date": "2026-10-31",
+    "outlet": "Prop News Time",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "India and Mexico launch preferential trade agreement talks as bilateral trade falls to USD 7.83 billion",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUkFWcHNSSG45N0VBdUhNNUFfQjRUcV9yd2JEMEx4eXdFNE1JYW5ldVJycFdtdFdMczYwS1RGZXFMVUs4OEgxOVFBUzltR2FvbG5OLV9yeDBjYWRzMnFGUGZoZGtsbTVMSm9MX1J0V3FfZzFqeE1lYVhQd1hLZkcwZDVyVTNib2xOeFpfVExfMFdMRkZCMjZfdlR4WG00N0wtTFE3VGtlTFJhMDJwMm9UTGdxOTZGUmFpbUVlOWR0X2FGTDU0bHAxRlQ5cmhsbzlwTVJpZjduYnVPeVJqN0pnc2hObzdpMDdsemU4?oc=5"
    }
   ],
   "psuindia.com": [
@@ -43053,6 +44746,17 @@
     ],
     "title": "Housing Week Ahead: Metro Rankings, Home Prices, and Fed Rate Decision",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUm5yanctZk13MDZCU2JHSVV4dVp6OFNYYXppMFVfY2tVZ3ZreVVsNV9MN2gtNzd4QjFSVTh0NjUyci1UQzdGbGtFeldRNmFDNVFpb2JkMXFFS2xGQUlHRDl3Q05qNWtUS3Z2bjQzVHJETG14RENMNkktdUhGcUU0SFUxb003WXlGUjBDVWs3a3llVU00Yk9EUkkybVRfRGRXU3Jybg?oc=5"
+   }
+  ],
+  "reason.com": [
+   {
+    "date": "2026-10-31",
+    "outlet": "Reason Magazine",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "5th circuit judge James Ho says a presidentially declared 'invasion' overrides birthright citizenship",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUHdiWjR4a196c3JiUHQxNUJzT1RLb2xQWkY2NVktSlJmd2FEOEFCNUpSR1Zzd09kVEM3R09xSjdSYkt1bWd3dUtqa2lkVVlzVzBGNzlrSXV1aGZwUy1ka3ItaXNRTGVaSmdIeE5qMHlxNUw0ZWlITjhVUWZHWkdvakdWTmFFVzNWZEZXZjN0VEhVWVZpUmxGRTlKX1k5cmRMODVrV1EwODljbXBtNmhUbU9Oa2VzWjh5b1RKWUlmd1dHUHhxYUVKWk1n?oc=5"
    }
   ],
   "rediff.com": [
@@ -44122,6 +45826,15 @@
     ],
     "title": "UBS sees Brent near $110 by year-end on supply risks, high freight costs",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORk9jZmxyRGZNUnZMUkFoZjA5bUJIX3NkMGgwQUhQY2Q3VS02ek5nNlJBb1d2RDBhQm9qRXpXdHIzM1k2aG11YVVsSkx0ZDFkYzAtYUw2cFRQVGZmUXJyR1drVHMydjR4TEFuNFNpV3FRc2NCaG10S3o4OXhFbFJ5Rkh2ZUFmQS0yLWNrOFRhRHlWd2szRjB0bkdONU9KeHVNY2pQd2tBRzdOM05I?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Seeking Alpha",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude oil jumps as Iran says four tankers struck mines in the Strait of Hormuz (USO:NYSEARCA)",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGZPeVFkbXV6SVllV1dxdk8yOXY5b3NEdjFJR2NJQmhUT1Z3aWNqdFlGYmhIM1pmN0FMQm9MTjdaQ1IyVmRyQzM4RUl1LWgwMm9wUTBWWUNqYlA0SWRfX1c3WDY0Wm8tb0I1TUZBalc1R3pxeDF3dzJzRDgxMUlzRlNyQ0hjZThlcG82d0hkYnpHUTZyc1pYd3ZqYWk4RHh0QldtRjZPcDBtZFdnZmVtekx1VGUwY2s?oc=5"
    }
   ],
   "semafor.com": [
@@ -44458,6 +46171,15 @@
     ],
     "title": "AI architecture startup Dream launches with $17M in funding",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRDFWUGJYRktibXNENXVyRmNpdlpScVg5T0dWM1U5a3Z3VWVIamN0SmRQRXdMZDY2Q1cxdFh4ekZVLVN2TjE2Y1dYazJmejkwME1FZWFHb0ZwQ0NpVE1oOGZqdGdMWWNldnNveGdkNWRTZEY2VG9aMEJ2bkZETWtUdGp5SjVVRldtUXBkeWVsX2ZWS2UtbjNZdXVfcw?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "SiliconANGLE",
+    "sections": [
+     "ai.funding"
+    ],
+    "title": "Google X co-founder Sebastian Thrun raises $130M for AI engineering startup Dulo",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOUmJ0ZUlqY0hVMWQtVW8xU183NkNXSVdNbjIwMnlTSGx0NVp3VzZEcEY5My1UWW14cGk3akxKc2RubWpZNHFXNGtZX1ZjcE5ZQmxSZ0t6NS1EckFkWEhqbWNudEhUMnUwU3RKajFDc1N6UDF4UTJRV180V2dxczRHWU9DUzQwYW15WnlNY25Qd0RJMkxWWThrZHIxczB1Z3kyY09BRVR1a2lTZ1pNUkdZS1lXZkE2U00?oc=5"
    }
   ],
   "siliconindia.com": [
@@ -45140,6 +46862,15 @@
     ],
     "title": "Chelsea transfer news: Real Madrid buyback clause and Premier League rivals threaten Blues' pursuit of Ramon",
     "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSEhSdzROTy1MSG0xVTdub1NrZnZNTHo4OWFDcVZhWFF1RUp1Tm9aWTBlb0ZteHdaZ01JNUhNVzA0RmJlNDdaSXVNZDJuRllZZHNNOXN2cXF1MUxNd0JzaS1qTEZVaFlmdmpaN055RkI5cTZ0Y0JIbWJnVTdTUHJ4WWE0a19SZDlwd0psMC1UMHo1R1A5MVAyLS1Oa3I2Z1ZDdDEtbFYzTjBGcHhSNHJMT3pheVdjNXZ2Uk90bUE2aEVqVjNCZW9VODJmaVEyU0c1b09lQnNWY2hFMXdaTzJKX0IxSlkzY2hZQTRzQ09tN1V5U2t1SVBj?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Sports Mole",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Leeds United transfer news: Whites 'seriously considering' \u00a316m January move for La Liga winger",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTVlET1BGRlNKa0ZOeFZ4Q1JhbnBWdVEybGtKaVBCdEo2dGVOc3kzVUluVmVXTU9OUFFBdWI5bEoxTHpoaWRaT2RvaGN6LUxqWFpIRWMwNnBqSF9YekdpVklFLWs2Zmt6UktYV0NtZ3BxMWhjeDRBNU9wTXJRS0ZLTUFONEZTNF9iS2ZDNUpLcmk2U3Bqa2pSWkJ0bEVXTmZpc0tTRE94UjROZjBmSWo5QjNYcFZOb1c1S1FqdDBvYnl0NGVNcnFwa1RsSnRyQWV4cy1BeDd5Q2pDcEJUVVpjMWVPZDQ?oc=5"
    }
   ],
   "sportwitness.co.uk": [
@@ -47830,6 +49561,15 @@
     ],
     "title": "Banks pass on 93 bps rate cut to borrowers against RBI\u2019s 125 bps repo reduction: RBI Bulletin",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcEppZXd6RVBGRVhYenUwVFh0Q0JXLVR5UDJ1Vzg2b1VKUnJfTHcxaGVFWVRPUjJoUGdnUkNEWW9GVWN2TC16N0EyV1B0QkJtME9xVzNoaGN6YnVjWkhrdjdCY29pLVhoeVIxdERqSmUtZERGSkh6Z3RhZDZMMWxZRDJVelFuMXptMkVTQXUycVdzM2M0RWxObTdKRUlYRmRzRkpTQ3JqSFoyYWJ6dXZlWGhUaHJhenM5a0lGcElvSkN0Um5LTi1J?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "The Indian EYE",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "India and Tanzania hold Army Staff Talks, discuss strengthening defence cooperation",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVzk1c0NsalVHRGVvWVVyUkY0cTlmUDVFZ1hPN2RjQ0l0MzFQTWV5QnA0MjJHWUlFdUtWSE5CQjYxNkxwS2EwdDdnUGw4M0ZrUnpReEZzcjhfVUg2QVUyWDlEdmNQTlgyZVMwWTZfX2hHLUM2aThpcE11eDhjNm8wY1BpOU5BZWRPejNjR0tET3Z6bmE0V1Z5VEJlYnBfMEhsNTZXcFFMVmFzVmpScWFMcEl5V3IydGRoTU9j?oc=5"
    }
   ],
   "theindianpanorama.news": [
@@ -50838,6 +52578,15 @@
     ],
     "title": "Bitcoin Slips Below $80,000 After Fed Holds Rates and Tech Shares Weaken",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc2hPV0RQRGNWMnRSdlJpakUwSUY4QmJfcVotSm5WeTlGSFB6YllMSnpGQmF0MHBsSE5nZl9fX0gwUG9sbmdCc3FUdG9iQlhZR0cyM0loelVtcmVsdzJiNlNEOUpZS2VMN0NYbzJweENRRFdGazc3UnRNSXdsMkVXT3NwS1pNUFMxdHZzYTR6c1RzNmd0X3dFVnk2Y3NGbUFYZDM3TU9WREFLNldoaE5udlhMTlFwUXVQNUs0eVVqckluT3RSSG1oWQ?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "TradingView",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Why is Japan's Nikkei 225 crashing even as the Bank of Japan holds rates?",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOczhydHNPV201cXZOYkN0b0l6NTlrLXBzMnJpa3B6U1RDMk0tU1V4OU1UaUpTYktiejhzcGdYbWw5WUNhczAyNEZhbzR0Smc1dVhBRWRpcDJEc0wwQ293ZThFYU55SG5sYmlxcWJ5Z2pNNXJaRWZ1ZDJhd0tkNWMzSE5pN205dk9sSUJHOFgzeFZpWm9yWWk3UFJrUkNBWTdUdTQ3RWdWTGg3eGxIMWdsbzVIczlrXzF0OVdBVTVpdEZhOVlRdWU4dw?oc=5"
    }
   ],
   "trainingground.guru": [
@@ -51661,6 +53410,24 @@
     ],
     "title": "Colts' Shane Steichen: WR Josh Downs 'ready to go' despite trade request",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQenh2LXRDd0EtUVhoZEhDM1JUVzh5R0RUZFlmaVV6UVdkVk5pMXRJNTNjVHc2NktwMDl2VmEtN2NVdzhUXzJKZ1R6WFdJNlFTZ21vWXZ5a2hlNFN1aXhCQS0zXzdWR1ZTQjlYbnNFOHNISGpLRkNaVVo2SGd4MmxPX0N3Z214VE9fbVctNWozMzVQcTA?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Thunder say Chet Holmgren out 8-10 weeks after knee procedure",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3ZZSkljWUJzSWtRem41WERCaE1JajdIYUxKakVIYkxQcEZXS0pPb3k2cXRrMXFUekF4Y2RrVmdxTzZGeDRibjRPRHRLMlU1NUZvOEV5cDFnUUthLUdzVzFwUkFLZ2NkRWw5cHl1WTlUaU55aEdtS284WGVOVXBhRGtXaHF3TmZlWHpodGVWSmdXeDQ?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Halloween 2026: Breaking down top athlete costumes from across the sports world",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRVdTMzhkc3U2SWZhX291OWxhYmNxVmhvaWVlWmxJdHVjMHFUenkxY1JMRGl2d1A0SWtSRzdVTXczby11MGlkZDZVa0JVQTc4RlRFRVlsY2JSUlowdHBUanE0QzRiVWd3SjVUeE90akRFRmtWY3lsVkRram1jSVVmUw?oc=5"
    }
   ],
   "tvcnews.tv": [
@@ -51941,6 +53708,15 @@
     ],
     "title": "Gold Slips Below $4,000 as US Inflation Data Strengthens Fed Rate Hike Expectations",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9sUWJNTWdJWVZLMklEamZpRm5WYkdBRjlYOWlzMjlpTHdpQzUwbWhfLU8wSjcyU2YzazhTV0VJNUVYMzlkMTlaa3c1b3V6Z3dDN184MTk4Rm1hZVV4djQ5VllqYWNvOTFWWktmcVFuY25abnNTMWRtT0o0SQ?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Yahoo Finance UK",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "ECB says has tools to calm markets as French debt worries rise",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTEo4ZkpvRkgyenFzVVh6MTI0dzE3SlpSRHVRekhUU29PR0ZCTjVCck1FR0Nhbi1XaTNqcEtsSzAxNldubExDRDdGdldQSzZ6eFgzV0tZVlNWNzJoN0pXNzJEd2oteUx4bFcyNXJXREx3NXY2TjRDcXVnTXRfUHZsX3c1UE1nQQ?oc=5"
    }
   ],
   "uk.investing.com": [
@@ -51992,6 +53768,15 @@
     ],
     "title": "'There is no limit' Rangers star man's mentor predicts transfer blockbuster",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhU053aWhjZVBzNU4wODJTaTNicVpzQjdaN1FRSkhrUzFmRFZJQmd6bUFueS16elhsV2xMcFpfZlphTTBOWXluSU5GbDFqTGlkWmRrLWJZMzRxdDNsa0hyWmZEMVhWZi1GRzFkbDZKb2VQN0JCX0MtNnRYMWk1YW8?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "Yahoo",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Hull City summer signing highlights importance of Ipswich Town clash and life in Premier League",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2l6SnBSTUQ3bEk0c25IQk44VUliRzFXMF9kUkJybENRVnM2OHNGMDVWdG9ZSWpNY1pROXprMlpGa0x2MnBOWWg3bkRkcEp1dkZjT3pEcFhYbXJNT0VEWUtQQlZpN3FTOTR0YzViUjVmWnJFbi1lVlRFTDJySEFLR2VIeGpRSGJPSVVZ?oc=5"
    }
   ],
   "ukragroconsult.com": [
@@ -52271,6 +54056,24 @@
     ],
     "title": "UNNES Expands Sustainable Agricultural Land Management Education Through Community Outreach and Farmer Training \u2013 Sustainable Development Goals Universitas Negeri Semarang",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdnBpcC1aWDk0NVI0TEU1cVR4Q3Y5VWhJVS1FR2ZPNWNxSW5MYm1ycnZFNHpwNy1pQUNzN2l4eGdVQmMtZzBlVDBBRjlubXZDZnRMa09HeVE1VkZrRXp5UTFHWnUyb29EZklKczJtNkxaLTJfWnZfNlJIbzVwYXBHXzNHcGV6Z0RCcXI3Z3poemdiUUlUdlUyZGNTYWhzZm9wQmxPdzVONUF6dDh2azBJSDhUbFN0NGE3UnQ4WVpTWmhqVWNFNHdEYXZMUnEzajlDODJB?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "unnes.ac.id",
+    "sections": [
+     "finance.agendas"
+    ],
+    "title": "UNNES Strengthens Food Security through the Provision of Nutritious, Affordable, and Sustainable Food to Support SDG 2 \u2013 Sustainable Development Goals Universitas Negeri Semarang",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZFZ1VDVvNng3TlJYdmM3QWdNWmhCaWxseTdiVUQwMHdSY3poMm1SVGlFbW1XU3VvQU9pTkM2Unl2WXJIaVpscnhUa2oyTm0yOEQycWUxZ19mZGRaYkx4WmtUdEhRTkFnaHlWLUYwWFZpd3RjS2plTEl4eEFRbUVlZGMzUUM5c3dtUW45Ynd6Sy1zLVl0S211NlpTeW5jS2VEXzZTQThvRzRRbFRVYng3U2FEaEVYMVRLUDVvRHpZN0dWbkd0UnBzS0tuRHZLamVtaUMtekJ1M0sxQQ?oc=5"
+   },
+   {
+    "date": "2026-10-31",
+    "outlet": "unnes.ac.id",
+    "sections": [
+     "finance.agendas"
+    ],
+    "title": "UNNES Strengthens Local Food Systems through Local Procurement to Support SDG 2",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHZqaEhqaHFsN2JvS2xfRlNDTDczUHo2dHR5OUxqd0tkbHFjU1g4Z1lGRnVJcnBlYjc5cG1TNDFGaHk4c1JPVnRfTmtRb3NfSXNMQ2RablhDVEg2bGxwNm5FdnYyR2Y4aGJQckQzQTJ1bEFVTkI2Z2QwYlhRS3JUT0EyVWRjbTJlSkxYV1pINkprOGFGVldxLWxEc0k3RDJScjJvMkRCVlo?oc=5"
    }
   ],
   "upi.com": [
@@ -53831,6 +55634,7 @@
   "bbc.co.uk": "2026-10-21",
   "bbc.com": "2026-10-20",
   "bizjournals.com": "2026-10-23",
+  "britannica.com": "2026-10-31",
   "cambridge.org": "2026-10-21",
   "caughtoffside.com": "2026-10-30",
   "cbsnews.com": "2026-10-21",
@@ -53854,6 +55658,7 @@
   "france24.com": "2026-10-24",
   "fxempire.com": "2026-10-30",
   "fxstreet.com": "2026-10-23",
+  "gov.il": "2026-10-31",
   "govinfo.gov": "2026-10-22",
   "imdb.com": "2026-10-31",
   "indianewengland.com": "2026-10-24",
@@ -53863,6 +55668,7 @@
   "investing.com": "2026-10-24",
   "jobs.a16z.com": "2026-10-23",
   "jpost.com": "2026-10-24",
+  "justice.gov": "2026-10-31",
   "kimi.ai": "2026-10-26",
   "konsulteer.com": "2026-10-24",
   "kucoin.com": "2026-10-23",
@@ -53879,6 +55685,7 @@
   "news.un.org": "2026-10-21",
   "news.ycombinator.com": "2026-10-20",
   "newstatesman.com": "2026-10-23",
+  "newyorker.com": "2026-10-31",
   "npr.org": "2026-10-21",
   "nvidia.com": "2026-10-23",
   "ofac.treasury.gov": "2026-10-23",
@@ -53886,11 +55693,13 @@
   "pbs.org": "2026-10-21",
   "penguinrandomhouse.com": "2026-10-21",
   "php.net": "2026-10-24",
+  "politico.com": "2026-10-31",
   "prnewswire.com": "2026-10-23",
   "pytorch.org": "2026-10-22",
   "qcintel.com": "2026-10-24",
   "qz.com": "2026-10-24",
   "ramp.com": "2026-10-20",
+  "realclearpolling.com": "2026-10-31",
   "research.meta.ai": "2026-10-20",
   "rtl.fr": "2026-10-21",
   "scroll.in": "2026-10-23",

@@ -1,20 +1,5 @@
 # Written by the app. Promote a source by copying it into feeds.yaml; mute it via ignore_sources.
 sources:
-- id: disc_ft_com
-  type: rss
-  url: https://www.ft.com/opinion?format=rss
-  name: ft.com
-  sections:
-  - politics.world
-  kind: discovered
-  domain: ft.com
-  reason: cited by Newcomer, Phillips O'Brien, Platformer
-  added: '2026-10-20'
-  last_qualified: '2026-10-30'
-  samples:
-  - Data centres need protection from drone warfare
-  - Zelenskyy, Europe and the end of Trump whispering
-  - US rate rises are being amplified in global markets
 - id: disc_euronews_com
   type: rss
   url: https://www.euronews.com/rss
@@ -55,7 +40,7 @@ sources:
   domain: businessinsider.com
   reason: cited by Stratechery, The National Interest, Tomasz Tunguz
   added: '2026-10-22'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-31'
   samples:
   - 'Peter Thiel breaks with Trump over Iran war: ''We should not have done it'''
   - Meta CEO Mark Zuckerberg says Muse and Reality Labs are highly unprofitable — for now
@@ -85,7 +70,7 @@ sources:
   domain: sundayguardianlive.com
   reason: 7 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-31'
   samples:
   - 'LIVE | Silver Price Today [22 October 2026]: MCX Silver Drops at ₹2.29 Lakh/kg Amid Trump-Iran War, Fed Policy Uncertainty;
     Check Latest City-Wise Silver Rates in Delhi, Mumbai, Chennai, Kerala & More'
@@ -166,21 +151,6 @@ sources:
   - An $8 billion Treasury break helped bring Meta’s tax rate to 2%. Now it has a week to answer senators about data center
     tax credits
   - Anthropic joins Meta and OpenAI’s personal AI assistant race with Claude Duet
-- id: disc_theaiinsider_tech
-  type: rss
-  url: https://theaiinsider.tech/feed/
-  name: AI Insider
-  sections:
-  - ai.funding
-  kind: discovered
-  domain: theaiinsider.tech
-  reason: 7 matching items via search
-  added: '2026-10-24'
-  last_qualified: '2026-10-31'
-  samples:
-  - Spotify Bets on AI Agents as a Growth Driver After Strong Third Quarter
-  - Nirva Announces $25M in Funding for AI Pendant That Listens Only to Its Wearer
-  - Blacksmith Reaches $1B Valuation With Sequoia-Led Series C as AI Code Volumes Surge
 - id: disc_lemonde_fr
   type: rss
   url: https://www.lemonde.fr/en/rss/une.xml
@@ -191,7 +161,7 @@ sources:
   domain: lemonde.fr
   reason: cited by Commodity Context, FDD
   added: '2026-10-24'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-31'
   samples:
   - Russia and Ukraine agree to truce in Oleshky
   - Trump lifts some Canada tariffs ahead of midterms
@@ -251,7 +221,7 @@ sources:
   domain: theverge.com
   reason: cited by Newcomer, Stratechery
   added: '2026-10-24'
-  last_qualified: '2026-10-29'
+  last_qualified: '2026-10-31'
   samples:
   - OpenAI now trains its frontier AI models with no internet access
   - Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
@@ -300,3 +270,19 @@ sources:
   - Bijnis rebrands as Zorit, raises Rs 27 crore in funding for 60-minute B2B deliveries
   - Underwater robotics startup Coratia raises Rs 18 crore as it builds robots for the Indian Navy
   - Hyderabad physical AI startup Tensrai raises Rs 3.4 crore to make existing machines run on their own
+- id: disc_kff_org
+  type: rss
+  url: https://www.kff.org/feed/
+  name: KFF
+  sections:
+  - politics.world
+  kind: discovered
+  domain: kff.org
+  reason: cited by Employ America, The Atlantic, UnHerd
+  added: '2026-10-31'
+  last_qualified: '2026-10-31'
+  samples:
+  - 'Implementation of Immigrant Eligibility Restrictions for ACA Marketplace Subsidies Under the 2025 Reconciliation Law:
+    Issues to Consider'
+  - 'Midterm Election Update: Immigrant Health Policy'
+  - Overview of President Trump’s Executive Actions Impacting LGBTQ+ Health
