@@ -78,7 +78,7 @@ settings:
     parallel: 3
     cache_days: 4
     timeout_seconds: 300
-    per_section: { news: 20, analysis: 10, papers: 10 }
+    per_section: { news: 30, analysis: 12, papers: 12 }   # how deep to rate; unrated stories aren't shown
     profile: |
       One reader, based in India, who works in AI (focused on LLMs and recommender systems) and wants to
       stay well informed without wasting time. They care about:

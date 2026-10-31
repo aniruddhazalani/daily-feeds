@@ -92,7 +92,8 @@
       const panel = panels.find(p => p.dataset.panel === t.dataset.tab);
       const count = t.querySelector(".count");
       if (!panel || !count || t.dataset.tab === "new-sources") return;
-      const all = panel.querySelectorAll(".item[data-url]");
+      // Hidden low-impact stories don't count toward a tab's unread number.
+      const all = [...panel.querySelectorAll(".item[data-url]")].filter(it => !it.closest(".low"));
       const unread = [...all].filter(it => !it.classList.contains("is-read")).length;
       count.textContent = unread;
       count.title = `${unread} unread of ${all.length}`;
@@ -124,7 +125,7 @@
   const firstVisit = Object.keys(known).length === 0;
   items.forEach(it => {
     markItem(it);
-    if (!firstVisit && !known[it.dataset.url] && !it.classList.contains("is-read")) {
+    if (!firstVisit && !known[it.dataset.url] && !it.classList.contains("is-read") && !it.closest(".low")) {
       it.classList.add("is-new");
       it.querySelector(".meta")?.insertAdjacentHTML("afterbegin", '<span class="badge b-fresh">New</span>');
     }

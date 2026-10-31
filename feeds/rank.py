@@ -160,29 +160,37 @@ def candidates(cfg: Config, feed: Feed, clusters: list[Cluster], now: datetime) 
 
 
 def finalize(cfg: Config, feed: Feed, cands: dict[str, dict[str, list[Scored]]],
-             continuing: Optional[dict] = None, ratings: Optional[dict] = None) -> dict[str, dict[str, list[Scored]]]:
+             continuing: Optional[dict] = None, ratings: Optional[dict] = None,
+             unrated_ok: Optional[set] = None) -> dict[str, dict[str, list[Scored]]]:
     """Apply impact ratings and storyline detection, then balance and cut each list to size.
 
-    ratings:    {story key: {"impact": 1-5, ...}}  (see impact.py). Low-impact stories are dropped and
-                the rest re-ordered by impact first, rule score second.
+    ratings:    {story key: {"impact": 1-5, ...}}  (see impact.py). In a rated feed, low-impact stories
+                move to a collapsed "low" list and the rest are re-ordered by impact first, rule score
+                second. Unrated stories are dropped (they ranked below everything that was rated),
+                except those in `unrated_ok`: stories whose rating batch failed, which fall back to rules.
     continuing: {id(cluster): {"day": N, "major": bool, ...}}. Continuing headlines without a major
                 development move to a compact "developing" list instead of taking a slot.
     """
     icfg = cfg.settings.get("impact") or {}
     hide_below = int(icfg.get("hide_below", 3))
     weight = float(icfg.get("weight", 3.0))
+    rated_feed = bool(ratings) and feed.id in (icfg.get("feeds") or [])
     out: dict[str, dict[str, list[Scored]]] = {}
     for sec in feed.sections:
         limits = {"news": sec.max_items, "analysis": sec.max_analysis, "papers": sec.max_papers}
-        out[sec.id] = {"developing": []}
+        out[sec.id] = {"developing": [], "low": []}
         for b, lst in cands[sec.id].items():
             lst = list(lst)
-            if ratings:
+            if rated_feed:
                 kept = []
                 for s in lst:
-                    r = ratings.get(story_key(s))
+                    k = story_key(s)
+                    r = ratings.get(k)
                     s.rating = r
+                    if r is None and k not in (unrated_ok or set()):
+                        continue
                     if r and r["impact"] < hide_below:
+                        out[sec.id]["low"].append(s)
                         continue
                     kept.append(s)
                 lst = sorted(kept, key=lambda s: s.score + (weight * (s.rating["impact"] - 3) if s.rating else 0),
@@ -201,6 +209,9 @@ def finalize(cfg: Config, feed: Feed, cands: dict[str, dict[str, list[Scored]]],
             if feed.balance and b != "papers":
                 lst = balance(cfg, lst, limits[b])
             out[sec.id][b] = lst[:limits[b]]
+        low = out[sec.id]["low"]
+        low.sort(key=lambda s: (s.rating["impact"], s.score), reverse=True)
+        del low[15:]
     return out
 
 

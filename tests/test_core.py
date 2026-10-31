@@ -230,6 +230,28 @@ print(json.dumps({"type": "result", "is_error": False, "result": "", "structured
         self.assertEqual(impact.rate(self.cfg, self.stories(), {}, save=False), {})
 
 
+class RatedRanking(unittest.TestCase):
+    def test_unrated_filler_dropped_low_impact_collapsed_failed_batches_kept(self):
+        from feeds.rank import finalize, story_key
+        cfg = config.load(with_discovered=False)
+        feed = next(f for f in cfg.feeds if f.id == "ai")
+        sec = feed.sections[0]
+
+        def story(title, sc):
+            it = item(title, url=f"https://x.com/{abs(hash(title))}")
+            return Scored(cluster=Cluster([it]), section_key=sec.key, score=sc, primary=it)
+
+        high, low, filler, failed = (story("Frontier lab releases new model", 9), story("Minor seed round closes", 8),
+                                     story("Unrated filler story here", 7), story("Story from a failed batch", 6))
+        cands = {s.id: {"news": [], "analysis": [], "papers": []} for s in feed.sections}
+        cands[sec.id]["news"] = [high, low, filler, failed]
+        ratings = {story_key(high): {"impact": 5, "label": "news", "why": "x"},
+                   story_key(low): {"impact": 1, "label": "minor", "why": "y"}}
+        out = finalize(cfg, feed, cands, None, ratings, unrated_ok={story_key(failed)})[sec.id]
+        self.assertEqual([s.primary.title for s in out["news"]], ["Frontier lab releases new model", "Story from a failed batch"])
+        self.assertEqual([s.primary.title for s in out["low"]], ["Minor seed round closes"])
+
+
 class RulesAndStorylines(unittest.TestCase):
     def setUp(self):
         self.cfg = config.load(with_discovered=False)

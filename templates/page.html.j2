@@ -122,6 +122,17 @@
       {{ item_list(s.analysis, f.analysis_label or 'Analysis & blogs') }}
       {{ item_list(s.papers, 'Papers') }}
     {% endif %}
+    {% if s.low %}
+    <details class="developing low">
+      <summary>Low impact · {{ s.low | length }} hidden</summary>
+      <ul>
+        {% for it in s.low %}
+        <li class="item" data-url="{{ it.url }}"><a class="title" href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>
+          <span class="rel-meta"><span class="impact i{{ it.impact }}">{{ it.impact }}</span> {{ it.outlet }} · {{ it.why }}</span></li>
+        {% endfor %}
+      </ul>
+    </details>
+    {% endif %}
     {% if s.developing %}
     <details class="developing">
       <summary>Developing · {{ s.developing | length }} continuing {{ 'story' if s.developing | length == 1 else 'stories' }}</summary>

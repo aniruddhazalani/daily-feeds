@@ -155,18 +155,23 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
 
     cands = {feed.id: rank.candidates(cfg, feed, clusters, now) for feed in cfg.feeds}
     continuing = continuing_stories(cfg, clusters, today)
-    ratings = impact.rate(cfg, stories_to_rate(cfg, cands), continuing, save=save) if impact.enabled(cfg) else {}
+    to_rate = stories_to_rate(cfg, cands)
+    ratings = impact.rate(cfg, to_rate, continuing, save=save) if impact.enabled(cfg) else {}
+    # Stories that were sent for rating but came back unrated (a failed batch) fall back to rules.
+    unrated_ok = {rank.story_key(s) for s, _ in to_rate} - set(ratings)
 
     feeds_out = []
     shown_sources: set[str] = set()
     top_candidates: list[tuple[Scored, str, str]] = []  # (story, "Feed › Section", anchor)
     for feed in cfg.feeds:
-        ranked = rank.finalize(cfg, feed, cands[feed.id], continuing, ratings)
+        ranked = rank.finalize(cfg, feed, cands[feed.id], continuing, ratings, unrated_ok)
         sections = []
         for sec in feed.sections:
             buckets = ranked[sec.id]
             top_candidates += [(s, f"{feed.title} › {sec.title}", f"{feed.id}-{sec.id}") for s in buckets["news"]]
-            for lst in buckets.values():
+            for b, lst in buckets.items():
+                if b == "low":  # collapsed and unread by default: don't mark as already shown
+                    continue
                 for s in lst:
                     shown_sources |= s.cluster.source_ids
                     for it in s.cluster.items:
