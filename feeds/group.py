@@ -142,6 +142,52 @@ def _group(cls: list[Cluster], similarity: float, min_shared: int, max_hours: fl
     return [Cluster(items=[it for m in g["members"] for it in cls[m].items]) for g in groups if g["members"]]
 
 
+def match_previous(clusters: list[Cluster], previous: list[dict], similarity: float = 0.35,
+                   min_shared: int = 3) -> dict[int, dict]:
+    """Find today's stories that continue a storyline shown on an earlier day.
+
+    `previous` holds one dict per story shown before: {"text", "title", "date", "day", "outlets"}.
+    Returns {id(cluster): best matching previous story}. Same word-rarity weighting as grouping,
+    with a stricter bar (3 shared distinctive words) because a false "continuing" label hides news.
+    """
+    if not clusters or not previous:
+        return {}
+    today_tfs = [_doc(c) for c in clusters]
+    prev_tfs = [Counter(tokens(p["text"])) for p in previous]
+    df: Counter = Counter()
+    for tf in today_tfs + prev_tfs:
+        df.update(tf.keys())
+    n = len(today_tfs) + len(prev_tfs)
+    idf = {t: math.log((n + 1) / (d + 1)) + 1 for t, d in df.items()}
+    distinctive_df = max(3, int(0.03 * n))
+
+    def vec(tf: Counter) -> dict[str, float]:
+        return _norm({t: (1 + math.log(c)) * idf[t] for t, c in tf.items()})
+
+    prev_vecs = [vec(tf) for tf in prev_tfs]
+    postings: dict[str, list[int]] = defaultdict(list)
+    for j, tf in enumerate(prev_tfs):
+        for t in tf:
+            if df[t] <= distinctive_df:
+                postings[t].append(j)
+
+    out: dict[int, dict] = {}
+    for cl, tf in zip(clusters, today_tfs):
+        shared = Counter(j for t in tf if df[t] <= distinctive_df for j in postings.get(t, ()))
+        v = None
+        best, best_sim = None, similarity
+        for j, k in shared.items():
+            if k < min_shared:
+                continue
+            v = v or vec(tf)
+            sim = _dot(v, prev_vecs[j])
+            if sim >= best_sim:
+                best, best_sim = j, sim
+        if best is not None:
+            out[id(cl)] = previous[best]
+    return out
+
+
 def _merge_groups(groups: list[dict], distinct: list[set], similarity: float, min_shared: int,
                   span: timedelta, max_size: int) -> None:
     """Second pass: merge groups that ended up as two halves of one story.

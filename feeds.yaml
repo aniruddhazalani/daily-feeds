@@ -35,18 +35,65 @@ settings:
   junk_titles:
     - '^\s*[-–|]'
     - '\bArchives\b'
-    - '^[^:]{0,80}\b(Engineer|Scientist|Researcher|Designer|Manager|Intern|Recruiter|Director|Specialist|Staff)\b[^:]{0,60}\bat [A-Z]'
+    - '^[^:]{0,80}\b(Engineer|Scientist|Researcher|Designer|Manager|Intern|Recruiter|Director|Specialist|Staff|Lead|Head|Partner|Associate|Analyst|Executive)\b[^:]{0,60}\bat [A-Z]'
     - '\((R|REQ|JR)\d{3,}\)'
     - '^(Jobs|Careers|Home|Page \d+)\b'
     - '\bPage \d+ of \d+'
     - '- (Full Commentary|Live Stream|Live Score|Match News|Scorecard|Live Cricket Score)\s*$'
     - '\bOdds\b.*\bBookmakers\b'
     - '\bPredictions?,? Odds\b|\bBest Bets\b|\bBetting Tips\b'
+    - '^MEA \|'                    # MEA site navigation pages
     - '%[0-9A-Fa-f]{2}%[0-9A-Fa-f]{2}'   # URL-encoded titles (feeds that break on non-Latin text)
   dedupe_threshold: 88
   # Group articles about the same story (even with different headlines) under one entry.
   # similarity: 0–1, higher = stricter. 0.4 was tuned on real days: ~95% of groups correct.
   story_grouping: { enabled: true, similarity: 0.4, min_shared: 2, max_hours_apart: 48 }
+  # Outlets trusted to *report* news even when they reach us through a Google News search.
+  # Feeds with `vetted_only: true` keep a search result only if its outlet is vetted
+  # (this list, or any trusted source in this file) or a vetted outlet covers the same story.
+  vetted_domains: [reuters.com, apnews.com, bloomberg.com, ft.com, wsj.com, nytimes.com, washingtonpost.com,
+                   economist.com, cnbc.com, axios.com, theverge.com, arstechnica.com, technologyreview.com, wired.com,
+                   theinformation.com, techcrunch.com, venturebeat.com, semafor.com, fortune.com, businessinsider.com,
+                   forbes.com, geekwire.com, siliconangle.com, theregister.com, zdnet.com, engadget.com, tomshardware.com,
+                   nature.com, science.org, ieee.org, spectrum.ieee.org, bbc.co.uk, bbc.com, theguardian.com,
+                   economictimes.indiatimes.com, livemint.com, business-standard.com, moneycontrol.com, inc42.com,
+                   yourstory.com, entrackr.com, the-ken.com, restofworld.org, sifted.eu, techinasia.com, scmp.com,
+                   nikkei.com, asia.nikkei.com, digitimes.com, adexchanger.com, digiday.com, therobotreport.com]
+  # Continuing storylines: a headline that continues a story shown in the last few days moves
+  # to a compact "Developing" list, unless its coverage jumped (2x, or +5 outlets).
+  developing: { enabled: true, lookback_days: 3, similarity: 0.4, min_shared: 3 }
+
+  # Impact rating by Claude (Claude Code headless, using your Claude subscription token in
+  # GitHub Actions: secret CLAUDE_CODE_OAUTH_TOKEN). Stories rated below hide_below are hidden;
+  # the rest are ordered by impact first. Without a working login the page uses rules only.
+  impact:
+    enabled: true
+    feeds: [politics, finance, ai]
+    model: opus
+    effort: low
+    hide_below: 3
+    weight: 3.0            # score points per impact level above/below 3
+    batch_size: 40
+    parallel: 3
+    cache_days: 4
+    timeout_seconds: 300
+    per_section: { news: 20, analysis: 10, papers: 10 }
+    profile: |
+      One reader, based in India, who works in AI (focused on LLMs and recommender systems) and wants to
+      stay well informed without wasting time. They care about:
+      - World politics and geopolitics: wars, diplomacy, alliances, elections that shift global power.
+      - US policy that affects immigration, especially H-1B, green cards, OPT and Indian workers.
+      - India in depth: decisions that shape the country's future: international meetings, summits,
+        bilateral deals, defence and trade agreements, Cabinet decisions, major legislation, constitutional
+        cases, high-level national meetings and reforms. Party rhetoric and election punditry are low value.
+      - Macro finance: central banks and interest rates, government fiscal policy, oil supply and the
+        effect of wars on oil (financially), de-dollarization and BRICS payment rails, US debt servicing,
+        Project 2025, UN Agenda 2030.
+      - AI: which startups are hot and who raised money, what VCs think, AI revenue and business models,
+        frontier lab research and releases, LLMs, recommender systems, AI in ads and social media,
+        robotics, and major conferences (NeurIPS, ICML, ICLR, CVPR, ACL, KDD, RecSys, SIGIR).
+      They prefer substance and analysis over hype, and primary sources over rewrites.
+
   # Top stories tab: the most widely covered stories across all feeds.
   top_stories: { count: 15, min_outlets: 3 }
   # Refresh button on the page. The workflow also refuses manual builds within min_minutes of the last one.
@@ -64,6 +111,14 @@ settings:
     retire_days: 30
     new_badge_days: 7
 
+# Words that mark political point-scoring rather than substance. Sections with
+# `penalize: *rhetoric` subtract these weights (headline x1, snippet x0.5).
+rhetoric_penalty: &rhetoric
+  { slams: 3, slam: 3, jibe: 3, jibes: 3, "takes dig": 3, "takes a dig": 3, "hits out": 3, "hits back": 3,
+    "war of words": 4, "lashes out": 3, mocks: 3, taunts: 3, "takes aim": 2, effigy: 4, remark: 2, remarks: 2,
+    slugfest: 4, "round 2": 2, counters: 2, fumes: 3, "calls out": 2, defamatory: 2, FIR: 2, booked: 2,
+    roadshow: 2, "public impeachment": 2 }
+
 ignore_sources:          # muted 2026-10-24: noise picked up by discovery
   - federalregister.gov  # routine agency notices
   - tovima.com           # Greek-language news
@@ -72,6 +127,23 @@ ignore_sources:          # muted 2026-10-24: noise picked up by discovery
   - manilatimes.net
   - footballtransfertavern.com  # muted 2026-10-25: fan transfer-rumour blog
   - en.wowtale.net             # muted 2026-10-25: startup press-release reposts
+  # muted 2026-10-31: stock-tip, SEO and press-release-repost sites that crowded the AI feed
+  - simplywall.st
+  - tipranks.com
+  - kucoin.com
+  - analyticsinsight.net
+  - theaiinsider.tech
+  - xenospectrum.com
+  - ad-hoc-news.de
+  - equiti.com
+  - pluang.com
+  - menafn.com
+  - kalkinemedia.com
+  - aimagazine.com
+  - techbullion.com
+  - openpr.com
+  - einpresswire.com
+  - opentools.ai
 
 # Political lean of outlets, by domain (subdomains included). Used to label headlines and,
 # in feeds with `balance: true`, to keep left and right in balance. Ratings follow
@@ -83,19 +155,21 @@ leans:
          motherjones.com, newyorker.com, independent.co.uk, democracynow.org, jacobin.com, opendemocracy.net,
          foreignpolicy.com, brookings.edu, lawfaremedia.org, migrationpolicy.org, americanimmigrationcouncil.org,
          immigrationimpact.com, thehindu.com, scroll.in, thewire.in, ndtv.com, thenewsminute.com, thequint.com,
-         newslaundry.com, epw.in, deccanherald.com, telegraphindia.com]
+         newslaundry.com, epw.in, deccanherald.com, telegraphindia.com, propublica.org]
   center: [reuters.com, apnews.com, bbc.co.uk, bbc.com, bbci.co.uk, thehill.com, axios.com, bloomberg.com, ft.com,
            economist.com, wsj.com, cnbc.com, newsnationnow.com, csis.org, chathamhouse.org, cfr.org, foreignaffairs.com,
            warontherocks.com, ecfr.eu, thediplomat.com, lowyinstitute.org, carnegieendowment.org, understandingwar.org,
            geopoliticalfutures.com, chinatalk.media, indianexpress.com, theprint.in, hindustantimes.com, livemint.com,
            indiatimes.com, indiatoday.in, business-standard.com, moneycontrol.com, orfonline.org, pib.gov.in,
-           uscis.gov, dhs.gov, state.gov, fragomen.com, murthy.com, boundless.com, jdsupra.com]
+           uscis.gov, dhs.gov, state.gov, fragomen.com, murthy.com, boundless.com, jdsupra.com, mea.gov.in,
+           pmindia.gov.in, niti.gov.in, prsindia.org, gatewayhouse.in, idsa.in, takshashila.org.in]
   right: [foxnews.com, foxbusiness.com, nypost.com, washingtonexaminer.com, washingtontimes.com, nationalreview.com,
           thedispatch.com, thefp.com, dailywire.com, dailycaller.com, breitbart.com, newsmax.com, freebeacon.com,
           theamericanconservative.com, city-journal.org, realclearpolitics.com, realclearworld.com, telegraph.co.uk,
           spectator.co.uk, dailymail.co.uk, thetimes.co.uk, thetimes.com, unherd.com, nationalinterest.org, fdd.org,
           hudson.org, heritage.org, aei.org, hoover.org, cato.org, cis.org, fairus.org, swarajyamag.com, opindia.com,
-          republicworld.com, news18.com, firstpost.com, dailypioneer.com, wionews.com, zeenews.india.com, organiser.org]
+          republicworld.com, news18.com, firstpost.com, dailypioneer.com, wionews.com, zeenews.india.com, organiser.org,
+          openthemagazine.com]
 
 # ---------------------------------------------------------------------------
 sources:
@@ -171,6 +245,37 @@ sources:
   epw:              { type: gnews, kind: blog, name: EPW, query: "site:epw.in" }
   the_wire:         { type: gnews, kind: news, name: The Wire, query: "site:thewire.in politics" }
   swarajya:         { type: gnews, kind: news, name: Swarajya, query: "site:swarajyamag.com politics" }
+
+  # India: official sources and in-depth analysis (added 2026-10-31)
+  mea:              { type: gnews, kind: official, name: Ministry of External Affairs, query: "site:mea.gov.in", topical: true }
+  pmo:              { type: gnews, kind: official, name: PMO India, query: "site:pmindia.gov.in" }
+  pib_cabinet:      { type: gnews, kind: official, name: PIB, query: 'site:pib.gov.in "Cabinet approves"', topical: true }
+  prs:              { type: gnews, kind: blog, name: PRS Legislative Research, query: "site:prsindia.org", topical: true }
+  niti:             { type: gnews, kind: official, name: NITI Aayog, query: "site:niti.gov.in" }
+  gateway_house:    { type: rss, kind: blog, name: Gateway House, url: "https://www.gatewayhouse.in/feed/", topical: true }
+  idsa:             { type: gnews, kind: blog, name: MP-IDSA, query: "site:idsa.in", topical: true }
+  takshashila:      { type: gnews, kind: blog, name: Takshashila Institution, query: "site:takshashila.org.in" }
+  ie_explained:     { type: rss, kind: blog, name: Indian Express Explained, url: "https://indianexpress.com/section/explained/feed/", fallback: "site:indianexpress.com/article/explained" }
+  ie_columns:       { type: rss, kind: blog, name: Indian Express Opinion, url: "https://indianexpress.com/section/opinion/columns/feed/", fallback: "site:indianexpress.com/article/opinion" }
+  hindu_lead:       { type: rss, kind: blog, name: The Hindu Lead, url: "https://www.thehindu.com/opinion/lead/feeder/default.rss" }
+  theprint_opinion: { type: rss, kind: blog, name: ThePrint Opinion, url: "https://theprint.in/category/opinion/feed/" }
+  mint_opinion:     { type: rss, kind: blog, name: Mint Opinion, url: "https://www.livemint.com/rss/opinion" }
+  frontline:        { type: rss, kind: blog, name: Frontline, url: "https://frontline.thehindu.com/feeder/default.rss" }
+  open_mag:         { type: gnews, kind: blog, name: Open, query: "site:openthemagazine.com" }
+  diplomat_sa:      { type: rss, kind: news, name: The Diplomat, url: "https://thediplomat.com/regions/south-asia/feed/" }
+  gn_india_diplomacy: { type: gnews, kind: search, query: '(Jaishankar OR "PM Modi" OR "Prime Minister Modi" OR "India and") (bilateral OR summit OR "state visit" OR talks OR MoU OR "joint statement" OR "strategic partnership")' }
+  gn_india_governance: { type: gnews, kind: search, query: '("Union Cabinet" OR "Cabinet approves" OR "NITI Aayog" OR "Constitution Bench" OR "Lok Sabha passes" OR "Rajya Sabha passes" OR "bill passed") India' }
+
+  # World: long-form and investigative (added 2026-10-31)
+  atlantic_intl:    { type: rss, kind: blog, name: The Atlantic, url: "https://www.theatlantic.com/feed/channel/international/", paywall: true }
+  atlantic_politics: { type: rss, kind: blog, name: The Atlantic, url: "https://www.theatlantic.com/feed/channel/politics/", paywall: true }
+  propublica:       { type: rss, kind: blog, name: ProPublica, url: "https://feeds.propublica.org/propublica/main" }
+  economist_intl:   { type: rss, kind: blog, name: The Economist, url: "https://www.economist.com/international/rss.xml", paywall: true }
+  economist_briefing: { type: rss, kind: blog, name: The Economist, url: "https://www.economist.com/briefing/rss.xml", paywall: true }
+  reuters_investigates: { type: gnews, kind: blog, name: Reuters Investigates, query: "site:reuters.com/investigates" }
+  ft_bigread:       { type: gnews, kind: blog, name: FT Big Read, query: '"The Big Read" site:ft.com', paywall: true }
+  bloomberg_bigtake: { type: gnews, kind: blog, name: Bloomberg Big Take, query: '"Big Take" site:bloomberg.com', paywall: true }
+  city_journal:     { type: gnews, kind: blog, name: City Journal, query: "site:city-journal.org" }
 
   # India: center and right-leaning outlets (added for balance)
   toi_india:        { type: rss, kind: news, name: Times of India, url: "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms" }
@@ -362,6 +467,7 @@ feeds:
   politics:
     title: Politics
     balance: true     # keep left- and right-leaning outlets even in every section
+    analysis_label: In depth & analysis
     sections:
       world:
         title: World & geopolitics
@@ -369,7 +475,9 @@ feeds:
                   warontherocks, foreign_affairs, foreign_policy, csis, carnegie, brookings, chatham_house,
                   ecfr, lawfare, isw, chinatalk, phillips_obrien, geopolitical_futures,
                   fox_world, wsj_world, telegraph_world, spectator, national_review, the_dispatch, free_press, unherd,
-                  national_interest, fdd, hudson, heritage, aei, hoover, the_hill, axios, wion_world]
+                  national_interest, fdd, hudson, heritage, aei, hoover, the_hill, axios, wion_world,
+                  atlantic_intl, economist_intl, economist_briefing, reuters_investigates, ft_bigread,
+                  bloomberg_bigtake, city_journal]
         include: { war: 2, ceasefire: 3, sanctions: 2, NATO: 3, "Security Council": 3, summit: 2, election: 1,
                    coup: 3, missile: 2, strike: 1, invasion: 3, diplomacy: 2, diplomatic: 2, treaty: 2, Ukraine: 2,
                    Russia: 2, China: 2, Taiwan: 2, Israel: 2, Gaza: 2, Iran: 2, "North Korea": 2, "South China Sea": 3,
@@ -383,7 +491,7 @@ feeds:
         sources: [uscis, gn_visa_bulletin, dhs, mpi, cato_immigration, cis, murthy, fragomen,
                   boundless, gn_h1b, gn_us_immigration, guardian_world, bbc_world,
                   fox_politics, nypost_politics, wash_examiner, heritage, national_review, the_dispatch, free_press,
-                  the_hill, axios]
+                  the_hill, axios, atlantic_politics, propublica, city_journal]
         include: { immigration: 3, immigrant: 2, immigrants: 2, H-1B: 4, H1B: 4, "green card": 4, visa: 2, visas: 2,
                    USCIS: 4, OPT: 3, "STEM OPT": 4, F-1: 3, H-4: 3, L-1: 2, EB-2: 3, EB-3: 3, EB-5: 3, "priority date": 3,
                    "visa bulletin": 4, asylum: 2, deportation: 2, deported: 2, ICE: 2, border: 1, naturalization: 3,
@@ -393,8 +501,49 @@ feeds:
                       deportation, deported, ICE, naturalization, citizenship, "travel ban", "work permit", DACA,
                       refugee, migrants, "international students", border, EAD, "Gold Card"]
 
-      india:
-        title: Indian politics
+      india_foreign:
+        title: India — foreign relations & summits
+        sources: [mea, pmo, gn_india_diplomacy, gateway_house, idsa, carnegie_india, orf, takshashila, diplomat_sa,
+                  hindu_lead, theprint_opinion, ie_columns, ie_explained, economist_briefing, thehindu_national, ie_india,
+                  ht_india, toi_india, india_today, firstpost_india, republic, swarajya, the_wire, scroll, ndtv_india,
+                  wion_world, mint_opinion, open_mag, frontline]
+        include: { bilateral: 4, summit: 4, "joint statement": 5, "state visit": 5, "official visit": 4, Jaishankar: 3,
+                   "External Affairs": 3, MEA: 3, "foreign secretary": 3, MoU: 3, MoUs: 3, agreement: 2,
+                   "strategic partnership": 5, "free trade agreement": 5, FTA: 4, "trade deal": 4, Quad: 4, BRICS: 3,
+                   SCO: 4, G20: 3, ASEAN: 3, "Security Council": 3, "defence cooperation": 4, "defence deal": 4,
+                   "foreign minister": 3, talks: 2, envoy: 2, ambassador: 2, China: 2, Pakistan: 2, Russia: 2, LAC: 4,
+                   diplomatic: 3, diplomacy: 3, "foreign policy": 4, visit: 2, "foreign office consultations": 5,
+                   "2+2": 5, "Indo-Pacific": 4, "India-US": 3, "India-China": 3, "Global South": 3 }
+        require_any: [bilateral, summit, visit, talks, MoU, MoUs, agreement, "joint statement", "foreign minister", Jaishankar,
+                      MEA, "External Affairs", "foreign policy", "foreign secretary", ambassador, envoy, Quad, BRICS, SCO,
+                      G20, ASEAN, "trade deal", FTA, LAC, strategic, diplomatic, diplomacy, "Indo-Pacific",
+                      "defence cooperation", "Global South"]
+        exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket]
+        penalize: *rhetoric
+        min_score: 5
+
+      india_governance:
+        title: India — governance & policy
+        sources: [pib, pib_cabinet, pmo, prs, niti, gn_india_governance, ie_explained, ie_columns, hindu_lead,
+                  theprint_opinion, mint_opinion, frontline, open_mag, takshashila, orf, carnegie_india, economist_briefing,
+                  thehindu_national, ie_india, ht_india, toi_india, india_today, mint_politics, scroll, the_wire, swarajya,
+                  firstpost_india, ndtv_india, republic, opindia]
+        include: { "Cabinet approves": 5, "Union Cabinet": 4, Cabinet: 2, scheme: 2, policy: 3, reform: 3, reforms: 3,
+                   bill: 3, "Lok Sabha": 2, "Rajya Sabha": 2, Parliament: 2, ordinance: 3, "Supreme Court": 3,
+                   "Constitution Bench": 5, "NITI Aayog": 4, budget: 3, GST: 3, census: 4, delimitation: 4,
+                   "One Nation One Election": 5, "Uniform Civil Code": 5, UCC: 4, infrastructure: 2, semiconductor: 3,
+                   "national security": 3, "data protection": 4, regulation: 3, regulator: 3, mission: 2, federalism: 4,
+                   "Centre-state": 4, "Election Commission": 2, amendment: 3, law: 2, ministry: 2, crore: 1,
+                   approves: 2, rollout: 2, "Viksit Bharat": 3, PLI: 3, "Digital India": 3 }
+        require_any: [Cabinet, scheme, policy, reform, reforms, bill, Parliament, "Lok Sabha", "Rajya Sabha", ordinance,
+                      "Supreme Court", "Constitution Bench", NITI, ministry, budget, GST, census, delimitation,
+                      regulation, regulator, mission, Centre, law, amendment, programme, "Election Commission"]
+        exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket, murder, rape, accident, stampede]
+        penalize: *rhetoric
+        min_score: 5
+
+      india_politics:
+        title: India — party politics & elections
         sources: [thehindu_national, ie_political_pulse, ie_india, theprint_politics, scroll, ht_india, ndtv_india,
                   mint_politics, pib, carnegie_india, orf,
                   epw, the_wire, swarajya,
@@ -407,6 +556,9 @@ feeds:
                    "Amit Shah": 3, Kejriwal: 3, Mamata: 3, Kharge: 3, Yogi: 2, delimitation: 3, "One Nation": 2,
                    policy: 1, reform: 1, "foreign policy": 2, "Jaishankar": 2 }
         exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket]
+        penalize: *rhetoric
+        max_items: 6
+        max_analysis: 4
 
   finance:
     title: Finance
@@ -474,6 +626,19 @@ feeds:
 
   ai:
     title: AI
+    vetted_only: true
+    # Formats that rarely matter for staying informed: tutorials, event and podcast pages,
+    # listicles, customer stories and stock chatter.
+    exclude_titles:
+      - '^(How to|Getting Started|Build|Building|Run|Deploy|Deploying|Scale|Scaling|Accelerate|Accelerating|Optimize|Optimizing|Fine-Tune|Fine-Tuning|Train|Training|Using|Introduction to|Tutorial|Guide to|A Guide)\b'
+      - '\b(Seminar|Webinar|Fireside|Office Hours|Meetup|Live Podcast|Podcast|Episode \d+|A Conversation with|Q&A with)\b'
+      - '^(Robot Talk|HAI & |The Batch:)'
+      - '^(Top|The) \d+ |\b\d+ Best\b'
+      - '^How .{1,60} (uses|used|built|is using|scaled|scales) '
+      - '\b(with OpenAI models|case study|customer story)\b'
+      - 'achieves \d+% ROI|\bROI in a .* pilot\b'
+      - '^(Billing|Pricing|Help|Support|Docs|Documentation) - '
+      - '\b(Stock|Shares) (Forecast|Prediction|to Buy)\b|\bShould You Buy\b|\bPrice Prediction\b'
     sections:
       funding:
         title: Funding & hot startups
@@ -483,6 +648,7 @@ feeds:
                    "led by": 2, venture: 2, IPO: 3, acquisition: 3, acquires: 3, acquired: 2, startup: 2, startups: 2,
                    "funding round": 4, "billion": 1, "million": 1 }
         require_any: [AI, "artificial intelligence", LLM, "machine learning", agents, agentic, model, models, robotics, GPU, chips, inference]
+        money_bonus: true   # bigger rounds rank higher ($100M ≈ +1.5, $1B ≈ +3)
 
       vc_revenue:
         title: VC views & AI revenue

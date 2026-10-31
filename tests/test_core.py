@@ -170,5 +170,95 @@ class StoryGrouping(unittest.TestCase):
         self.assertEqual(len(self.group_of(groups, a.title).items), 1)
 
 
+class Impact(unittest.TestCase):
+    FAKE = """#!/usr/bin/env python3
+import json, re, sys
+rs = [{"id": int(m.group(1)), "impact": 1 if "slams" in l else 5, "label": "rhetoric" if "slams" in l else "news",
+       "why": "test"} for l in sys.stdin.read().splitlines() for m in [re.match(r"\\[(\\d+)\\]", l)] if m]
+print(json.dumps({"type": "result", "is_error": False, "result": "", "structured_output": {"ratings": rs}}))
+"""
+
+    def setUp(self):
+        import os, tempfile
+        from feeds import impact
+        self.cfg = config.load(with_discovered=False)
+        self.cfg.settings["impact"] = {**self.cfg.settings.get("impact", {}), "batch_size": 2, "parallel": 1}
+        self.tmp = tempfile.TemporaryDirectory()
+        self.old_path, self.old_cache = os.environ["PATH"], impact.CACHE_PATH
+        impact.CACHE_PATH = __import__("pathlib").Path(self.tmp.name) / "ratings.json"
+
+    def tearDown(self):
+        import os
+        from feeds import impact
+        os.environ["PATH"], impact.CACHE_PATH = self.old_path, self.old_cache
+        self.tmp.cleanup()
+
+    def fake_cli(self, body):
+        import os, stat
+        path = os.path.join(self.tmp.name, "claude")
+        with open(path, "w") as f:
+            f.write(body)
+        os.chmod(path, os.stat(path).st_mode | stat.S_IEXEC)
+        os.environ["PATH"] = self.tmp.name + os.pathsep + self.old_path
+
+    def stories(self):
+        a = Scored(cluster=Cluster([item("Cabinet approves new semiconductor mission", url="https://a.com/1")]),
+                   section_key="politics.india_governance", score=8, primary=None)
+        b = Scored(cluster=Cluster([item("Leader slams rival over remark at rally", url="https://b.com/2")]),
+                   section_key="politics.india_politics", score=8, primary=None)
+        c = Scored(cluster=Cluster([item("RBI holds repo rate steady at policy meeting", url="https://c.com/3")]),
+                   section_key="finance.central_banks", score=8, primary=None)
+        for s in (a, b, c):
+            s.primary = s.cluster.items[0]
+        return [(a, "India › Governance"), (b, "India › Politics"), (c, "Finance › Central banks")]
+
+    def test_ratings_are_parsed_cached_and_reused(self):
+        from feeds import impact
+        from feeds.rank import story_key
+        self.fake_cli(self.FAKE)
+        stories = self.stories()
+        rated = impact.rate(self.cfg, stories, {}, save=True)
+        self.assertEqual(rated[story_key(stories[0][0])]["impact"], 5)
+        self.assertEqual(rated[story_key(stories[1][0])]["label"], "rhetoric")
+        self.fake_cli("#!/bin/sh\nexit 1\n")  # a broken CLI: cached ratings must still be used
+        again = impact.rate(self.cfg, stories, {}, save=False)
+        self.assertEqual(len(again), 3)
+
+    def test_failing_cli_leaves_stories_unrated(self):
+        from feeds import impact
+        self.fake_cli("#!/bin/sh\necho 'OAuth access token is invalid' >&2\nexit 1\n")
+        self.assertEqual(impact.rate(self.cfg, self.stories(), {}, save=False), {})
+
+
+class RulesAndStorylines(unittest.TestCase):
+    def setUp(self):
+        self.cfg = config.load(with_discovered=False)
+
+    def test_bigger_funding_rounds_score_higher(self):
+        from feeds.rank import money_bonus
+        self.assertGreater(money_bonus("raises $1.5B Series E"), money_bonus("raises $100 million"))
+        self.assertGreater(money_bonus("raises $100 million"), money_bonus("raises $5 million seed"))
+        self.assertEqual(money_bonus("no amount here"), 0)
+
+    def test_rhetoric_ranks_below_substance(self):
+        sec = self.cfg.section("politics.india_politics")
+        rhetoric, _ = score(self.cfg, sec, Cluster([item("Amit Shah slams Congress, takes dig at Rahul Gandhi over remarks",
+                                                         source_id="ie_political_pulse")]), NOW)
+        substance, _ = score(self.cfg, sec, Cluster([item("Election Commission announces Bihar assembly election dates",
+                                                          source_id="ie_political_pulse")]), NOW)
+        self.assertGreater(substance.score, rhetoric.score if rhetoric else 0)
+
+    def test_continuing_storyline_is_recognised(self):
+        from feeds.group import match_previous
+        today = [Cluster([item("Evacuations begin in Oleshky under Russia-Ukraine ceasefire brokered by Melania Trump")])]
+        prev = [{"text": "Ceasefire negotiated by Melania Trump holds in Russia-occupied Oleshky", "title": "x",
+                 "date": "2026-10-28", "day": 1, "outlets": 3},
+                {"text": "Fed holds interest rates steady as inflation cools", "title": "y", "date": "2026-10-28",
+                 "day": 1, "outlets": 3}]
+        filler = [Cluster([item(t, url=f"https://f{i}.com")]) for i, t in enumerate(StoryGrouping.FILLER)]
+        m = match_previous(today + filler, prev, similarity=0.4, min_shared=3)
+        self.assertEqual(m.get(id(today[0]))["title"], "x")
+
+
 if __name__ == "__main__":
     unittest.main()

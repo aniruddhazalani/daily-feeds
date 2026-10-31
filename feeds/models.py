@@ -57,3 +57,5 @@ class Scored:
     primary: Item
     parts: dict = field(default_factory=dict)
     tag: Optional[str] = None
+    rating: Optional[dict] = None       # impact rating from Claude, when available
+    continuing: Optional[dict] = None   # earlier coverage of the same storyline, when found

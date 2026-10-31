@@ -70,6 +70,10 @@ class Section:
     max_analysis: int
     max_papers: int
     window_hours: Optional[float] = None  # longer time window for slow-moving sections
+    penalize: dict[str, float] = field(default_factory=dict)  # point-scoring words that lower a story's score
+    money_bonus: bool = False      # rank funding stories by the size of the round
+    vetted_only: bool = False      # search results count only from vetted outlets (set per feed)
+    exclude_titles: list = field(default_factory=list)  # compiled regexes (set per feed)
 
     @property
     def key(self) -> str:
@@ -83,6 +87,7 @@ class Feed:
     sections: list[Section]
     tags: dict[str, list[str]] = field(default_factory=dict)
     balance: bool = False  # keep left- and right-leaning outlets even in this feed's sections
+    analysis_label: str = "Analysis & blogs"
 
 
 @dataclass
@@ -92,6 +97,15 @@ class Config:
     feeds: list[Feed]
     ignore_sources: set[str]
     leans: dict[str, str] = field(default_factory=dict)  # domain → left | center | right
+    vetted: set = field(default_factory=set)  # outlets trusted to report news (see settings.vetted_domains)
+
+    def is_vetted(self, domain: str) -> bool:
+        d = norm_domain(domain)
+        while d:
+            if d in self.vetted:
+                return True
+            d = d.partition(".")[2] if d.count(".") > 1 else ""
+        return False
 
     def lean(self, domain: str) -> Optional[str]:
         """Political lean of an outlet domain (subdomains inherit), or None if unrated."""
@@ -195,12 +209,17 @@ def load(path: Path = CONFIG_PATH, with_discovered: bool = True) -> Config:
                 max_analysis=int(sraw.get("max_analysis", settings.get("default_max_analysis", 6))),
                 max_papers=int(sraw.get("max_papers", settings.get("default_max_papers", 8))),
                 window_hours=float(sraw["window_hours"]) if sraw.get("window_hours") else None,
+                penalize={str(k): float(v) for k, v in (sraw.get("penalize") or {}).items()},
+                money_bonus=bool(sraw.get("money_bonus", False)),
+                vetted_only=bool(fraw.get("vetted_only", False)),
+                exclude_titles=[re.compile(x) for x in (fraw.get("exclude_titles") or [])],
             ))
         if not sections:
             raise ConfigError(f"feed {fid}: needs at least one section")
         feeds.append(Feed(id=fid, title=fraw.get("title", fid), sections=sections,
                           tags={k: [str(t) for t in v] for k, v in (fraw.get("tags") or {}).items()},
-                          balance=bool(fraw.get("balance", False))))
+                          balance=bool(fraw.get("balance", False)),
+                          analysis_label=fraw.get("analysis_label", "Analysis & blogs")))
 
     leans: dict[str, str] = {}
     for lean, domains in (raw.get("leans") or {}).items():
@@ -226,6 +245,11 @@ def load(path: Path = CONFIG_PATH, with_discovered: bool = True) -> Config:
             for key in d.get("sections", []):
                 if key in keys:
                     cfg.section(key).source_ids.append(sid)
+    cfg.vetted = {norm_domain(d) for d in (settings.get("vetted_domains") or [])}
+    for src in sources.values():
+        if not src.discovered:
+            cfg.vetted |= src.domains
+
     # A source keeps items as long as the longest window of any section that lists it.
     windows = settings.get("windows_hours", {}) or {}
     for src in sources.values():

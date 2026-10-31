@@ -13,7 +13,10 @@
 {% macro item_row(it, hidden) %}
 <li class="item{% if hidden %} more{% endif %}"{% if it.tag %} data-tag="{{ it.tag }}"{% endif %} data-url="{{ it.url }}">
   <a class="title" href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>
+  {% if it.why %}<p class="why"><span class="impact i{{ it.impact }}" title="Impact {{ it.impact }} of 5, rated by Claude">{{ it.impact }}</span>{{ it.why }}</p>{% endif %}
   <div class="meta">
+    {% if it.story_day and it.story_day > 1 %}<span class="badge b-day" title="Continues: {{ it.earlier }}">Day {{ it.story_day }}</span>{% endif %}
+    {% if it.impact_label in ['in-depth', 'opinion'] %}<span class="badge b-{{ it.impact_label }}">{{ 'In depth' if it.impact_label == 'in-depth' else 'Opinion' }}</span>{% endif %}
     {% if it.where %}<a class="where" href="#{{ it.anchor }}">{{ it.where }}</a>{% endif %}
     {% if it.kind | badge %}<span class="badge b-{{ it.kind }}">{{ it.kind | badge }}</span>{% endif %}
     {% if it.tag and it.tag != 'other' %}<span class="badge b-tag">{{ it.tag }}</span>{% endif %}
@@ -107,7 +110,7 @@
   </div>
   {% endif %}
   {% for s in f.sections %}
-  {% set total = s.news|length + s.analysis|length + s.papers|length %}
+  {% set total = s.news|length + s.analysis|length + s.papers|length + (s.developing or [])|length %}
   <details class="section" id="{{ f.id }}-{{ s.id }}" open>
     <summary><h2>{{ s.title }}</h2><span class="count">{{ total }}</span>
       {% if s.leans %}<span class="balance" title="Outlet lean of the stories shown">{% for l in ['left', 'center', 'right'] %}<span class="l-{{ l }}">{{ l | capitalize }} {{ s.leans[l] }}</span>{% endfor %}</span>{% endif %}
@@ -116,8 +119,19 @@
       <p class="empty">Nothing new today.</p>
     {% else %}
       {{ item_list(s.news, '' if not (s.analysis or s.papers) else 'Headlines') }}
-      {{ item_list(s.analysis, 'Analysis & blogs') }}
+      {{ item_list(s.analysis, f.analysis_label or 'Analysis & blogs') }}
       {{ item_list(s.papers, 'Papers') }}
+    {% endif %}
+    {% if s.developing %}
+    <details class="developing">
+      <summary>Developing · {{ s.developing | length }} continuing {{ 'story' if s.developing | length == 1 else 'stories' }}</summary>
+      <ul>
+        {% for it in s.developing %}
+        <li class="item" data-url="{{ it.url }}"><a class="title" href="{{ it.url }}" target="_blank" rel="noopener">{{ it.title }}</a>
+          <span class="rel-meta"><span class="badge b-day">Day {{ it.story_day }}</span> {{ it.outlet }}{% if it.outlets > 1 %} · {{ it.outlets }} outlets{% endif %}{% if it.why %} · {{ it.why }}{% endif %}</span></li>
+        {% endfor %}
+      </ul>
+    </details>
     {% endif %}
   </details>
   {% endfor %}
@@ -140,6 +154,7 @@
 </main>
 
 <footer class="wrap foot">
+  {% if day.rated %}<p>Politics, Finance and AI stories are rated for impact by Claude ({{ day.stats.rated }} rated); low-impact stories are hidden. Hover a number for details.</p>{% endif %}
   <p>{{ day.stats.shown }} stories from {{ day.stats.sources_ok }}/{{ day.stats.sources }} sources ({{ day.stats["items"] }} items fetched, {{ day.stats.stories }} unique stories in window).</p>
   {% if day.problems %}
   <details>

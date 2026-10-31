@@ -249,6 +249,13 @@ Guardrails: at most 5 new sources per day, at most 40 discovered sources active 
 6. Create the GitHub repo, add the Actions workflow (commits `data/` and deploys Pages), and do a first scheduled run.
 7. README: how to add a feed or section, promote or mute a source, and tune a section.
 
+## Depth, India, AI quality and impact (added 2026-10-31)
+- **India** is split into foreign relations & summits (MEA, PMO, Gateway House, MP-IDSA, ORF, Carnegie India), governance & policy (PIB Cabinet decisions, PRS, NITI Aayog, *Explained* and op-ed pages), and party politics & elections (capped at 6). A shared `rhetoric_penalty` ranks point-scoring down.
+- **In depth:** Politics' analysis list is "In depth & analysis", fed by long-form sources on both sides: The Atlantic and ProPublica (left); The Economist, Reuters Investigates, FT Big Read and Bloomberg Big Take (center); City Journal, The Free Press and National Review (right).
+- **AI quality rules:** stock and SEO sites muted. `vetted_only` keeps search results only from vetted outlets. `exclude_titles` drops tutorials, events, podcasts, listicles and customer stories. Funding is ranked by round size, and arXiv papers without HF upvotes are ranked down.
+- **Developing:** today's stories are matched (TF-IDF, ≥ 3 shared distinctive words, similarity ≥ 0.4) against headlines from the previous 3 days. Continuations without a coverage jump move to a compact list with "Day N".
+- **Impact rating (`feeds/impact.py`):** the top rule-ranked candidates per section (news 20, analysis 10, papers 10) in Politics, Finance and AI are sent in batches of 40 to `claude -p` (Claude Code headless, no tools, JSON-schema output, model `opus`, effort `low`). Each story gets impact 1–5, a label and a one-line why. Ratings are cached 4 days in `data/ratings.json`. Stories below 3 are hidden; the rest are ordered by score + 3 × (impact − 3). Auth is the user's Claude subscription via `CLAUDE_CODE_OAUTH_TOKEN`. If the first batch fails, the remaining batches are skipped and rules alone decide.
+
 ## Reading features (added 2026-10-27)
 - **Top stories tab:** stories shown in any feed's headlines, ranked by number of outlets and then score. Top 15 with ≥ 3 outlets; each placed at its best-scoring feed and section.
 - **Slow sections:** a per-section `window_hours` (7 days for five sections). A source keeps items for the longest window of any section that lists it, but each section only scores items inside its own window. The recency penalty stretches to match.

@@ -183,3 +183,17 @@ dialog input { width: 100%; font: inherit; font-size: 14px; padding: 8px 10px; b
   .controls { flex-direction: column; align-items: flex-end; gap: 6px; }
   .read-controls { margin-left: 0; }
 }
+
+/* impact rating, story labels, continuing stories */
+.why { margin: 4px 0 0; font-size: 13.5px; line-height: 1.4; display: flex; gap: 8px; align-items: baseline; }
+.impact { flex: none; font-size: 11px; font-weight: 800; width: 18px; height: 18px; line-height: 18px; text-align: center; border-radius: 50%; color: #fff; background: var(--muted); }
+.impact.i5 { background: var(--accent); }
+.impact.i4 { background: color-mix(in srgb, var(--accent) 70%, var(--muted)); }
+.b-day { color: var(--paper); background: var(--paper-soft); }
+.b-in-depth { color: var(--blog); background: var(--blog-soft); }
+.b-opinion { color: var(--muted); background: var(--chip); }
+.developing { margin-top: 8px; font-size: 13px; }
+.developing summary { cursor: pointer; color: var(--muted); font-weight: 600; }
+.developing ul { list-style: none; margin: 6px 0 0; padding: 0 0 0 10px; border-left: 2px solid var(--line); }
+.developing li { padding: 4px 0 4px 8px; border: 0; }
+.developing .title { font-weight: 500; font-size: 14px; }

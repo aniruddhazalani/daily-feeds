@@ -31,6 +31,20 @@ def pick_primary(items: list[Item], weights: dict[str, float]) -> Item:
     return max(items, key=lambda it: (weights.get(it.source_id, 0), it.upvotes, not it.via_search, it.published))
 
 
+MONEY_RE = re.compile(r"[$€£]\s?(\d+(?:\.\d+)?)\s?(billion|bn|million|mn|M|B)\b", re.IGNORECASE)
+
+
+def money_bonus(text: str) -> float:
+    """Score boost by round size: $10M → 0, $100M → +1.5, $1B → +3 (capped at +4; tiny rounds go negative)."""
+    amounts = []
+    for num, unit in MONEY_RE.findall(text):
+        millions = float(num) * (1000 if unit.lower() in ("billion", "bn", "b") else 1)
+        amounts.append(millions)
+    if not amounts:
+        return 0.0
+    return max(-2.0, min(4.0, 1.5 * math.log10(max(max(amounts), 0.1)) - 1.5))
+
+
 def kind_window(cfg: Config, kind: str) -> float:
     return float((cfg.settings.get("windows_hours") or {}).get(kind, 36))
 
@@ -43,6 +57,18 @@ def score(cfg: Config, sec: Section, cl: Cluster, now: datetime) -> tuple[Option
               and now - it.published <= timedelta(hours=sec.window_hours or kind_window(cfg, it.kind))]
     if not in_sec:
         return None, "not from this section's sources (within its window)"
+    if sec.vetted_only:
+        # Search results from unknown outlets only count when a vetted outlet covers the story too.
+        if not any(cfg.is_vetted(it.domain) for it in cl.items):
+            return None, "no vetted outlet"
+        vetted_in_sec = [it for it in in_sec if cfg.is_vetted(it.domain)]
+        if vetted_in_sec:
+            in_sec = vetted_in_sec
+    if sec.exclude_titles:
+        lead = max(in_sec, key=lambda it: cfg.sources[it.source_id].weight).title
+        for rx in sec.exclude_titles:
+            if rx.search(lead):
+                return None, "low-value format"
     titles, snippets = cl.text()
     # Exclude/require look only at this section's own articles, so one stray related
     # article on a grouped story can't knock the story out of (or into) the section.
@@ -64,6 +90,15 @@ def score(cfg: Config, sec: Section, cl: Cluster, now: datetime) -> tuple[Option
             kw += w
             hit_terms.append(term)
     kw = min(kw, KEYWORD_CAP)
+    # Penalties look at this section's own articles (headline x1, snippet x0.5).
+    penalty = 0.0
+    for term, w in sec.penalize.items():
+        if matches(term, own[0]):
+            penalty += w
+            hit_terms.append("-" + term)
+        elif own[1] and matches(term, own[1]):
+            penalty += w / 2
+    kw -= penalty
 
     weights = {it.source_id: cfg.sources[it.source_id].weight for it in in_sec}
     primary = pick_primary(in_sec, weights)
@@ -75,10 +110,14 @@ def score(cfg: Config, sec: Section, cl: Cluster, now: datetime) -> tuple[Option
         divisor *= max(1.0, sec.window_hours / kind_window(cfg, primary.kind))
     age_h = max((now - max(it.published for it in in_sec)).total_seconds() / 3600, 0)
     recency = -age_h / divisor
-    upvotes = math.log1p(max(it.upvotes for it in cl.items)) if primary.kind == "paper" else 0.0
-    total = kw + topical + source + coverage + recency + upvotes
+    upvotes = 0.0
+    if primary.kind == "paper":
+        best = max(it.upvotes for it in cl.items)
+        upvotes = math.log1p(best) if best else -1.5  # arXiv-only papers need to earn their place
+    money = money_bonus(titles) if sec.money_bonus else 0.0
+    total = kw + topical + source + coverage + recency + upvotes + money
     parts = {"keyword": round(kw, 2), "topical": topical, "source": source, "coverage": round(coverage, 2),
-             "recency": round(recency, 2), "upvotes": round(upvotes, 2), "terms": hit_terms}
+             "recency": round(recency, 2), "upvotes": round(upvotes, 2), "money": round(money, 2), "terms": hit_terms}
     s = Scored(cluster=cl, section_key=sec.key, score=round(total, 2), primary=primary, parts=parts)
     if total < sec.min_score:
         return None, f"score {total:.1f} < min {sec.min_score:g}"
@@ -102,8 +141,8 @@ def tag_for(feed: Feed, cl: Cluster) -> Optional[str]:
     return best or "other"
 
 
-def rank_feed(cfg: Config, feed: Feed, clusters: list[Cluster], now: datetime) -> dict[str, dict[str, list[Scored]]]:
-    """→ {section_id: {"news": [...], "analysis": [...], "papers": [...]}}"""
+def candidates(cfg: Config, feed: Feed, clusters: list[Cluster], now: datetime) -> dict[str, dict[str, list[Scored]]]:
+    """Every story that qualifies for this feed, placed in its best section → {section: {bucket: [...]}} (uncut)."""
     best: dict[int, Scored] = {}
     for idx, cl in enumerate(clusters):
         for sec in feed.sections:
@@ -115,13 +154,65 @@ def rank_feed(cfg: Config, feed: Feed, clusters: list[Cluster], now: datetime) -
         s.tag = tag_for(feed, s.cluster)
         out[s.section_key.split(".", 1)[1]][bucket(s.primary.kind)].append(s)
     for sec in feed.sections:
-        limits = {"news": sec.max_items, "analysis": sec.max_analysis, "papers": sec.max_papers}
-        for b, lst in out[sec.id].items():
+        for lst in out[sec.id].values():
             lst.sort(key=lambda s: s.score, reverse=True)
-            if feed.balance and b != "papers":
-                lst[:] = balance(cfg, lst, limits[b])
-            del lst[limits[b]:]
     return out
+
+
+def finalize(cfg: Config, feed: Feed, cands: dict[str, dict[str, list[Scored]]],
+             continuing: Optional[dict] = None, ratings: Optional[dict] = None) -> dict[str, dict[str, list[Scored]]]:
+    """Apply impact ratings and storyline detection, then balance and cut each list to size.
+
+    ratings:    {story key: {"impact": 1-5, ...}}  (see impact.py). Low-impact stories are dropped and
+                the rest re-ordered by impact first, rule score second.
+    continuing: {id(cluster): {"day": N, "major": bool, ...}}. Continuing headlines without a major
+                development move to a compact "developing" list instead of taking a slot.
+    """
+    icfg = cfg.settings.get("impact") or {}
+    hide_below = int(icfg.get("hide_below", 3))
+    weight = float(icfg.get("weight", 3.0))
+    out: dict[str, dict[str, list[Scored]]] = {}
+    for sec in feed.sections:
+        limits = {"news": sec.max_items, "analysis": sec.max_analysis, "papers": sec.max_papers}
+        out[sec.id] = {"developing": []}
+        for b, lst in cands[sec.id].items():
+            lst = list(lst)
+            if ratings:
+                kept = []
+                for s in lst:
+                    r = ratings.get(story_key(s))
+                    s.rating = r
+                    if r and r["impact"] < hide_below:
+                        continue
+                    kept.append(s)
+                lst = sorted(kept, key=lambda s: s.score + (weight * (s.rating["impact"] - 3) if s.rating else 0),
+                             reverse=True)
+            if b == "news" and continuing:
+                fresh = []
+                for s in lst:
+                    c = continuing.get(id(s.cluster))
+                    s.continuing = c
+                    if c and not c["major"]:
+                        out[sec.id]["developing"].append(s)
+                    else:
+                        fresh.append(s)
+                lst = fresh
+                del out[sec.id]["developing"][8:]
+            if feed.balance and b != "papers":
+                lst = balance(cfg, lst, limits[b])
+            out[sec.id][b] = lst[:limits[b]]
+    return out
+
+
+def story_key(s: Scored) -> str:
+    """Stable id for a story across runs (used to cache impact ratings)."""
+    titles = sorted({it.title.lower() for it in s.cluster.items})
+    return titles[0][:160]
+
+
+def rank_feed(cfg: Config, feed: Feed, clusters: list[Cluster], now: datetime) -> dict[str, dict[str, list[Scored]]]:
+    """→ {section_id: {"news": [...], "analysis": [...], "papers": [...], "developing": [...]}}"""
+    return finalize(cfg, feed, candidates(cfg, feed, clusters, now))
 
 
 OPPOSITE = {"left": "right", "right": "left"}

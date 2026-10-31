@@ -8,11 +8,11 @@ from pathlib import Path
 from typing import Optional
 from zoneinfo import ZoneInfo
 
-from . import discover, rank, render
+from . import discover, impact, rank, render
 from .config import DATA_DIR, Config, load_discovered
 from .fetch import fetch_all
 from .filter import cluster_items, filter_items, load_seen, save_seen, seen_keys
-from .group import group_stories
+from .group import group_stories, match_previous
 from .models import Scored
 
 log = logging.getLogger(__name__)
@@ -58,7 +58,63 @@ def item_json(cfg: Config, s: Scored) -> dict:
         "score": s.score,
         "tag": s.tag,
         "upvotes": max(it.upvotes for it in s.cluster.items),
+        "impact": s.rating["impact"] if s.rating else None,
+        "impact_label": s.rating["label"] if s.rating else None,
+        "why": s.rating["why"] if s.rating else None,
+        "story_day": s.continuing["day"] if s.continuing else 1,
+        "earlier": s.continuing["title"] if s.continuing else None,
     }
+
+
+def previous_stories(today: str, lookback_days: int) -> list[dict]:
+    """Headline stories shown on the previous few days (not today), for storyline matching."""
+    start = (date.fromisoformat(today) - timedelta(days=lookback_days)).isoformat()
+    out = []
+    for f in sorted(SNAPSHOT_DIR.glob("*.json")) if SNAPSHOT_DIR.exists() else []:
+        if not (start <= f.stem < today):
+            continue
+        d = json.loads(f.read_text())
+        for fe in d["feeds"]:
+            for sec in fe["sections"]:
+                for i in sec.get("news", []) + sec.get("developing", []):
+                    text = " ".join([i["title"]] + [r["title"] for r in i.get("related", [])])
+                    out.append({"text": text, "title": i["title"], "date": d["date"],
+                                "day": i.get("story_day", 1), "outlets": i.get("outlets", 1)})
+    return out
+
+
+def continuing_stories(cfg: Config, clusters: list, today: str) -> dict[int, dict]:
+    """{id(cluster): {"day", "major", "title", "date"}} for stories that continue an earlier storyline."""
+    dcfg = cfg.settings.get("developing") or {}
+    if not dcfg.get("enabled", True):
+        return {}
+    prev = previous_stories(today, int(dcfg.get("lookback_days", 3)))
+    matches = match_previous(clusters, prev, similarity=float(dcfg.get("similarity", 0.4)),
+                             min_shared=int(dcfg.get("min_shared", 3)))
+    out = {}
+    by_id = {id(c): c for c in clusters}
+    for cid, p in matches.items():
+        outlets_now = len(by_id[cid].outlets)
+        # A big jump in coverage means a real new development: keep it in the main list.
+        major = outlets_now >= max(2 * p["outlets"], p["outlets"] + 5)
+        day = p["day"] + (date.fromisoformat(today) - date.fromisoformat(p["date"])).days
+        out[cid] = {"day": day, "major": major, "title": p["title"], "date": p["date"]}
+    log.info("developing: %d of %d stories continue an earlier storyline", len(out), len(clusters))
+    return out
+
+
+def stories_to_rate(cfg: Config, cands: dict) -> list[tuple[Scored, str]]:
+    """The strongest rule-ranked candidates in the feeds that get impact ratings."""
+    icfg = cfg.settings.get("impact") or {}
+    per = icfg.get("per_section") or {"news": 20, "analysis": 10, "papers": 10}
+    out = []
+    for feed in cfg.feeds:
+        if feed.id not in (icfg.get("feeds") or []):
+            continue
+        for sec in feed.sections:
+            for b, lst in cands[feed.id][sec.id].items():
+                out += [(s, f"{feed.title} › {sec.title}") for s in lst[:int(per.get(b, 10))]]
+    return out
 
 
 def top_stories(cfg: Config, candidates: list[tuple[Scored, str, str]]) -> list[dict]:
@@ -69,7 +125,9 @@ def top_stories(cfg: Config, candidates: list[tuple[Scored, str, str]]) -> list[
     for s, where, anchor in candidates:  # a story can be shown in two feeds; keep its best placement
         if id(s.cluster) not in best or s.score > best[id(s.cluster)][0].score:
             best[id(s.cluster)] = (s, where, anchor)
-    ranked = sorted(best.values(), key=lambda t: (len(t[0].cluster.outlets), t[0].score), reverse=True)
+    # Highest impact first (when rated), then the most widely covered.
+    ranked = sorted(best.values(), key=lambda t: ((t[0].rating or {}).get("impact", 3), len(t[0].cluster.outlets),
+                                                  t[0].score), reverse=True)
     picked = [t for t in ranked if len(t[0].cluster.outlets) >= min_outlets][:count]
     return [{**item_json(cfg, s), "where": where, "anchor": anchor} for s, where, anchor in picked]
 
@@ -95,11 +153,15 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
         rank.explain(cfg, explain, clusters, now)
         return 0
 
+    cands = {feed.id: rank.candidates(cfg, feed, clusters, now) for feed in cfg.feeds}
+    continuing = continuing_stories(cfg, clusters, today)
+    ratings = impact.rate(cfg, stories_to_rate(cfg, cands), continuing, save=save) if impact.enabled(cfg) else {}
+
     feeds_out = []
     shown_sources: set[str] = set()
     top_candidates: list[tuple[Scored, str, str]] = []  # (story, "Feed › Section", anchor)
     for feed in cfg.feeds:
-        ranked = rank.rank_feed(cfg, feed, clusters, now)
+        ranked = rank.finalize(cfg, feed, cands[feed.id], continuing, ratings)
         sections = []
         for sec in feed.sections:
             buckets = ranked[sec.id]
@@ -113,11 +175,12 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
             sec_out = {"id": sec.id, "title": sec.title,
                        **{b: [item_json(cfg, s) for s in lst] for b, lst in buckets.items()}}
             if feed.balance:
-                shown = sec_out["news"] + sec_out["analysis"]
+                shown = sec_out["news"] + sec_out["analysis"] + sec_out["developing"]
                 sec_out["leans"] = {l: sum(1 for i in shown if i["lean"] == l) for l in ("left", "center", "right")}
             sections.append(sec_out)
         tags = sorted({i["tag"] for sec in sections for b in ("news", "analysis", "papers") for i in sec[b] if i["tag"]})
-        feeds_out.append({"id": feed.id, "title": feed.title, "tags": tags, "sections": sections})
+        feeds_out.append({"id": feed.id, "title": feed.title, "tags": tags, "sections": sections,
+                          "analysis_label": feed.analysis_label})
 
     top = top_stories(cfg, top_candidates)
 
@@ -144,8 +207,9 @@ def run(cfg: Config, explain: Optional[str] = None, discover_sources: bool = Tru
         "new_sources": new_sources,
         "problems": problems,
         "fallbacks": fallbacks,
+        "rated": bool(ratings),
         "stats": {"sources": len(results), "sources_ok": len(results) - len(problems), "items": len(items),
-                  "kept": len(kept), "stories": len(clusters),
+                  "kept": len(kept), "stories": len(clusters), "rated": len(ratings),
                   "shown": sum(len(sec[b]) for f in feeds_out for sec in f["sections"] for b in ("news", "analysis", "papers"))},
     }
 
