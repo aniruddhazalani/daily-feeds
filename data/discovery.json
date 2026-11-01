@@ -217,6 +217,11 @@
     "date": "2026-10-29",
     "post": "https://www.fdd.org/analysis/jordanian-strikes-lay-bare-security-vacuum-in-southern-syria/",
     "source_id": "fdd"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "abcnews.go.com": [
@@ -430,6 +435,11 @@
     "date": "2026-10-20",
     "post": "https://libertystreeteconomics.newyorkfed.org/2026/10/revenue-per-worker-is-up-are-firms-getting-a-larger-share/",
     "source_id": "liberty_street"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.exponentialview.co/p/ev-608",
+    "source_id": "exponential_view"
    }
   ],
   "aella.substack.com": [
@@ -961,6 +971,13 @@
     "source_id": "fdd"
    }
   ],
+  "anderseninstitute.org": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "andrewcoville.com": [
    {
     "date": "2026-10-23",
@@ -1417,6 +1434,13 @@
     "source_id": "chinatalk"
    }
   ],
+  "assets.jpmprivatebank.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "astanatimes.com": [
    {
     "date": "2026-10-30",
@@ -1592,6 +1616,11 @@
     "date": "2026-10-24",
     "post": "https://www.newcomer.co/p/anthropics-pending-ipo-has-silicon",
     "source_id": "newcomer"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "batcon.org": [
@@ -1920,6 +1949,13 @@
     "source_id": "chinatalk"
    }
   ],
+  "biz.chosun.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "bjnews.com.cn": [
    {
     "date": "2026-10-20",
@@ -2147,6 +2183,13 @@
     "source_id": "unherd"
    }
   ],
+  "bradenton.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/doj-election-monitors-midterms/689225/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
   "brandeis.edu": [
    {
     "date": "2026-10-24",
@@ -2306,6 +2349,13 @@
     "date": "2026-10-31",
     "post": "https://www.thefp.com/p/let-the-kids-carve-a-pumpkin",
     "source_id": "free_press"
+   }
+  ],
+  "cair.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "calbar.ca.gov": [
@@ -2711,6 +2761,13 @@
     "source_id": "chinatalk"
    }
   ],
+  "chosun.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "cic.nyu.edu": [
    {
     "date": "2026-10-30",
@@ -3098,6 +3155,11 @@
     "date": "2026-10-31",
     "post": "https://www.platformer.news/thursday-newsletter-6/",
     "source_id": "platformer"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "cnews.fr": [
@@ -3431,6 +3493,11 @@
     "date": "2026-10-29",
     "post": "https://www.thefp.com/p/adam-hamilton-james-talarico-river-page-christianity",
     "source_id": "free_press"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+    "source_id": "semianalysis"
    }
   ],
   "corporate.exxonmobil.com": [
@@ -3445,6 +3512,13 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/middle-east-watch/hezbollah-expects-lebanon-to-pay-for-its-recovery-heres-why",
     "source_id": "national_interest"
+   }
+  ],
+  "counterpointresearch.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "courtdocket.org": [
@@ -3813,6 +3887,20 @@
     "source_id": "unherd"
    }
   ],
+  "data.worldbank.org": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
+  "datacenterdynamics.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+    "source_id": "semianalysis"
+   }
+  ],
   "datacenters.atmeta.com": [
    {
     "date": "2026-10-20",
@@ -4000,6 +4088,13 @@
     "source_id": "fdd"
    }
   ],
+  "democracydocket.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/doj-election-monitors-midterms/689225/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
   "deploya.ch": [
    {
     "date": "2026-10-24",
@@ -4081,6 +4176,13 @@
     "date": "2026-10-30",
     "post": "https://www.fdd.org/analysis/the-u-s-must-crack-down-on-houthi-human-rights-abuses-in-yemen/",
     "source_id": "fdd"
+   }
+  ],
+  "digitalcommons.pace.edu": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "digitallibrary.un.org": [
@@ -4259,6 +4361,13 @@
     "source_id": "national_interest"
    }
   ],
+  "doctorswithoutborders.org": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
   "doctrine.af.mil": [
    {
     "date": "2026-10-22",
@@ -4281,6 +4390,13 @@
     "date": "2026-10-31",
     "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
     "source_id": "propublica"
+   }
+  ],
+  "documents1.worldbank.org": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "dominiccummings.substack.com": [
@@ -4636,6 +4752,11 @@
     "date": "2026-10-23",
     "post": "https://nationalinterest.org/blog/middle-east-watch/will-benjamin-netanyahu-survive-israels-elections-next-week",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "elorian.ai": [
@@ -4769,6 +4890,13 @@
     "date": "2026-11-01",
     "post": "https://nationalinterest.org/blog/silk-road-rivalries/how-uzbekistan-sets-the-diplomatic-tone-for-central-asia",
     "source_id": "national_interest"
+   }
+  ],
+  "en.yna.co.kr": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "enabbaladi.net": [
@@ -5725,6 +5853,13 @@
     "source_id": "national_interest"
    }
   ],
+  "franklintempleton.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "frbsf.org": [
    {
     "date": "2026-10-20",
@@ -5749,6 +5884,13 @@
     "date": "2026-10-23",
     "post": "https://unherd.com/2026/10/freddie-deboer-and-the-truth-about-mental-illness/?edition=us",
     "source_id": "unherd"
+   }
+  ],
+  "freebeacon.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "freebeacon.substack.com": [
@@ -5784,6 +5926,13 @@
     "date": "2026-10-27",
     "post": "https://www.fdd.org/analysis/russian-operatives-plant-deepfake-targeting-u-s-midterm-elections/",
     "source_id": "fdd"
+   }
+  ],
+  "fsc.go.kr": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "ft.com": [
@@ -5834,6 +5983,13 @@
     "date": "2026-10-27",
     "post": "https://nationalinterest.org/blog/buzz/general-atomics-just-made-deal-with-boeing-for-fq-42-vengeance-hk-102626",
     "source_id": "national_interest"
+   }
+  ],
+  "gartner.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "gatsby.events": [
@@ -6242,6 +6398,18 @@
     "date": "2026-10-31",
     "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
     "source_id": "propublica"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
+  "govinfo.library.unt.edu": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "gowers.wordpress.com": [
@@ -6550,6 +6718,11 @@
     "date": "2026-10-30",
     "post": "https://simonwillison.net/2026/Oct/29/api-credits/",
     "source_id": "simon_willison"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+    "source_id": "simon_willison"
    }
   ],
   "here.now": [
@@ -6602,6 +6775,11 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/buzz/united-states-planned-use-bats-as-bombs-world-war-ii-hk-103026",
     "source_id": "national_interest"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "history.navy.mil": [
@@ -6847,6 +7025,13 @@
     "source_id": "national_interest"
    }
   ],
+  "ibtimes.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "icc-cricket.com": [
    {
     "date": "2026-10-22",
@@ -6871,6 +7056,13 @@
     "date": "2026-11-01",
     "post": "https://nationalinterest.org/blog/silk-road-rivalries/how-uzbekistan-sets-the-diplomatic-tone-for-central-asia",
     "source_id": "national_interest"
+   }
+  ],
+  "icty.org": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "id.elsevier.com": [
@@ -7145,6 +7337,13 @@
     "source_id": "stratechery"
    }
   ],
+  "institute.deepmind.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.exponentialview.co/p/ev-608",
+    "source_id": "exponential_view"
+   }
+  ],
   "instituteforenergyresearch.org": [
    {
     "date": "2026-10-27",
@@ -7261,6 +7460,13 @@
     "source_id": "unherd"
    }
   ],
+  "investigativeproject.org": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
   "investing.com": [
    {
     "date": "2026-10-27",
@@ -7297,6 +7503,11 @@
    {
     "date": "2026-10-28",
     "post": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+    "source_id": "exponential_view"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.exponentialview.co/p/ev-608",
     "source_id": "exponential_view"
    }
   ],
@@ -7378,6 +7589,13 @@
     "source_id": "national_interest"
    }
   ],
+  "isimarkets.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "isis-online.org": [
    {
     "date": "2026-10-29",
@@ -7451,6 +7669,13 @@
     "date": "2026-11-01",
     "post": "https://nationalinterest.org/blog/silk-road-rivalries/how-uzbekistan-sets-the-diplomatic-tone-for-central-asia",
     "source_id": "national_interest"
+   }
+  ],
+  "jacobin.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "jaf.mil.jo": [
@@ -7530,6 +7755,20 @@
     "source_id": "latent_space"
    }
   ],
+  "jepsen.io": [
+   {
+    "date": "2026-11-02",
+    "post": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+    "source_id": "simon_willison"
+   }
+  ],
+  "jewishinsider.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
   "jewishrefugees.org.uk": [
    {
     "date": "2026-10-22",
@@ -7601,6 +7840,11 @@
     "date": "2026-10-21",
     "post": "https://unherd.com/2026/10/why-democrats-wont-tame-inflation/?edition=us",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "jpost.com": [
@@ -7703,6 +7947,11 @@
     "date": "2026-10-31",
     "post": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
     "source_id": "propublica"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "justice.gov.sk": [
@@ -7764,6 +8013,13 @@
     "date": "2026-10-23",
     "post": "https://www.fdd.org/analysis/erdogans-pious-generation-goes-global/",
     "source_id": "fdd"
+   }
+  ],
+  "kare11.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/doj-election-monitors-midterms/689225/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "katacontainers.io": [
@@ -7856,6 +8112,13 @@
     "source_id": "fdd"
    }
   ],
+  "kmoonshot.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "koerber-stiftung.de": [
    {
     "date": "2026-10-31",
@@ -7868,6 +8131,13 @@
     "date": "2026-10-31",
     "post": "https://www.newcomer.co/p/big-tech-defied-tradition-with-a",
     "source_id": "newcomer"
+   }
+  ],
+  "koreaherald.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "koreatimes.co.kr": [
@@ -8001,6 +8271,11 @@
    {
     "date": "2026-10-31",
     "post": "https://www.theatlantic.com/politics/2026/10/obama-cheesecake-factory-midterms-trump/689142/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
     "source_id": "atlantic_politics"
    }
   ],
@@ -8426,6 +8701,13 @@
     "source_id": "wisden"
    }
   ],
+  "main.un.org": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
   "mainstreamlabour.org": [
    {
     "date": "2026-10-30",
@@ -8485,6 +8767,11 @@
     "date": "2026-10-21",
     "post": "https://unherd.com/2026/10/will-corruption-catch-up-with-the-trumps/?edition=us",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "marxists.org": [
@@ -8506,11 +8793,23 @@
     "source_id": "free_press"
    }
   ],
+  "mathlive.io": [
+   {
+    "date": "2026-11-02",
+    "post": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+    "source_id": "simon_willison"
+   }
+  ],
   "mckinsey.com": [
    {
     "date": "2026-10-22",
     "post": "https://www.newcomer.co/p/emmett-shear-founders-of-simile-sambanova",
     "source_id": "newcomer"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "mdm.co": [
@@ -8981,6 +9280,13 @@
     "source_id": "fdd"
    }
   ],
+  "morganstanley.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "motherjones.com": [
    {
     "date": "2026-10-21",
@@ -9005,6 +9311,20 @@
     "date": "2026-10-31",
     "post": "https://www.theatlantic.com/politics/2026/10/democrats-impeachment-plans-hegseth-pentagon/689195/?utm_source=feed",
     "source_id": "atlantic_politics"
+   }
+  ],
+  "msci.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
+  "multistate.us": [
+   {
+    "date": "2026-11-02",
+    "post": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+    "source_id": "semianalysis"
    }
   ],
   "muse.jhu.edu": [
@@ -9226,6 +9546,18 @@
     "date": "2026-11-01",
     "post": "https://unherd.com/2026/10/how-crossfit-ruined-everything/",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
+  "nbcnewyork.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "nbcwashington.com": [
@@ -9318,6 +9650,13 @@
     "date": "2026-11-01",
     "post": "https://nationalinterest.org/blog/buzz/operation-cone-of-power-british-witches-hitler-english-channel-wl-103126",
     "source_id": "national_interest"
+   }
+  ],
+  "newjerseyglobe.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "newleftreview.org": [
@@ -9619,11 +9958,25 @@
     "source_id": "national_interest"
    }
   ],
+  "news.samsung.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "news.sbs.co.kr": [
    {
     "date": "2026-10-21",
     "post": "https://nationalinterest.org/blog/middle-east-watch/how-the-us-can-help-the-gulf-states-build-economic-resilience",
     "source_id": "national_interest"
+   }
+  ],
+  "news.skhynix.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "news.sky.com": [
@@ -9779,6 +10132,11 @@
     "date": "2026-10-29",
     "post": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
     "source_id": "simon_willison"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+    "source_id": "simon_willison"
    }
   ],
   "newsbusters.org": [
@@ -9851,6 +10209,13 @@
     "source_id": "national_interest"
    }
   ],
+  "newspapers.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
+   }
+  ],
   "newstatesman.com": [
    {
     "date": "2026-10-21",
@@ -9907,6 +10272,11 @@
     "date": "2026-10-31",
     "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
     "source_id": "propublica"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "newyorkfed.org": [
@@ -10484,6 +10854,13 @@
     "source_id": "national_interest"
    }
   ],
+  "pacificpolarity.substack.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "pakistantoday.com.pk": [
    {
     "date": "2026-10-21",
@@ -10555,6 +10932,13 @@
     "date": "2026-10-20",
     "post": "https://www.bensbites.com/p/prompt-tips-from-anthropic",
     "source_id": "bens_bites"
+   }
+  ],
+  "parameter.ai": [
+   {
+    "date": "2026-11-02",
+    "post": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+    "source_id": "simon_willison"
    }
   ],
   "parquet.apache.org": [
@@ -11302,6 +11686,13 @@
     "date": "2026-10-31",
     "post": "https://www.theatlantic.com/politics/2026/10/democrats-impeachment-plans-hegseth-pentagon/689195/?utm_source=feed",
     "source_id": "atlantic_politics"
+   }
+  ],
+  "pulse.mk.co.kr": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "pureadmin.qub.ac.uk": [
@@ -12209,6 +12600,11 @@
     "date": "2026-10-22",
     "post": "https://stratechery.com/2026/presented-by-stripe/",
     "source_id": "stratechery"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+    "source_id": "semianalysis"
    }
   ],
   "seroundtable.com": [
@@ -12361,6 +12757,13 @@
     "source_id": "fdd"
    }
   ],
+  "shinkim.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "shobserver.cn": [
    {
     "date": "2026-10-31",
@@ -12480,6 +12883,11 @@
     "date": "2026-10-23",
     "post": "https://unherd.com/2026/10/the-nordics-are-preparing-for-war/?edition=us",
     "source_id": "unherd"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "sis.gov.eg": [
@@ -12541,6 +12949,13 @@
     "date": "2026-10-21",
     "post": "https://nationalinterest.org/blog/energy-world/how-the-houthis-threaten-saudi-oil",
     "source_id": "national_interest"
+   }
+  ],
+  "sodali.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "sofrep.com": [
@@ -12653,6 +13068,13 @@
     "date": "2026-10-22",
     "post": "https://nationalinterest.org/blog/buzz/f-117-overachiever-smithsonian-hk-092426",
     "source_id": "national_interest"
+   }
+  ],
+  "start.umd.edu": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "startupfortune.com": [
@@ -12774,6 +13196,11 @@
    {
     "date": "2026-10-22",
     "post": "https://www.wisden.com/cricket-features/pakistans-best-odi-batter-is-hiding-in-plain-sight-salman-ali-agha",
+    "source_id": "wisden"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.wisden.com/series/pakistan-odi-tri-series-2026/cricket-news/wisdens-pakistan-odi-tri-series-team-of-the-tournament",
     "source_id": "wisden"
    }
   ],
@@ -13108,6 +13535,13 @@
     "date": "2026-10-30",
     "post": "https://www.fdd.org/analysis/washington-should-not-push-europe-back-toward-russian-gas/",
     "source_id": "fdd"
+   }
+  ],
+  "taxsummaries.pwc.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "taylorfrancis.com": [
@@ -14570,11 +15004,23 @@
     "source_id": "national_interest"
    }
   ],
+  "voxchina.org": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
+   }
+  ],
   "w.media": [
    {
     "date": "2026-10-31",
     "post": "https://www.gatewayhouse.in/india-and-asean-get-new-momentum/",
     "source_id": "gateway_house"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+    "source_id": "semianalysis"
    }
   ],
   "w3.org": [
@@ -14659,6 +15105,13 @@
     "date": "2026-10-31",
     "post": "https://nationalinterest.org/blog/buzz/bone-swords-sacred-chickens-anti-bullet-charms-brief-history-witchcraft-warfare-wl-103026",
     "source_id": "national_interest"
+   }
+  ],
+  "washingtoncrossingadvisors.com": [
+   {
+    "date": "2026-11-02",
+    "post": "https://www.chinatalk.media/p/koreas-stock-market-crashed-1-trillion",
+    "source_id": "chinatalk"
    }
   ],
   "washingtoninstitute.org": [
@@ -14790,6 +15243,11 @@
     "date": "2026-10-31",
     "post": "https://www.propublica.org/article/cleta-mitchell-elections-trump",
     "source_id": "propublica"
+   },
+   {
+    "date": "2026-11-02",
+    "post": "https://www.theatlantic.com/politics/2026/11/adam-hamawy-congress-backstory/689219/?utm_source=feed",
+    "source_id": "atlantic_politics"
    }
   ],
   "washingtonsun.com": [
@@ -19521,6 +19979,222 @@
     ],
     "title": "Lakers vs. Warriors (31 Oct, 2026) Live Score",
     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LRl9TRXFyT2lldHZxWndPLXREX0E2N0ZMSUlmTmRnNDhlV1RzbEZiWmlMQmx0bVd2SG9MWVZYZkhnajByRWtLS2puWTNJdEFwNC1nSWNDYmlpYk5ZTUE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Cardinals 33-30 Cowboys (1 Nov, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB1V3JKMGZKb1NVdDRpNE1VRFR3R3FzRkw5akJKU180RFlZZm9rTjc2bjNnUExNYl9tWFZ6MnluMkFyTUpKV3I5SHFNUUZqOGg3cUJ2TElBWGdwXzE2N19xUXlB?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Steelers 27-6 Browns (1 Nov, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9NRWI0OHJXYWxHdFRMbVRPRnRKbTVxcFBsd3Zxc0VUS2xnZG80U3VVbTRqRkRXcXpWOG1MYzlPN2I2RGxOcnhmOUM2TGFhT1JVUDItMlFfaGN5QUVFSVRqbzNn?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Jaguars 42-7 Colts (1 Nov, 2026) Game Recap",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRRkxzd19qU0FJTEFXS3M1d1RRTnl6cWpYaDAydHYzZ1M3YTZMemxMRkplbWNWU19tVE9hT2JNaXNyVFc4N2NmRG10NERreEZWR19zTHhwWnFlMUxwYUlZ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Ravens' Lamar Jackson out for game with thumb injury suffered on 1st play",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUTBZS09PU2tTWXppZWtSdF9laU5vLWVqRHlEZjZCeFVxR1I0aE1ReEY1TFRYTW9xSS1SbFhCcF9zQ1RMdDVROTd4b2FFbkM5QjF4czRDRUl4VE80Ui03VUk1ZzZ4emFCY3htclpRenZuNE5oZ2dud2otaHlOdkc2N0FCeWtEZVJuM1MxczF3WXBkRUJrTGc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Browns vs. Steelers (1 Nov, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBvS2pteWgtcWgwd2k0Vk1sV0J6TS1nejlPUi1hdzJWOFNiVjM5NERXTjlsLXh3c2d5RThsMld4U1FyTllzZlpCbUlJaWJSNnpMUmhOMERfekM2SFhfd0E?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Bucs down Falcons without pass completion; Bucky Irving, Kenny Gainwell run wild",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOWkxYYlJUVm9HUE9oQ0prdTNqb2IxdjZYOUd3THJKZEdFMk9EU2NpeXJlQWdiX0duOFhYcElHNU1VbUNaUG8xb0dUVGItSzFNRnoxdUxpXzl4eFhPUWJEdVBXdV9Sa1Z5RFBod2lZUDAtb0kwOE9qQWVsUVVLXzB3WUw5MzV4YUR2cjVpbEtYRUlhc3pu?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Lions linebacker Jack Campbell placed on backboard, carted off vs. Vikings",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTW9neVhmNHdlR01rSnJEMHNaTURuUm1GOG54X2NZRDVRNDlCRkU0NU5aZGtOQ3pORkR1MGk4ZkNtSnFlMVNtMGVrbmc1Um1ORjByaV91TkpmdDFpRTUxaDF3eFV2MjdhbUJ4d0VENEpIU3duR1NNUmxoajdPcVkxXzBOaXE0SkdrY3hGOXZXQU80SFNob2JXRUl2R0NwaXVMUTlmSU5WaVoxdw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Source: Jauan Jennings wanted to stay with Vikings amid 49ers trade talks",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOGRBVW1xTTVqUXd6N0hjV3ZyZWMxbTE5aU1QVHVwb3RXT0NPOTYtV0NOeEhxbmU4TEFJeWhUdHRZOUhEU1N1NFRxUU0tQ1R0THd4SWY4ZUVXaTVzR3hnQzByOExIQVlzS3Z5bmFMYTJ0SFJmc3lNbHQ2cDdNZkVYLUQySzdqY3dzb2RXanVBVkFNbmtEMTRzYkhFYTRUbHFLZmc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Cardinals vs. Cowboys (1 Nov, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xLTZfMjQ4M21DOTVjazFnVXUwVFZrVFJfUTE4Q1JPRER3Um14ZlI0eEZvTHJGSjl1NmY1QVJPRlFmX0hZRi1pdjQyTU9ib0J3Qm10Z2EtcmpaRk9UWmc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Colts vs. Jaguars (1 Nov, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0zcFpBSkJjUE5RcnRMZUg0d19OZ0hTNFJTUlZPY19NbFAtUmdDSm1ZRFoycjlpbmJIV2wtdE9OM2hvdU53cXJXQmJhNzg1WHFtdG9PZnBiR3lZaU50QWc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Raiders vs. Jets (1 Nov, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10Y1ZQX2EzY1FGQUp2OHVsdW9IVk50MmI2SjVKdURsdGJ6bjhBVkJJdDB2R0d1QUlKSUxaMndlU1hNU1hES09fOWhwdFdNYnpRcGVGYTdYLXJyamJKR3Z1bw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Vikings vs. Lions (1 Nov, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50OVhva3QxSFptbnJZYnVOQ2FEaENHcEVBemQxMG0tYm9wRTl5UDc5emhheG1ocGZYV3JlY0tZUnpZSGFKNl9VYjdldHFkeWItOGJrZlowc2lDRHVEU1ZjQg?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Nets vs. Pacers (1 Nov, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13VjdRWndOa04tampGdGxNOEZJNGNCbnRaX1ExX1ppWHlFYTlYNlk3TEIzYnFMYkY5NVVzRlg2SWV2alZDNUhWak5hUFBjTzV6R0d2anUwWHdoZjBVUlBCUVRMYmR4cWVSMHptcnpHQ2I?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Grizzlies 136-105 Kings (1 Nov, 2026) Final Score",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0xRm5OeENLMDk1WjVZc1UwdjIzMnRTZE9Nc0N1WThPQmp6R05YMFd6bXJuN2hoVHl2VlFMeGM2Z0lZV3RBRXljWkxpZGV1bE9BUWFTOGtGRWdERnZiRVl5QzktX2J5M1RmeDV0aC1CRklXazBGV2c?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Bears QB Caleb Williams won't 'spat' custom cleats out of principle, source says",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0xyYmpfWEl6TDU3S3puU3lDQmNvWDctVnNBRjVMNXBiQTlvSExHWU96UlBYS2dkaVZhYTUxb0xhb0VJQjdCUHNIaW5qaXpTS3hrMFRzX0dkQ0IyNWp5RTlWZFVfMVpYOEt0WlVGMlZkdHdnRElRVVVKM2pMMGk0THdnM1NJU2tCMFp4WFFtQjJmZVozQ0E?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Sources: Raiders not planning on trading Maxx Crosby, who wants to stay",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRU8zQjNmYUxhU2JrS3doSU16VzItcTlZbUNNcDBNRGZpOXMxczlqb2R6QnRGSUQ3cldnSG1fSnVaZHVuWUJZTlg4MWVDRkdSaEpIV05jMlVKX19GNUZUM05yR25Qd0s4Mm1UUW1CRlItQkJYOVczd0l2MlNBdi1tbHVocnZTUkJLNzdmWTlrdlpLbDJ2MndRWjY1NnFCNWR0UXc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "The Patriots are 18-43 all time in Miami. Here are keys to a Week 8 victory",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObkJSWXRMNWRVeXJ3a1dmNUdlY0pDTHlGMFVhTEJkMWdUeXRCSERWT1pLUlRBVEJJMGdsMFNrYXBUazE1NTY4bmN3RnIydFJpOWd4MFAzc3FZbmxyTWdwYVFOMjlUWVNjcU9xczZFcTl6NmZaQzVQWGgyZ2h3Sjc4T053NUZlWFQwYXpKUF81SGxmRDhCcFNtc0pSQ01ZR1E?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Will usually active Jets play or pass before trade deadline?",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkVoNU0tR2Rfb0o5alFhOEhtOXh4dnRBMUViWldYU3U1QS1xU1BtVHpiVlE3bmNMLVptdlB4dUVycUdzaV9UXzlLWjBISGdJMkpSbTQzbWhBbkp1Z1B4bTZzb3RuUFVuMlloOXpGZl9GR1VKMEpENEoxNC12dUoxTU5XcFRudDhNX2R2bzZnX1dUV00yd0t5R09wNjRHekk?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Miami Dolphins WR Caleb Douglas rounding into form ahead of Pats matchup",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnRVWGtKb00tQVRLeXN6RlNOcDZ5UEc1d19KT0FSYjFHWXd2cVFYbTd4YWE2Yi1LWS1ncTlxZjcyYk84c1hORUNJN0R1dFNLUzVvdHF4STF4MHJRU1ZWYlhfek9fNUcxRGpJSkJHVTJxUEZ5aWFna2VvQVUyQ2NrMHNXNFFHMHQzZkRsdUh2LU83dVZSV2ZkRWREV1BKVi0yTFE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Ranking the top 10 trick plays in Super Bowl history",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUXZMNkVwYWpKUmhrVjktVHEwM25HQ3hCbXY5TXh3Tk5rUkhEX0RWcFB4MmU1eU5LWkFCNXVCWGR2ZGZvQTdIWkJiXzlBR2RKT3JPRGQxZXROZlFHZ3lsbnUxLVlaN3ZRX2ZYeHpZaTBrdU5ndDlUQkp4MF9COWRXaWtiOXRuMk83b0NqT3F3?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Source - Commanders DT Payne suffered season-ending foot injury",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1R4NFpqa2JSaGRpMzVmWWtnUlZwQlJFdkVTVnZvQVVHd0lNLWttaHdRY01MSEFZeTNVTUVNMnNjLW44ZW9TanZ2aGZTNGZOT1lOLTVRYTZ3a29xYlRSSDdfemYtelZmU1BrNVB6ZGtkZENMQVBpd1VZVXpQSGxydlN0VDZrbHAzZGs0cVRFUXoxcFFUMXgwdDNZbVN3aE1BWFkxbFhXUnNWRGhOS0E?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "NFL Week 8 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOTZoSGgyQzh2Yk1zZDZraDluZGw1YXlxZE95RU45OXFXa21SbE1xeWNTWHVOYXlhbkRPZm5rdVpDLURnSFpmZGdFU3BJRTlXVkg2OVZvY0NnazlFNzFFVGppYlZ3T21BZTdRUTA1eUJvczk2OEpkbnBhd0l3NUE0bUpnalFzZm9UNERrZWdZY1F3aEE0Znk0SnlnU3ZRdW5hZDBF?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Victor Wembanyama's Halloween costume trend returns with 'The Witcher' look",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQZFVnOWRXTTdOYUY3ZnFNYURPQVVTOUxQeHZ4UjQzQWdNUTM5MUo2VDBOVVNIbHo4MEZqM09RZjJKc055OWFMT2FFWk15UUZScjUxUEdvYkxDcWhLaHk3WVNWOU9Qdlk2UFNzTmRiSXBNdzNydGdPbm9Rd0NUdWFKbGJBOTNyakVrVHpqenotSDBvdzBubVRIUUY3aC1KczQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Falcons' Anterio Thompson says he can't play football due to spinal cord issue",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNanFic21acjJkR1NQQW4xVE5RSEdhSndCRFFUWlhyeGV3eWYxYUhTa0FTdTNRaTlpWVIxS1lwWXFzWnh5SjJ2a1BmdUR3Q3k5MWQ4b0hyNzJETUxaNlV1a0xFWlVXdjQ1UDFpQnFMZXRCNWM0dUhnU3JvRHY2VW5QUjVieVptcmtUdWdXbk54Vm03NVN3Y2xVZm8zRXRGdjM5cUE?oc=5"
    }
   ],
   "agbi.com": [
@@ -20234,6 +20908,42 @@
     ],
     "title": "G20 talks open in Atlanta as Europe-Russia row scraps group photo; Jaishankar eyes energy, Quad meet",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbzhKVS1xTVkxX1VKSTc1R2pqaEdZWmJrTHU0YnNEMklWZGdUZER1SlA5SW1ncm5ta1Vsby0xWnJFXzRpc1BSa0JRSXNFb2tNSG5MWFZUWkdGSmU3SWVrM1BuYzI1MHFIb053amM1U294Tm1wYWJDcVlJZGE0a09ERHoxQ2ZnUkR6cGF5ZHl4aTFzMmhhaXJxNnp4R1FhWE42aXdVSUx3MTNNOGp6WGxkVkE2aHh1c3RvakFlZEhUZVFCTDR2SkIwb0I0SU5YNmpnLURlbDVzbElTd2pVemVDTGtfcw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ANI News",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ set to keep December oil output targets unchanged, focus shifts to 2027 quotas",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcGdPNGFabHhQclY3OHBvZ2RZeDNKMVpsWDdzOFduUWhFODJUdWlSZTVxXzRJakF5Z3A5UVdWYTJfckI2eGNUaEkxZHJvY1dKN0NiemJkNjZpUHhOOWNuQ1c2ZTRQQlpqeGhpYTYzaXFyQUtDSEpSblBHRVBlNlZsWEVkaklseHViN0pUUlhKc1NabWFwbVlpU0ZDZktyV3MtdjYxVmt2NjlGajhES3Jrd2ZCejl2Q3FlVFlfZDBONkF4Wk8tdlN4dEtCOW82QQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ANI News",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Modi-Putin talks, Lavrov meet, Kyiv visit: Jaishankar lays out India\u2019s peace push on Ukraine conflict",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxON3N4M2pLb1lPaFVoZ3J0VGFDaDQ1dlRtOGxnM2lxX0czTFE3WGhrc2lyYU9XQVJtVEN3M1BpbUU2MnV6Q1N5VXJaanZjdmlQYUttT09oUlR3bFN4eS03RDVlLVpSeVVkcF82T3pzUE5BNGVfN1EwdHdoY3VJOEhJejN5OG1ZbllWYXk2VjhmQ0N4bmJEaUR4VERPcGhuRnpFem9QWFRzdTIzcC1YZU8xZ2ZwRk5UTUhXZmR5WnkzaXFRN1hGcEhEY2k4bGt1WmVsTll3N0w0ZVFxaUd0S3JydktkY3BiNHM?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ANI News",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Hawkish US Fed, higher bond yields could test emerging market resilience: Fitch",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQVHJ2b0hFQXo5N1pwLTl2a1V6S3BHcy1Fc3NFU3JhWkJoc3VGUU9qcDZkNEJwYjY0T1RLSkRhMTJWWGZZM2J4ajh2TTZPYjl1SnQ5cG9aa2U1TS0zYmZLaUlfYXNHYXVXNm5qdW5vTFVZZDdVeVJxampPR1A3ZGhERlJlQ2RxbTAzOGQ0X1JYeGtJOU9WQXFSQjBQS2JnZmtaU1RzcWV4eG5SNlNhMFMwRUZSVThxUlhJbjN5a0hEbzBWSms5Q3hR?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ANI News",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "G20 foreign ministers end Atlanta talks without consensus on key global security issues",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVjRjY3dCajJyb25GeUdYZklJbHFES0FsdHBHc0dYYWpvdERJOEl5WGpYT0tkVUxrOHNlWXhHME92cUE0TUY3UFBXQzdkT3JrVEUtMlg3ZFctdVRYdUtlaXAtOWxTWHhsd3RGbWdDWFZaZ2pZS3V4OExLVFNaMVVnU21qejRFa2h2ZXFfdDJWYVFNemw0QXV4RWlWSXExaExCaGNMQzY5cGEwUC14UmJTa1RQUHNvTEM4RERBZTlPNzVSSkhQSm4xSk1SWlp1blNXbE9rOEFBemc?oc=5"
    }
   ],
   "aol.co.uk": [
@@ -20556,6 +21266,15 @@
     ],
     "title": "Oil prices fall as peace hopes offset fears of growing Middle East conflict",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa2JPUHpLUF9na0tDQUF3c1o5d3VqUlpWYjRYcHQycl9Hakk4MC15YXRvMms4UlI5OXEwZ21XdUJacDFJdDI1cWdRYUVIR1VJdnlJY0dsbWJhb0xMLVNZZUhGS0h5QlRHTDJmaHJGU0tvOXNlT09IVG1BWHZUbTJsYnQ1UTh2MFdMMC04WTJlZWR6clRkQ1Z6X3FqT0JBbnhmeGJ4OTQ5eGhqQnh1NFVHNHlrU1BlUQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Arab News",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ holds December oil output targets unchanged",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWFpDMmRwdWtucmw5b0Utd1c3V1VXeXc4MFh1VnByWDZmMTZmWlY4VDhZQWFHQ202b3c3YS1HNGZjSlh6TndYLUttZ2ZZSHNDQ2s3UGVTYUxGSlRsUV9sM2lHT2RYUG5Ga2J0Q1lzejdHdU5tMDcyVzhsREs5R1F0V1dUZjRNYzRYNXdoRlZoQmFqalpr?oc=5"
    }
   ],
   "arbiterz.com": [
@@ -20937,6 +21656,15 @@
     ],
     "title": "The Supreme Court let a deportation pause die. Filipino families with pending petitions lose it",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWdsTkRqaXd1TVZadWVQbUZBbkdGbUNXT20ybDREYU9WMkRDSHNWLWtyYWs2V3NkbFQ2bVE3T2IwVkFHei1TRnJ3QmotSkVWQlpLSFkzMTF3dURGRjRleG1WR0l3YmdhTkJJOUp1NWRkQmw5YzJMYUh2RVBfU1dnd0hDZ3dhck1W?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "astig.ph",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Iran says Hormuz could reopen two days after the US meets its terms. Brent closed at $117.64",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45M25iOVlrZWhOSjZ0WkF0c1hvMV9rQ2RyNW9sT1NOa2pja0FTem9zV0NZekpGRGdMeGIxbkhrdWZSOGRKMTNHNlQxQm10V05XZlFwZk1IMTJFZ2VtbFFtZjQtbTF5NE5Yal80RzJubFBpNDA0eFdVSQ?oc=5"
    }
   ],
   "aswathdamodaran.substack.com": [
@@ -21487,6 +22215,17 @@
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPN1g4WWlyLW0tZ2Q4LXV2WVp2UmVuTkdtbWtvRmMwclB3M0otZ0djLVkweGlUSHpkeWUyMUpwcXpJa1c2dG1zT0VxUzBfMjBNdDZoVGRlZGg5UzN2YkRWeUJoRldpUVJ2YlM1d0F4QWs5RUZJeW5PeFdJN3pVbGNkTEZOYXl3dw?oc=5"
    }
   ],
+  "basnews.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "\u0628\u0627\u0633\u0646\u06cc\u0648\u0632",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ Keeps December Oil Output Targets Unchanged",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByWUNvYVhHMHMzUDRpbHR1SkJoZ1BuTklycDZRRHNNaWpKVUZnLTRnaFpPMnRFQ191ZHNwS29wZDg5XzA2UkV0UlpCUzBLaE5D?oc=5"
+   }
+  ],
   "bastillepost.com": [
    {
     "date": "2026-10-27",
@@ -21977,6 +22716,15 @@
     ],
     "title": "Repsol quadruples its profits in Venezuela, boosted by rising oil prices",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBsS2FTZmZfY2FvcndaZ3FVaGhIWW9jeGpuZWc0U1A2eWR6S0JyeHlVczFUQ0JaN2dFMm94WVVTUFN6MXprX0RtTlAzWndyX1VQY2tscGNnOXdFUmgwOXdJMUt6RHE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Binance",
+    "sections": [
+     "finance.dedollarization"
+    ],
+    "title": "Digital Reserve Currency Price (DRC/USD) Today | Live Price, Market Cap & Chart",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBTRFllYzRBeU1JZTgzb2dsTHdpeldKU0FjQVdkeTFpZDBuR19oSy1pdkp3Z3lHNlhUSndGNmVERnI0LXp5MFNaellXTURzOUFkTlFJdE0yLWlwSk55OU5maFY5LThuZDJr?oc=5"
    }
   ],
   "bioengineer.org": [
@@ -22267,6 +23015,15 @@
     ],
     "title": "RBI likely to spring a surprise with rate hike",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFpNbDBtcDZiQkVCZC1jS1hfQkxldnoxWHhFTHBMWFRrLXJ5ZGlzcFlwWExnNl9MVEd6M1p1MklCSjlVbUd1SmFsQ0ZwSjVMRDFMMWdxZ1VJZms4aENfenlXaENoWlJXc3VLd3pWY3M0dWpEQWVmMmVzaE1YUFFFUzFVRE9Dc09pZm1uYtIBkgFBVV95cUxNRmtxZUxBSFZSSTVJZGVjZ01xQmRvTEt3RDRMMjJ4c1BwRThfZEI2aXF4alpjRHV6UEpMbm5OSjRSQ190eFZITGtXME1CdlhLMFAyQTNWTmY3aTRHQkFZemVZUV9vdzZ0SDBfWnB1NXI1c044S3dfWi1adlk3MGRsNGhZQWF5ME5xclM1bEpHNG9NQQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "BizzBuzz",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "South Korean FM Cho holds talks with counterparts from EU, India and others at G20 meeting",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUWdHMzlCbUdMMUhhTjk0WWF2aXdNZmQ2QUI2a3VUM3g3eE53RXVwVTJ2OG9JYnNqY2ZvUnlfU09scG1zMElfVFhnTEk0UHRLNTFlM3BHODdqcFVtUlB6MFBESUdKSmJmZjQ4bmtnV2ZjdGhGdnV2UEx5MGNXeDRWeER2d0JCMEtWVE5fM3FxZmhxWGtELWFBY2lsZDZqdVdfcHUtOHc1LUlHbkdiNzAxSHZtZFNhcmdnOWhjWEQ2MGN2WG1PZ1JFalk2cVhYb2YxOGpMTTFmalPSAdgBQVVfeXFMTVFnRzM5Qm1HTDFIYU45NFlhdml3TWZkNkFCNmt1VDN4N3hOd0V1cFUydjhvSWJzamNmb1J5X1NPbHBtczBJX1RYZ0xJNFB0SzUxZTNwRzg3anBVbVJQejBQRElHSkpiZmY0OG5rZ1dmY3RoRnZ1dlBMeTBjV3g0VnhEdndCQjBLVlROXzNxcWZocVhrRC1hQWNpbGQ2anVXX3B1LTh3NS1JR25HYjcwMUh2bWRTYXJnZzloY1hENjBjdlhtT2dSRWpZNnFYWG9mMThqTE0xZmpT?oc=5"
    }
   ],
   "blockonomi.com": [
@@ -22730,6 +23487,15 @@
     ],
     "title": "NITI Aayog plans to organise national leadership workshop for bureaucrats",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWl9TUEJPRER2VGJ1aThqYnV2c18ycVpCQklpZ3NqR0FWbXp4VXIwQ29lTmlUb21wNl9uMU5kUlpsRV9rdFhEQVBPQlNtTHkxRUJXVndzX1NnQl84NW12aWV5Q2JVSWdPU0RCVGhISzBqRVlGcWFHUThoZDY0Rl9xVUw4WHotQVZMT2d0NDFZdVlGWG1lTFA3VHRTUnFPYjBPeGNNZjdZNHlNSExpeUZNb1IzM2NUVk1sbGRNc2pDQTVmR3BpMEFTZm5CSEY4VEdJeWctQtIB2gFBVV95cUxPRUF0cEFtSm5scmRUODRTTUlkc3N6NkNDcHA0aV9PbC1VQlRuVUY2NS1RX04tNUlVOXlFV1JPalV0bUh5b1hCTWVrb2xtWlpHckw4dS1ZUVpsamhwc0JtaW1HdFQyZkRfelRHZnIwMVlEMHZwVGxwWnRXbktXMkZfdDZnM1pTbGVtdENxZ2pJdEltbXZLSHEwQkZnYTdHTnhyS1dYVU1SZmxPWTNIem9hMXlwY1Jkdkk2LWdRQnRnSVFLWXN0VTU3czd0cWhuLWFucjVvWXdqWEkwUQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Business Standard",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ set to keep December oil output targets steady amid war disruption",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZ19Fc09WZ1FnTWQ0bUtGYWpVbjMwOVdtV3MxV0dSMW5QMHllUWc5NlV6bDczZmFXMDhDanZkMTBtRFhNeDVmNWRza0F0YUZKeVk3MXJLUHRZUXV0Y21uaHZOSEZfVlFXZE5MUkxXZGczdGZ2LU96blZaQ1k2bkJMUTA0S1p6dlFZaUF0VlVTNThYVUFGTjJZNnZoRUo3WUdIbWMtaUhxWkVabjEybmFwS1hnTllMU0tqSms1bFlCTGJXZWN4TnpBNVhBeTVROGl0cEHSAdcBQVVfeXFMUHRqTDhMZllURjNSOGV2REg0UDNyMWdFZFJkZU1xbHhGMVpfUEQzLXMxeU9ZcEV0RDNXZG5qZ0hQRzlrZjZkUWRzUzAwZjlYZFJ1dkI0UEt6aHVGYXcwZ2lVN0ZpNnVJWW9GT0kwWWlHa3gyZDY5VDRhOUdaRVN2NDNySklSOC1KeVFaS2U3OUdKYTdwNGV2NWtKM05KNEFraG1uNFJseUlRNjRRLUliSkNmUjh2VnlFZ3VWOTd2M2o2djVaT1lfellvZ1ZqN2lTNk5QRmxLSmM?oc=5"
    }
   ],
   "business.inquirer.net": [
@@ -22930,6 +23696,15 @@
     ],
     "title": "Oil Prices Rise as Hormuz Tanker Attack Fuels Supply Fears",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbHdtNW51OUw0bFRCRzJ3Y1JUS1p3MW1tWEFNNUNXbWlVSG14ZEZKSnZUU0ZGWFRTZloyQ2JyU1B3SVY5X0dDQnJ3T3NUcDh0UFF0Qno2QVVPaHVzaEktelQ4MmtXSTRnLWE2MnlXdXZmUVU5c04wYmdHaFJaX1NLUDlISVFyMXpTdlZDX2hOMFlUdzdQWnc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Business Post Nigeria",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude Oil Prices Hit Six-Month High as Iran War Escalation Fears Grow",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWl9pX0h6UjVaRXdMMGNMOFVWZ1l6U0pnamZxNktfWV8tcDZDRVZXc01mQ3dJb1RaTlhHWGNNOWJFSXF4X0E1N0NPQTZMZ3owRDIxVGhxR1dZWGtabFMxOVdnbWd4WEJ4TVZtdUhIYVlBUmFsSGhWNG1RVTNydU1WZHdvYWdVNXZoeFlwc3dZNTZCUkl5STA0Z3VLanhIQ1UzQVV5Rw?oc=5"
    }
   ],
   "businessremedies.com": [
@@ -22999,6 +23774,15 @@
     ],
     "title": "ECB holds rates as Lagarde exit compounds alarm over oil, France",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQd2xsZWVERWhtS0tOZUNGQXo3cnQzMVRLRDc0Q0FTX2tUUTdWWWZUcDJ0SXV4cHZKVGRtT3hKd2I3LVJTZkM3QUN5T3doTEhWU2dnandyTHo1UjREOVRPOEZGbEp2Yl9zMzJoNDVmSHVHdnV5cWs0aHlLZjNfVjhRbHo1SGR1MWJiVGFOVVh1SDdrSHBKVElOYnZyZm9TRTdyeWV4NWpYbVFBelk?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The Business Times",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Yen gains against US dollar after Bank of Japan holds rates",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjdVcE13eERMQzMxaDgzeldZb1RKNWhlT3VWYWRIRXJYb0VSRnEwckk2QlVjaXVrMTVHbURDaDhhaVhncno2bUVjYjVmTTZHcVZYZzhPcnB4bWFCMTJvekpkc1U0Ym1KNnZlMGwtQnU5X0t2dktMT1ZYYmdaMndWOUl6YlMwRW14cnhCTE0wb1h2NDJoMDV0RDlnSjR1eklMZUtiandVT1drVjdkdFlCcnNacXhCZjhjODVYYXhzR2p5RldUMzIzVG9EUWVPX1E?oc=5"
    }
   ],
   "businesstoday.com.my": [
@@ -23261,6 +24045,15 @@
     ],
     "title": "Jaishankar, Austrian Foreign Minister Review Bilateral Ties, Discuss Defence And Trade",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSFFwM3MwRklJYjllT28xX2hnRWp3NjlqWDZGVVo3Z0dheHlwaEd3SldGTVc5RmEwY2Y4cHpRYVJnYVI1dzVYQ1d0b3FxekFaLXN3YldKV0ZEaEJyeEdULThzbS1qWTYtU1dMdzRJaFU5QnRpUUJEeEpNY0h0c0ZITW54c2F2MFlWOS11MS1RcjE0UXViSVNJMEtQWHduRTBZT280YURkWUtvcUM5d3c2NzhHYV8yWktyNlprcmJETjVWWjVpdzJj?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "BW Businessworld",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet Approves Rs 1,857 Cr Scheme To Boost Sports Goods Manufacturing",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa1hjVmE3SnN4d2ZCVUZJaldKbTU3bW5POTVjVGhRdzZUcjRwSXFIZnpQeU1uOVlyTjhwdTB3Z0gtNjJ5eFBWeDVBUkw3aURldFY1RjNZUlBkTEdKVHVVTzRhR3RmUG5ZREF6dWpzRGQ4V1Z1SjVNTDc5WUZXVm5JQXdQVnJHX01CTlQ2dXRRcXdKbEQwUEdUbnExOHJzVGFhdEhUWVBkUy1JMWVQYXdoVV9yYmNqdw?oc=5"
    }
   ],
   "butlereagle.com": [
@@ -23368,6 +24161,26 @@
     ],
     "title": "Solactive Sustainable Development Goals High Dividend Low Volatility USD Index N (DE000SL0A923.SG)",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9mLTFVUl9qR3l6ZUkwM1J1b2xfZDh3aGlobng5QnZ4RS03Q3JZT0Vkbmk3WktDLVRjRllDR1dUZlFGaU1qR2YzLXE2QWJ5WDNwQkEzTmNNSkFuSGhFRlc3S1ltVnpFellPRHBDMlMxWQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Yahoo! Finance Canada",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Saudi Arabia\u2019s economy contracts 3.8% as war disrupts oil production",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaXRHeHBrM3R3ODllRzUwM3RzUEVnclJ5TzZDV2ZQbnBuZm5MbjQxRktUOENMNHViNl9hVjliUXJtODNKcEFWVUQ1Q2tBSzhmWXNJemtwcnRsc2ZLTk1nZzZBSUFERndjdmFxelo0bzNxOTJWc3pXZDZiWEJOWDc1bGxzTDRYLUVv?oc=5"
+   }
+  ],
+  "ca.investing.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Investing.com Canada",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Carney says talks with Trump build momentum towards Canada-U.S. trade deal",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYnRkejR2SmZnZ0F3VU9VaDB2S0I4aF9WM1FWS3VURW5Fa3FWbGVScXllV1lRY1pzbGxrRWlnMlN5MjJUNjA1MGxsMHJkbWxqRFBVSG5uMVBYZWlFalJ6cjJlcy1SdTZPSUxrZ3V5WlBJX3MzT24xZ1ZsS3Z4bGEwbWRoeXVnOHd2Z3ZSSWwxZlNfdDNoXzVFblN5dG5yX1h2c0tqbzNqa2hTVDQzR3dxVXduQWxydHZkYlB4NFVVYw?oc=5"
    }
   ],
   "ca.news.yahoo.com": [
@@ -23529,6 +24342,15 @@
     ],
     "title": "Senior Research Fellow - Europe",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBpRVBVVXpKd0ZUQm00VU0xNktHd2IzaDJFbTY4aHUzYkVPWktMZ25QNFY3TW9mLUNiRDlzX1dqdGtqUjJLb1BXUkpDZXl3VmlLSllrbDZOQzZHMFFkck0wdHlnX2FmZ0RwdlFObTBBWWNvRFlucjFF?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Chatham House",
+    "sections": [
+     "politics.world"
+    ],
+    "title": "Senior Research Fellow - Europe",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaWp1TDFaTFVfNVZjcUd4b1ViVVZlMEZqQS1zZWt1X0p0cEJLSDRHbzhGT0dIazhJVGJiQ2loX3pNLWsyY3BmMG9Ga0ZUNkFGTTFjMXBBQ1RtdFprblZDQWxLUk8yTTJybkkyc1hxWndLX3JIM2N5U3R6d0RuVzFZaA?oc=5"
    }
   ],
   "caspianpost.com": [
@@ -24299,6 +25121,17 @@
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSVBQS3NVOTNqOTRBeUQ4UEw4NGhXS0UyeG9qaG51M1ZZNG9qU19OYXdBYzR0b2tmSTRDZEk3OTBSekt6OVlMTlNncUFpV0plVDhfakxRZUdPVERzemphejlTdXBBbWJacHhFX0NVU19JNFJMM3VUMjFaMlFRaXBwclN3c29rOHFlcWxPbllrazNvUTFXMnJrcHQ4TWtQeGRzbFd6OHpTakM0U2NaNEhDV1pud3R2QWpERmhZNUdVNWlOcjRHejlTejZfV3c3YU1abE13?oc=5"
    }
   ],
+  "civilnet.am": [
+   {
+    "date": "2026-11-02",
+    "outlet": "CIVILNET",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Armenia ratifies trade deal with United Arab Emirates: THIS WEEK IN BUSINESS",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBjR1ZkNDI4bnJBb2tDRWxzRXZfQTNDaC1YMFhQUVZjN01KNmRQZThGZVNQWGFQZllSSzRBRnNhUy0tNUJtVEdqWVdhcUU?oc=5"
+   }
+  ],
   "cknewstoday.ca": [
    {
     "date": "2026-10-30",
@@ -24644,6 +25477,15 @@
     ],
     "title": "Fed officials are already saying they\u2019ll need to get back to hiking rates",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0hqSXZpT1VZTUNGSkRVSkVaa092QjVSaGt3ZHlpM0F6RENCYlA4U3A4V285MTE0eXp3aFNKNXVjSVVjTEMwbXE1aV95NFJHOFdxMElwWTBsZ05oYjdtWVlmZkFQNzlqMzV2cldpekQxZGVqSTJ6ZXpSc205THRQYdIBhgFBVV95cUxQSU5zQlBqM3NxZWNyWnU3a3NHOEMyNUFZdnh3WW9KOWVDNUh0Q3pIRUdkYzZoZ1lONi00cUF6NmNxM3FGN0ZYYzVoamo1ZHJ1LXBkLUFBVUFBREgtVWVEWFh0NTJnOGQ2T09TUmNpX3dFYjZRS29SSjlFMlk0T25DamNmVWtndw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "CNBC",
+    "sections": [
+     "ai.ads_social"
+    ],
+    "title": "Why AI is boosting Meta's ad business while hurting Google search",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VFFxN2pKNFVfSEdGZVpaUmU0ZUVyWGE2VnEwUE5oZE41bmo5Z2dsTnM2alRKM1VaV0g5ZWcxb2FKcXZxdUZsWUktQzJVel9aelpQQ2FScE43X0RncXl2cnJDY2FjdVBYb3EzR1NySdIBdEFVX3lxTFAxZ0VWZ1FUemdMTjR6NktfMmpJUmYyY3BycTBTQ2tocUZLa2RoaEJZVFAyamFxU1ZwdmJOYjdOZ2xqVWMxbGNVLXNOSjBrUFVFQ0lwZ1ZQcGRXYmtjaERRaE10b3JEWDBnTG1IUHU3YTZZLVNa?oc=5"
    }
   ],
   "cnbcafrica.com": [
@@ -25620,6 +26462,15 @@
     ],
     "title": "Fed Rate Hike in December: What It Means for Crypto",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3dV9QYWlzaXJUZ1o3Yl95Rmk5Zm9hbEEycTZHdHJiQm5WTnVqelBLcUNIUWM5VTlnVWZVNGdNUmtVdDZNVzlrcWZCbXN6cDNlRTM4dUQtRDFWSXkydm5Ra1h2Q1FMUFQ3OEtKT2wxQ1p3WXc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "CryptoTicker.io",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "US Inflation and the Fed: Bitcoin Before November 10",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10Rnc1MzM4Rl9oamxZckNwNDRfQ2xNRlNDMjNkSUFVT2lvX1lPcHlxY20tbVk2UjVIRTFwSU9HUy1NOXRVTFcwUmZ5N2oxcVQ3RDBQWTFuOENBaE1kTFRxdXVkMmx0SkhJTDE4cXFJQ0E?oc=5"
    }
   ],
   "cryptotimes.io": [
@@ -25810,6 +26661,15 @@
     ],
     "title": "Young Cuban Faces Deportation After Four Months in ICE Detention",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1OZi1vSDgxUDlmdlpveEhJcEt1VE1ETnN5TnpEM0p5ZmRvNVlVQXE2RnFZWWp6UVgxejNYeHRicjQ4QzhkYVZqbGRiLUdTSC1xZDhPckNDQmc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "CubaHeadlines",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Son of Cuban Pastor Held by ICE Awaits New Hearing: NGO Claims Drug Charges Dismissed by Judge",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRWDlrcXdyUFdXdzJaaWoyZFZZV2c0NmJGZl9jVDlTbFczZWJFcWNvSk5OS3N1VGNyRHFLWFJrc0JGOFhzQnlidjM5bTJNZFAzLXpGYlJ1Znc?oc=5"
    }
   ],
   "cwp.sipa.columbia.edu": [
@@ -25843,6 +26703,17 @@
     ],
     "title": "UK wage growth picks up to bolster case for Bank of England interest rate hike",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQ0RFVjVqRVJKNmQ3WGtYX05hTEpsQS0tcXpwUFh6dzFESXN2U3hGX2ptMWszWkl0d3NRUGhOYzBIbEpsLUxiOHRxUm5NWnBuV1lWbHNNTVRZRE9UVGlhWjg4NVI0OW9ZQ1JfVFVlLXM3aVREaFFMSHZmZ2JHcnBpY05oQVlOQWNybG1QVlFGR0ZSRW4xbjRVYWdReWFCaV9pQmp2NWR0RWZSSFUtU0VJZV9lcw?oc=5"
+   }
+  ],
+  "daijiworld.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Daijiworld",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "India's crude oil imports hit record high in October",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WeTlrRjlHNlotQ0kwS0ZLaGZlbFpwejFCSUlmcmFsZUxNVEZQZ0taUWVERzBsOWFWaWxZZEtWemY3WElObXUxREdLNjZrY1Y1U2ZJVnY2WlUtelZqY05fY1o2VElnR3cwakEydGg1aVNhUnpLZmRn?oc=5"
    }
   ],
   "daily-sun.com": [
@@ -26118,6 +26989,15 @@
     ],
     "title": "Shell, TotalEnergies rack in another strong quarter on high oil prices | Daily Sabah",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcUxBOUgycS10SzViRjhHMTlQbVlmUFVGeTM2c015WjBEeWppdzUtY3N5ZXF3Wlhna0piZnJzbUNvc3RCZnRIajJac00xZmticVB6bE1qUjYzX1NTWC10SDNfSVVIRk1ZQ090aEtseHRyYkFDSWpORjFWSlIybTdpZ3RQTHJJWVgzcE1mQmgyQWRSMENMQWRBdUZVSmg0V1J4YVhJMGFWZG1hcnN6UTl2aDNRN3hSV2_SAbcBQVVfeXFMTnFMQTlIMnEtdEs1YkY4RzE5UG1ZZlBVRnkzNnNNeVowRHlqaXc1LWNzeWVxd1pYZ2tKYmZyc21Db3N0QmZ0SGoyWnNNMWZrYnFQemxNalI2M19TU1gtdEgzX0lVSEZNWUNPdGhLbHh0cmJBQ0lqTkYxVkpSMm03aWd0UExySVlYM3BNZkJoMkFkUjBDTEFkQXVGVUpoNFdSeGFYSTBhVmRtYXJzelE5dmgzUTd4Uldv?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Daily Sabah",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps December output intact ahead of tougher call for 2027 | Daily Sabah",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZmRJbE16Ym8xN3JqdlRnaTQ4WnB3Nk1OUDI2VkxQcTFuM0ViSlZXYmJhSUdsODhFX2QzeFFhTE56dUVqRW1HM1Z3bXVCWXpfUUZ0LTh1aWIzcVB2VVZDSW4ySWRVY0ViMl9yY3hNU1RNdkdxMkRrOHZ6dFdQWnYzWVl5OHM3cWpzQklwX2hlYVdZWG5QZ1VWRnhYeDhOSjBWYzVpYmdKSzZfY3Rsa2ZDLdIBsAFBVV95cUxQZmRJbE16Ym8xN3JqdlRnaTQ4WnB3Nk1OUDI2VkxQcTFuM0ViSlZXYmJhSUdsODhFX2QzeFFhTE56dUVqRW1HM1Z3bXVCWXpfUUZ0LTh1aWIzcVB2VVZDSW4ySWRVY0ViMl9yY3hNU1RNdkdxMkRrOHZ6dFdQWnYzWVl5OHM3cWpzQklwX2hlYVdZWG5QZ1VWRnhYeDhOSjBWYzVpYmdKSzZfY3Rsa2ZDLQ?oc=5"
    }
   ],
   "dailysignal.com": [
@@ -26351,6 +27231,17 @@
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ3lGWVFJd0JWSDVEVVBFTlZpOTZyb0JtaVZERnlrT0lJSWY2QnFJVmw1Q0R3c1N4ZFFSV2ZsQXQtM2lJVEZrdHkzc0pENmU5a1lFNTNBaEFlMmU4dFFoX2tTWFU3TFJ4OUhaTWZaZmNDcUNLOC1zczF4c2xjeEtwczBZZjUyX05DbFU5ekhxYTlQTTYwZG85QUlyMmRCVExISmlrQ0Vyd2hrbUg0T2ExNEdYbWg3Nk41LWw0?oc=5"
    }
   ],
+  "davisvanguard.org": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Davis Vanguard",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Supreme Court Leaves Immigration Judges without Key Tool to Pause Deportation Cases",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZFBjTlp1NWhtV29CdHZVNmtMcTMtZlhUR2ExQzVsT1R6b0l6dllaZkV1LWgwN2ZmbnpTUktWN2NZeC1KX3hCZUViYjJnOG5Sb1BWOGFKMTlWNVdMSW13aERDdzUwOFBMUnZFc0FTczRUSXFCMVNzUEY4RG9lb1IxWUln?oc=5"
+   }
+  ],
   "dawn.com": [
    {
     "date": "2026-10-29",
@@ -26544,6 +27435,33 @@
     ],
     "title": "India, Uzbekistan agree to deepen strategic partnership with focus on mining, trade and regional cooperation",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNzIzN2NVajM1ZXh6QzNRT255cjRlbHhaOGFlREtEak9mUW1wME4xMnlaM05oNWxpWHlnbVFUSXBfMjFETHZkRnJmcDlzbW00dkQzSTNUcnE5WF84OFczb2hxY1BpRUVhMXBzZ1BkelEweEJCaE1mX3pfaDAyRkg2a21KUVgwM1lJdjBPN1lJM0gtTEVXbmI0RkFreG82VnlGcWg2U3VjLTEzam1WS1B4MkViWUFUMW45MnlDbk14dGMwWVgteU9ERmdzSWg?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "DD News",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Stock markets trade marginally higher after US Fed rate hike; NSE IPO in focus",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcjhEMjNJeEx2ckRNZnFTcEFOSFpQTjhwY21Pc0dEOGJ3dGNBVk5UZjkwYzBNbVFyNVpKUjBjNFAxa2E2ZlZ1SU9KcnlnaWM0ZTRkVVpDaXphaGJDMjUzNjB6YWpCR29yWjl3U2xjMUhhbk45MkxWaWMzTmN4RFBaSFM3SFhydzhxS05kT095dG9fVWQzc1ZCNllVZXFqWDhzVkwxajF3?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "DD News",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet approves changes in FDI rules for investments from countries sharing land border with India",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVUwya2VHT3VGaUlZOE12bVlHY1NvVTFjSXRiUUtfOFZuaGFXNl9meVFicUh5N3RxbkNtZGhFS0xMUjFsUGI4UGVkQjRiTmpzc2Vpei1vSklpbnVqTGpfZ1RaM29vbUMyVS1LeW9ZdDc2Q09zeXJmeFJFbmU1ajh4RENucW5mV2dseVNhaW1QVGJCM054NjZFOGtTN3ZwczZrUmV5bVIwYUVzR3NZdkhzNGwzcmVpd1J6Smo4Mk9ORFdPZzg?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "DD News",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Jaishankar Concludes Bhutan Visit, India, Bhutan Review Wide-Ranging Bilateral Ties",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYThhbURHR0twMHpNT01BLV9Mc0FDUGp6bFRCYjZ3WmVOTGJZOFpjUVRRdUV6Qkp1NHVnbkFiRC1xX0d1ZlZ1ZlJpZzhsRGlIQVFQTnRFdEQ1VFNrM2tlYXJIMS0tWlpMZHZOY2VWWjZjY2taY2xMcEZyX1BwcnUyVGo3OXRKQmthdkJFY3FXaFZvSnBGYjIteEpRYmwtMjMxanJqWUYyR0lfazg?oc=5"
    }
   ],
   "dealstreetasia.com": [
@@ -26593,6 +27511,15 @@
     ],
     "title": "How Trump\u2019s Immigration Crackdown Backfired and Could Hurt Midterm Prospects",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOc3FYVWYxRGk2aENDM0JXU0pzNk9CaXp0V1NXUXZTN05HUFFlY2ZPWEE1VmJNNWdGX0c3aUZETmpuYlo3N3JEWFZjR3M2YVBnY2YzeXBiR0RXR1BXQzNYU3VqT0FXTUxYdHJ2elhab0xYTUZaSzFfLUg3MWkwdWhWMVhTeDlUVW8yTmw3UlBUY254b3R6dWlCbUFTV3lBSWR2QXBWbTg1WnVKR05JMFZvbFZ6X2h4VlBtQy1CNXdn0gHDAUFVX3lxTE1tWGFHLS1JUU1BTk1HbEp1ekFoc0x6eVMyOTJjUXRfWFMxeElxamZMX0RsblZ6ZnNkOUQ5SFZjUGRteENBVnVLSlRCQ1ptN1M0ZGhiR3ZxcWhFcUtOVWdHZ2FVS05PbmwyaHl1ZVRMRk14ZzZmZEJFSUpEclprVUxlc1JUcWxObkNQbGN3dXM2QXgzN0liSTNlT1ZiVVBVNG1MeThvTWlJM2Q4UHhSWDRZUjhIaTdsMzlGZ1VYczY3VE8yVQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Deccan Chronicle",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Modi, Putin Held Talks On Ukraine Peace: Jaishankar",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaF9NUWZlU29YZjU3dHBuSVFaZGs1ckpUb19ja1RxeFlPX3FqRlZ2My1IWDRzV2U0X0VwOXUzc2ZJb1RQa25CR293MFYzVFA1QU45d2g0dFROV3JnUFp1Y1BSTTJuWV9XcFdaZDc5cXVxb0l2NGhGa0dFYWNIb1RuWXlQN2N0ZUZJcmliLVNIVHBhbkNiTWNEa1NVN2g4VEJIdVJfcjhnWGHSAa4BQVVfeXFMTVdWcGVwUFhleUZrNk53RUJLMlVTMzcxSFFSNnVnODlSYXdNZXZramluTV9QLUNDRHFyaV9DQV9YODc5V212WHlyZFFNOWdENVVZRE9WWUloTXpYWlZjNHpOOEpjNmh1WnZUeTlQeHlYc2wwaE9pUnhSYkhfWHFubWZSUVJrOG5sTGtNLWVRZUxLOEdJeFNjakRkNFpBTnp1Zkg1MVlvQkVEMUppLW13?oc=5"
    }
   ],
   "deccanherald.com": [
@@ -26613,6 +27540,15 @@
     ],
     "title": "EAM S Jaishankar holds bilateral meetings with foreign ministers from G20 nations",
     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZ3VxaDc0aVVxN3hidy1OUThYZHZMZk5zWWwxR1ZXX3dLdi03YVRqbW51Y29NMFJrcnZSZXNvbTRYTFdqR1J4dXpENjdUR203LU1pQjlRR3ZMSFJZQWpaTEg1SDNXV0p2SWFlYktJVFA1STRnV2duN2pyZGJySlR4NVA5YzJaaUpMVUlLTmJqZjZib05jOHF0clREajFSNDNQSzljdUFoNDg4VmlFY3FwMkFucS1JVHRTUldQMVowczQtbTBYcUEyNWVxUkMyY0g1dVE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Deccan Herald",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "PM Modi to inaugurate Bharat Renewable Energy Summit in Delhi",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdkNLaldraEoyeHdndV9uY204bFpwY29uZi1yNXQ3NFN6eUFXMmJnVC1OVXQ1Zno4ODRVTVRHMDI1RXJNWUtBMWhPTUtaa3hpeHVFZ0FxRU9MZmFSUnotNnJVel96cVZkX3lheGJWWm9wbTJKQXRJdlpjMGRyREMzVk15d2RkaDR5OFJZTnZramtqQzhNU0s2c3ZoY1llR3o5eUpFYTRySQ?oc=5"
    }
   ],
   "decrypt.co": [
@@ -26896,6 +27832,24 @@
     ],
     "title": "\"Discussing ACITI\": EAM Jaishankar holds trilateral meeting with Australian, Canadian counterparts",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUklRaVZHV05sZGJYZHFvUTc0VFNBOUV5WWpyR0otVVNyR0UxeWNfT1V6RkNERUFuX2xVUnVNRFNfak5WSU9HOE5DMmFYOTh5czZNakZxM05nZDRnTGVSSUNScnN3OEszZVVzNlhtTHVPZHpPYWFPLS15WUg2ZnFXSktaQnotdDJRdkU5U2x1eUkzYk5BbHdoUXZxUE9DaHpERVVYQmVOamFFNnRmMkd4RWw0Ry02SUdVbWtTa0NCVW9NNTdqT3VRaWE3dUZ4X3RvZWx6WjY3WWVUS0k3a01CY3VCQ0cyMk1p0gHuAUFVX3lxTE1YdV9MUUJnb3hIaXRHWElqZi1id3ZSSmhNYnpOYjhaNXNzbjVsLW02dUgwOFFkckQxU1U5aHBBWkFZWXhmOFFmd0hLY2xSN1EwVkVhYUFCVW9nZkNCenkzZk8zcG4tczVvMzkwMEpFdl9yZ2NMVTIwYzd6czNtWDZDcF80V3ZhVWg1aVNjam9FVjhNNHNEelZsUWJvRGYwSmtpUVEwaWlkSlpxck9pNmdPOWNSU1dqOU1xZjktVFZHUC1hbzQ5LW03bXNZa0lBdF9zMkdiQ1haTVlIR1hnVC0zNUhCQnZGdlk3aV9BV1E?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Devdiscourse",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTEFBVGlVV0hKRlVueWZRN2NvR1c4UzJMR0FNMVFuSDBETHRYb0NTMlBSYTlDVEdrOGxkV2lSV0J0NEZRRkRBM29UTmdnMWpld2NQNzRQS2FkYUw5Qk1ueXRLbWJEY3BEZldCajh4eW1nZE5mNHIxNHkzRFhJXzBMYW43SjgzS250WVhCdFRTdTE0dWpnWS1wMG9raW9pbHhlaEZsNzExMll5SkxleWJIdkgwdFMwZGFieV82Zkpyc296WVc5aEJnemFmSHlTMDBPcnlqN3JB0gHWAUFVX3lxTE5MQUFUaVVXSEpGVW55ZlE3Y29HVzhTMkxHQU0xUW5IMERMdFhvQ1MyUFJhOUNUR2s4bGRXaVJXQnQ0RlFGREEzb1ROZ2cxamV3Y1A3NFBLYWRhTDlCTW55dEttYkRjcERmV0JqOHh5bWdkTmY0cjE0eTNEWElfMExhbjdKODNLbnRZWEJ0VFN1MTR1amdZLXAwb2tpb2lseGVoRmw3MTEyWXlKTGV5Ykh2SDB0UzBkYWJ5XzZmSnJzb3pZVzloQmd6YWZIeVMwME9yeWo3ckE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Devdiscourse",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbmIzMDlXaXJTM1hxUVdKWWRUMW55eXhHVF9yLVg1RHVjenRoTHdoS1NHLS1IZkRiNHJtVkNtQ3hCM3J6cU5VZmM2OFF0ejFMRDhVSTdJdmtJOFk3VWtBYy05OGV0Ql9RTWhvRGtuQWNreHRzUFNvZ2xLcnJ2QllnZ1Q1ZUNGbjlaWkpjZU1mOGlFbnd4TUdTZ1NRVmkxdlQyb2NGdkIzNWZxTjBvLWJKWXdYZWs4Y09uNWpXQ1NneXI1VmJLQ3dmZWNKTjQtVWFHWFhQTGxwNEp3RVJ6ZGRJ0gHfAUFVX3lxTFBuYjMwOVdpclMzWHFRV0pZZFQxbnl5eEdUX3ItWDVEdWN6dGhMd2hLU0ctLUhmRGI0cm1WQ21DeEIzcnpxTlVmYzY4UXR6MUxEOFVJN0l2a0k4WTdVa0FjLTk4ZXRCX1FNaG9Ea25BY2t4dHNQU29nbEtycnZCWWdnVDVlQ0ZuOVpaSmNlTWY4aUVud3hNR1NnU1FWaTF2VDJvY0Z2QjM1ZnFOMG8tYkpZd1hlazhjT241aldDU2d5cjVWYktDd2ZlY0pONC1VYUdYWFBMbHA0SndFUnpkZEk?oc=5"
    }
   ],
   "diginomica.com": [
@@ -27150,6 +28104,15 @@
     ],
     "title": "Houthi Attacks on Saudi Arabia Lift Brent, but No Barrels Are Lost",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTzg1ZnFOcTE5QUY1clpnYWdTVklDZmRId05RVzdKdVU0bTRQdHpvVGw5UlctbHU5N0JXemVIa0l3R1h6dmJXeTA4c2ZUNjlENjlsa1RPdWZGSXFjZTJWZnpoa1hTbndqZW5vT0tlcWVKcU1oTEQ0WjFIbjFoenlQaExaUWU3clQzeTQw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Discovery Alert",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Hormuz Tanker Attacks Hit Record, Yet Oil Flows and Brent Hold Firm",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0wtYkZ2TFViZWRWMXNFczdjTXRMY2JwdTZiWnM5b2k1anVQaFpvWlI4QXRrTkFfTU1xOUJldzJIeDdlSU1LMHZPYmVtYS1mR3A2RDQyTDNiVi1YeTlpMDMyRTlNVVRnaGI2RGtnbndGdWdnUGpVcXJYU3pUR0Z3ckgwbVhjZ1RTYXhnWVZOXzI?oc=5"
    }
   ],
   "disruptafrica.com": [
@@ -27228,6 +28191,17 @@
     ],
     "title": "Trump's H-1B visa curbs not targeting India, says Marco Rubio; calls policy 'global'",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOa1BsVXlFZ0dqZHJvNU5yZ0I0TFd4MnpELURLUFFPMUM1cWZ6Ykt6YnNtWjludUR5MmRYU1BVYkptQnctOVYyZDlaMTByc0ctX1hnZkhYNVhrVnBCT2xNNU4zVGJMWkczWF93RWh3aml2WnlGR2FnX2V6WVZaTEtGRVFmeHFxR3A0VmpCRHdiTWZTU2dVQ09NMXJDOS0wMlJUcVhRbTVmSVZCbDA5TW92eVF6azBqZHhwOEdweGdfYzJxMWtZ0gHKAUFVX3lxTE9PM2hyb1d4SExkQVY3aUNyb1N4YXJjUXFCWklQSC1Ydy1WdFpiSmQweDQwOC04akVsM2RlTUE1Y0lTRVlfakZXMFlQTU1jQkRmNURDaXZMc0hPQ2lMRzBPaDBXMmdvWXN6bHhiZnh5WEx5ZVEyTW51aHBTYU9nVTRjb3prUzJGVzV0T29kQ3lEUVFfdVZ1M0JCRGpPSEpwRENVajA2WEZvSDJCc1VxTVlxYWpNaldTVDhaRHlZSVh0bUstRWxwZDlZcUE?oc=5"
+   }
+  ],
+  "dnpindia.in": [
+   {
+    "date": "2026-11-02",
+    "outlet": "DNP India",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Bhagwant Mann-Led Punjab Cabinet Approves Key Decisions on Patwari Cadre, Grain Market and Labour Rules",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOV3JRM3duay1vMUZXblZhMDA3bEZMR1p1Z3drR0pIVkJSbnRUM3ZleE9acUk5a0tUMl8tb01BeUZjZTZMNENmYmt2Z0NwUzhzaEZXYUF1MGFSa25JTnk4Q2NPZHBxN2ZZdjJnb1pRNy12MzBVQVNaclQ5U202NUtCYkVxY2xhX050UVFmTk1MVnRSTUdkbDFfSjRHMVp2cnVodEo2T2c2amZ0U3pnLWx2emZRYmsxN09XUVRQVG9VaFpsRlIzN0xUOUtaYWNJSHR0bDZsaVAtVzFpR0RENXFQdllR0gHiAUFVX3lxTE5XclEzd25rLW8xRlduVmEwMDdsRkxHWnVnd2tHSkhWQlJudFQzdmV4T1pxSTlrS1QyXy1vTUF5RmNlNkw0Q2Zia3ZnQ3BTOHNoRldhQXUwYVJrbklOeThDY09kcHE3Zll2MmdvWlE3LXYzMFVBU1pyVDlTbTY1S0JiRXFjbGFfTnRRUWZOTUxWdFJNR2RsMV9KNEcxWnZydWh0SjZPZzZqZnRTemctbHZ6ZlFiazE3T1dRVFBUb1VoWmxGUjM3TFQ5S1phY0lIdHRsNmxpUC1XMWlHREQ1cVB2WVE?oc=5"
    }
   ],
   "docs.mistral.ai": [
@@ -27986,6 +28960,33 @@
     ],
     "title": "Oil prices soar 14% in October to 6-month high as US weighs fresh Iran strikes after midterms. More pain a",
     "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNQ05HcXlwTHM0bEs3clBpUmNEVndIbjhBTWNCN1owMmJSVDRqTTlrMVJ6bFhEX05PWWRNN2xFV2xBelEzZm1wRVJ2QkxQdWQyQ0pMS0pzalNxSy1SZjdPQlFyQjNodllGREtYT0hSazViNU0xWHdxeTVwRjJwNnRqa1JrNnVJbjdwZ0RaYjNUMUdYbVJ0U2RpX0EwQzF1aGh6TnN5ZlViZUI5WVNyY3pKNkl5cUlsNDFfZWU2X2dUSmNaSU40dEJaRWR6bUM4dlAzWHM2dFA5QVYxRjg0bmhzMTFxWVFaOVRuNDZwWFBOeEVaRXdiWWkzeHlSVlRvN0pYV1l5ZkhBYmF5VWlMYWo1TzdQVjhjbktpNkRUbldWU0xfSmM5bDdv0gGsAkFVX3lxTFBqV0pqQ2xNcEFYaC1hRGVxT3I0UnhBMmNZelhvNmFZU2xTaUJXb0VjYU5LRFRUMDNGdnRjM0hDNFpNa0RzZFBvUk10UE1VUjA1UG1EaS1iVWtYUDdCT2JwNm5wZGt0Y0lTUE5Cc3ZmM3ZoSV8tV09DWDFIdTVXbkxNMlF5aUk3cFMxcWtZRWI2b29zWnRIaGZTcUEwaWFUSC1uR2VUMWlqdDZEUEphQzJWZlIybW9IdlE1eWRNN2EyVERwbWZmbkl2bllYQm9HQ0hZb3VHck5VLTEwV0M3Tm1kY3pyalgtZVR3QktzbUM3Z3pfS3RqdHd3cXVTMGgwVWFUSWFUcWZoaFNCQW1BblNCcEZTT0YtSWhkQkIzcXNhMFlibllmTlRCaG56SQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The Economic Times",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ set to keep December oil output targets unchanged, focus shifts to 2027 quotas",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxONzU2VHlsU3RIbGJCZ2R6U1pwWHVkZ1c1QmlKNW56R21iVWdGMk1QRzVnQTlLN3ItUmpWUGJfRTljRWlDdmlIcnpSdG1NV05YS0U2WGU0ZldfYy1hSmlvM2RPdDNyWGowbE04ODB1aFZRV1d5QnFJU1dQTFp0SUdvQXIxU0dEcUdVMmEybk9haU5iUlN6UFczYWJZekVxQlpQOWNBU0FaM2pac3huTWZkSUMxYzh5UGpJem0yUDM5U3BoUTVsdE5TS3FwbS0yZWtnejFleHN0WFNIUTAzMVRsejlQWEYtR1NPc2ZxbWRXbVVVeU4yc0xv0gH3AUFVX3lxTE43NTZUeWxTdEhsYkJnZHpTWnBYdWRnVzVCaUo1bnpHbWJVZ0YyTVBHNWdBOUs3ci1SalZQYl9FOWNFaUN2aUhyelJ0bU1XTlhLRTZYZTRmV19jLWFKaW8zZE90M3JYajBsTTg4MHVoVlFXV3lCcUlTV1BMWnRJR29BcjFTR0RxR1UyYTJuT2FpTmJSU3pQVzNhYll6RXFCWlA5Y0FTQVozalpzeG5NZmRJQzFjOHlQakl6bTJQMzlTcGhRNWx0TlNLcXBtLTJla2d6MWV4c3RYU0hRMDMxVGx6OVBYRi1HU09zZnFtZFdtVVV5TjJzTG8?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The Economic Times",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "EAM Jaishankar discusses Ukraine-Russia conflict solutions amid G20 summit",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPUnpZclJXdHU0eDBqdGtmT3pDZzlCRzJVNWExb2JDcmVqbTZWU2NuSnRWVDJFWmRKQ1FzZ0JKR1VwV25RYTFjNFRMZmpzUTBKZ2VTamtQMUVGMkpmc3hORDcxVmUyZWFqUHlvZFotcVVjY1pRTlFETmZGbWEtS205Mm9zVlNTWmN4Qy1QZFpabEwweXJOaE1MaFI3YUZ2ckdpbW1NZEEwdG9kOWFOdF94ZUdyenhvOHhQREdyNVlra29XQmx0X3o4eFFMNWJVUHExOXJMUHUtc05OLWFfV0Zjc1dCazNhcVhFdktV0gHwAUFVX3lxTE16ajNmNmJRb0liaEtMUDgzX01KVUVad1duZGwtQXE1cXVhRDN3V1J4UEFIUkFfZXdMMkFYU09raFVVdHpLMFJnRElDQjFUblpPWWU4TGZYb0RMdTRmb2VQb0tJVmpTM1hoazBSdXRwUi10eW5RSFI4czRxVjVZVWtxTUlrU3hfNnZYTE5rUi02Tm1IUjdkank4Q1N0Z19kLUJuZGFsSmRLei1RNlpuQ2ZLb00tWXAyWHVrbExRY0NwakNqcjRNdVBJYkxiNTllUDIyNW5wY3lqSnZyWjBvaThEUlVEdm8wU29MR0xocnFvLQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The Economic Times",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "US green card applications face new tax scrutiny; unpaid dues could affect approval and US citizenship",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPa2p3azNEWDU4VWlJd2FxbzlUSFVtamc5T3h1Yk1WSlBDNUxqUjFhLUExSS1pb3JSeFRpcWlhX2dKUUVfMXFRQUktRkxBOE52T1JDeHhfSXRjZnVVZGFMUU9fR0s5WHZzYThIZDViVGRyd2s2WjhPR2lKZm5LNTF4TGxfcVBQT3E4MGdRbVlBRWxRenFWbzRoV0ljM3BRQ2s3YzUwOVBraUhFYU9ZS0Z2aGV4MUpTTmZtcndmV0lHOGczYXBiN0FaX3YtNGhCUHNKckdmeGlRZ3lhaDBhTXlLRzRvOE1pQk95MHJUVEFxc2p6X1EyeDhGbEpwcFlXYWltc0VZNtIBigJBVV95cUxPbzU0Q2NnWkFMVGMxWWNrVHZTZmpFclA3UFlnSDRPT29jTHJ1NUpfUW9iRS1fM3dxZW5uLWdxVnU1NmkyT2dLQndvcVlVNVpnX2xIcHlZNjUybWppd250enJoLWhOTzMzWHVrV1BXakdXc3R4ZXBOeTdFYi1vSEV2M1hnODBJdTlrd3NyNjZISlBXVDNpNFk3TlNXVzRpSkJTWVJGUUdvN2dmMDdHUEJxNHZMMkJjZnNJc1hLVUZ1c191V2VuUktNcTBxYUZoUHdzNk50VHZBRVc1cGdRMTl4MW5iQXBYZjhIVGVucXVZeTc0MWtwaFpuUkd3dE9aZXNsX1BpNVVaRENRQQ?oc=5"
    }
   ],
   "economictimes.indiatimes.com": [
@@ -28321,6 +29322,15 @@
     ],
     "title": "Sinopec\u2019s Q3 Profit Jumps 57% YoY on Higher Oil Prices, Refining Margins",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN09qMVRoYW5QZ2hSOEtGXzB1T09tVVVYQTc0WkRLT0FzZ1dLZUFtdHlGMlFCR1JJTEIxRDFtWnYyZTZOeEIzVEdJX3EyQnp3REY3ZDhYYWJUZG0wUC1uRDFfb3ZHSnN3UjdKN0ZhaFlJSlNhMzhPRldXZ1EwYUZrX3Qwc09takVjSGFTaTZRcG9jSlB3TkV3MUpySlQ0N2pvQ2c?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Egypt Oil & Gas",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ to Keep December Oil Output Targets Unchanged",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY3BZdjk0bXBsbzF3c0w1azNNT2FxaFFLUm1OS3pMTnVrUlJlMi1Tc0xFTi1LVDVOZ2NLRHU2VW5NRmlSOFZWVW1UYXY5Q0JvUUhFRjlTZjhvcFdyQnNtYkpNVVZ5ZENVemt1U3JqUmVjZlVtVThpd3lhRTNQYk1CNGZnNjlqX01p?oc=5"
    }
   ],
   "einnews.com": [
@@ -28504,6 +29514,15 @@
     ],
     "title": "9th Sustainable Development Goals Dialogue underway in Baku",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYXVTUDZNQlV6dzJpbkNjcjNwdGhYRm5rbExRZzY3QjRycHg5MnZDclVXNzlMak53T3ZlS0hfdlFsd2tNQ2JwOGVvM3g3c04tbjhFMVdzdkFvY2ZGYlhzMUo3NWFnNnBVMVp1TzhvRHktUkVYdW5VNTQxUTN0NkxtQlBGSGRybjF2QlpRX040R2ZENC1UWUczaDVTd3hXQ2RsSGs4?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Apa.az",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ to maintain oil output for 3rd consecutive month in December",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOc0dSMzlidzBXbkFYdlBxb195a0hMZlltQzNDZ0otWTRVU3J2VXdDeHhwZGZIQkRpSWo1VEdlR2Eyb3F3ZzhEUXNhdkpXaUxEdWVrTUZ6VjRpNzZLOTVKeG1qLUc1X1k5TmpxeUVLRlpMUjBTVXN4TTVTcS0ycHNzVXdkMV9talFBcWt3RVExRHMxcXlQOHJ2S2VWbmN6b3h0SmNuQWdsYkl2bGhDMVlr?oc=5"
    }
   ],
   "en.banglanews24.com": [
@@ -28591,6 +29610,15 @@
     ],
     "title": "US Treasury's Bessent Says Crypto Can Strengthen Dollar Dominance, Highlights Stablecoins",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzQ1JURnJRa3phSkFpQ2dMM2V1MzhOMjNYRXNnMUZlQUxNY1NVTFFhZWhwS2VPWHJWWVFVRF85ZDFEYUhHQzluRkxBaDBmZVlPUDNLcA?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "bloomingbit",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "U.S. Job Growth Seen Rebounding, Boosting Odds of Another Fed Rate Hike",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95a2ExV2xtSVdVSmpuMGJHNXZMamVRQTd6bkZLcjdyUDI4TjZCX1J6bS03V05pVjNjaDhNRnhHLV9lS2l5ZTdKQkdyNmRpcFJBV0E5RA?oc=5"
    }
   ],
   "en.cibercuba.com": [
@@ -28761,6 +29789,15 @@
     ],
     "title": "[International Oil Prices] Rise More Than 2% Amid Fears of Escalation in Iran War",
     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5IQ2taNk92QmdYZzhCZnRGUnNHM1B2emVKdnVkRU93NXA5RjROa3A3VE44c0N2VzAzR29Ja2htZldNOU5qdFluZzh2R2s2dXNmRzJxSzBMTS0?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "\ud30c\uc774\ub0b8\uc15c\ub274\uc2a4",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ to Keep December Oil Output Target at Current Levels",
+    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ITmpfQ2dOQU9oMFF0eGxNUTFHN0syYS1ERDlhc1NDTjJlR3A3VS1uQ1hkX3Y0Q0hIZ0RHTlp3LXJ1czVydzcxWTJMTDdfbnltNS02NFVYQ0M?oc=5"
    }
   ],
   "en.haberler.com": [
@@ -29071,6 +30108,15 @@
     ],
     "title": "Brent could hit $140 in 2027 on Gulf supply risks, extreme weather conditions: Report",
     "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPR1h0Q3FxREdTNG51eXZNdkx5djJUb2UtWnFfcnlQMG5SVjhCRF9SNzFKNXZaQ1R3NEgzSFhxOWdTTnJ0ZVVpdEhONXI3eWtyZFkyZ1ZUbFRVNUNVVjBpVm1PQVBpTFRFVjZZNlZ2NHdXcTg2amZTeXpEdVpCV0kzM1l5Qlo2X2dzNXRna2dJTDU4VDZNNkFIWVY4bm5xVjhiaHFYVklaVkd1X1lRMlRubmtlYzJNQjhaZzUwcm9jUW1FZDdBbkFCLUpnWm1UamJpc0FNbS1Wc3ptWmJDZXlCc0s3VFRoazZFU1QxRDJDc003VjDSAfMBQVVfeXFMT0dYdENxcURHUzRudXl2TXZMeXYyVG9lLVpxX3J5UDBuUlY4QkRfUjcxSjV2WkNUdzRIM0hYcTlnU05ydGVVaXRITjVyN3lrcmRZMmdWVGxUVTVDVVYwaVZtT0FQaUxURVY2WTZWdjR3V3E4NmpmU3l6RHVaQldJMzNZeUJaNl9nczV0Z2tnSUw1OFQ2TTZBSFlWOG5ucVY4YmhxWFZJWlZHdV9ZUTJUbm5rZWMyTUI4Wmc1MHJvY1FtRWQ3QW5BQi1KZ1ptVGpiaXNBTW0tVnN6bVpiQ2V5QnNLN1RUaGs2RVNUMUQyQ3NNN1Yw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ET EnergyWorld",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude oil faces another volatile week as Iran diplomacy tests geopolitical premium: Analysts",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNS2pOYUVWaWhyNElEY1pTMnZad2hkOC1GNDBWanUtSHFYOFVUck11YU1aZGRrT0FROU8teTI5am8zSXg5RktpQUtia2gzSkZORk1fR0RYUkVUWHlmazV0d2drMktQMWFfeTc5SGxmRGFCaGlPTy1FTHRyRG5PTFBHOGlQZVdXZGxRT3J5cmJHUlV0STZVMU9VRW15VVFWd0xIajVNMzBka3FCR01neEQtaHhlLTdXREk2OWJ3cGYwaXA4b2J5emdRcFI1Q3NfYlc0RDJKLU9nUHRaY1VMa1pUSVo2WkQ2aEd5bE1RQUo2MzBHakdP0gH6AUFVX3lxTE1HZHliM04yc0dQUHZPSnJsN1g3UEZhT2FkOUJtTVBCbUxVQ2M4UmJ5cFVJTFJUX0pEZVhQZ1pCVUFCQVpqdjBIZWFxZVhFRmltRXlIV1h3RTNXdDVTVHVSZVdoeXJLWkQ0Wi1oRlpUWXZuVEtqUEhfN3dGMmh5YmczVDNhYm5RNTU2dzJDc1lsbE5ta1BGVG9raVFoRVZkRkIwNjNKVkpwaEFDQVZIVVBmQXFOdks3RENQcEZudHB5anh0YWhjMXhPUnZIclgtcjBkX1ZRdGJ0Vy1hZlVOOVBxUDBUUE5vRVFENk40SEhOSU5OMkpXbllqd2c?oc=5"
    }
   ],
   "energyintel.com": [
@@ -29702,6 +30748,24 @@
     ],
     "title": "SCARY WEEK FOR OIL \u2013 OCTOBER OIL GAINS EXCEED 13% \u2013 Oil Climbs More Than 2% Friday as Middle East Attacks Intensify \u2013 WTI and Brent Finish Week Higher, October Gains Exceed 13%",
     "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQQmFkYjFhcm9XeWlHUmhHUlhhV25DWmJjbnlWMTFqTGNCUFdMR3dYdm9Yekx4RURTaks1VkFlT2JUWEVLSmVrYk9nd0RZSnBLQ09BdUtJX3ZmX0NaOEctajJpbjY5SXdEWFRoUmIzMTBMNENOaDhSejNDeVBUb0pFMWRkTXFNUFlodjJETVN2dVZjMmhONVJUTXc1V3pkeUtpX1VQa2hIM1dIVTlFS2kzNDUzMlViZXV3ZjU3X2lHTlhPcjBoajBLZ1VuTVNJVFJKSk0zQWRCaHpQZzZ2MjFtUjJxQ0cySWJ6aHNsUnNPZlV4Qk9BWi1vMmFGV2ZEWTdISTBLcEtHdmRSQQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ Set to Hold Oil Production Steady in December as Producers Focus on 2027 Strategy",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdzJ6eS1IazN5OFBCYWRVYUJyaFloMWVRdGVOYzkzdFphemFUZVBDYXNmSEdham9zLVZWd25OOTVSNWZfd3VvTnIySFY1azktczM2NVNJZTNMS090Ml9peVRMMF90OVhlSDZ2VlZLclFQbVRKUnI2dmZCTjU0SW9XWUZuTGtrdHpJc3ZVaTdXOEM4Qnd1NXY5M09YSXFqcm9tc0F1anhQbHR2S3VfNnI0RmVIRXRLMUR3?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "THE WORLD BRACES as Trump\u2019s Canada Tariff Stand-Off Escalates: McGeever",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRWpzaEpnek5fcFpta0gwTlVaUVVqVW9NQmdKMHhIYXp4dkc3NUt6NEw0bUxaUXhQSjBvWFhiMVR5QTRzWEREYzc5ek4xR2FMZEYzeUpDTlkxQkZJVVVlTTlDa0J3bWtxYktqZ2xjT05ZNEU4dU9mUmFHWFdEakZqcHV6R1dBUDhZdFluSUFVTEd6MGRpTkxjQnU0a3AzUFpXU0E?oc=5"
    }
   ],
   "energyupdate.com.pk": [
@@ -29742,6 +30806,17 @@
     ],
     "title": "Heating tariffs to rise in many municipalities from November 1st / Article",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQ3k1YmZ1RjdpWE1LbWh6aFpqTTNaT3dyaVJpcEhXMDNrOXZYR1RIZDJWVWZLQVVfY2E5TmZKODdZbzI1THFGZFNaQWtEX3hHOGpJYldzVDlWb3psM1RzWktVNkxyNjNQc01fUnlUR3RqME0yVUlFZTdNZ09rMFVlcFV2Uy1CSDZiT0RHY3UySXVXU2VNTDlhZ0p1a2tPNkhaNmdnMFNNWDg5dzlpOGcycXdDSm1sRVhJTEpwU0dLQTlQVjd4cXc?oc=5"
+   }
+  ],
+  "engadget.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Engadget",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Meta Reportedly Built A Humanoid Robot Prototype That Can Do Household Chores",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWDZZYUZMSEc3ZHpza09mMk1BM0FfVWY3TlhJOVNTSDNUcVJ0WVpRQ25tOWNmbU5ZdFU2WXZaaHU1YW56TXBFSTZwRklNYk9Edk5YRlVNaEhnVnlkT3JiZUFQY0VtVTd3YnQ1RzhYVzVHWnpaVEkwUlJoNHFFTEhsQkpyVnBObkEySVNSZGM2OG5OdWlvSUhzRC1uSXlFVUs1c3huN29Odm9YakdtVUppXw?oc=5"
    }
   ],
   "engine.online": [
@@ -30024,6 +31099,15 @@
     ],
     "title": "Immigration Officials Pause Deportation as Indian Man Faces Trial for Newlyweds\u2019 Deaths",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1hM0pLZFpJR3hETWlfZjdwM3YyRTBEU3FNSFdqUHlTQ0xWVGhvT3RZNXpZaThIRTZoVlZMV0liNUw4YV9DbUtYb2txLWE4QmRuNGtBTXJ5ejlvanJoUC1HWXZEUUhUQnhKZU04VVpR?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Punjab Kesari English",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Hawkish US Fed, higher bond yields could test emerging market resilience: Fitch",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNZWc3dVBNNEM1NHR4UmhDUmpCcnpHZGJPZ181aWxJNmZnZ2NWWnBCN2FYOVNQVGtsSVA2R0t6ZzRvLS0wSEtNVVNrZGxidVJfdC1IcFlVMWUyRnVjLUd5S2xmMGl1cUxHY3IzeWx5MGdncUExOVFETUFDWlJMdUstQTA0bmF6aHVsNXBxWDh2aThSNW12T1FKZFNjTUZxNFVjWDl6M2lBTUtpNUxJNGEwSVE4QmlSQ3pBY3doXw?oc=5"
    }
   ],
   "english.ratopati.com": [
@@ -30552,6 +31636,15 @@
     ],
     "title": "EAM Jaishankar meets US Secretary of State Marco Rubio on sidelines of G20: \u2018Took stock of our bilateral cooperation\u2019",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTHR2UVY5RmtPYzBLZnZNeW1vR3pleGNESkNKZjRZcXliZTNEeUsxMlRQeVJsQkhDbG5SWkhQblVWaWhUcWY4eG5lUnE4NFRSS1F4eWlNNGkxLTBzNXU4NXhiUFRWUnpQdEI5MHU5eEJ0SlZveS1CMkVPb2FjMFNYdUthZEt1ZENhc1NPdEhDMTZtcmFlaUFmbUh2Yk8tZW1sRzZrY05BXzNlTHRUQ25TaHg3cUVZQjAyVnVpVmZwczJhYUhSYnMyRDlsTWVfNUducFpMa24zR1FZallrNW03bHA0S0RrOFR3Wm1haTRHdXpoNkhhVmfSAfsBQVVfeXFMTUpFbWIzR0tMQzlkM1FxV2Nobll3Ty05c2szSUNFdHFTQnNGOFpGN0ZTb3lIbmN3a0xXeTFzWXVFRjNYcWhrekpDcHQ5WlBPdUtyT1pKUEpTMThYSUVRN2NjOFh3T211b0JvcTctUHlmU1ZQcmxJNmRnRkNRSy1rTXJpdWY5RDdLZHVuRi00Tjd3VnVySzlLajJWOXpMSldtTWdQTWI1cndFTnI2NUdqSHV3M1RfbU82cDNCLVg1WEoxU19VMzZpQjE1WnJydDd1SUVzTm5LT3htQkNOdGJYT2RCRFJQVlFtODV4VkJxcHJQNmJPM2ZkQUVBR3M?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ET Now",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Indiaspora warns proposed H-1B restrictions could hurt US economy",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZkdxWUY3dXZnVkozQVZvVlZMWHZJRzlhR3RqQzJndVRxMXYyY01Eb3RtVTZIR0dDblJDdjdvblB6eTdTUzZPbER4X0FsQ2s4VWZlNjhoWl9taXNGTjl5SzN5N2VTLWlqYVdZMXNpUHRnbWNlOU40RWZ2RFBmRDBkWnliRE92dVdFZUpLT3VISk1QdVlFRjVjdl95YTgtZGw0Y0VNWGt2X29DYW8zTmsybWh4N3rSAboBQVVfeXFMT2YtSUwySk13MFNRbkZzalB6RHVka0R0Z3pVMndYdUFoODZUU1Mzb1dtUGdjc005TWFDenA0bFFPWF9XQmwycm9jRTdHcW9NNjBpbnNDcFI4UzlKa1JuU0pyVmlsSEt2dU5pQWJBbGlUaktyRmg0Q2J2cTRpYkFrbGZSTDktSHpxTTg2UEJFN29tR3c3R3pSYk5FTl9QWFVHaUV5ZEVVZTBDcV9lZzNMVkw2XzZOQUlvdEVn?oc=5"
    }
   ],
   "eturbonews.com": [
@@ -30830,6 +31923,17 @@
     ],
     "title": "AI and Robotics News : Anthropic IPO, Humanoid Robots and Nvidia\u2019s European Push",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONndUOWQzNDQyUEQ0dzgyN1RtaVBQT0lhVWZSdHAzX2J5N1puZ3NyMllCQjhta0xoZFhTTjhlNjZoTHBRbWJmQnpyaEFqMGJ2aUdHa21XOG04c1M0aUQ0MENXaTF1eTA5UTNXMG1ROGFZc2VsSTZ6a0hON05mUVNzNHRfQnJhU0dyLW4ycTA1ek1LZ2xXQTIydTNiNG8yWFRGQ18tRVF1MlNIT2l3M0d6S0NlMGloSFFqTG5wSQ?oc=5"
+   }
+  ],
+  "eurasiareview.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Eurasia Review",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "China\u2019s US$938 Billion Surplus: Evidence That US Tariffs Have Failed To Restrain Beijing? - Analysis",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWmt2T3B5LTVJOE85N3h1RnVlVFY2OEZhVmw1WTdzYWktUFBJZTdvNkQ5YjFiWkJidlBLRnYzUXE0Z1pFaWZVZW4xZS1EUEFNSkVPaWlHbmFqZVBvRnEwb013QzAyZmFCZHRmMUdBR2hEeUtERUJzb2hiWWNHakVuLTBxbTNaM2JySE5FZnhDMVgtY2VJZU9WZVBjSlRfTzQyTlp6U3VrYlRqQ25TSmg1OFNwOXM0clBXcVR0Q2JhVTRTMGZ2MktnOFg2N1dlZWc?oc=5"
    }
   ],
   "eurekamagazine.co.uk": [
@@ -31772,6 +32876,24 @@
     ],
     "title": "Brent Crude Nears $118, Up 4th Straight Month as Iran Escalation Fears Lift Oil",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00WWZ1R1FqMDctOUprUjFDSlFSSnkyLVFEdkdlcmRPdFVHMUp5Zmp4am5PbmxLTERQQ3pMSl8tQU9fcm1iN0QzckU1ME1VRW9vWmxGUHdMNEtMdllTWVhjUUg2XzVUVm52TW1Xbm5acUhGbElIM1E?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "BigGo Finance",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Nomura Pours Cold Water: Midterms Won't Save Tech Stocks\u2014Only a Fed Rate-Hike Pause Is the Real Fix",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrV3hqUmRydklNT1R2WDEwMWxUTExhN3J1YnZxRjZUVEJ6RWt6NFk2RlkxZUg2eUt6emNPWHktUVZNRDkwQTFEYW5FTzFTejFpY29VLUZSQmUzRkpWRC1IcjVTdVNxaUJZcjBBLTZzZm03LXhPQVE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "BigGo Finance",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Gold and Silver Plunge as Fed Rate-Hike Bets, Inflation Fears Weigh on Metals",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3SVUycURHbkpNR1RUaGR1SFA0Z1h2MG9oLW5fOGhDVHdQR1JfNkRTN0NFYzdJX3NmWDVMeEhoUTZIUVFmM3JCMktSNFRSblBDR2d2aDdiWTFmeUJVNXl5UDFRRzgyajh5QnZva19vVlNNZ003QkE?oc=5"
    }
   ],
   "financebuzz.com": [
@@ -31830,6 +32952,15 @@
     ],
     "title": "Brent Crude Oil Price at $113.43: OPEC+ Meets Sunday",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQX3hRVld3M3R0TzB6T24wQ2o3Q2hCWG93VTd1NG5Sem1qR2FqaEptOHpfbk9NUl9pc0tuOTcwT3g4N2FsRmNFZDRGQnp2bEtOZ0x2d2JfLUtfa09kRDk4MWxVaFBtbTBGWTNPUjRiRzhqdVhrZ3l6b3dXc1kyakVsbUttNnJ4SVhXaHMxZXlPb3ZzanFQaENYZzg3RlZNUzNqa1hPSXlJVlRobzNDcGtMRUZwWU1POUFZNDhoc1AySTdPb3FQTXNvREd4Sl9FVEE1VHNUT1VhSmRBN0dPV3lfTV9EaUxfWHU1WnFB?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "FinanceFeeds",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Price: OPEC+ Holds December Targets for a Third Month as Brent Ends October at $113.43",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMmNLUXl4TjBYM3Brck5qWFJDTW1melk4OGpNMkIyUnkyU05GbEJOc0NSUm9zSG96ZzdsWm1FTG95QjdBRWhDRlNNWkFvQ0ZSd1lhRmdLSzVERURkMXlkR1dJSXlUT1lnZWFBZ1BHNkR3TXg3MENIalZUMnZTRWZ1Y0xRdUltZ1d3VXpfSnVmV3N6M3JJSC1LalJoY055NEVVQ2V4QldDX0FOQ2N3MUtTN3ZSMA?oc=5"
    }
   ],
   "financialcontent.com": [
@@ -31933,6 +33064,15 @@
     ],
     "title": "Why this week could test Wall Street even if the Fed stays quiet",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZHF3Qndzdy1zenlTbHhtdjRwdHpvaEp6Z3JHN1VZQW55YzdSMXV5anFnbHgyaEp6M3VtTDhEbmF1U2w5a05xSVV1anBhRTZqRHVGZzctUjdVYTkzbERxNHJ5dmt0eXRCUDFQMW9PbEIwak03c0xfUmR5MTlvNVhTNDdBVF9ITHJlMEV2MGJlenBJUFhsSjNjMm1fVVdMRHVMTUlOTHhmUnA4UEdwLS1PZXIxV21vMmhEVmtvetIBwwFBVV95cUxOQkM2SWczeVFaV1pTeTRVbVpDay1WMDNBNFdZTGFHbElvWTEwTmJ0NTlCdW8yMEJZb3ZyT0pSc2NOalAwdHdiODRsbUt1Y2ZEdEIySUxQNURfdHFzXzRKMjM0WUdXUUpybGhTTTAxLXI2c1g2aEhnRmNIbTgyUWd0ZWZvUEUtWFdWeElib093a0RoTHIwYlB0b1JYWUQ5WVBoUENCMmdPTWZCSkYzRW8zWUxyVTZsaGN0TTdpYTZidVpMazA?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The Financial Express",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Vedanta plans to trim crude oil production cost in Rajasthan",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQclpjSmJUaDFCV2ozaXN0Qk51VTA2VFZJLWJWbENKX3J1VlpBN3ZNcE5KNVpmQ19FYW40cjBCQXBITk5fa1dDRTVlREJLdXloZ204SGhQNTNYX2xTczFJcmI5S1ktR3NHQkN4TTBzVzVIX2djV0w3ejlJeEdpaWdiNVRfWmNMR2NsbW9VUmhxSUh6VV9ReEFDQnEwRS1kcW5nZllEM3JidlJ4LWVNQXNJU01Bc3U5XzDSAb4BQVVfeXFMTWtsLVVIeGRBUkxZc1NHVEJWNzNjak93MjhHZWZlaG93QndXMF91a2piVGlrZ0JhemhfX0lvSmNScm5TcU9Vam95b2c2Qk1wUzQ0ZmhjV3huU1dKZkpWc0VGczBnQ0VaTUp2MHBqRWRYMGFOQVJJVld3Y0JoNUlqYzVZZHVrQkhwWXU3eXN4RDRDb0dOdGtnUDB2cWxpZXRfUmk2RTliU2ZsWGY0NWlxSUI4SDFBamZpZ3FoNFNLQQ?oc=5"
    }
   ],
   "financialnigeria.com": [
@@ -31982,6 +33122,15 @@
     ],
     "title": "Canadian news publishers want Meta to scrap new terms of service over AI training concerns",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM0puazZubEU3Rkc0bk5sMDJQOWNFZWR0ekNLQnJhaUs3SWRvZHF4TnZDcmxkdE9WZ1hyM051SFNaSFUzVWRndVB2bGY4c3VXYVA5NC1lcXhDMHZmN2NvLWsxdEhXSmF5aXNoQXlPR0prcDl1T0FHRHJWODFEcDhkdHpBcEhweWFhS0VUc3pkNzNBWHJYTGl2cElidEs?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Financial Post",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "PBO projects Canada\u2019s GDP growth will slow to 0.9 per cent in 2026",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZm9Qd0pXcWpHX3RGODI5MU9COGUzc2dDRUwzeFc4WXFGWHQ2ZlE2N2ZOMHlQYWtMd1UyNHQxc19LaFpjVklrNjRxdDFXMzFCTDY2U2Mxa0NHX25SZXBacnBrQ0lVWHpLcEprOTAtWHVOc2RNWTY3Z2lKbGRPQ1BkYVV3?oc=5"
    }
   ],
   "finanzen.net": [
@@ -32621,6 +33770,17 @@
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaFVrWGNwd2YtNlpkTmYxem9CczVMZ25yTWdvcGpnaGVWU0lBQVdndkEtUUthQjM0bjJUUzlnak9oNkpsQWg4T2NJU2k0NWE5V21xOEpNX0ZGc1d3U2E3ZkhXZDd4QUhaRXJvMm9JRktGd1U2YlhmLUdpSkw0NjZMaFNtNWc5QzRlQ0NfLVRnVkU5RXVJS1ZZQkpwcWlSbFdJa3NzV1h5MUJxUE11cmJmUEppT1l5bEQ2dXc?oc=5"
    }
   ],
+  "forbesmiddleeast.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Forbes Middle East",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ Set To Maintain December Oil Output Targets",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbnRQNWtuMzY5NV8xb2VNSVdQd0d4d3BxSl9MNEJTcml1Q0lKNEJOdUljZHA0M0h5WmpRRWV4SWRtSWozS09QQWhUUFpmWWtCVTUyd1ZaNk9xXzNLaTdaaHhCa1JRN243WTlPRm9zYzhhOHhtUllTYUxVcHlQUTNlQlk0aF9vd0VObWd4R2hMT0lFcFFjRlc3WkR4OVpMSE9vcFVPNUxpQjZ3QlVMZkxtekJJWEliVGpfaTZ0RGVzVHpKN2ZVRlVMQWJwRmdTSUcxS3c?oc=5"
+   }
+  ],
   "foreignpolicyjournal.com": [
    {
     "date": "2026-10-20",
@@ -32710,6 +33870,15 @@
     ],
     "title": "Unitree Unveils H2-X Kung Fu Legend Guardian Robot Capable of Defense and Lifting Cars",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUUdQNzhtZGZPUTBXMGZvSERld3dDcnR4YWpyblE0b0tkUmZXeUJDQ25Hb25VeHdieWU2TnFpcjVaVldoZmdqQXExV3E1MHB0TEJqS3FqTnpZd2NiUmpKME1FTWgzRlgyd25kNmhJdkFfMFA4QnlDWi1JSVBINXd2WXp4cGR6UTZXbXFIUXpKUVRDRUlxU0h1VFpFb0ZZbVpMZWZMeW9uQ0F0TkpaNlk4?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ForkLog",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Week in review: $6.3B Binance hack, Fed holds rates, bitcoin falls below $77,000",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVXVPWE9UcUEwcXNkNDlqaXF6bWM0WDN4NkNOS2ZmQkR4QnhFd1g4STNrLVRfU2Jzd3RaYkdlMzZ1RV9CZlk2RVpzZmdkYTBBbXg4UTBqNE40ci1pVDQ1bzBfWnVTX2l2VHRuYWpQOVVVcUVXRzFNcFdJMlY0UGVhYlpPWUUwVDRKSVNDUngycVZTaGkydnJpR2x1YU9taVU?oc=5"
    }
   ],
   "foro3d.com": [
@@ -33192,6 +34361,15 @@
     ],
     "title": "FOMC Meeting Puts Fed Interest Rate Decision in Focus as Inflation Rises",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUXZvOEc5TGxMbkl4NU9kV3VFbTlpQWRfQjhqaEhiR3NLcVloWHZtOU50ZGFOalRHOXk4cmtFOXJlSTJ3U3F2d1gtcW12c3AxZTVRYThGYnlqek03VDc5TC10dDIybjVhcVNKd21na0piX3JRS1VxRHZjR0hKM0tzVTVMZW1EQlhlWHFOZk81dEdCeGJhcWtQQ3B6UzN5S1lMQkhvZG1aRU5CLUZBSk5XejEzS2hvV0FtZnFWbE5Id3o0UlIyTFFMYTd5NA?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "TradingView",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Fed Rate Cut Bets Ease: 5 ETF Areas at a 52-Week High",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOW1jVk1JWTNfY25CWHpOTFJYV25GaUd6NHVVaDQ5Z1d1QW4zSzhpRE5uSHI0TUUzdU5mcklFVWw4VFU5MlNneFgydWRoQVhrS0IyeUwzSGJnWFUzVWpMNnNUWGUtT3Aya3lra1FZaGVfdEFKMFA2RTFPRHZhNUhweGpRWk9IU0FWdWgyRV9Ib0pxZnN6eG1CVWhaOE0zUm5yOWp4UlpzZjNIWVU?oc=5"
    }
   ],
   "france24.com": [
@@ -33355,6 +34533,24 @@
     ],
     "title": "Jaishankar Meets US Secretary Of State Marco Rubio In Atlanta, Reviews India-US Bilateral Cooperation On",
     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOQmZ0TFFORHNhekw2Ri1CaGstbHBVZzVMOHpnZEJMWGhiWF9jMnBiMUc5eS11eWJ5dEotWjVYeC1XdGFfYlRYWGNtbm1FeUd2UFdKcGl1UFdaTUJmTm1qeUdiMnVPTGhJOVE2dDIyN1JPYUVHNFJNWmppRzF1Wm1IVVMxOVNqMnJtaVZaUkZMRTk1M2g2UW5iOXg1Wjl5akQ2NFEweEQxUTZWZ2tncUdaUGRsQ1BNNW5OUXlNMGtiNlZrTHJRRURWTkg2YzhZMWxpdWpRZ0lObEs3bURiZ1dTVWpHVXdlRGJDdmxhWjVmcnRGNU56QmdqRkdWSnBuUi1UNzlSQVBSQjBRal9fSFZJSFBzamFVVXfSAZcCQVVfeXFMTkJmdExRTkRzYXpMNkYtQmhrLWxwVWc1TDh6Z2RCTFhoYlhfYzJwYjFHOXktdXlieXRKLVo1WHgtV3RhX2JUWFhjbW5tRXlHdlBXSnBpdVBXWk1CZk5tanlHYjJ1T0xoSTlRNnQyMjdST2FFRzRSTVpqaUcxdVptSFVTMTlTajJybWlWWlJGTEU5NTNoNlFuYjl4NVo5eWpENjRRMHhEMVE2VmdrZ3FHWlBkbENQTTVuTlF5TTBrYjZWa0xyUUVEVk5INmM4WTFsaXVqUWdJTmxLN21EYmdXU1VqR1V3ZURiQ3ZsYVo1ZnJ0RjVOekJnakZHVkpwblItVDc5UkFQUkIwUWpfX0hWSUhQc2phVVV3?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Free Press Journal",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "1965 Union Cabinet Decision Allowing English In Judicial Proceedings Challenged, High Court To Hear Plea Today",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRlpidHpicS1LWENBMk00SjJkdXZIbjdXUjZfbjBFUnNZMVR6cy1KejRZeWtUUVpRUVhJbzU3aVJvYzhMcXdCTHVwQjdoT0ZrU0o5bk1JQTdIMFVYeHhGYVdfc0pyeHRES2VoRTVaN0hUQUNPYmxZWUJSRDNmYi1yUUlabjlZNTRxY0h2UzRIUVNuR0kwV0txZzNwcTdwZFI5TFpaMmpXNXRKVmlXRFgzVXlLT29scnhsUndEanFDSjBfZFNiLTVseXFQNDlyaUQwOS11S2pHQUJkTk1RMktLZNIB5gFBVV95cUxQcVdPUlNtUFNSLWVPbWdOcG5ZWFEybkNBcnZTbTRtWTh2VmpPVHpOSHBIbVRQTy1ySVNwNFpRaGRrTW1DU0g5d2xGRkxFNGMzb21qVkFuaXlSMjRiV0QtYnZZM3lGci1WNDJweUVuOWljNnFvNmxPQ3RsanJrVkpiT21Tem1PZ3l1NFBpZk55YUZPTTlTTnNtTTh1VXdycEViNHhUNFJfaEdkamVnSXl4ZW5zOVN0djdWNUl6WGtfa0VOM1IwV2k2OEVHYkZTTjVHZWR1bEJZbEJPeV9DMXdFLV9wa3drUQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Free Press Journal",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude Oil Prices Face Volatile Week Amid US-Iran Tensions, Brent Near $118 As Hormuz Supply Risks Persist",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcnRMZkd1Um9URGl0TFBoaEZfTHNNVWVKaHZCUEFjT2NIQ2ppNk8teWRodmF5UmdhN2FZN2RuWEh1aFB0bXBRUXFjcDdHS2ZjNDBaTS1hQTVZejh1SkVZT2JlNVpsNFFvSzRRMF9tRkN1eWFNQWd3MnBsWUNaTFZvY2RsNTQ4Z2w5NWV1NFMtYVN3QVVZQ3JNMjlBbDROQ1NWVDFEUEdGSE51cm91VmdEN0M4ekVkWndneTVMdndmMjFUbUZIVXBVV1FqY2wwWE1IVkFXb2FvdU51TjNH0gHiAUFVX3lxTFBGRm1ldFB6eUVmNV9FTFhHM1pVNmd2WUlOZG4yYlFudWoycGl2QTJQTUpySjRSY3BtQ3FEQlVBdjR1TnBwYWYxOFVmTU9ZM2tBYWlsMDdsX1hOSldQNHRTelhUcnpLWld3d2psV1NPZmgyMnZFMXdyaUlUbnlpaHBBcmFReEh2ZHZPc0VOUkxtSVJjUjB6aUhnNzQ3eGM0NGtVUWRQdXVONEhTYTBxaHlIQnJFd3E2cjV1VmtWQWxMNGNISlJQZUlrWXIwQ2NneFVaYktfemVXSWVWSDFyLWRldUE?oc=5"
    }
   ],
   "freepresskashmir.news": [
@@ -33540,6 +34736,15 @@
     ],
     "title": "Crude Oil Prices Fall with WTI Down $4 as Vance Signals Possible De-escalation in Iran War",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSG0tVHpocnI2WloweFpBeFprSko2aUppcUl1U2xvYWxrSE9aODA4Nk93eEdCVTRldUNNcTZFSEFuSTBYcDVmYmhVNGlfWDcybXhZM0hkelgyS2x3M1JGcllKWVlLamR1MENwczJjYmkwOTdiNDkyLVhQQnF5R1lKQW4xbGFzOWlkd0pnUklwcUxyaUJBbU5xRkV0d0VnWURJUTRuVUNuVkxPOGRJVzFhbkdoVk5icEV2N3BnS2dNcXgzcGFkdWVDNHNnWGo?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "FXLeaders",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent Crude Eyes $120 Breakout as Strait of Hormuz Shipping Threats Escalate",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRks1N3lmZmFnc1dFdWNucWlHemYwRGc3VF9sZkxPM0RWV0dPNlNjMDk4eGVIQ1doV1Fid2xNd1RZZFRYb29WWExiNVF6X1lQcXVFYXNaSS15dkhvQjVQZks2UFNFRTdrbmRMWWxOUmNweGNQM2FXWmJuY3VMcHNaX0NFTC1NcGlPWExKUjE0NkJ5SVhFckpFNk50Y0FQNjJHdm1Hbm9XNXg4di1CQ0YwYzVMSnkzM21QUlE?oc=5"
    }
   ],
   "fxstreet.com": [
@@ -34652,6 +35857,15 @@
     ],
     "title": "OpenAI confirms plans to build humanoid robot | Gulf Times",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSTc1b3AxcXh3LVByVWJSbjdkM2J2ZXdRaG5yMXVQVWdWeW4tQUUwbVVMMFR3UHN3MFRfZDh3bnY0N09kbXRvOWtjWTctM0lnODl5YnNVQzhlNWxLVDA0WXVyRVFtSVQ1VDdZLVFXdzFxVml1c0xQVlNwV0x0X0pqQ0lyM2FhTlpCeXc5YXgzbnctb1dWWExOUWcyRU1UN0k3VGNKbjd1VEo3ODQ20gGyAUFVX3lxTE90Ukl0QU05T1dXZWMtd3JRQnFVZ1dTUk9BbDdfckNjOE5LbUdmUkFPV25jU0dTY0RpeGNrVndIUk1HYWc0bExZMWxURzRPby12X3F1Rl93bGFBZE5hTzBfR2YtQ3pJODFBVDQtc1RDb1dWRzVVSXQwVS1QN0ozNjdCeXNjTndsbnFkTElpUXVGYzhZZWNNMHBsQ0p1NkZ2RWgtNm1iQ0xSYXNKZ3BndVlLNUE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Gulf Times",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Opec+ keeps December oil output targets steady ahead of tougher call for 2027 | Gulf Times",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNd2hyd0lQNVo0Ui1UaDZ1VXZZVEFfM0NSUkxuZ2ZVX3RMRm9YekFvXzBoSmNMSTk3UjVJaEZjS1diTHowV0hNaEM5M2xoNHVFWFhwUF9HdmZmY3RUc2FTLTQ1WkZMeVVtODJUaFl6aW1jQlVQX2k2SEZaMFdKa2xUdHdRLXJKV2tramRSNmVZOGJVczAzdFlpbi1uX1E2Vm95MUMtQzBUMGFwOGsySVFYVHZkOXFTNE9yOWVKODN5eFUyc1FFb2hZZ1BCd9IBywFBVV95cUxNd2hyd0lQNVo0Ui1UaDZ1VXZZVEFfM0NSUkxuZ2ZVX3RMRm9YekFvXzBoSmNMSTk3UjVJaEZjS1diTHowV0hNaEM5M2xoNHVFWFhwUF9HdmZmY3RUc2FTLTQ1WkZMeVVtODJUaFl6aW1jQlVQX2k2SEZaMFdKa2xUdHdRLXJKV2tramRSNmVZOGJVczAzdFlpbi1uX1E2Vm95MUMtQzBUMGFwOGsySVFYVHZkOXFTNE9yOWVKODN5eFUyc1FFb2hZZ1BCdw?oc=5"
    }
   ],
   "gulfbusiness.com": [
@@ -34701,6 +35915,15 @@
     ],
     "title": "Crude oil's weird Monday: Brent, WTI slip as attacks rattle markets, Murban jumps 3% to $118",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ3BwZk5Pc2pvQXpyV0JkXzM5MDFMdlBfRnA2bV82S0oyN2lLQjZLUVV3XzBWeHpVSHJnX21VV1dZaXZnSmRXQ0wtU1k2WVh2UGRLa1c2Uldub3dtVDBGeFVpenJsQ1dCejFROGlkOW1wZFhObEl2S0NtekZkUlo4QURKT0lPdEQzQk5yVXAtb3FiVTZVS0dTd0JtcGViUm9rZVhidGxZQXBjSkZjdW54NHBHOGk2N21mWkEwek5KazBsWUdhUHNJS1BxbEhpTEFi0gHjAUFVX3lxTFBIQzd4THBCM1U1R0dSVldoREhfSURDRmlnbmdKdDdhajZVTThnamRoSkxQM1NiMExMdWxYYjRtajZHVmRhdjZJVFhTUmtBZGlocnF0bWlQcVBGdXlaYkhkWndIUDI1Y3ZwSVhQTUE2d01sOTR4cHBfMW52eFlRZGpGNzhCMDNvcUNqM2E1dzl1NEROYWlJRWpLcTFBUXN4NkhBcnJCNW1IbFNFYm40aEtBQXV2SndlM1JQM3ZVemtLNUJUYlgxcXdkaDBpNWhIS1l6dUNSeWY4UFBkbmh5Rk1pU2RV?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Gulf News",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "Fitch affirms Abu Dhabi\u2019s AA credit rating with stable outlook",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUm9YcHVHYUUzVllQa0tNNVBxYWNJUThKZjhBaDk5XzZWX3lfRnBRWmJkNmcyOWQ0RE1TUFZRY0xUNURaazBZaDRfaDhTT3JNZ1J4SXNQMDZQM0YwWGVMVlNFYUJWeGV3ZkZydHdudFF5TmR2c1FZdXE3bmgtOWJrZmxTVURqX0w4eXllc0xaUDYzTjhxVmJzYWRRcTYyUjYtTzVlRWoxcGFZN2R2d0FRMk9ScWtrUDViQUpoUHY3WdIBvwFBVV95cUxNUm9YcHVHYUUzVllQa0tNNVBxYWNJUThKZjhBaDk5XzZWX3lfRnBRWmJkNmcyOWQ0RE1TUFZRY0xUNURaazBZaDRfaDhTT3JNZ1J4SXNQMDZQM0YwWGVMVlNFYUJWeGV3ZkZydHdudFF5TmR2c1FZdXE3bmgtOWJrZmxTVURqX0w4eXllc0xaUDYzTjhxVmJzYWRRcTYyUjYtTzVlRWoxcGFZN2R2d0FRMk9ScWtrUDViQUpoUHY3WQ?oc=5"
    }
   ],
   "gulftoday.ae": [
@@ -35117,6 +36340,15 @@
     ],
     "title": "Brent Hits $116 as OPEC Meets With Saudi Output 4.5 mb/d Below Quota",
     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1NSDFFOGVsRjBIck5QTVhLN1VjS0NrbGI5VU4zZkI5N2o5LUdxcWdTRzVaejZOX2lDeEJlMUQ1S2xncThKTFlyRXlzb0o4cDlYVTR3bUZEbWU1eHNZMUhV?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "https://houseofsaud.com/",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ December Output Targets Unchanged Amid Hormuz Closure",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA0cjVkR1hjWEdHbm00eXQxdFlBS0UzZ1BwRHpLSnZpaHVaRHVweGpTbVhkaEVnb3NpUnQ5bVk1d3VtVDNiYkhxVFNJMGRhT1dBaVYyM1JBeklROUhtQkRnVGFHS19NMG5QQ0xwRU1MbC1jLUh4LWc?oc=5"
    }
   ],
   "houstonchronicle.com": [
@@ -35787,6 +37019,15 @@
     ],
     "title": "Bank of Japan Confirms 2% Inflation Target Achieved, Holds Rates at 1.25% - News and Statistics",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRVRPbnI1RU9vRS02UENyanRYQ0RrZHkwTWtNMFdxbXE5aFFxV2xyenNxc3BsSHRXeGh4Z1BJUWZRSFNkTk1FTTQ4aGJOcF9SbnhpTTRXYWN1Z1gxS045YmJlTkdhN1hDQmdONnhEa2ZVMHdBeWtkdmI3cUZnWUh5dWx0eFlWcjVMMC1LUU5ja1dTNlNN?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "IndexBox",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "US Hiring Expected to Rebound in October as Fed Rate Decision Looms; Eurozone Inflation in Focus Ahead of ECB",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOd2xiNjhhbEtlUW1ndzBMaWdXT1RwYkxHeEpOUGZjT3JGYmFuaktmeFFEWnNON1BHRHdJVXliVFc1cWZzODdMSWxOZlJiV2VoUHdzR240WU05bDhOd1ZaekV5NWtieUlNdkQ4Ty1ucUUwZmRnTmdBY0prVjBSRXdraWVwdlZjRUNzSDlxckZabURGZVJYUnZCSjNpSjdlLXVoclJEQkUzSS1mQndQQTNJbEhWNmZyTm1tU1B0bUU4b3lPbks0ZW0zMk10RlU1cF9xRGlQUA?oc=5"
    }
   ],
   "india.com": [
@@ -36094,6 +37335,15 @@
     ],
     "title": "India-US Trade Pact Could Give Major Boost to Economy, Jaishankar Says",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZm5WTWNyNHVkV3Z5MzNFdTM2YVZtWFFEbGpGTFpXYktPMzZMS0NRbnpZLTdZSklIQy1yQjZkclVfVEw0YjdzalMwLXR5QUhmZy1ueFBCdlJBUzFaRENKdjczemFXNE1CRGNqd2lIOW1DWFpNTFVmeTJSck1PdGhIczg4Tk5lTTdBWHZRRVRYNDhoWDIzN3RYMkRSc3RkcTQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "INDIA New England News",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "US Citizenship Approvals Slow as Application Backlog Tops 813,000, Affecting Indian Green Card Holders",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWmNzQk5vemlvWmZTb0xmQ3c5QzF0VW4zZFUyWUFLdk9iakZtNHp0MmdpNUpIZU85Y3oxbEhHQlM3aE1rNFA4R2FhUXNKYlJqMm9kNXowcGxaYkpmWTV4QnpYbzRRdUpnQ2pEYWZIQVg0Rkx4YXVReTI1SGJWblVSSk9qRzVBWjk4bDFBcUZlSmEydEVsdDlEOEYtTmFIZzZFLTZ2dHR3bnFQUm5fMVJLMzNhZldmSy04SXlxWkgxUVd0ZnQxaHE4TA?oc=5"
    }
   ],
   "indianewsnetwork.com": [
@@ -36127,6 +37377,15 @@
     ],
     "title": "Bihar Cabinet Approves Industrial Use of 266 Acres at Motipur Sugar Mill Site, Opens Land for New Industries",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVl8wRTYycU8ydlhXSmppcExoU3ZMb3U3aE5WRlh6NWlwTW9sRWw5NXg1Q01jMjVCMU9PWjhiNl9FcDZxY1NYOWdFU2pXWnJ1cUN3d0pNOFd3cnI5YWMyMlZEd0FXYjRuZ3pDcFR2dEhxcTlRS1R0Qks0YWlMZkpNczJiYTJPN21ocFg3WmplaVNPMVAz?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Indian Masterminds",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "UP Cabinet Approves Four New Link Expressways Worth \u20b917,542 Crore to Boost Connectivity Across the State",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTlo4a1BwaXRxbmhibEJUcVJCR213OGNJWlJPbU1PZGtLeHNPdmNWeW9yd1dZbWpoSUhSdzhJVzBHZk1YRGJ4RG0tSDBJSGZmMVA4QVRrQlBLWVhGc1RGeU1zdDhRdUgwYXk2TUpFRVctSUZZZUJTRGVaZXVBMTB3VnJvU1NNcnR6bkNEQ1dpc3VTVDkwQnVHRk4xRzg?oc=5"
    }
   ],
   "indianstartupnews.com": [
@@ -36410,6 +37669,17 @@
     ],
     "title": "Brent Nears $115 as Middle East Tensions Raise Oil Supply Risks Across Asia",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVF6RUNhZU1TaFRZNHNEUThFeUhGU05saWp2eS1KM0dQUzk4WUhqR1lrOFZqdGtfbXZsSFJGQVY2ZWg2VkNFaldyR1h4b2NLS3BaV1BrMi1RZ2IzQ2k1MU1nTzJhaU1ETVhhbTBFb0RDSG1EZnVkLVV5aG80cWRsS3AtTnc?oc=5"
+   }
+  ],
+  "indtoday.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "INDToday",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "PM Modi To Inaugurate Bharat RE Summit 2026 Today",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50U0RQNF8tWk9xRE1keWlmMm9CYk9IVGQ5SXBNUUptRkpyWWpOeEJ1RHdaaFZ2eUUxNTh1OUt4MHUycVVuejNYUk5tODBGbU9RUDlxeUIwV0RyR3BuZURiZDF4Z3h0b1FWSHBCTzRZc2NobGU0RG9QLVBzMA?oc=5"
    }
   ],
   "info.oregon.aaa.com": [
@@ -36852,6 +38122,15 @@
     ],
     "title": "Oil Prices Above $100: Best Energy Stocks to Watch in October 2026",
     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1fbXZxX1NjTG1zT1pGM1ZXTDRnSVhzYl9fRDVtNGVzUXRxRUtYRGxQQjFMMjFfdXBudEQ3SXRiTDVMTndabmJPUmJnMDhvOUxjbjFVZWhtZkVDMXBiQzlXMjlkaElPUk03VGtYaXlRNHRZLWliUUY4?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Intellectia AI",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent Crude Oil Price Forecast 2026: Supply Crunch Outlook",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE04QWsxbHhhb1JiMWgxRGhYRTB0dTZQX3dFekNtSUtHRktTZTl2c05YVDdjSXlCZ0pyR2JFZnM3d3pPX2VkdmpGM0ljR2NvUUI0OVdZOUhVTjc3dU1mMENocVg5YlRsb0llaklOS2VScGptMkgtM2FGUg?oc=5"
    }
   ],
   "intelligentcio.com": [
@@ -37011,6 +38290,17 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcHpPbWlPQTZ1Tk1zTERvQXdPb1A4S3dtWDN1aUllRUpscXpEWVlvc2lqeW5YbG44NDB0N0FyUE01bDRTUV96alFiODZlLThkeXFfdXZXV0JGMTZWOUc3dWF3MzgzdEYybU9NdGpFVDhqdWFrTE9DMWVOYTVvbDJHSlFkZ21ONHd0R0RXcl9jZEI2eEFaUTFPNEJ3?oc=5"
    }
   ],
+  "international.astroawani.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Awani International",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Why China\u2019s stimulus keeps missing the mark",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHdCbTRKR0h3MllXWS1JUVdaT09wNHJ5S3Z4Rm9QSjFYMzFyczJzbGZTeGM1QjczcVdBYkVkWmJRVlRfeWM4SUJIRFBmbGx4SXJURGQzVmxMNDlxWS1mZzdXTXdHajdNcE9LUWVtT1piTFZQZHZVSUVjQW1aVGtRXzdXY1BEZXpadmRoQ2szdzc5a3c?oc=5"
+   }
+  ],
   "invesco.com": [
    {
     "date": "2026-10-29",
@@ -37040,6 +38330,15 @@
     ],
     "title": "Oil prices today: Brent at $117.62, WTI at $104.18",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQY0VRbElydXZqRWtYNWgzakNVUGNhX1RhZ1RXMHlpcVdLNUsyWmp4Yk9EUW5TUE5TNGF2VXpVS1Q4S1hxUXF1MGFrS3RvNXp1TFU0MWNGbGtEcWJpSmNhNFdpTmtCbXVJd0tXWmpfanl3ZFUxTjdtSjU3ZmJfSXhfd3lReEpNYUc3dW5XRkhPb1BrSkk?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Investify",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3BLTVJDcGQtcVN2dFgyOWlwVTNvT2NNelc5OFA2N3UyRVVfOU9lZkRTVHlxRkFWckF0QnpLbk1TUW9MZDJ0U0xjWDc1cjhxSUpkZDZsWjJXUzlLWEh3dkQ1MmtTcUtJRFFUaWVVTFUzWFhUVHpXYjlTbWt6YlY3YkU2bTduRzZna1F4dXBKc3JOUnFqOExxdWZab2Y0TlVITDRZVW1fQmVFODREUUlKTm16dU5hLUNyV3d3?oc=5"
    }
   ],
   "investing.com": [
@@ -37682,6 +38981,15 @@
     ],
     "title": "Iraq increases oil exports to 3.4 million barrels per day",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcjZrdFYtRnJuQXV3NGlOUWNTVFVfbkxNdXpETjlNc0ZjdFFKYlhVc3ltTjRPSUEzOHFiMFo3a2RIREF5dENTOFUtNEJiT0J3cjFCVDN4WVJSS0lodzdWOEUtcHdycUFXS1Zia3ZiN2NIZmNJZEtfVVZlTTRucVRXdV9XNml2dThxSXl4LUxLRE52dWM?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "IraqiNews",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Iraq to keep oil output unchanged in December 2026",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdWNRZlhnQ0hjQ2xSUmlNZUxVU2JDOWtMTnJtTGhuazdsNXk5LTB3NHRMbDJUQ1dIX1lSUDFxUFlibW8yWVdweUZzaXJyVVF0cUdBZURtelFhYzJDcEtnVnhtX3hoeXZpUXNIYm1kWU5aTVlnLWF1aHNUeEtLbG54S3JMUTRSOHNrX3c?oc=5"
    }
   ],
   "irishsun.com": [
@@ -38076,6 +39384,24 @@
     ],
     "title": "Oil prices surge above $111 as Saudi attacks raise supply fears",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGlMd3djNlZXb1pGOUZWdWFIb1p5d3VMa3IxdEtISDJ6WVdGNnRqem5LcXE1Y0tHN29WUTliNThiSkstQ1JyZU5sTUEtTjZfR0daV2lqQVVOR3E2OVpMLWRyWVpzeV96U01UMXE3X3kyQWg3cHlZcURvdURVVHFDWE8tWlp2UQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "JournalArta",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps December oil output steady: Explained",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT25fdWdIS1l4SW05WFl1TWRxY3Z0djFJMFI0RHBHb0x2dDIwWGRzM002LUY5ZkFJRjBCV1AtYjdocWFKMGdxeTg2cGljN3JnT2FXa0Zma3dDSGp3Q0hJQ255WGt2R3M0QzFweGNrbEhMSVV6MngyWmx0Y3BCZjdod0F3?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "JournalArta",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Cho Holds G20 Sideline Talks With EU, UK, India and Mexico",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFpTYzdCNzluaEhobnZHT2x2Q3NMM1Znd0VlTk5aUUxQaVZkVkR1N2lOS01JV2ludUN4MWp4VTY3XzVOU28tdzZiWWVITWRndUV5MlhGOGFLMVdaTXNHZEN4SnUzQjhFMk0xeVV3bWEtTkNvSjBFWll3SEFXV0duMEFDVWpTTFFzaGJaNQ?oc=5"
    }
   ],
   "journalrecord.com": [
@@ -38303,6 +39629,17 @@
     ],
     "title": "Karta AI Raises $3M Seed Funding for Voice AI",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNjhDcUNneXE3bG5PWUMtUElVOUdRajFqajRJaFhId3oyek93VmpUSzJOMktibWxzSmpJN2owOGRZSm5vdEJHRU15WVlXSmdwYm1fQ0JET2cyUVl2NldsOG05TzB2TV80Y3R4SmpZTE5JNjJRckd4OUtXMVlUZGt6UjItZndQeEFtdlZNQWNwdm5VZW9FN1g1SEhvM2o2clFRQ3ZuME9YanZtYWJtVHljZk1xeGUzZjJI?oc=5"
+   }
+  ],
+  "kathleenhays.substack.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Kathleen Hays Presents: Central Bank Central",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Brzeski: Lagarde Sends \u201cClear Signal...Direction of Travel\u201d Leads to December Rate Hike",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjhFckNLVVJScFBVWlhsVGFiQmhUVWRWYlVPTU1DNTNFMXlNbGdqSlNwNzc5Mng4YjEzYjJHd3l5Slg3RWd6WURCQVZUMmFPV2pXTjRlZnp5SE9TR2ROaFhyVVdFRFNESkRZRG80SHJ4cUpGVlVEdVJsZFlWeGY5cm9fU3lTdw?oc=5"
    }
   ],
   "katv.com": [
@@ -38680,6 +40017,15 @@
     ],
     "title": "Kospi opens tad higher as Fed holds rates ahead of Samsung earnings report",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSlBRaTVKbnVfbzkzYl9NamV2bS1od0FaTklTLVRSUVZ5aTNQYnRCVmVHd21RRDItZFYxUTZRWnBaTGRYR3FuYnV0WGE3VnR6TDNKRWFCTU41T3Q0U3N2dzJZYWpKVFNydXdOYS1fMlNwUW5aM3h1OHRIMlMzTW05b3BmMEphbVJQQmp5VEdMYVh4V0VNeF9PTVVkUHZUMlVBT0hicnNOeWdPOGFyZS1wWnZwRVN5ZDRHZTBid1RnVURqcEx6aHc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Korea JoongAng Daily",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Foreign minister holds talks with EU, British, Indian and Mexican counterparts at G20",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbHplRjlxalVFOUd0N1ZQclpCRE9zcEttZURIWGU0TUNOaDRESk52WEJCd3VHcE91WTlHQTRsZzc3QzlrVjhqenN2YWpzSjZOU3VJR3lXdnFrVG1NMFR4bGhkbmtNNi1jTEM4RDNDNXNaUkdYODl4R0d3QzVacHBTVjNKaFJBdjJNbE13YzV3ZktOVUFfdUNzR3h1b0p5bXF3S0ttcG5PaDdHWVhqMG5ud3pzTkRYYlNVaVItckZTT2dpcHJEMlpLanJQM1d3dw?oc=5"
    }
   ],
   "koreatimes.co.kr": [
@@ -39320,6 +40666,15 @@
     ],
     "title": "US Moves To Revise Green Card Sponsorship Rules",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9UUDdrTEZSQnY4QzBvMy1aVGNRWXd1aVNNdTRoV1Z0MkQ1cVF6dWVabFVadUxvT29BRDRYTDhhQUZqTmZpdmpaMkR6Vk41RlJlNFRSbGZBdjVEY0tVOG9ONXpvcE1ZS3I2UWRDT3Q5U21MZGxDa0FhakJ3?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "LEADERSHIP Newspapers",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oando Production Hits 42,985 Barrels Of Oil Equivalent A Day As Revenue Grows 9% In 9 Months Of 2026",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRk54ZFBzamoxSEo5NTNRUklnNDFDajBTWEh0alJPWWI1NnVKX19hM244TWF6M2ZlSWRXQjhEbFg4aWtzdmxwTXZLWl9keWpXNzlydVByZ3htUjcyWXIzY3pRMDhTWGZCb3lyRm53d1Y3dWFXVWlEUUkzYTFIZGQ0RTJKU2loTVdhSV9pWEtncWRVSkh0MzBnaVdYalp0X0lKb2Rqd2FFYngwY0xMTHAyamQ5SnkxOG1MOWRhTWZB?oc=5"
    }
   ],
   "learn.deeplearning.ai": [
@@ -39589,6 +40944,15 @@
     ],
     "title": "Euro edges up versus dollar after ECB holds rates",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORnZPajBYNk9YRHNseXE0SDAtYm03TlN6ODdySHNjdU5KYTEwNU1zU3JPUldkQ0JEb1NqbkdYQlE2X3BsckU4WTFaYnBhS2VzMVYxRS1SZTVUaDZ6Sl9zVkE3UXZ1UmpuQko2RnZYYTFfX3hTSWZLVEdwUV9IeldfMVhfYXhiTEYyYkJnb1JYcl83ek42?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Euronext Markets: Real-time Stock Market Data | live",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNDNDSkc3RVp4RzA1emdIVDRHQVVKaVVZeHp4b2I1ckVGOTVOUXh0ZDZ3Ym1hSjZkenZpaTA1M3pub0RkSUMwZ1B2b2tmcXllX0sxYmNjbzJfSHdGTnFPMThOUnFSN2RYMG9WaTN4eW9LeUwxZ3FUMnU3VWNGRVBNS0pBRXZiMTBqZWhOdTZEYkJURjV0azdvV1NvMmFUcmlfWklwY3JWeWRFc2pQbXhrZ1BicGNZblZxZ1hIUUJsTQ?oc=5"
    }
   ],
   "liverpool.com": [
@@ -39649,6 +41013,15 @@
     ],
     "title": "Media watch: Read the latest LFC transfer rumours and stories",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3J0U3gxa09lX2tqNFdYb0FpX051NDNwdXFVYXdVMUlNN1k3R0h1bzltNEx5WWIwODMtUVA1OWhZUmpZdHRXcW1LYmRXR3R5R0txWm9OMVE3TUZzd0JkTXhjZk9aYlVSNW9sMjNfaW12aWpPaTZGdHBJVjVGNTh3b21qQm15YXdaYTJiR1IwMG9wRU9ZTU1KQQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Liverpool FC",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Arsenal, Liverpool and Man Utd phone \u00a350m midfielder over stunning transfer",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUVNM1ppR0hNQnZTdEwwQnFaTHhPeW1OcWp0bFJPR3NPYkZKbUdsMUpkVnFtTmw5TlZKWDBkYzJ4R1FXRmpWc1JrTm9aT09DTzZqUndpQTVZdEpNLU5JSWNUUTRpV1Axd3dHTS05LUpyaHExQ2VlUEZFQ2stM1NBLXdrcW1rdGJvMHlhRjlFWm43YVk5aEp3SkVOcnZRcmpzdG5LaUJtS3hQUQ?oc=5"
    }
   ],
   "livescore.com": [
@@ -40200,6 +41573,15 @@
     ],
     "title": "Transfer Rumors: Man Utd\u2019s Double Swoop to Replace Fernandes; Arsenal Plot Vini Jr Swap",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOalRWVTF4UUMydkpYblk1TWIzcHRiODBaUnF3eGtubGpINm5KUUhuUkpfNDRDd2xzakd6ZUd3NkxjbldKbG13NlBOZlNxejdkcmJiQ3Q3ZGxYMnpfcHVvVnhfWnF5Y21SNExiMl9Cbkw0dlhVWEFneTVXWGI3RUpHM1IzbVQ0UUR5SG4wWXNreTRZMFgxQlk1V1pZc3B6VHE2TjZ2bU5DLTFHM3hlMGlENWpFbEwwQ0pydXJQOEJJYjktd3l2dDN3SkFpcWNwVkRJOWZ3WTB4MWhfeXNIbUNJ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "The Eli Junior Kroupi transfer is becoming even more obvious for Tottenham",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUmoydExEWnBRbm8zV3ZPb0R0cXg2bjByM3Y2dldXRTctYzFQY3ZHTzJ6RkNTV19oYldidzVadWQzUWRDNllhd3pQaXg3emNMbV9SZU1OUzZzbFJLdFNLVDNZRTdXcDlmTkJRU2pUdHhwRXdfYzYyMk8zRjBFZXM5RTRWRkJOVDZDTk1zU2xrODhTQnF0MGdSOVd4YkxBUmRDNFdoYjgxMlA1azBPM2E4SFpSeHdRTlBKWjViNVhKd0t4ei1QcWZzU2R4dVl0azBGSmt5MmVNRTBfS0xi?oc=5"
    }
   ],
   "local10.com": [
@@ -40374,6 +41756,24 @@
     ],
     "title": "NITI Aayog Vice Chairman Foresees Regulatory Improvements in West Bengal",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaWRPUHNWVzQzZGlLSWM4Nzlwem1MVE5jSmt4Rm5MSFBLaFRZeXZ3Nk9DUWwzZ2hxLUVwTWctM0VfdHBYbnBmWWJpM0Q4Y3JSLVgzc3pCYUtRNVJiSTYxdGpEVWViTjdVaXVsOTFSVENrS1hrRWxWcG43bTU3VURjaEVzRFZLRlJyazRMVldaUWdqaXJxT0FQS1hBZTlvdTVBNmsyMThScEFUTURmSHJFX2pUdWlCMVkwQjVj0gHAAUFVX3lxTE53TUhDZ0FQclpPelc3UDhudFFWSUR4aWFQSjYtRlF5UjZWTTNUX2R1MEJOYmliZXkxcXBCeVZ4RzBta1MxdEludjVfREpEVFZZVjZLM1JaazZHRWNBODlObGJ4M3Q3Qmt2U09xWDFEcEJlcUdEWWY4YlVVN1JHdVpXamFnTzBrWWFsbEUzQ1hwZnZpd2hmbEoyc3d3cklmRW9NN1ZPd0NYVUNBdUFGc2NRVndMaEFHZ1BuQURYMFRLbA?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Lokmat Times",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "India's Ukraine Peace Push: Modi-Putin Talks, Jaishankar's Kyiv Visit Highlight Diplomatic Efforts",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQQTZIazBNdWg3NVJVWHhKZDduUjVvMmR3SGJJOE9PUmUza1MzZTFUWHUzZHA4MDkwV2d2RE93eEw5dDFlbzdkN0NJMjczaUdJVG9DeFJjcFBMb2xsNFJFbENDRHFmZ1FXMXgxblhxOVQ2OGZPdlk0cXp4Z2J0bXI2dm9ZN0dJYWhaTHYxcm9WRl9fY1F2azdfb0VXS2txd2E4TWRkS2JOWTYzd1M2dGZSOHl1bjE4MklFX2dWdEpyNU1VeTFxVDViQTVCSFhEWVByZko5RkdSMlotQldJVVHSAeQBQVVfeXFMTlkyTkx2UG9KV1g5cUxhVHpiajNycmNmNmt0NDdCVmMwZTVEcWlpaXl6UEV3bThjX1ZFREtZbW03RXJiQ21UR1lEOFpEUVpPUl9BTWZWcTRmNXZrR0hnNHpQa012b3VYallaeTRNemxKamNDZEF3UGZneEV1WXVvcGUzeGRPWEtjMjZhaDVzaFhSOVlsS01DM2hWNEZrSXlkdHZZVkVxTnRlSjFkZVJaaGwtWlk1SWhxNzltb0dNaDF2eXFOQlc5TGY3N3NsY2JEQWhaOVMzRVgyTUFoMDB0RFhZajNt?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Lokmat Times",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "US Fed's Strict Stance, Rising Bond Yields May Challenge Emerging Economies: Fitch",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaGtPZ1hYZW11ai12SnZOS2txWk9pdk14c3pKQVZfOHJlS0lWYzgwQlJPbXBSOHhTLW4ySGZxMk4tVFRGb1JxcUpHd0pUQ3ltMDBPNFl6cmY1djRCVUh3S0N6V0xEblhpd3M3SUNBajI5aEd1R25MdXRWUTRoNHNudUpWQkYyWUc5UGVLQzBycTBZM1dVVGs5STl6cWF5dlptYlJua1VqM1pOWmw2enVuVV9SZnU5MHI0Y3ZXdEppNEdPc2V60gHKAUFVX3lxTFBKMWdBRkhaWHlwbEFwNFd1bjN0ZmNydXY2UnVMNjV6NF84VFFkeENUSTVScjgwaFc4QnVrQkVLSUFleldZRmtBejV6VzVDUmFucjlncEE1ejdydmg1bGdRdWMwZEZ0ZGVVcDl4UTlZLW5uLU9QaHBFbWR4Q3Z5eEJTY1RWNkZ1elBOMW9odEZLNVpNem9mZ0xLaXlZd0p6T3NYeUNxc3ZCdHJfemZMcEg5NkJUX1BZamdUYzRqS3M5ZGpKN2EtWUhtSXc?oc=5"
    }
   ],
   "london-now.co.uk": [
@@ -42014,6 +43414,15 @@
     ],
     "title": "Jaishankar, Rubio review India-US bilateral cooperation during Atlanta meeting",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ0NmVjZUV3dvckpDRTVNd29FaUJheXhSY1VpUmk5Y1ljaHB2TlJzaUNPNzYxTUt4VTF5YVF4MkFNLVZ4NXV2bTBNZm5KOTZZdThpX0JnT0Y5THFYdEZYVTNHODd0RjZUdEVPMjRmSHZnS2lQUUs5aVNNUTg0N2pybmF3ME1vVTRfQ3lRNmNNS1hIcWJDQWlQcFZBSXB2Sm9zd2VCa3VZM3kyaWYwZlZUbjYxWnNZTmpxTjBzdVVfRnlCZDFiSGpDSm9n0gHKAUFVX3lxTE9DQ2ZWNlRXd29ySkNFNU13b0VpQmF5eFJjVWlSaTljWWNocHZOUnNpQ083NjFNS3hVMXlhUXgyQU0tVng1dXZtME1mbko5Nll1OGlfQmdPRjlMcVh0RlhVM0c4N3RGNlR0RU8yNGZIdmdLaVBRSzlpU01RODQ3anJuYXcwTW9VNF9DeVE2Y01LWEhxYkNBaVBwVkFJcHZKb3N3ZUJrdVkzeTJpZjBmVlRuNjFac1lOanFOMHN1VV9GeUJkMWJIakNKb2c?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "MillenniumPost",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps Dec oil output targets steady",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbHVJZ0FGMGZIc2JKUFZHWVRoenU3b2ZZQk1QY1FqckdMc2ZNTTBpOS1PTTNLZ3U5dVc2Q2tvZzBEQWc0dnFqMzVwQ1lVaU9UNmZ6SVlkTHZBWWNVNjFVQVFUYXdtYTRuV3Z0a3ctbmJQbGtqTzgzQWw4UW5nOEJfcXphbFpIT1hzLTRGbzFpUmZ5UENN0gGUAUFVX3lxTFBsdUlnQUYwZkhzYkpQVkdZVGh6dTdvZllCTVBjUWpyR0xzZk1NMGk5LU9NM0tndTl1VzZDa29nMERBZzR2cWozNXBDWVVpT1Q2ZnpJWWRMdkFZY1U2MVVBUVRhd21hNG5XdnRrdy1uYlBsa2pPODNBbDhRbmc4Ql9xemFsWkhPWHMtNEZvMWlSZnlQQ00?oc=5"
    }
   ],
   "mining.com": [
@@ -42302,6 +43711,15 @@
     ],
     "title": "Cricbuzz Live: NZ set India a daunting 260-run target in 4th T20I",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaGpHWWdlRDBQQjY1QnJfNVhjbWNQQVZpTmFUbi04OFdjSHFsdG1EVl9YLVBnWnlNbkpxUEdWQmw4WndXSFgtak53ZDljVlhkVWJkUk9mdzlwOGs1SlRUaGdkRW9tbE5WcmhxSFlKMVBVNUtKMk1xd09DU2dtSGR6a28wUXA1dTBkd0FvX1dtc1FwMGxQOE5BZFFXUnRrbTBfVUx4aTF3ei04TkNEZWJlYQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Cricbuzz",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Cricbuzz Comm Box: India under pressure as Seifert powers NZ\u2019s chase",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNWTZSTEgwbGQxbXlQcEtBVVh6ajkyTXFMcHk4Q1k2QTRzcEhxbEtrZ1VpTHBkVnU5S0VMZVc2ZmNTZXp4WlpzN1VwT0VVRjFJNk1QNkxQbzFjZWpaUi05cjZtY3c3cTZkX0dZU0NoazVUa2s1TDRTZ2QwSHpLQ1NHOXYwUEF3NjV6YTIwSThaUGx3VUQ4dzRGY21rQjdyV0U3OUNUUTNCdkNGWkdfVHlpcW5DMA?oc=5"
    }
   ],
   "modernghana.com": [
@@ -42322,6 +43740,15 @@
     ],
     "title": "Beyond the Dollar: Can Ghana\u2019s Direct Cedi-to-Yuan Payment System Strengthen the Cedi and Transform Its Global Economic Position?",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON29XVXJ1bkVuZDhsU2ppNDNPcEM5Z0RHcFd0M3NxdzF1RE1PQmxzQmk4M014d1cwSV8wMmFncVBaOEhrVU1nZTJ6NTFuc3RWZlRHSW5MSVZTN3g1N0xnTUZNTWFwZVpnZlhoMjFyNmo1ZGRsV1FIaEpIc3hqb0JRcW9Wc1pJNWUwY2FlT2hMTnBxR1E4aEMwQ01R0gGYAUFVX3lxTE9PVGlJa2VBbVUwUmJSSnNaVkMtTndHeDNvNDBVTWV5TGN2aDFXMVRxa2gzMDBLTjRNUTg3NE10aGg3T2lJQ3ZlcTA3MEdsWE14SGFyQmFQS2hQV1ljLTNkYU04TW4yQkVWLXYwMlpxaHBfNFJndkxuQTJpVkdFeDVFMlE4RXMwUDRIcEZzdHRFTmNvTnlNSm1h?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Modern Ghana",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Texas voters weigh immigration policy as they head to the polls",
+    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9XQ05uVlNxRERWRF8wVVFsM2hzamxSVTVFR1hEelgwSlMwc2tiemVJbUVLZFZYUXZyd2lycmZ2d3lQMjI5Z1lMMjBpYnVjc1NodWFyb2QwZmpoZlhxWEdr0gFcQVVfeXFMUHpWd0ViYi16S0F0Szh2anZJQ1VKX2lrNHpGTVk0dGxwSU5HWXVLNWZNVDI3RWFXNjRpVWctOEc0MHJjTkI2dXU5VHNZTlJfQVFCNUFKam9LMEZhZGE?oc=5"
    }
   ],
   "modernhealthcare.com": [
@@ -42400,6 +43827,24 @@
     ],
     "title": "Jaishankar Meets Rubio: India-US Cooperation & G20 Talks",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLTdxVk1JT2otdWwyQUZkS1Zmd0kycDZiSWZrRDFaTnExMTBiWFFaOGF1WS1LdlB3QUp1TWR4YzU4SUZGSFlqUG9EV2s2bWVnTjFHd1dqRXNITVBhODgyT1lkN1hBSHA4dGpfcTJIbUE0NThOMl8wdEdIZmd3WGN3NnhFN29qUVhvREw3R0JfVlNRR3dhQlY2QVBHSUgwOUpmNjRUaVBPYXbSAa4BQVVfeXFMTU0yNXg0N2s5XzZPUm1fX08xNkFKZ3FzcTU4ZHdPTkhES21tRnpwbzF5bWZnRVUzdDVXVElkY1RMVkhvVy16a2RhZG1fU0tqYmk2MUt4dXVFUU56ay1GZEtTLVZ6UFFlUGRZQzZQUU1sdDZlcGtvRkFweE5fWWgyd3NUWmgwbW9lTndXZjEwQzF3Q3Fhc01WUkVvbFNkRE13dzdQNXVIakVYT0Y5UVpn?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Rediff MoneyWiz",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "PM Modi to Inaugurate Bharat Renewable Energy Summit 2026",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2lYRmJycjdsRVh4Z3ItRFFVaTZNSTNIOUwxVFkySXZaTlg5emUtWGY2amFtTWhKU2xkSDlvS0FLdXlqN0p4Ym9vRHZweHBNMndQY0xaLWZrNzRMdUlYamNPVl92aE9OYm1Nd0pJUTJJX2JpczJka3RkYnlncVotWTVUX2lmdkFGVmRSa2xwUkZUMmFFYlByZjFMaXpyUGVCeTNpbGhscGFoR081ZXfSAbMBQVVfeXFMTjNyUkFSZFlPal9PTV92TmlnbDQ1MmdxdE9fWW9hWElteVZDX25jMTNnYWF4TF9oRzZMYktGZWtfWFRwUUdTS1pNVlc0cXdRVXZValZyN2lwVmt6bFV3OEFYSUE1LTVSQlZWVUdiZEV1ckItb0pxXy0zS3J5V1d1TjBXdUFlWWstSEpwNGFjalN5UGZ1NUQyZjdyYURqZ0NQRzc5VllxQ3N4QkdpWWhhdnBFRE0?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Rediff MoneyWiz",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "India's Record Crude Imports: Russia & Middle East Oil Dynamics",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUlNMUJMYk9zZ3JXRHRjRkxacnpQUm1qQXEzWlNrNlZXUXVNVkZDSVFEOTNiczlLWldVSlliam80SU12bEowUWU0VExTdlhOUUxlaVFWQmFVVVdIZ3g5QXBkWnlRMGpvQ2pxZVZpSXpCMm01VTRLWTZsTmRpdzNlZHdlQlIxYklkTG1aM1ZQUEpscUNCQ3FvWTZmZU5aZ21YbmhpVWFxbDlhMXFXVFEwVTZxNHdQZGfSAbcBQVVfeXFMUGlJTTFCTGJPc2dyV0R0Y0ZMWnJ6UFJtakFxM1pTazZWV1F1TVZGQ0lRRDkzYnM5S1pXVUpZYmpvNElNdmxKMFFlNFRMU3ZYTlFMZWlRVkJhVVVXSGd4OUFwZFp5UTBqb0NqcWVWaUl6QjJtNVU0S1k2bE5kaXczZWR3ZUJSMWJJZExtWjNWUFBKbHFDQkNxb1k2ZmVOWmdtWG5oaVVhcWw5YTFxV1RRMFU2cTR3UGRn?oc=5"
    }
   ],
   "moneycontrol.com": [
@@ -42654,6 +44099,15 @@
     ],
     "title": "'Took stock of bilateral cooperation': Jaishankar meets US Secy of State Rubio on sidelines of G20",
     "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdzNJT1BoLUhDejRKX28xblFTdDFKdFlsRzFOdEk3bWNYY2Y2VHM1UEhsaHY0eXZWMUtRc093Ym42TXY0VmNxclJUZHQ2M3RvRjA2cmpuRFN2M1JBOS1yQjlHdnV6b0FZWXZBWjYwbzRJYWtYQTZaeTdaOWFKT1YxeDBKbEN1RDh1UndERXNXak0yenBnajB4Zi1Na2pKU284SHJzaldQVFVvWUQzTGRTZ1k3cEl5QkphOGtkY0tQY3c0WUZQSnFkc3ZFcUJ0cTlsVk1jRFc1cWc4MF9yQ295UGhoTdIB6AFBVV95cUxOYUNLSzBlSHlXOHUtamVURnFpNnNTNElQY1RoWkhJLUdrNFJ0VkhqNF9QLXRidTR0SFRNRFZKWW5YcU5odXQteS1kUGhmOGRSN0lBcjFlT0MybjVWYzM0cGtWa3BNZGNpZjFUdU1CME9Vbl83ZWlSYjNpYjVZZk5IcWR1SGVYUjAtVEE0VUx0cjNhZTNlZ1dYVHM5aTNSNjFxY1RkVzFZS1J2RERNcTJrZDFCREFhWFRabUdsQnE1R1ZTOTRFbzcxdGVGMkpsV2xpVEh0eFdTRFN6U0tmS3B5MVdHdnhmVktO?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Moneycontrol.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude oil prices likely to remain volatile with upward bias amid US-Iran tensions: Analysts",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOS2c3NGNfZDMyTzI3dG9vTllXb3VWbzJGSkRQQm9wYWVWSXlHNlRyTTdETzlXTENTRXEwNENYZ25ERDJ0V3JFY01Ib1hmVFlZdm5NLUhYTnZIdVVMSzJCclFWLXBxR0JTc1FINk9EOVRUQUpCVEx1a18xX2tRSlMxRlNtSFAyM2F1NVhRTVRMVy1UN0ZXUU1DU2FyWmt0Q1BVMEVnNW82YnFsbjBQRWR1d0dYQnlyYzRRQlc5SVdKU1d5RjF1Y0E0MThEOFlHYm5PdzZkTC1kbkZveWZhUFR4OExfb09qY2h1T2szWjFyTlbSAfYBQVVfeXFMT2czXzdkMVZHLThPYmNQUk9MOHJGUXlrVUxzNnZZWkI3OU9lZGg2X0RUMFRWaXJXU0RvR1c2V0EzSTZwX0tFU2h0eEtIS0IxTjN6XzFTNzlkLWNHMl9uSVk0akJkVk9TQS1YYlNQMWdTWHF2YkIwdXZ1TF9MX0NuNEF1T0FVb3dCNlFucFRlYl9Sd1NKMlpGVWFQcHlubHlZMm40bWxYVkhQZWQ4WjhyRElzYk1xSlA0YWtZcUEyR3dmRXpXaHd4R3Q5b1FjTEFGR2J4MGZya2tYV243NkI5VkZQcmtHU2JCTGh2S2Vhd2xrQUd6Nkd3?oc=5"
    }
   ],
   "moneywise.com": [
@@ -43767,6 +45221,33 @@
     ],
     "title": "US Debt Ceiling Battle: Why Indian Markets Cannot Ignore The 2027 Risk",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVFVYckNSMENaTUxfdFljd21mYXJkV1hxZVhfX2RMTEZocTJ6cE84NnJubzJUUi16OVlfcHdWbUsyMUxOOVVNckFLbGkwcmZWRG9wTkFwSkJTXzY3cGxyd3lCdjJHVTFyRm9IMXdzOFVKa1QwRnFubkhQVkFEZkFVRDlQZFhINjlfNFRyTXRvbnoyVUtHX3JTZ2hlZlhpMERiY1ZJa3c4WWVlNkRhcTF1RUZGY9IBuwFBVV95cUxQb3M0cUFTQjI4NnlLZE90b2x1TllfWEMwSWktSDNfVnpHZXNMQUkxei1SR2hfcFREUzh6eG9JMmxRUExKUVR6cGdnREd5VUVPS1VsdFRYQU5aQWh1S0dZODJpVC0zbTlxcG4wNHczUl9aNUVkUUpCVU5QY1hKODdMT0dUZVVEZ2lYR0J0WlZ1dXhzZWIyUFJlMk5hVWNZNE0wd0MzaXVkVXNWUEkxTWNVX3JDSHFLTTZTeWFF?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "NDTV Profit",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ Retains December Oil Output Target Amid Iran War Disruptions: Why 2027 Quota Matters",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU1lrYlJXYlZ5X0NGb3U2YzhmakRtejcwcnNkenktd1ZCTGppQ2ZnNXNYa1FybmxlenRrZ19sYjNVdU9ZdDdjb2p3TGJzclpOaXNvN1haVGQ5YkQ0NGVjYThKanFsaVlSeXUtSi1oTW1PeDA5dkM2STQ2NlpFOWk3ZFFTMlVSWU10WWt2LXZiSlgyUmlhOUNwNHNWU3NwbVBPVGtqM1hmNXU3SHI1WjM4R2oxQnFpOVo1MlZ2Qk83NnNwZ0hnRExrUXI5b3HSAdQBQVVfeXFMTkJ3QWxDSHo1eHllSEFGRzAxUEtLZmtheU5sN2N6OGdSR2ZCbWFJMUlZdlFMdUViRWpqVUVUUGQySkNWX2VyeEVfZV9wRE44bW1nbzJFTHNUWTBzakVuSXA1cHZfekYtWldXZTZweE1hN1lRanRVWV9rekNlcEpJS01ybFp2azM2bTFqQmVINnRvSGVEbkJYNkRrMmZkRmpiNW9fOG5OSVdyd0R0NlFlekRMdGtKaDN2WERnZEh1Znlvbl9VUXBRQWxSQzZkcWMxbkhaZ2w?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "NDTV Profit",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Government Bond Yields May Ease To 6.75%-7% By March 2027 Despite Potential RBI Rate Hike: Report",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQOUJVa2lDZEJ5dXlYbE1hTy0wVzcyMjBlZklWeTdkZHk0SktnTjZaaDRzbFB1cFVkS0hQVGpJRl81ZklmVDF2cmJfSWNWZXFqemFuRUVnNmJ5bVkxQjFlSmo1RkdVaDdfSmtrZDJLcTZxdHpONGY2blZWcnQxZmo2bndJM2FMX1h4UjNyNHdmNUZqWlB4Q1p3THZpNmd0TUpxTHYyOWdlZkxJSjBYTFQyRzlDSlFrYlVseDk5NEh4RXVPSUZ5U2Nra1ljQzBDQlJwT0VOctIB3AFBVV95cUxOb3JWdmpSQlZwRWM5WW1RVWZoMzZNTXFKd2FvaVJVclhUZEl3b2h0LU1sTEpqSUhmYWVmc2tfWHp1b0FLeFBldUhJekdxQmlUQjhTUF94RTVtZU9OV2pqUURYbFE5SGNXWTFaamlWWmp1SHlqRFVGVGFvcW9USHp4eURick1DWlhuNEJoSEZyT28zYXVzQUM3dVBpNHZLRlUtOWNYckVYdTV1MGlzb0o4V3UyUUZFSGFwN0xOaHlIUFR1U1ItVndCNm9VaUI0cldoN01oeTBGRF9tTmxY?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "NDTV Profit",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Sensex, Nifty Surge After Fed Keeps Rates Steady; Rupee Rallies",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc3dhMzJPYXVvVzlWUWtGaFhsSnp0Q3FXMHg3VFN4SVJUZmNiZzJ2d28wYUZlbGU2OF9mMGZVNFJxUkZzZkpPbVcyX185eERFWWNwNTBEYTR5U3RPTVdtclV2U2NiYjJOLUNYYmsyRlkxMFAyaUx6ZTVuZU5EdUlqMjl2bjZjbEU0R3ZQcUVxYnEwWHl1WlNlWFViWGxVUUdOUUlSWmdMRFNoRXpwcGU4QjZHVUE?oc=5"
    }
   ],
   "neoteo.com": [
@@ -43880,6 +45361,15 @@
     ],
     "title": "Modi's visit to Canada will be another building block in bilateral ties: EAM Jaishankar, Canadian counterpart",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSFRkSHJVS2ppYWsyLUFXS1BvMXl4VV9NaVRybWF2Q2hNLTVJZTNlZ3lBeVJkZ1ZNYkYwZEJJSVZIQXM1OGE4dHpCQTJfTlB3Ykd6R1VJcGI1SlNWSnBxNkhXczNlVWs3bzFfdkxzVVR2SWhRMmx1WndGVXF5LVk0dnVET0ZsWVdDVVo1c2tFd2NPMTV5QmVhVENWS3NuTjdrTktRQjczWVNmWFk2NkdBZlpXTzZQQWl6NERlYTRYUHNuVkZuUTEydkI2OTA4ekZ3bkp5Nk56TC1jUVVNU2NoWHJiczhiV3RxYU45RW1n0gH7AUFVX3lxTE1UaEFnZzltdlROSFFjQmxrYUloV0U2WHdHU3pFbTdNbVdGVUVXWWp6Q0dacWZwSG5SY01INkdaS3lOQU1HcGpoRE1PbTh2RTJGU3BjaUVaS0lwaEdUYkpVTEUtWmZ5XzRkUzVreWVZd1lVYnhrYmdUOTNqcm1kOVJuR0lyb3BUY2NITmZ4cmFOQUFlUG5KcE9PcmdWVWFuWnFSUng5TkkwQy1zZUZxcEVydUFldGhCRjBYRk15ano5SDg0VzV1VGZMWXVmbmdERE9Jc3NvWmprbVlLNnlYRDMwNmNoaXZDSEw0NzQ1MGx4WHhMLUpjLTJPYmNB?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The New Indian Express",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Jaishankar meets Russian, Polish, South Korean counterparts; discusses Ukraine, West Asia",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNX1NtMEtBWno3YjlUc3hCLTd1ekpPbWpfWHdKbF9TaFlFZjlUVXgwNXJ6WnRiUUpwOUVCQk9rU1UydTl6ZnZETFBSaWRnUGZrODRicjlNU19uVjBpZ19fZjVLOUdFR0tMaE03V1VYZjQtcTdjNFRGOHczMFJWOHVPTzl6TV9VelFOQUotdXViUmhRNXFLNFlFSktuSTNUN0pDVjVIbFFNN2MyTU41SGhZUXptZmJsenNwT2s2X2RRaGRiQU9Uc2twZlhyZWU4cWNXdWfSAd8BQVVfeXFMUE5TemxNa1ltVW1rcHMxb080Rmp3ZmM5aFJOLUlMUFZlM2ZLcXJMai1Ga1RQb21ZZ2RpZHY1V0I4cWVWS3EyS3djZG5IMVFuZFduZUgtci1DcmJyWUVNZ1c3bGFaTXM5OFdXN3A5M1BaNW9yQTM0OExoUEJ2NDRORnFVUm9QcG1DWUcwakhpMHZmNlA1dzRjOXVtYXI3SHBjdmZLblFSeExxbGp0V0VBbU16bk5STjZlUmdRSTF0RVk5UWEwTXNzNHdBS3B3R29pc19zX3ktM3d3NDlOU0dvOA?oc=5"
    }
   ],
   "news.abplive.com": [
@@ -44583,6 +46073,15 @@
     ],
     "title": "Jaishankar Urges G20 Members To Resist Predatory Practices At Summit",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSmlxQzhPbHNVMklLSkRnYkFDT2t1Q1E2SnZvNTRraTJhZ1JMbEhaalRic0ZkcnhMY3cyYVc0MUx4eVZkT0w3b2dBTHRXVk1yNFlCNmpuTDlGQVhhODFUd0JGQThLaHNDUkl1VFhOVldTUkNNRkFDa0IxbmZPeTB4dl9iRko1RzN1dl93UGozZlhEX01ZaWstYnl2Ny1wMFZMNkJfOWhWMVlJR0xkUE1DWVVxSm92X2xYQjVfdlhKNUpDdEl6NWfSAcsBQVVfeXFMTXFxLV9SYlhQZ3NBSFJuc3hocTJYZFZPZjA3QjM1VjlCVG81ZW1fcjhKRTIyNVQ4d0RXbHhNZ0lSYnBGc2pDbExDNi1haDVCWGV3Uk5DUUVpaF9xNEVWc0NTb1NRMGlpekpjM3RTZHNWbjVYSXVhcjBLNFh5QVFTb2ZqMm5jbGo4VEl2dHJ6YWI0MjZpTUpZLWNmMjNYS2VQU1RUcGM4dkNubDcyTW1TNmNSXy1wVHR5bE9DZEJvLWZOWEwwTVQ1N1M4YVU?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Asianet Newsable",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "S Jaishankar Outlines Key Priorities for the Quad During Atlanta Talks",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZllEenBVeXRFeHdkc281eVpNaG5tUUV0dVdtZl9VUUVpVGlSa0o4OTNub2MyTk9KeE1qSVpVNHhrT3h3U3I1U1R0Vld3UTdNNnJDZThjRnVaSG05R0F6X1NieUtvaEkweEtFWlJYc3UzSTNvODYwaHhLQkJySXlpMmZic3JBRjZuUzJmQ3RxZkVOanM2SFdHZzBhOXd3OUlRZFF1cWw4bUlGdFlnN2pnUE9Ra05uanhEdDlRRDQyYUJzSXkwSWR6SNIBzgFBVV95cUxNWXBFZDB4YTc4blZZcnlCVnQ4NGVvYm1KbFRza3VfdXpaM0pvZ3Ntdk4yblQzZ201eWtvR0NhOVI4ay1yd3J6Mmd1T0VRRnROSkdMZzA4czZ5elhNY3RjemNKdTExeXBPTlBobU1hRUhVUmF4WTdFZnZGbmZHcTlQWUJQbEFBNlEwOTN3NVNTMnQ4eTJ3U2t3R0R4djkzN1JCejIxZU9lZkFleThZQ3dPZ3hIRTNQTURHREhGNXM4dFdJcFRhSDQ3Z0tkQ2Fmdw?oc=5"
    }
   ],
   "newsbytesapp.com": [
@@ -44666,6 +46165,15 @@
     ],
     "title": "Jaishankar meets Canadian counterpart Anita Anand in US",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcUZmc3FkVTAwVEk1amFTMUF3UVdqLV9wVHRrQVVOVmNoUnNtRUJsV2NRQ3JtdE9URHNGTWtQb00yTEotTVJXeHRUQXhkTmxfU3JZTUxkVXNGRUtPaXJvQXhyTmM4MHZSS1F3Z1I3UTh5RjBlQkxXY0RZM1R3UHloS3k4TWF2WU5sUnRlYlkyaVlKRGtqeEpDeTFpUmw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "NewsBytes",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Modi, Putin discussed Ukraine conflict in New Delhi, Bishkek: Jaishankar",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVXpXLWpiMXZUU1dQSUVTeWJHX2ZvZ252OWJrVTl6VXJUMERwYUktZkF6Z3FqemlTcTE4Nmpfem9DeXdBdG1oaUxOa1pqQ2MtU1JDc1pXck1JVGZZMjRoM043TEVNQ21EOHdtXzVPamtrcThjVUxqMUdweDJZUzdWcWpjQnA5SnBhOFZqN0ln?oc=5"
    }
   ],
   "newscientist.com": [
@@ -44719,6 +46227,17 @@
     ],
     "title": "Chinese investment helps Serbia develop humanoid robotics",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeDUzSEZMM2k0cy1rcW9uMlh5TVdMQkJWUnJqVHNlRjRWNDdrdmREM1I0eUtVdHQwQk12RDEyenA5VHY5aWRRRVRib1AtYWIycFhpZmhrTlRxcm9nWXBwQTRyQ0dpTlJzMzlQNVNHeVR3b3k3ME5iUmU3UE9zMklPd3gxSGVManNSNW85Rk1ybFVEY2VHdUlsLU5wTmFqMnpmVVZuaHlFRk1oWjMyWkI3Z2FLUGpZVHNfNzBCdTA4alRwd0k?oc=5"
+   }
+  ],
+  "newsfromthestates.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "News From The States",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "With New \u2018Deportation Judges\u2019 Working Remotely, NYC Immigrants Struggle For a Fair Hearing",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPa0M1OTMxVmtXdGEyM19EY2twWEdaYUw5N01laDZYXzFQN0NGRHJwbnNnUDZLZzNVaWZQV0E1YXhER2JHSExSbktEVFlsNFdxMXFzQ2dhM1JFdWQ2c1BmQTJjYTIxa2w5UldJWld2SDBQSDd1RWNNb1lCSkp5STJaa2tjYU9SYU5EUkVPbm5mWjgzdEdldndfRW44X1A1ejIxdk9tSWxmVUw1cXN2Rmw0MVAtbHRicDJvb1E?oc=5"
    }
   ],
   "newsghana.com.gh": [
@@ -44993,6 +46512,24 @@
     ],
     "title": "Star-studded final leg of Youth Olympic Flame Tour moves through Dakar ahead of Africa\u2019s first Olympic sporting event",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LcC1xZlI2QVg4Znk2U0dWUWowdXdHa2VCZE9Nb2ZtQXR6SVE1aGs2bHZxQjQyeE8zcFlIdG45aE5fWlVlTkZYSWFIYm83cHp4R2U4?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Olympics.com",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Olympic history for Ecuador in the swimming pool at Youth Olympic Games; Gold Medals also for Argentina, New Zealand, Russia and Egypt",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTMjJZRGUyQU1GV3VZRTluQk1XSVBhTWdsTmluWF92OUMwR2xhYzZ4bC1MLWJsTkxIemJtdEFYc1poc3hsbFJTSzc4Z3NrLTVjMHBN?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Olympics.com",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Youth Olympic Games Dakar 2026 gets underway with vibrant and colourful Opening Ceremony, in historic first for Africa",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqRTNhTDBHLWlyVkg0Yl8yc1ZjWWs2dDA2VktoWlF4SDlqMHQ5N2JvV291ZmVXRl82aU02VUdmdEJpbWZsck9KTy1MRWUyOHREVGFn?oc=5"
    }
   ],
   "newswav.com": [
@@ -45051,6 +46588,15 @@
     ],
     "title": "Green Card Update: New Fees and Application Changes Coming in November",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUNUNzRVb28tVGM0OGRMSUp2cnNsX3NpalBzMlFOM0hrNEh5cnkxT3gxT3l4eVQ5YURnVnJVUnFuazZvOHphX010UWticVNXUFhjTVBBaktveThLRHJMQlQtYzBSNzlZSWMyQjNodGJybHFfVjNKVjQtNEwtQTlqdWFybzdOUEp4SndJV2EzQjNnSjM5U0tmamJFbmZIaDlza3c?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Newsweek",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "ICE Ordered to Return Man Deported to African Nation He Has No Ties To",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUZsUFlROHJnWjB3X2M2ZlZjaXNMLUVYbUhjU1pSSmFwbWhRYnhNSEJEMENnQ3NncG1GUXhFNkpRY0ljdWF6SVdPUEpIT1B1UklEaDc1MUl6UkVUOHlvYXMwemlsdTZKYzFGcGJscV9ma2RqVUtaQ3d3WURPTmJEdktDLW1YLWpTVGhhMXYxamxCNmFtaGZMNzRSN190ajdWZ3NuREJHbw?oc=5"
    }
   ],
   "newswise.com": [
@@ -45689,6 +47235,15 @@
     ],
     "title": "Jaishankar Meets Marco Rubio At G20 In Atlanta, Reviews India-US Cooperation",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN2xtNGR6a1pTV3BUaVZMQnhZZ08ySjVLOWczUmFTbDVCWWRnZjJTUEtZM3FDQXRLMzhIWkY2SXF2cWdpYnVEREhDdC1vOWIzMFJpQmUyNHkyNXRoV2FzMUpmU0Q2TkVzY0NHMXNsZWZ1eWhxUldyc0tURkhYT3ZFTlNFSU5naGpSc1I5MWktMlNSX3lEWkxMMWZ0a3pNUVNJdkNzSVlwWXFFVGowSmJickxVWkNFWTAwbVpiclNDNXXSAcABQVVfeXFMTTdsbTRkemtaU1dwVGlWTEJ4WWdPMko1SzlnM1JhU2w1QllkZ2YyU1BLWTNxQ0F0SzM4SFpGNklxdnFnaWJ1RERIQ3QtbzliMzBSaUJlMjR5MjV0aFdhczFKZlNENk5Fc2NDRzFzbGVmdXlocVJXcnNLVEZIWE92RU5TRUlOZ2hqUnNSOTFpLTJTUl95RFpMTDFmdGt6TVFTSXZDc0lZcFlxRVRqMEpiYnJMVVpDRVkwMG1aYnJTQzV1?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Outlook India",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Jaishankar Meets Russian, Polish, South Korean Counterparts; Discusses Ukraine, West Asia",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSEZpeUo3c01HNXpETnFZZmdla2pmNU55RTVkSjl1U2JhZUoxV2xEaWRNSkJnM2pQaXdGbzh1UFBfcVFDMEpzSURVNm5BeXZ5eExoMVNqTjhLS085dThRc21wTEpSaHNIWjlsU3hrVUZ1bURpWV9ESTZrT05xQjFYU2d3Z2FiQzZkVzlxZExRNlJRd29VWDZpQTdIeWYtaEdSY1oxZUVpeFd5amJkdXpNQ3l6cF9CZV9FYnU1MlNYaGhzQdIBzwFBVV95cUxPWm1mN1lwXy02UTBnZ3dNQVZUbjZYNnRQX09zQ3BYUTVYNWFrQlhWaVprYVdBX1AtLU9jei1mbWtXUjVNbnZ0RHVzclpfeVltMF82T1Z2bV85cDY1QWJ2NUVRbjU1Tm42bUFSTVAySjF2UFlQQURiLTFpRGhCeGU0Ulp0ZEZQTm13TEZyajJ5YVdyYkxydE5McXlzZGJkSDVsM0ZHMmlfRVFDTzU2anhkNGpsWWQ0TklWMzVxbHlzaEVad3pYR3JKcklzTXJGLTQ?oc=5"
    }
   ],
   "outlookmoney.com": [
@@ -45933,6 +47488,17 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeDRabTk3MGZlX1gzSnlMWEhPLTczT3pUckE2Q3R4cUpHT0lfQnFKRHo1eWdiQ1FiVXBXQlV6RVhpSTROYUZoYlFzRVlxMWlGUFdZcW5jMXpKdlBiZHRJMzNSOGJMTUFMWVdDVS1sbkFNcy12TGlnVE5rclMyREY5SEl6dEEwVE1VdFMyX0V2VWtFLWVVQ05iUWJMT2M1blZPZkNOUi1xLVFCWi1WZGxsZFJhXzDSAboBQVVfeXFMTV9BakhETXRqMkhSSzY5V1hjVHZ2Y1VkVzFMX19ua1BLUTRGQWdLWTI3aEcwMkhROG5tSjlDMHRLbDAtczhuV2djeUl2VHVydUo2NGFxcVk3YmpkdDRNMndOYlRlVzA0X3Y0WWxLU3hTanFreDdqdXA4ZmJPWk1QWU1BbHdocmo4VmVwLXEtTU5GUFhsYkhUN1VmZXB4TnE2SmItLVMtang4Tmd2NDdwanpPVUVpczB5aFZn?oc=5"
    }
   ],
+  "peakprosperity.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Peak Prosperity",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "GDP Booms, Fed Holds, Rates Fall as Gold and Silver Plunge to Near-One-Year Lows |",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMVpvVGdHR3FPdWxiVGRQcWZWbVVEYnptQlpzb05sMmVrZy1na2diWmZpSGI0TmF3ZVV6UHBVaS1QSG9aeGhtNUVoV28wVElZUGtfRWxnQnVjQVMyM1RSa0tieDlpMjhSazEwT3MwT3JmSkVRMGFYR2tRM1JvTjVjQjAxM0xscW9qMzlKU0szZUNIN3FSenFUdXpZbzRLaHRoWmdmNVQ4T1dCZw?oc=5"
+   }
+  ],
   "pentictonherald.ca": [
    {
     "date": "2026-10-20",
@@ -45973,6 +47539,26 @@
     ],
     "title": "Fed Holds Rates as Interest Costs on the National Debt Top $1 Trillion",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZDUwcVc3Rm02OE55el9YcGJxY3JYT3pGY2l3UWRZVk03MGlHVWhpd09MMUxPTExtTHplLVVjcDlfVGpiTEd6THBMaEZieElPZ0tBMks0YUpJVEltd3Q0bDMtcC0tblFDckdpUy1qSTFkcXFuRVpOUlUyZldpWGtWY1NNRmc2c3haN1VoVU5SQjV1N1RfU2hjcS1zdXhkNng5?oc=5"
+   }
+  ],
+  "pilotonline.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Peterson Foundation",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "Column: Here\u2019s how the federal debt explosion happened",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTlBOV0RFLUZhQnNTSFB1cFlaUjA0V0dIeW1iUDJoZWx0Q3JKUVp6bXdQTU9mdlVQc2ZlR0lEdVJqeVZ5SGtNSzJpOWtKc0NLNFJWZTBRMUVneWZ6cjJrbWJydlZkMzdWQnBLV19tVVU4LWx3S1FSXzZFckluaUhiaWp2OFFDWWpPblYxUEVscTM4T001T3A0?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Peterson Foundation",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "Column: The political breakdown that dare not speak its name",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUUVpSUhYU0hTVEwyWUE1MS03OEllTXphNnl2MnN4dmhkMV83dW9BSjlVazZ5SVQxWDQ4UVFoQ1BGTGZmUEhnUC1TdmQ0UUh3cHRzNE9uOTlycmdDMThiaDVzN0dfM01wWjNJTzFDV19aRXRRcHJJTi1tY1JLSVdzMVUtaHpCZ0swYVBTRW5aMDZCZmRZM19aZDkwbkp2elZ4?oc=5"
    }
   ],
   "pjmedia.com": [
@@ -46347,6 +47933,17 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUllPeDFpSWNOZVY4SUNmbVJsb2RuXzRBbEpQSGlZcEp5MllibTB3dFFnTGZtd0FCMFlTMkVpVG9JXy1ZVUl1ZGNiTUFrUjBpaXNGQ1IzeG8zUkNlekI0d3VVTWU4ZmRWZk5YVDRaaXMxWjJEbDM2R1l3c1czZjhaaW1NMmJNSDdnYXlSV1pXNGhnYlVVRmpIX3ZR?oc=5"
    }
   ],
+  "politiko.com.ph": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Politiko.com.ph",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "PH National Debt Hits Record-High P19.66 Trillion in September \u2014 BTr",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0RINDNETG1mLWt1OVlDaFl1RE00YVZSN0poQ1I4M1owNzJyQ19QSkQ1MWRCWkJrUHAyVFRWRkJxaHVqTER2Ykg2T1lQSWttLTUtdzhkNkxPbExkdG5vc0hKTXdockQ2NWxLTUl6YTR1dGx4ZzZBMTNvTzNwNExmSTdsTEhXbUhJWU1OMVdNSjMtc3RnalE?oc=5"
+   }
+  ],
   "polymerupdate.com": [
    {
     "date": "2026-10-20",
@@ -46407,6 +48004,24 @@
     ],
     "title": "Gold & Silver Prices Crash on MCX Amid US Fed Rate Hike Bets",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92ekJ3dTA3UHRpaW1ERzBoWlhkWHFzaEZqa0haRnJhU2JwR2FtWUhTb0QzaUZXZVhYVDVBT2NjM29qM2xGVXc3Y3VEX3c1Tm9BZkdkb2oyMjlKMU9jdnRtR2Qtdmw5MDhHSE9uZHpfd2laSjdiNVRrQThIVEVHUQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Pragativadi",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "PM Modi to Inaugurate Bharat Renewable Energy Summit 2026 on Nov 2",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZUtqZzJDbVN0WkVvZW5FeWNvTWJDOFJDNFFFY0l0WUNzbjI1VkRSNUlHSkFHaURxSlBtZUZSVFRBc3R5VHBIMTJxLXBJOC05dzZsUU9iVTkxR3lYTE4zcmJNUHRBOEduWUVlVUJ6d0otblBZcVQ3VHVMdEJ5MGMwNDExd05BVTJscDJLQ0tiT3RJaHpMSFE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Pragativadi",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Trump to Rely on Executive Actions for Tariffs as Democrats Target Trade Laws Ahead of 2026 US Midterms",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZnZONXdISjB0M2lONDVHMTliQUE5MWdTblF4S2dmOWJybHh2TEdLQ2MwQUt4MzhPTVpqbS1EbVNnTlNuRnJqU3llQ192djB6Y2xQX1RjaTc5Q01WdzN3Mzc0Ung0aGx1SERySXdzY2xjcWhSdVRhVjBXQlZPVGd1VDhGSE5kU3JXTFlVTkRSMVBxSUdVUlNxMnlhZXNqaURBTzVRR2RuVzJKNzFXVmRndDFBSXI5Rkk4VHhPa3ZUNm4zSHc1anJN?oc=5"
    }
   ],
   "premierleague.com": [
@@ -46467,6 +48082,17 @@
     ],
     "title": "Norwegian media companies take Meta to court over AI scraping terms",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN3c1VDJPamtCcHRNSDcwWmtkaDJLYnRBaFJicGlNSjJLSzVSSEdtNnh3cGtycjZidVlOZXhuLVlUVUJsNDRuWG9iM3NCMU9OaHdoS1FIeG5KZmJaai1aal92SDc4am9xNnE3am1paDhKQ3BQbW9MWF9kbmxfRWlsZlp3bUNReTNCczkyNUdxdV9VN3BucmxaMHN3cE91TGJSaEE?oc=5"
+   }
+  ],
+  "pressreader.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "PressReader",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Gold dips near US$4,000 as Fed holds rates with little guidance",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRGZWU3ByOU1Qd1dxRXVpeU9wVUNnSXkzeTJpUmhHbDVBaFVzd0djeHRmQk16RjRkOHVTZzlkSm1MZk1LM3o4bzZFeFM0RUV4OVlhM0ZlMEtZQ0NsZWJ3OVU0cnZyQzE1NHRaZUlfZzNqQXF5RWJjZE9Ma3Uycl9paXU5bjhkV2lo?oc=5"
    }
   ],
   "pressreleasehub.pa.media": [
@@ -46634,6 +48260,15 @@
     ],
     "title": "India and Mexico launch preferential trade agreement talks as bilateral trade falls to USD 7.83 billion",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNUkFWcHNSSG45N0VBdUhNNUFfQjRUcV9yd2JEMEx4eXdFNE1JYW5ldVJycFdtdFdMczYwS1RGZXFMVUs4OEgxOVFBUzltR2FvbG5OLV9yeDBjYWRzMnFGUGZoZGtsbTVMSm9MX1J0V3FfZzFqeE1lYVhQd1hLZkcwZDVyVTNib2xOeFpfVExfMFdMRkZCMjZfdlR4WG00N0wtTFE3VGtlTFJhMDJwMm9UTGdxOTZGUmFpbUVlOWR0X2FGTDU0bHAxRlQ5cmhsbzlwTVJpZjduYnVPeVJqN0pnc2hObzdpMDdsemU4?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Prop News Time",
+    "sections": [
+     "politics.india_governance"
+    ],
+    "title": "Cabinet approves INR 10,000 crore scheme to expand container manufacturing capacity in India",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOUmpsUUxuNFlrX0xyN0JVb3plbnF5b2tMbkwwSG12YVRQR2Y0NVctYkg4ejRFa3JNSTJMUUltRHNzUWRpb3lFN1c5TzhoX001ZjVkTUZyZjd4Y3YwdHFXWlpITkZlNVphN0p4TGVvTjdpeHJRMlYwVEhnYi1ERzFKMm9YRHJJU2F3YWVsVTR0LUIxd1kxUHFuWkhkcUFteEJnZHlWclVhWUkzM3NQSGY5YzkySUhxRlVKVTlmWnFYWUlOSTZYRlBlSDB4eHhUYUNGYlVmUi1xSy1vemlz?oc=5"
    }
   ],
   "psuindia.com": [
@@ -47564,6 +49199,15 @@
     ],
     "title": "Chelsea Hold Fresh Transfer Talks For January Target As Blues Weigh Up Asking Price",
     "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRWR6aE14OWNBX1NheUxxS2RpUDFNQ0YtM2N5N0JyTEFJSjRwOVZPZ3RtcVRBVEp3T3F6R2pUb2U4dnB2M3NvSDRadHVjWkFTeXFlQUJlV2NmaGpGTWF4Rm5VVGVCVTBFbDZGOWhaa2FMUS1wZEVCeEhLTkpvVXctalFYc3JGYmE3OEJWVHRpQWZHWnh3bS1mckFJYWctbERzaDJhZHM4dVIxNlE0WVNROUdYVERBNFhtSW1lN094cjNSREN2dVRKbGhZcDRIdGJ0b2pIdnFLMGpQVDNnVnJZRkFTQVlIN2c?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "roundtable.io",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Barcelona Star Responds To Transfer Rumours After Man Utd Interest",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYmFRTW5yQmFKM1VQVldIZXdjQmcwSWhZUXAyX3pmanJwVzNSY2VfYXBfMFNzLV80aHdxQWdsd3E3SE5Hb01yeWFpNEJxN0EyVzlIT1h0c0g0Y0picHQ4R3hDUXRqVXBxOTRUaFNVMW9WWG5CMmFpbl9JbFRiUWt2YkJRZGtzbW9sQVoyYW9yQ2psN3J3YlF0dnZVZFNWRnJsT3Ayd3NCbGJfYV9reW0yREI3c2gwbTBhVWFYbU9sRGxfZTBGTFBGbm1LLVJ2aVFmd2lFTGhTTQ?oc=5"
    }
   ],
   "routesonline.com": [
@@ -48131,6 +49775,15 @@
     ],
     "title": "Fitch Affirms Ukraine at 'CCC'.. Forecasts Economy to Grow 0.2% in 2027",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVjFkT3doRElEaVZxOU1yYWd1R2RZbTRZcDhlbHFnek9pMVNjT0ZMb3dxc0ZWODFCelAxYXdSSmpQUUw2eC13TDk1U0R4NFBRMUVpUmhmeGliQXRvek9TVXdJeDhrNDN4a0FEUk1LV2RBQzdHR0poWDFvMVB1ZlhSajlXQUdCWDhod0E?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Sada Elbalad English",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "Fitch Downgrades France\u2019s Sovereign Rating Outlook to Negative",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOa2ZnY0h6Y0dnS3FRMVdMZUtFLVI3ZExOaE9nb1UxdDlreUgxX2dzU2dQcnAzdUpWYzVFbVIwVFU1LWJOMWh1REszd1M2NHZzcjhnRXRXdTRvUGNzQW5PekI2bnJ5LTlIS216XzhyTXNpNFhDRHNrVHZzMV9nYi1VWHRxN0Q?oc=5"
    }
   ],
   "seekingalpha.com": [
@@ -48286,6 +49939,15 @@
     ],
     "title": "Crude oil jumps as Iran says four tankers struck mines in the Strait of Hormuz (USO:NYSEARCA)",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNeGZPeVFkbXV6SVllV1dxdk8yOXY5b3NEdjFJR2NJQmhUT1Z3aWNqdFlGYmhIM1pmN0FMQm9MTjdaQ1IyVmRyQzM4RUl1LWgwMm9wUTBWWUNqYlA0SWRfX1c3WDY0Wm8tb0I1TUZBalc1R3pxeDF3dzJzRDgxMUlzRlNyQ0hjZThlcG82d0hkYnpHUTZyc1pYd3ZqYWk4RHh0QldtRjZPcDBtZFdnZmVtekx1VGUwY2s?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Seeking Alpha",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ producers hold December oil output steady amid market uncertainty (CL1:COM:Commodity)",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYTAxcmZueWhKT1hkZ1pTVWF6Z2RGNDVXVExZWFpkVEFyS3RmZjkteXkzcG1ieVdiTEdEWXVidlhsV3FhNEwycnZ3TFlfMmJicDlGZFpDWVBZQmNFajZxSVN4VUdrQ2t0aU1IcTd6MkxUZk9jang0bi1MNGFqNld6S2VrUms5YWFqSW5mVVJ3Mk9UaDJxeXU4LUNDQnVhaXJJNXZxZUctei0yUlB6?oc=5"
    }
   ],
   "semafor.com": [
@@ -48526,6 +50188,17 @@
     ],
     "title": "Transfer Rumors: Real Madrid Want Saka; Haaland\u2019s La Liga Plan",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGx3OS1oeUtPZ2lSWWo4RDBlTW1qVl9TTzFSZmxmYXNvVjFXSEpfSU11d1F5TWlsTkl4U05BX1VzRGhXeGl6WHJLMDY0a3BRMVlwdEoxVmFFVlI5d2J6NVh1dzF2NHNhQkQtd2RRMkZxZ3lyUzJBSTU5OHU0M3k1dDFSbGZlUQ?oc=5"
+   }
+  ],
+  "siasat.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "The Siasat Daily",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Targeting H-1B holders poses economic risks to US: Indiaspora",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNb3h2THRBN01RZDFkYUNhdUdEY1o5YVlEVXBkWTZ5Y3Zkaldfa3BJMWgtb1ZPUHM5RERMRUpWejlYY3JOQUlDN1g1SWU4VXNQb083c0tINVp6bU5WNUQ4bGk1RlZOSzM2UlJfZm1jV1gySHhfcVZvNEtBYm03Ny0wZll1RHg3V0lfMmpSUmVxMkF3S0I2M25uY0QtTFLSAZwBQVVfeXFMTW94dkx0QTdNUWQxZGFDYXVHRGNaOWFZRFVwZFk2eWN2ZGpXX2twSTFoLW9WT1BzOURETEVKVno5WGNyTkFJQzdYNUllOFVzUG9PN3NLSDVaem1OVjVEOGxpNUZWTkszNlJSX2ZtY1dYMkh4X3FWbzRLQWJtNzctMGZZdUR4N1dJXzJqUlJlcTJBd0tCNjNubmNELUxS?oc=5"
    }
   ],
   "sifted.eu": [
@@ -48964,6 +50637,17 @@
     ],
     "title": "Musk Eyes Up to $1 Trillion in ARR by End of 2027 as SpaceX Earnings Revive Confidence in AI Investment",
     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jeUJ4SFAySU9vajZCVk54RUd6SzBrdUNydDZfQjdGYnE1eVBuY3o5RGVqQW9mSE92UVF0X3FQZkJzUHdoSWp1NHJGNmp5S2JfMXpORHB0OWJiMjJoT0MtaTV2RGtuOEZw?oc=5"
+   }
+  ],
+  "southasianherald.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "South Asian Herald",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Indian Professionals Trail China by Eight Years in US Green Card Queue",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWNwU3B1cWEtZmxVZXNQZkFhaXdHcnhraEEtNHItb2NVaDBQOTBQOXJjRllhWVpieUFDUUE1c2V3RnhyVkFDcGttclNYTWdKTHNVN01UTEZHcnk1WHZWQ1ZzcmNmWGkzaEtlUU1PaWUwSVRxTUMtdTBOMlhOSEFGYzBkT2RnbDdhemVpdURZVVk5ZklLUW1vWExFOEdSQ000NlE?oc=5"
    }
   ],
   "southshorepress.com": [
@@ -49522,6 +51206,15 @@
     ],
     "title": "The End of the AI Infrastructure Boom, and What Alphabet's Capital Expenditures and CoreWeave's Setbacks Mean for Valuation and Investment Strategy",
     "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQT1hjTUlNUV9YbVpEVVRoZFdJVkdBbG1Uc1NtWVdRYXFrVElHTDA0Xy02SmNZOTN6S2sxbWZLYUdObEF5QnlLano0aEpnbXYxV2J6d01mU1NIcy1rY0pXMV9lZ3IxYmdJNFpOUUpMUlBtaGFmaC1lbXVsNU13SGhIQVQ3TzBySWNOdl9RUllYMTI3dDI4bW9LZjloZGFPTGVKT3VUN2o0dV9OYXdpS21FSkkwS3g4OEFXWWJaZ0lxQXB1Wm5lcnFySG5vbE9TeEljcko0Z3BEUi1RMnRWblkzZ0pPSExndGhRT3VaMXlBdXFmamE1alNZZUU2ZU9VQldCOWc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Startup Fortune",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Traders bet big on a December Fed rate cut despite a data blackout",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeURKZTIxaV9rSVNtVkhSTDVlOG9iMXpmRWpkUDhZck5sM3RHUjYyS2FhVGVCTXQwZEtnY25uaV9COGY1MXVTaWQ3OFNaTEl5NGdvLVlJNnpGN3pVcUdCZk4tcXB6YmxSeTNaR1JVdGtKcUprelVGWFd6aVhObXNpd2VjYzFERGxQZkhxbE81QVNXWmVSSVhla0VB?oc=5"
    }
   ],
   "stltoday.com": [
@@ -49687,6 +51380,42 @@
     ],
     "title": "Fed Rate Path, AI Revenue To Drive Markets After Midterms, Says UBS\u2019 Alli McCartney: Iran, Oil Overhang May Remain",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWnRQOV9HVGxDMElZbXhrV1dwN3k1V3Qxd0JUOERSbm0zWkVZLVJMMlI0Y3VxUks5YTY5TEpuMXBFVW1tenhUSGdLNm1qY3dQd09XQ1NQanBoUTgtM0IyY04tdm5vXzR2VjBpdmpYMy15NXZLM3B1bnhIdjdKVGgzRVJnVnVYcnE4WEt2U3pRUkkxYTNucGFYMkZKaWZsVlk0a0VZV3RIQ2hMc21QSVl0RlAtd0ZYM1dnWVBiaw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Stocktwits",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Fed Rate Decision Today: Here\u2019s What Goldman Strategist Has To Say About Interest Rates",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSFZvYjdISWFiT0J3bFVXNWZLM1lCVHRxNWVNQVhxbWg2RmpyY0FNR2I1V2lvVW9GTE52dTNBLTFNVTFqQXpPTXpJelVBcEt5RTREQVMtRE1LN3N1SzdrQVd1SWx4VTIwVm5HdWFFbEZhbUo2SFJoUmJPcGl2Um1MdGZMYlVKYzVXMnlyVFlMdjFvTzU5eFAwZF9FU3lRSjcyR0FiV2NEdFgzMVpWdjViejQ5WEI0bVZ0SnU4U2JTQ3ZGZlhESnVaMVU3YkFCUnZEZmMzbnBqYjBsTWRDWkcyRE9zakg?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Stocktwits",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Why Did The Fed Hold Rates Steady? Experts Split On Whether It Should Have Hiked",
+    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYUdrLU9vZkRoOFExUXlJRGludFgyRzlhU3BPZVc1ZlM2Qlp2alJuRTloajJiMEpwZzhWQ0hnZFNPa0hjWFpienFmZTVtWmJ1V0RhaTY3aTNnVTBMVjBzSTY4NThwZnIwdEswa2dId2c4SjdYZlM3NlRqOVJpeTVjM01SZXk3MktlT1VBcHp2SUl1ZHNEVVpJd1lLUTBGcmJoajYwSGZOZHNBWlN2M2xPX3FXOUZ1UHhMdU1UWmRJWl90WDAydzB6YlBLYmQtNUZGVTBUaUg1MlhzUl9hUklKdXhWcmpVZ19yREYxbTVVZmVqb2J2MEY1dlJ0ZDViVFR4?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Stocktwits",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Dow, S&P 500, Nasdaq Futures Edge Higher Ahead Of Fed Rate Hike Expectations: CRCL, WING, CAVA, FPS Stocks In Focus",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPa24yX09GVG1IakJMbVU5ekJHOVFXOXFrVkg5TEZWeFk3bHZLWjFwX09aRXNTXzFIQlBXLTRNX3V3Y3VJZWt1VTJtVGRTbE9GVVJ1WXNmbmZiN3lKWUhkNzdMRnFUUEVVanlkUHFNLUYyRkt3eHRkakZGVUt6TVgtX3RIa3o4b3pOVWdLVGgtcXBkdTBmbXFTYlZ0aENBWnFJQlJNN3k5R3dJOUhjWEk1aURBVkZ2X2ZsZktyN0FZUlI5UTNBWmNsLW9iazlqX2cwS0FrSy1nN3Q4RVkyTVRCQnBzWWdoWE9oX0gyQW5pT3V1TDEzbENzVDNoZWtfMThmUUhtN3hiY0k?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Stocktwits",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Dow, S&P 500, Nasdaq Futures Mixed After Fed Holds Rates Steady: GOOG, GOOGL, IOVA, MSFT, NOW In Focus",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQRXBCSEozUjh1WlNYX29xUDc5LV9CajQyYm1wRUg3eTZWNzBnajJEVFc5M3Fob1ZwQWx0TlVNSDBiTklUWnNad0hodW1QQkhYWWo3YnY0dEgxUHU5RTYxYmVtc1BKVHM0bllnWUxrQV9GaFNYYnN0YW1kMG96cG5RVEstTzdXaUI1ekVxSHVqOTNQcFhrdVpNRERZVjdQUnJTdDh0LXZMdmhLcXhmemszaUo4RkVxVDl0eGJqMHVHR1hKMmRwaE1GMnZOdks5dVQ2Rmg1VEFrRHdUWm5PWFZzYVI4RHlFMGZPeFVMYXphNnlLUEpJV2c?oc=5"
    }
   ],
   "stonex.com": [
@@ -50067,6 +51796,17 @@
     "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOSFhmeTBCME04d0QzeTA1SWl0LWQ2NHBJRW9yRzVmcVZ4WDZhU3dKWjlTMWZRLTRxdy1tRlBVaW9LZzk5Q1A0OEY5dFpBb3NlNmY2VVVjVEpfMmhXUmVQM0J0bXJvbmttbHk5aEZzYV94Zl9oN1BXWWlWWE5ibUtsa3BXVnE0NjFoTjlNVnlXQS15V0xDR25SdkNWVUFjbzBVUXpxb2Joa1BwenFnN3psZm4ydHNqLS1mQUdjWGdoYWM5aXhDdkYzZEw0eDdJNEQzT0dzM0xOVlRZck5rS2J0dGcyRDVEa19SYUp0MFFYaDd4SG5ENV9Ia1dCalk0bHBnbnRBd2t2MDlQM0NGY1VWOW1kWWJQM0Q4QjZvZXhKTjhoSEdSSVg3TTVTalliZDVOY3pmUmFuSUkwcWkwdlBIY09tamIzWVRBN2w0V096N0paLWNwYmRhMnJHSmVJRkUzUXpfOHZB0gHrAkFVX3lxTFBwSlhUVTJRaUR2UnZHWllEeDhabWFJSXN1QXJlZEIybER2M29hNWR6WXpOaGtqN25iWWJIYVc3ZlE4ZjNuOXFDaDUzWjdER2VibzR2U1dqdVFlVl9mdlhVdHBmWlhXSHdpblU5SXRiWTgySGFBaTQzV2VCLW9fS3VKVGw2Q1pqMElJTzB0N25qaTd3d2plLVlPQ2ZuSkZPajNVcDZRY09vcUkxWlBheFloVS03Ykd0Q2xTb3Jka09WTVloWDBJdS1UaUl4RklnM3hwcU5ITjdmTXVzbXJsVkdPQVpka25jeTNINm9oT2tBUlB1NlNXTTJkS2RrZW9ZOHFhZEtzSjNQTXJwa21QejN3WmtYdmNUVUVzZ19qY1c1clVQNm9XOUltWXdTY1MteUNjcEp1dnNkbl9wTzVKNWZVVXNCbzBlck9qWE5Nb3NmZ0w2SGFMd0ZVS2RidFAtZHdJXzRHLXQ4WEMtVQ?oc=5"
    }
   ],
+  "sundayworld.co.za": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Johannesburg Sunday World",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "The Agoa trap: How Western tariffs are forcing South Africa back into a colonial economic corner",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc0pPaVFENkdPeVRPdzlxd2tVUzF3N0R2VWVQdG9mdWJURkN6UVYwSC15RjlNYThQTmUzbk5Nd09SMFRadV9ubXFqR181dHJ6RkFBNDQ5eDBNMENvTUJSV21FWmI4TkM2MkZSanBYd2Y4N3VyTmswM3gwNXBiTmZHbEV4aGJ0ZWw4THpxNHltQkU4OGhNS3ZCOFZUVVpWdk4ycVIwZGF6WnVIakxQbUFnMko0SXNpMGw2Skw5OHhBcW9rY1pMUjY0Yk5R?oc=5"
+   }
+  ],
   "sunsirs.com": [
    {
     "date": "2026-10-20",
@@ -50270,6 +52010,15 @@
     ],
     "title": "Premier League hero's nephew linked with top-flight transfer after stunning form",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOVRhRmRic0lYaElvVFphUnNtY3NxQU5sMzFQSlZ5VVRpUUxmR0dwbUxoS01FUloya0lZYlo3b2w4QzZjLW14cDI1Y2pENnRvaFdxTDJRUWZWenRqZk5BTlhvaHl6NHQyUWk1Skk5TW90ZXdUbkYwbS1ZTmJEc3FrcEQzY3dBX0tZeU82ZmZYWVVFOHBrOUtVZVVVMmtMS25x?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "talkSPORT",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Jose Mourinho addresses Trent Alexander-Arnold exit rumours amid Premier League transfer links",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0dDRGdFYVpsbjM0ZlVsaXJSdDBPX1pBZlprSE40SnotZWRBNjFuTjNxZVZPZnBvRWJBVkRKbUthUGpGZ3MyLTlRY2NTbmZBSklpQjg5Yjh5N0VKN3RUYlNsSkNDajZKamlTQlBubXZ4eWl3UmtDSEZua0JtSHowT1JwN0RlWjctUXZwQzdGTVNLQkR3OVdhcTlxN1hDM2FJWXhmZQ?oc=5"
    }
   ],
   "tasnimnews.ir": [
@@ -51292,6 +53041,15 @@
     ],
     "title": "Russian crude exit to test India's supply security; Venezuelan oil offers limited upside for Reliance: Kpler",
     "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOV2tCV2FLeUF2VVc1TG40MFBPZG5GYjZwdDhZalNVNVV5bjgtWUFOdFBkeUowTGlvRUNBaG1Dd2o4OVphZEhRNFBzU1NHNnlqZWtWSzh6VkdadGgyNTlVSDBVZVozcEwyRG9iSG9DcnF5dW8yREVka2VJLW5adnM3S2o5WU4zWmlBM000all2ZDJ2ZVZnS1dRaUp1NTg2OFAxR3hFMXNoNjdzVjdTVGZPSl9zRTN1M0FfYnZVaElPM21IMnJNVEx0MzhBUnJUQ3dobEVuelIzUmVXbDBYcHQxc2xDb0N0VkQ4ZERNNWxR0gHzAUFVX3lxTE5UQS0yLXZKSkRwMndiWFNNdEJWSXd1bzhsWkNsbzF0OXM1d1dGUURSS3h5QWVhWWZ1enoxbnEzRTlNZkJoWm9iRUlocWRKYWlzdHZGWUdJTzF3RHRyY3NlVEY1NXdZcUpDellHZXRWNDdBVVRfY1lIa2pfdmxvMkFkdXZyb3NIWV9VUzB0MTRESmVMYlZoRDVzSnRja3VyYXZKYVRmeGVHU1oxMWNBVVY4ZGhTOEVRMExJZFRWQUhZd2ZsMWNEdU9qbmJLUXpVZFZVVjZLVlppM3J0c2x3eGI5X0w0ZGgzRXlFaWc2U2h4d214RQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Telegraph India",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Jaishankar stresses resilient supply chains for global economic well-being at G20 meet",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNeWZtZmRSc0NaeER2S0tES1I2TWkxVjNIZ0lsU0ZQZmZzdW1nWFh4LS1GUnRicVBCUVRPMHV2U3V6Z0ZXQ1ZnOEtRZmR0YWJjVVJKaElsOW45MlBRTVhEd0VsSXhWVzd5MHBuODNiVFQ5RncxQS1YRzN1a1NURVRvQ0duQjNldXRCSjhuSWsxS0NzaElILUVGZXg4V3ZCZVRnQjd2ZlQ4RFMyb2t0Z0dncFVpRF90Tlg4VWVWcHo2YTdLeWpKN3hRLTdZQkxpODRrQ2p5StIB2gFBVV95cUxPbU5ValBYRjUxcEdjbENta19LTC1Nb1FjSlBIOVRqUlNxaE5jSk1mVFZzNjYtQXo1aUpvVnRZMzlPcGNuSzJIeFZaQmx2WFFwZHM3XzVLM19LMU9uVGRKNWNHNXhZdnY4NUZZaTREUTA3QnRyLXFqUVBRT1lhbWZGdUh6NmtTNlpxcnVxV18yVWNzNUZfVm9QQzdaTGd1TlZCNVVDLUJHVFp3d3hBV3p0dHJRV09YZ0lYNWRZR1pMTjdyMjBnZURPUXRHN1IzbThrNkhpVlpoa1FqUQ?oc=5"
    }
   ],
   "tert.am": [
@@ -51334,6 +53092,17 @@
     ],
     "title": "Governing Blind: The Fiscal and Operational Impact of Immigration on Texas Public Systems",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONzZseHFNN1AxV2xtNzRSdzJZbF9rYWdiR0JXQVB2NUJWemFrVFpPT0MzWTltakxrVXRYOWZaSTNYWDRxMU1rTlJzRk9NNVdibHlxdWtuT1FsOURYaHVwaVV0empWaGNHSkR3ZG1CY3praWRJRFE1bjVlRjItLWVhUGxMblFTWTBrWjN4cVRnb1Fyam5FMkNOSHk3R3BkV0J5U0dfRXQyUkZCN1hqY1JZc0ltSHlKMFlK?oc=5"
+   }
+  ],
+  "textiletoday.com.bd": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Textile Today",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Global oil prices surge high in six-month",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE16UVRuTkEwdVkxM241cDNHTlNXd3RkYUxaZnlZaGZnaXhNVm5va2ZfUEhoazlzYk54Mjd3bDM2ekdEWkdYR1ltTjI2QUFvblBSTXppeV96VmVKaXZtZHBDSVZPOFB2QkdmOHF6SFZfOHdWTkRtRi1fdXlrRy1YUQ?oc=5"
    }
   ],
   "the-decoder.com": [
@@ -51979,6 +53748,17 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejY5eHR4MmhibGluSlUwUlZqMEY4ZFJPWmUzTzM2aTlUUXhMSHIteG5zRlNoR2V6aTZJU0FfWkZFeXZHbjdzTTNseTk5bERtWXpuZzNZNl9PMFhVaUZnZGZtdmV0eG11dHVJXzRSMWlZYk5TdW5RMVh3NGFIeGVWdFdnSDh5OXA3QmctOUI5TTJVTk52LWlkWmF3b0xGMERDNFE?oc=5"
    }
   ],
+  "thehawk.in": [
+   {
+    "date": "2026-11-02",
+    "outlet": "The Hawk",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "South Korean FM Cho holds talks with counterparts from EU, India and others at G20 meeting",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcDhBNmRZVWdnQTJUMHNWN2dPYTc4VzFPdEotZ19TeWxrRHh2SUVPQUJuNGxtdm9XOEMzZEF3ZVM1YVdIdnlQdkV6VXN1dFlUZFBocnNoRHhWVXVEUHMwWENNakdxZU10WUlSRlZ2LUstOVg2Ymx0NnotQjJMRGFzME00TE9XcmtvWnVDZnVteUlTa1huX1M4UVdIbkdHOGU1VmlQQmZHMS1KS1ZhSFFENmVQNUZ6SUU3bnJzeGYwbEo?oc=5"
+   }
+  ],
   "thehill.com": [
    {
     "date": "2026-10-20",
@@ -52080,6 +53860,24 @@
     ],
     "title": "India\u2019s crude oil imports set to hit record 5.4 mb/d in October",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQkxsaEY1N2hMaXVyNldlbWUzb19kZ0ZLWnhwWFF3eERSMmJiVXZDMkFGMXlOd0hRU1lIblFYbGM1bmdkV3V5U2tNQ0dpSzhRTkhKUjZjSXlTOFZLSnFScUFGOUQ4ZjJyOTFraTB0ZV9kajF6Y2F6Z1RTSmJtbzRRMWRiSUlRdG5Pc3lfcVJDSGo0SWZNcUNKOWFWQVB1NDk5ZzJ5eUdRMHQweWdkT1VPenpnREFORlhGaDJXdS1UZmNCSmhfWUZlU1hBblZrcHhsbEIw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "BusinessLine",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "US midterms: How a Republican victory could affect India on H-1B visas, tariffs",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPOWlqcnVGcVlwX2lVUTNBVFNrSml1SExMUHM1cnMtM3AyNmU2Tm04aXBvRGhOSHNKSmVQVjF1ZEZBSnNtQnAtdTV3QTBUd2htVDVBUlVYU21tWWoxa0pSdnM3aHVhYW5UTGFqZWZUdEFtQlpfN0RGSDU4bVJfU3dUeEdfQmZvcldDTDFJak0wdXRfYThHRTVITHRWSWEtMXVLVmFnanZRUGJ0UHFoRDZoMnlFY3NBRV8tWUtwZWVLVE1FZlBxYUl1T0d1Y9IB0gFBVV95cUxNeDdmUldMY2hjRUxzQ1Z6MGVoSEdfZ21xWHkwQW5nVGt3Y2VuNjM3ZTZpLXIzVkFrazZ0YzBzOV96c2VHRFVWYWd0VGl4ejRfR09mMEpnUFAzbUNHQUhjcGF0VzAwWVh2YVczdl94dmsxajRaRndESEJJckl1emk5cnZlVjRmc1lHQXNRUWt4ZHNmWTVsMVFRWVFydWliRTFxOEp3NUdreHZvUktfc0ZidjlMdWJVZ3luWTJhTzhTTjZGQUl5MF96eURkWGphVHFEeHc?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "BusinessLine",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Indiaspora warns proposed H-1B visa curbs could hurt US economy",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaHo2RHNkem5iNkUzN3NzVHY2QWlCZ0h4bGQyeG5kdVgwTzk5aU5PcTFmSWlkWGVyXzZ6MzNOYnFPdHhsTTJ4anJWV2x4Sm1iQ1psX1BCTnhjY1Y4ZTR0Q0xlWU1YMC1TUHd0VU14YlJhX2xQQ1Z5enYxOEU2NkszYXJGWTBEQnBsZzBoYUlrUkNES3RIUXN6b21qWE1wMGlVQVhJSlFnY2dzd0JmcXpXck1McmNWWGU2U1R1bW1xS0J2STBWRFYwWnJtaS11dWNiRWdoSzdXZGdLTGRWUDh0ZmF6QlJ5M0EtaEHSAfABQVVfeXFMTXJkSExtUlVxUnFZV1QxVVZHUUhNQl96WnhuaVNjaUx3WndFOUlYZ1BJZmtIYWtkUTZsTUozRkQ5cExlLWdYdW1kSFNOZTVXQWY0M094bUJnSTdrRUxvd1ZxOHozb0pNY2ZuLW80NF9taThCeGFhWmZpWkI2MVBDbl95QUpKeHMxUXl6emMxOFFYVEZQNnFkQkVaaUpXYTFjbHBfUHhXajQtVFRsUUpGNllIUTV5TXN0OTJTbzZIQkc2RnNycEJ6Y3JoVE1qV2VwYTJibDB2UlZXM2x6SjU2M1pJYk1aZGlVUmRsRWc2MTBa?oc=5"
    }
   ],
   "thehoya.com": [
@@ -52402,6 +54200,15 @@
     ],
     "title": "Oil prices set for sharp monthly rise on Hormuz strikes and US threat to hit Iran",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQi1Yc3drdlp2MEdkVUZRRHFEQVVPb0JhUTN5a3R2RHJXSHNSTkNrTE9DTmtEbkRLYlFaYmxraXR0V1YxVWhuNGQ3MnVELTlMeXcwYTAzS0FlOURPTDhoVXhlNFBZTFk1Nl9HSVlXUTZXT19lOFZpc20yYjdHM3dJU04yVXBYckNINU0wbFpjcU1VOGl0QVByZVR2VzdNaUlDSVVZZ2VlWVFfWlliRGsxMVhUMjE1SlZ4UzFqRzFiX3hzS0UwR3BWMmtqeHdkZmlTbk8zWFRwbTBhZw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The National",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Opec+ holds December oil output targets steady as Iran war disrupts supply",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZ2JtYURQNlh0RzZCNlVBYUY0c2xhbGZDMVJLLWFQaHBTeDRpVWdrMUlBWGlyQTBqZVItcV9HQlZoV0pOTFJWUFlhSDZZZ0t3SFVHLW5HWkYwb1pzWTZvTXJRNi1Zc0ZfQ1EtUkllZ3NpVVJJMGdLbDBVUHVxeldDdy1YY0Z1azRud0Q4WEV3NWhHZ202RDI5QVowZnlpeHc4OXBnU2VOcHZuTGFwSTNLUWpaRlVIVmRjaTJYYnJ5YmdYVmtqa21oLWxfMHZzQQ?oc=5"
    }
   ],
   "thenationonlineng.net": [
@@ -52498,6 +54305,15 @@
     ],
     "title": "Unitree unveils H2-X humanoid robot: Meet the 'Kung Fu Legend Guardian'",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWZGUjl4NGVUc1AxdFdzS3lLaE1CZkN5ZWs4OFl4eW5BVWx3dDZyZ05HZVk4WDdtVkxKQjN0blBnU2dwTHg1dFNpaVVLWDl4RE43Wlg4bFF6UGdjU0hfdDU0TlhNMnpCeVVjWHJhWjAzaHdjMWphVDlhcVc4aURsd191eWZoU1hPTVdNY2FlODVZYWRDN09YWlU3LTlna1R6R2dfUGQxYzJUbkhUYTRB0gGrAUFVX3lxTE1pZDhvSUNXWHdZOGRXSlJqTWtPako4bzhKYUt6UVpTbUhScThPYWJ6eldBTGk4SEdwcGV3M2Fjb1F3OUlCcjFKSnRBQTFTOVNRZU85VC1CZjhweTBvczBVWFBDdWI0MHhLLXR6R3dLUWtPbGV2UXRSeHBxS2NNWFpsTnNvMENQWFZBdGc2SURVeVNkZEVlM0RVMnVJTzJUbmZwOEY0aDh2SDg1MA?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The News International",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps december Oil output targets steady amid Middle East supply disruptions",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTkhtYkJvdVRYcENROHQ1YlpkTnlmM2xpeHk2NElpakI5QUktY0I2XzRUVVBCTXFfVW1mVEJxN1pJRUpUMFNMRWplTXBfcWw4eVVMS0IzLU5CRW9IQ2Q5M3JUU1BDRmpBeG5UN0lfMkNudWpzdlRNdG9pX1JZS0NjMDU5NTRQX0puLWFhdFBrRHZ4ZEpFOGFrc2ZIYlY1ZUIyTS1jVVZla1ZJT2UwSFlKNnZfdjlGdWxybHNoT2xnQUXSAbwBQVVfeXFMTlBRNGZ1U0o5emNqbDlkTFJJQnAzbU9NTjNOTzdqbWVYaTNvZzlVaC1FN25IczMwdmZJNFNEUlNzc19FM1FPV2ZCMWdvWTg5ZUJlV0U2c09XOWoyYkNhQkhYMTZmRVRDbzBiTUlUd2d2LU5neThxS1lJSzhtaXJlTDkxZHpwb1Rfc25BeXNxQVpQdjZCd2JLUTZjemM1NWtrRmJfUjFXQUJoVTVVWE9pNEN2engtNTBrUWkzel8?oc=5"
    }
   ],
   "thenewstribune.com": [
@@ -52809,6 +54625,15 @@
     ],
     "title": "NITI Aayog Vice Chairperson reviews rehabilitation of Eastern Coalfields",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTVVEUFltZHBiRlNEZUx1VkRWYWI0MUhocmdpVUpHSTRDMG5ETDhvYnp3alhBOHRJMzhSRVVVa0xGM1FHMXBhWEhWdWc3TlVpUy1wU1hQN0pSR3pFZzVFZnk4SG5ta2tqdXlzd182QmZrQ2p3LThOeFBnUXNVT3lrdEdLcnRocFhNZ3A1NVJkbjhLX1hRTFlpeUtHMnl2YzBLN2gtUGE0MFpfRHd3dG5lUkRqa1VELVYzT01BYTI1RlRWczNVNDFjM2syVnTSAdIBQVVfeXFMUEJaTmdtUG5FNmVESlpGYURNV1BtM2lrcUxocUFuX2duX3lNb0dyLXE4cmFXUGN6Q0VUeUY4aEdHRU9XdWk4cDY5N050OTVNeGx6R2UzeVFaZ0NfbEtMQzl1MVBXWnhpQmNIMVNFeGx1SmhvUWJCN2JIRUdsOEVRSWkxekJFSDZ4TkN4RXNoWkEzOFNSclRvb3BVTEp4eElDVU0xd2dnajBlbW9hNmhONHJQM0hDZmdrZDlDS2hJTEQ4b2ZXVnhWR3JaRGNuVmxmb0ZR?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The Statesman",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "PM Modi to inaugurate Bharat Renewable Energy Summit on November 2; over 130 countries to participate",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQS2tCdDhFdV82VHFrLWwyaTdZQzNUdFkxMnNLdGZtTmphVFg0OUQ5UThyR1dRY3o1bVZjOU80V0pCUFZBanhwUXFmSUpzTzdYOEhXdmpYZGRsdkZlWlNCVmtsQlRVeWhkRHFNS3liNFFTOGQzMTJGbFFGc3luanhnT3dfejBKSlIyNHR1MHd3Z2RsY2VVVHAxZkQtTjRPVDhNdXFlR1VMNGN4WXdER3E5NXpiZ09OdjFYSm9nbVdzOTZ2NFVqMXF2Szh0OGdGN2ptVFFxbXRoMHBhaVUzWmFSRUlCT3cwSUxDbTZR0gHrAUFVX3lxTFBLa0J0OEV1XzZUcWstbDJpN1lDM1R0WTEyc0t0Zm1OamFUWDQ5RDlROHJHV1FjejVtVmM5TzRXSkJQVkFqeHBRcWZJSnNPN1g4SFd2alhkZGx2RmVaU0JWa2xCVFV5aGREcU1LeWI0UVM4ZDMxMkZsUUZzeW5qeGdPd196MEpKUjI0dHUwd3dnZGxjZVVUcDFmRC1ONE9UOE11cWVHVUw0Y3hZd0RHcTk1emJnT052MVhKb2dtV3M5NnY0VWoxcXZLOHQ4Z0Y3am1UUXFtdGgwcGFpVTNaYVJFSUJPdzBJTENtNlE?oc=5"
    }
   ],
   "thestreet.com": [
@@ -52991,6 +54816,17 @@
     ],
     "title": "Project 2025 Shows Why Democrats Need a Governing Plan.",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQY0ZvTzh5d042dkpYaTF2RU9BMkNvcUwwbWs3WjdrM0FTTWdJZmVqWE9ReDdyaTJDdV8xUVZmVlE4MTByNVBnbUp2b2tSaVpSczhnNVRwMklCSmEzRVBrOEVBQ3dpTUlvN3JJa1Y2aEU5Ym51akNmMWFCV1FZY3o2VXJfR3RSMjFvRUpOblRLMmxtZw?oc=5"
+   }
+  ],
+  "timesbull.com": [
+   {
+    "date": "2026-11-02",
+    "outlet": "Times Bull",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "RBI Rate Hike Alert: Home, Car and Personal Loan EMIs May Increase, Research Report Revealed",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc2l1Ti1zSWxvX2VHTmtVbUFWVTBudWFqRWJQUjdCSWxFZEZYX0NPbVhUZldlSFVncWVGUU1Lc19TZS03TE9WRlp2U0VacUZLandESnB3dzJiczJBZlYwV0E2eWJjQ0lMV1FfMTJybUFSeXZaM3VFSHRBNUpOeFJBYnI4eDd2cWJqVnlRdk8zMDRFdFM2U0UxbG1mR0dsZkphUlZCNnB0NS1xS1JBbXdIc0luUEFtWGfSAbwBQVVfeXFMUFBWeVF0Nnp4Z0xnU2tKdnAtYWE0Y0l3R3ZEemRMUTVLZTJNNG9ZWkNwRWFuUUwyQlFObENNWlRDcnlhWVhBN0hCbVdGaGVlbk1wck9yYWVxMDdTcmdBY2FqbE40RnY3amZJWDhZT2lJbjI1U3doUFRraFpYWW42QUpOR0lIUFRMN1RhcGc0Z0xkRGdhRkZxZTFvaGo2MVprMWFZNEZVNGdvckdtcVVLX0VOUVJzRFBJbkI0ekc?oc=5"
    }
   ],
   "timesfreepress.com": [
@@ -53746,6 +55582,15 @@
     ],
     "title": "Fed\u2019s Musalem Says Another Rate Hike Will Be Needed Before Long",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kdzVtMmpxbWN1VjhnNEVQRDlVUmZWYXpOVEo5eXBKcC1ucy1kSVYzMzIxUEhKRXp6WUxWZXlyNS03bWliOTloQjRzaDhVZXBhRDZLT296bFpJSjA?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "TOKENPOST",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Fed Rate Hike Odds for December Fall to 70.7% in Two Days",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fVFB5LTFQVDBWeVJDdklYNlVtc0FyOFhMZEZvSThKUld5U0k5Q0JMVzhCOWtfMTBQYTZQcS11QnExYVJUQjc0YWJOVDd3dG9SWXAtQjhLMGt5Zw?oc=5"
    }
   ],
   "top1markets.com": [
@@ -54133,6 +55978,15 @@
     ],
     "title": "Qatar seeks to restart U.S.-Iran talks as Strait of Hormuz tensions lift oil prices",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV1VkYjZjdjl6eHVlYlVWNDNiUnIyNGRlY2xfWVd0cUZJQWF6YXRRcFB6Sll6TTlsSWZFR1NBR0JnaWd5Q0tpd2VLRUhFOUJtUWtYbmpwbTNyVXBiN3J2WmhVbHR0SVNWUjVQN1JiNERta2FCXzVnTnpxZ1kzNklRR3BJMlFZSkFsUzRNNDBwS2VTT01UU0NJ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Traders Union",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC set to hold oil quotas as Middle East risks constrain supply",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNi11S3V0ZXBabHp3YTlrMjF0QmVUQzV2SzN6YkoxMFpYWkJZS1lLVllESVZmd2haWnk1bnI1aTNiM3ZIZ19ydHlxZGdpemhzdEs1U2NBMTVISC1rRFlCRG5YekgwYXBVa2pVOWVwZm1BaUlROWY2emxlWjU2Zk5MSG5B?oc=5"
    }
   ],
   "tradingkey.com": [
@@ -55309,6 +57163,15 @@
     ],
     "title": "OPEC+ said to have agreed in principle to hold December oil output targets steady",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYTZBUHQxNFRMSXBORHBhdnFyZ0QwaWV6ZHN0LU1KWEtST2dGWElOQzQxNS01MEVYY0o0V1hzTzBDVDgwSlA3R1ZCY0VkcERVUWk3ODNJcEFnSlJ3bFlhTW55ejdtUEphWDhiblpjSHI5amVWcnNlbUdwcFg5VENhdHVVQmxHamVlZnNwSU5ISmRfZjV4aXByczVGQ21odjR6WHpycm5MTTdmXzdGb3hRRU1WWW1MbnVQU3BUaWdSNWJvcTJlNl85WXZWZ2I1MG80ZFNDeHhsekxxWlE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "TradingView",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ Keeps December Oil Targets Unchanged as Brent Hovers Near Six-Month High: Report",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUDBDNnpvRGVWdXF1V2Q5N05laEVoeDR5a3hqMmktX2p2SWE4ZVVPTldNYkdvQTRVZWdyeTIxeWVTNVo1WTUtb1ZJRzVwUnk4c0FtUmVJTDdpNVJVbG1hNzZXTnZqT1J4ZG9sMlhaRUMtdTNIazhzR3pzNEpHU01Jam1acnROYm5XWGhDZVM4WHE1ZmJnOFRTSUgtMXFiMEw1aXcxR3plUDRTdnFPYWU1X1ZkaFRrb1hROGljbFFlY3NsdG5DYmJJNVZLZkF6TGNlZ2dRN2t2VDJ1dGM?oc=5"
    }
   ],
   "trainingground.guru": [
@@ -55459,6 +57322,15 @@
     ],
     "title": "Premier League transfer LATEST: Everton consider Marcus Rashford, Chelsea want Barca star",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS2RnVksxY1VhUG16SUFPdU5tNlNGU19yakQzOHFpd2t6QklRWEJPN0NkUDFDOEtQMTE4a0dXclFqa3JPYjhfU1BBQUJuWXhzZjlLNGVZNUttMjc5d3NlLVBjZmVwd0RpaklTc2dGWllQWXFDZkswMkhBVGRGRkJUVFNDR1ZUT2EzQVJzaHVOeW8zM19zRUpZaGRXd3N1X1Z1UEZCTlRzVFFYZ1BPR200by1qTGZmRHE3U01MRVl4TllmTDlsWVlpSlV4d2JmMVJkTU1nTQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Transfermarkt",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Premier League transfer LATEST: Arsenal face PSG battle for Kroupi as Man Utd eye Toney",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRHBXeWdnNEd4TG5QQ0Y3eEpJUkNGYmw1Q19LQmdQZEhEdk1rc1VzSWJGQi04RllsSnZpMHFWMDdhUnVpSzBxTktKOWsyRHZBOUxmNVFwTDlzSmNZVE8tRXBrX04tcFM5YWpTcUl6a3ViSVNkSHJDZk1nSk4taXkteE1pRXNxcEYxNXd3WlktazVIQW9BdFZxcTlwQ1RYcHZreTdvWE9HaXRqVGUyRVQ5SmRJaTNNa096TnpndmZnemU0dmNsTVk5X0NDaTFpdm5j?oc=5"
    }
   ],
   "transfermarkt.com": [
@@ -55551,6 +57423,15 @@
     ],
     "title": "Latest transfer news: Trent Alexander-Arnold approached for Liverpool return",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1N2S3U1YWlyM0szbUZJeld2WTY2ZUtPdXNaV096a2pMRDJLeE05SWZHbEdQOHlaLVNGNFVzOVNEWlduVUFRYUpsYm5Va1ZKTm9VOGhUOVBodmREUU96U1hpajNaLVdVOTY3VnpULTgxN1lCc2w3WDBxbEtObXBqMnoyYnU1djJPS0l1ZXhtQ3dvQnZ2OGRITzJVQnJOY1o2M25kRTVPMVBOcEpxX2ZyWEQxeFNrZG5YUno2NXVFcw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Transfermarkt",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Latest transfer news: Ferm\u00edn L\u00f3pez responds to Barcelona exit rumours",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcDd3R2JPSU5aa3pwR3I4X2c0UHpjUjV6M21BTUhqMnpmRTloYWVIMExxWE1JTW5RSEx2RWNTcVpGTXc4N2psWkQ1ZldPNWNsWmJpdEZWbldYbTlWQ3N3WGxZQWJfNHF1d2JFVndCNG5fY3UwN0NSM202eFh0MWVQcFVDZmtsUnBlbFJ2S2RzMTN1QXJLdTgwX2RYdU1kRXQwY3pDSi1iZ0xNMlljNjNfM3lhanl6Zw?oc=5"
    }
   ],
   "traveltomorrow.com": [
@@ -55591,6 +57472,15 @@
     ],
     "title": "Azerbaijan to submit fifth SDG review to UN in 2027",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ENnMzTlZpY2tLQzk5cVlpanBkVkVyOVNHUnA2THBCYXdIWEIySjdWRTcwREVZWEJmN1g5RnZFQkY2MTRCVy1iMWhPTXVReTZhbUVOdQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Trend News Agency",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Iran oil output at three fields with ZN Vostok exceeds target by 7,000 bpd",
+    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVSjFFNVFTeDZqMFVlU3Jhb1N4d1dTUzlpdGFCdFR5STJmM014bXBXcmZSdkVIMjJQMFNBZG54Qjh6TndLLThGVFNNUGU2b0U?oc=5"
    }
   ],
   "trendforce.com": [
@@ -55749,6 +57639,24 @@
     ],
     "title": "West Bengal likely to see improvements in regulatory regime: NITI Aayog Vice Chairman",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZTVoZGstV2hFLW8tZ25PNy04MzNYVTBRQ2M3cU83TFpUblg1TzdxNVAwZHdPV1k2cTFiZDVQVmxpQzdoWHVaSHZ6TGUzQ2lZQU5FU1g3MVJPOERCNkUyOVRFbEdBQktpbmRZXzVrYlVwbEdGS0xmbl9VX1NKVU9TRjFkVms2UWhMbTFRT241UFN4YnMxdV9qSkNPd3JPdDh1dUNsQmlqUDJSakRQbDNDZ2o3RkRqcjVYMEdhWkFaXzZTWll0WV9F0gHLAUFVX3lxTE1kSVRjUkZwMU4zRjh1UmEyUEhuLVl0MS15Ujl6UXNJOTROQko4MFFHRm5iT2pxNTVVSFYzOUY5NERCVHpYUUttY1R1cDJxZWxsNFh5aVlLTUNwdXh1enRjZ1BEWFRMR3ZYYnBTSmEyNFFfMEJ0QkJlUTBXQXlXQUVzRWp6UWRjVmlydXNRU085Nm5CajVmcXNOd0k5bzhOZG9DWmd6OTFFcXJFS2ZuN3NabDZEUTZLMzZqT2F6bEpxR2VyV3oyN2JjZ25j?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The Tribune",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ set to keep December oil output targets unchanged, focus shifts to 2027 quotas",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeGVpWWUtS2lnV3JxTXUwVmthYmw3OVpsR0swbmZzWnY0eExSNkxBS1lPUjROSGY5QzVLekhvcDYteVBvRFBBbnRXamhWSC16NW9aY09xa3JfM2VEZElEeGFicnpranE3X2wtbDdaekVsaFRISlJuT25aaXk3ZWRiSlctUjVReGtJZ1dTdV84b1pKLUFBMFMtbHlFVW92OWFUMFJmekdLTU5uWDF5ODJFUkZPQ1BmaDYxSkVjTmNrN1dmeGZsRXRZddIByAFBVV95cUxQeGVpWWUtS2lnV3JxTXUwVmthYmw3OVpsR0swbmZzWnY0eExSNkxBS1lPUjROSGY5QzVLekhvcDYteVBvRFBBbnRXamhWSC16NW9aY09xa3JfM2VEZElEeGFicnpranE3X2wtbDdaekVsaFRISlJuT25aaXk3ZWRiSlctUjVReGtJZ1dTdV84b1pKLUFBMFMtbHlFVW92OWFUMFJmekdLTU5uWDF5ODJFUkZPQ1BmaDYxSkVjTmNrN1dmeGZsRXRZdQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "The Tribune",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "Modi-Putin talks, Lavrov meet, Kyiv visit: Jaishankar lays out India\u2019s peace push on Ukraine conflict",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNVkxFZUs3QTVOWTdjSkdneUVVNGJsLU83cVZPQVB1a1NLMmZER2VHbXFuczhldnVtUVp4ZXZNS0dGc0Y5eHNrMkRKS2VFa25oZVhDMUxrOF9Ob2NaemlkMXpVOXdQN2xCU1V3Nl9zWjI0cWhjS3R4Yl9uVFAySDVOdTBlWC1DaUpyTHBlNjNfWlJkUHMtQ1JPbGVoQkJEU0pGM1J3MzFWQ3E3YlVJVTlqVGV4RFYwUnJxMU1nVXNXVUc1U3Q4Sy01eDFQdXZtNEJiR2hQRlFWQVVlRHFW0gHcAUFVX3lxTE1WTEVlSzdBNU5ZN2NKR2d5RVU0YmwtTzdxVk9BUHVrU0syZkRHZUdtcW5zOGV2dW1RWnhldk1LR0ZzRjl4c2syREpLZUVrbmhlWEMxTGs4X05vY1p6aWQxelU5d1A3bEJTVXc2X3NaMjRxaGNLdHhiX25UUDJINU51MGVYLUNpSnJMcGU2M19aUmRQcy1DUk9sZWhCQkRTSkYzUnczMVZDcTdiVUlVOWpUZXhEVjBScnExTWdVc1dVRzVTdDhLLTV4MVB1dm00QmJHaFBGUVZBVWVEcVY?oc=5"
    }
   ],
   "tripuratimes.com": [
@@ -55760,6 +57668,15 @@
     ],
     "title": "Nvidia backs Indian AI startup Simplismart in $14 million funding round",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNV9zTXF5b05ZeVNIN1VnWXctZE9YaGF5TDdLQklkN05ic2hBdVMwWGtHdW9tWUlFVVNCTjNrS1hUdUZMNURRb2VjVUZaOFRVSW85enVpM2w2V2wzM3ZpVmNMcS0tc2ZoOXY2MFFZVWZ3R2x1YUFjbWlCLWZHUTdvTUtrMm9MXzF4ODczdkdSa2FaczZjM1ZEMGFFT3pTcWlTdzRKR3VYZ2Z1bnQ3ZzRSMEZB?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "TripuraTimes.com",
+    "sections": [
+     "politics.india_foreign"
+    ],
+    "title": "India hopes for common ground by December G20 summit: EAM Jaishankar",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU0pfUm1yYURQTjBGMVZXQmttUnZ2bl91V1Y3MF9Sb0Qtellna1F2RURYNUstZ2JTZmU4VHhMNWZTWVJEYXRJYzhaS2UwWXFvWkxvT1hGaE5MRE9ZckdsZThhbmVLbWwzNFZxRzhQbU05ZVc5UTh0YXhRdXp1Q0pKMklNTVhzcE53aUF1eGh4d1g5dHFSeEk0OFpnMTZ4aHI0WDNpUXFsaFFqN2FKLUpF?oc=5"
    }
   ],
   "ttnews.com": [
@@ -56258,6 +58175,15 @@
     ],
     "title": "Dillon Brooks ejected from Suns' loss after Flagrant 2 foul in third quarter",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdkdob2VHZGFGTV9GanpQV2VuZHFVTU1JbGd4ZjZ4VkxQNTJkZGZ0MkwtZ3k5NDFpVHNESDJFeVQ5TUtLWmR0bWJ1RE1sYVRmQkR3b2g2REpBbzhpWnlESElabjFVbWhDVjRvejVtbFNwR3VFU3NmT1k2UzQ4WDgyUjAwYmw5Wl80ZDlxdmdOZjhJV0h2UXBQUHdzU19xZw?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Ravens' Lamar Jackson out for game with thumb injury suffered on 1st play",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSlBEVmp6VHdHYjQwOHpPQ0xyQkFoNTcwQTJQMWtwcVhRcHloLTdLa21tTGZIYlRodElmdHZwQ0Y1WVlJMmRTbXhPNkV6dmFma3VqQzl4aGZvZE5YSkIydTgtejRaTFpLOURyMEQtclY4NWMwTnhEcS1FbzNCRFJJVWw5MFpDV1pSeVNKY1ZvbGc?oc=5"
    }
   ],
   "tvcnews.tv": [
@@ -56343,6 +58269,33 @@
     ],
     "title": "New Zealand Dollar gains ground to near 0.5700 on RBNZ rate hike prospects | FXStreet",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0LUFFLWxWSjc1ZkxVRVZjb1ZiUWVWMWZIdzljay1wWHJhY3BkWVFoRFFrdFNnWHBlRldCbnBhLWtNTXJHQl9oaUQwWm1IZVJDVW4w?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Wel9BM2JmMEZfSThIbExaaWRrcXBoTnA5UUZaZV9rUGhZR29sdHFweU5ZV1BlSnlIMHdoNDZNRGRCaXgtbi1XOW4wamE3TmtEQjdZ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps December oil output targets steady ahead of tougher call for 2027",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3YV9fSzdxUi1Xa2pZWTExZy1ZSmNoQUk4OE9XV1ROMGtvblRfV3M3WDhEemROSGNfX1hSVzlzd1ZoMkF4Q1RUeWNOZjA1TUZpTnRv?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "\u0634\u0628\u0643\u0629 \u062a\u0648\u0627\u0635\u0644 \u0627\u0644\u0625\u062e\u0628\u0627\u0631\u064a\u0629",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "OPEC+ keeps December oil output targets steady as Iran war continues to disrupt flows",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqaF90ejBCOUJHQnp0aExzeHdIVkhVMmV0djQxYlpFV1FXM19mS3RwbU4zME1HMUxONzJLbUNhNnNZVEY1dkRhc3c0QzV1Sk9QWWEw?oc=5"
    }
   ],
   "ua.news": [
@@ -57020,6 +58973,15 @@
     ],
     "title": "Reliance Crude Oil Sourcing Shift Exposes India\u2019s Supply Risks",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRjlZTEhvbF9GOFFaRVRjVHFEc2FSUmhkSGUyZXJCdVI1ZU54d0NWOE5XVmhHeWFUVy1IZ000dndfRzB6OS05M0VscjE0TTV0YmU3UTZVd1hMLWhSWWpXMFE1ZUd2a19pRTJFQS1oeU85djhUZ25TalhVNlNCSzVQdHFzdDZ4cTZDR2dzUQ?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Urban Acres",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "India Crude Oil Imports Hit Record 5.6 Million Bpd",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQUdISmQ1cjJLaEhLZ0dEQWJfempvS05UU1V6SmdnWHVra0NKSGkxUm5yYjFJdXFhdWQzNmxGZldGRUxwSE01ei1JaUxTdjM0UnRzbXpBbjV0aUFUOHBlRVZRdDN6WGFNejhTbDJOWWVYcXhJOHJ4ZzhqNGV1UmwxNmhkbnhzQUQ0QWgtdWZmcHg?oc=5"
    }
   ],
   "usatoday.com": [
@@ -57298,6 +59260,15 @@
     ],
     "title": "US bond yields are falling, what happens next?",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeWhMS0RjbGplX1Nzc3RENzhxSDB1dTdnVHZIMXVFd1YyalRHVFREV01VbnE4LXQxbUhmX0FxTnB1U29KYm5YNlotWDB3N0RFaktWN2FPZU9UUWlvRXl5VVhOcUc4QUVKOTFmVU8za0ZMWHE5SFhpeTRFYkJhdkRwWm03T04?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Vietnam.vn",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Wall Street awaits signals from the Fed, forecasting an interest rate hike in December.",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGc1NkZPZDNock1oS3dxbDJjNFB1SmtMV09OOFN6SjdaaGhMNDJlUHM3WndNU2hoU284amd2UW1JbW1RbHc2Q2Y3NWprc1BidWlXM2tMOVhlRjctX1R5SEFuYVlncHpaT2d5Q25MaWVCWnNOTzhDWTBVUVNfOXN0NGhGSGIxUDZ2c3gtblg0QWw4dw?oc=5"
    }
   ],
   "vinetur.com": [
@@ -58330,6 +60301,15 @@
     ],
     "title": "US Announces 3-Year Rule for Foreigners Seeking Green Card or Citizenship",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVGNDQ09LQmphMlp3TWt4U0FFYktVOGlpSGVIYzJiUS16TFdxelo0ZmptN0lIVzh0enhBWWdQN3pwWUVpVmhacUMtQXFTalRFMjVWVDV0UV95WWo4MmpicEdXdUZiRVd4WEh1UzdTNEN1dHhPSmlUVU1nWXlKVmdjaFNiMWRaczh2TENobXp2TFVFMjFXRzFIdG1Jd3QzN0FNYlE?oc=5"
+   },
+   {
+    "date": "2026-11-02",
+    "outlet": "Yen News",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "US Issues Tougher Deadline Rules for Green Card Applicants From November 2026",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMVlzVUNLVnZkVE5kX2NCUXV0bS1HMlh2Y1NRdk53UEZJb050bGVqdFUzdnJER0VRY2dpS2pzaE1SanVGMXpSUHg1YjNXSnozQXNXTDhJSEZ3NGU3ODg1MW1wNlNSeHJoVERpdWVnZTVnUlBUMVVlNk1ScHE5SzlhVFF1SnFUSVFoOUlqMkNXOU9uTnVwWG1LbXNEMjV2UWQ1b3RGVlViRQ?oc=5"
    }
   ],
   "ynetnews.com": [
@@ -58594,6 +60574,7 @@
   "nbcnews.com": "2026-10-21",
   "news.un.org": "2026-10-21",
   "news.ycombinator.com": "2026-10-20",
+  "newsroom.olympics.com": "2026-11-02",
   "newstatesman.com": "2026-10-23",
   "newyorker.com": "2026-10-31",
   "npr.org": "2026-10-21",

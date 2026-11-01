@@ -10,7 +10,7 @@ sources:
   domain: euronews.com
   reason: cited by FDD, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-10-31'
+  last_qualified: '2026-11-02'
   samples:
   - '''Time to make a deal,'' Trump tells Zelenskyy as he complains US has got ''nothing back'' from Ukraine'
   - 'Investment summit: German government strikes AI deal with Nvidia'
@@ -25,7 +25,7 @@ sources:
   domain: kyivindependent.com
   reason: cited by Phillips O'Brien, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-11-01'
+  last_qualified: '2026-11-02'
   samples:
   - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
   - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
@@ -55,7 +55,7 @@ sources:
   domain: footballtransfers.com
   reason: 11 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-11-01'
+  last_qualified: '2026-11-02'
   samples:
   - Arsenal confirmation as wonderkid decision stuns Chelsea
   - 'Chelsea Transfer News Today: Manu Kone unlocks everything as record signing eyed'
@@ -70,7 +70,7 @@ sources:
   domain: sundayguardianlive.com
   reason: 7 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-10-31'
+  last_qualified: '2026-11-02'
   samples:
   - 'LIVE | Silver Price Today [22 October 2026]: MCX Silver Drops at ₹2.29 Lakh/kg Amid Trump-Iran War, Fed Policy Uncertainty;
     Check Latest City-Wise Silver Rates in Delhi, Mumbai, Chennai, Kerala & More'
@@ -86,7 +86,7 @@ sources:
   domain: english.aawsat.com
   reason: cited by FDD, The National Interest
   added: '2026-10-22'
-  last_qualified: '2026-11-01'
+  last_qualified: '2026-11-02'
   samples:
   - Private Sector Fuels Saudi Arabia’s Growth Lead Among G20 Economies
   - Saudi Crown Prince Receives Written Message to King Salman from Egyptian President
@@ -250,7 +250,7 @@ sources:
   domain: rferl.org
   reason: cited by FDD, Phillips O'Brien
   added: '2026-10-24'
-  last_qualified: '2026-11-01'
+  last_qualified: '2026-11-02'
   samples:
   - White House Says Melania Trump Brokers Localized Cease-Fire For Occupied Ukrainian City
   - 'Every Day We ''Wake Up Poorer'': Iranians Battle Economic Woes'
