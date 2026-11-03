@@ -11,6 +11,12 @@
 "label": "rhetoric",
 "why": "US Senate race partisan chatter; no policy consequence."
 },
+"\"though mount tai is high\"... chinese robots climb 3,100 stone steps in 43 minutes": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Spectacle video of a robot climbing event."
+},
 "$6.3 billion binance heist: north korea’s notorious hacking unit suspected of pulling off world’s biggest crypto robbery, drains billions in just 20 minutes": {
 "date": "2026-10-31",
 "impact": 4,
@@ -41,11 +47,23 @@
 "label": "rhetoric",
 "why": "UCC campaign promise for 2027 UP polls; no policy enacted yet."
 },
+"'bjp will remove every infiltrator': amit shah says congress, its allies want to stop sir | news18": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Campaign rally speech."
+},
 "'can do it in 10 minutes': trump says about remaining iran nuclear sites": {
 "date": "2026-11-01",
 "impact": 2,
 "label": "rhetoric",
 "why": "Trump bluster on Iran sites; no concrete action."
+},
+"'declare you won't contest till gyanesh kumar is cec': assam cm himanta biswa sarma's open challenge to rahul gandhi on 'vote theft' charge": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Political challenge to Rahul Gandhi; no decision involved."
 },
 "'dedication and ingenuity of our space scientists': pm modi hails isro after successful gslv-f18 launch carrying nvs-03": {
 "date": "2026-10-31",
@@ -53,11 +71,29 @@
 "label": "news",
 "why": "NVS-03 launch restores NavIC, strengthening India's strategic navigation independence from GPS."
 },
+"'don't need dia mirza to teach us how to celebrate': mumbai mayor on bmc's pollution-free diwali video takedown": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Dispute over a city's Diwali awareness video."
+},
+"'don't travel by air': supreme court on petition against high ticket prices": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Same story as #37 from another outlet."
+},
 "'evil qwen' says humans deserve to be 'incinerated.' inside the wild world of llm neuron exploration": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "in-depth",
 "why": "Interpretability work on persona neurons in Qwen; relevant to LLM safety."
+},
+"'exceptionally horrific strike' — russian bombs hit school used as humanitarian aid center in zaporizhzhia oblast, killing 26": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Mass-casualty strike that hardens positions ahead of peace talks."
 },
 "'get ready to spend another 5 years in opposition': amit shah tears into indi bloc over ramlila maidan rally": {
 "date": "2026-11-01",
@@ -83,6 +119,12 @@
 "label": "news",
 "why": "Shows how US third-country deportations to Africa work in practice and leave people in legal limbo."
 },
+"'i think we are going to do great': trump holds final midterms rally at reflecting pool": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Campaign rally speech."
+},
 "'it's a miracle' — oleshky residents reach ukrainian-controlled territory after escaping russian occupation": {
 "date": "2026-10-31",
 "impact": 3,
@@ -95,6 +137,12 @@
 "label": "in-depth",
 "why": "Human-interest reportage; limited geopolitical news."
 },
+"'like gene editing for neural networks': mit researchers used gpt-6 astra to edit qwen's open weights directly, boosting math performance": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Using a frontier model to edit open weights directly is a new research direction."
+},
 "'massive turnout at ramlila maidan,' says congress; rahul reiterates, 'gyanesh will go to jail' | highlights": {
 "date": "2026-11-01",
 "impact": 1,
@@ -106,6 +154,12 @@
 "impact": 1,
 "label": "rhetoric",
 "why": "Party barbs between Telangana politicians; no decision involved."
+},
+"'ncp united under sunetra pawar': party rejects rift rumours as she skips amit shah meet": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Internal NCP rift; matters only for Maharashtra coalition politics."
 },
 "'no military solutions': eam jaishankar reveals pm modi-putin talks on ukraine conflict in delhi, bishkek": {
 "date": "2026-11-01",
@@ -136,6 +190,12 @@
 "impact": 1,
 "label": "rhetoric",
 "why": "Party barbs."
+},
+"'our farmers will pay no tariffs’: trump says us, canada have 'concept' of a new trade deal": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Early-stage outline of a US-Canada trade deal; no terms yet."
 },
 "'protest, then do some shopping': rahul gandhi after traders object to november 1 rally": {
 "date": "2026-10-31",
@@ -191,6 +251,12 @@
 "label": "news",
 "why": "BRICS joint declaration adopted in Delhi; parliamentary forums rarely produce binding outcomes."
 },
+"150 afghan immigrants face deportation": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Afghan deportation plan via Pakistan; limited relevance, no new decision."
+},
 "1965 union cabinet decision allowing english in judicial proceedings challenged, high court to hear plea today": {
 "date": "2026-11-01",
 "impact": 2,
@@ -203,6 +269,12 @@
 "label": "minor",
 "why": "Independents joining a party at state level."
 },
+"2 punjab aap mlas quit party ahead of polls, set to join bjp today": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "AAP MLAs defect to BJP ahead of Punjab's 2027 election."
+},
 "2-year treasury yield drops to 4.61% as fed holds rates steady": {
 "date": "2026-10-31",
 "impact": 2,
@@ -214,6 +286,12 @@
 "impact": 1,
 "label": "minor",
 "why": "Individual bail condition matter."
+},
+"2026 us midterm elections: trump's broken promises expose republicans to backlash in midterms": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Midterm punditry."
 },
 "2027 business immigration outlook for employers": {
 "date": "2026-10-31",
@@ -233,11 +311,23 @@
 "label": "minor",
 "why": "Routine central funding for state road projects."
 },
+"55+ diplomatic missions, 150+ diplomats: indias biggest-ever diplomacy gala brings the world together in new delhi": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "A diplomatic event gala with nothing of substance."
+},
 "5th circuit judge james ho says a presidentially declared 'invasion' overrides birthright citizenship": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "news",
 "why": "Fifth Circuit judge's 'invasion' theory against birthright citizenship, which matters to Indian families."
+},
+"7 odisha districts on watch as cyclone murasu nears andhra coast; schools shut in some areas": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Cyclone landfall on the Andhra coast causing damage and disruption."
 },
 "9th sdg dialogue held in baku": {
 "date": "2026-10-31",
@@ -268,6 +358,18 @@
 "impact": 2,
 "label": "minor",
 "why": "Interpretability of MLLM retrieval heads; incremental."
+},
+"a month after rbi’s rate hike, banks start raising deposit rates as liquidity shrinks, bank of india the l": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "RBI hike now reaching deposit rates as liquidity tightens; Indian rate cycle transmission."
+},
+"a network approach to geopolitics": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Network approach to geopolitics; academic."
 },
 "a texas cop signed on to help ice deport his neighbors. it tore the town apart.": {
 "date": "2026-10-31",
@@ -335,6 +437,12 @@
 "label": "rhetoric",
 "why": "Minor party positioning."
 },
+"activists raise concern over supreme court order on green firecrackers raises, traders lament stock availability": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Local reactions to the firecracker order."
+},
 "afghans facing deportation from us include relatives of those who worked alongside american forces; plane": {
 "date": "2026-10-31",
 "impact": 2,
@@ -353,6 +461,12 @@
 "label": "in-depth",
 "why": "Recommendation pool failure under LLM-generated content flood; directly relevant to recsys."
 },
+"after propublica investigation, house democrats demand answers on u.s. citizens detained by immigration agents": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Congressional oversight of detained citizens; no decision yet."
+},
 "after q3 gdp beats expectations: cls model says fed december rate hike odds below 20%, betting against market's 80% pricing": {
 "date": "2026-10-31",
 "impact": 2,
@@ -364,6 +478,12 @@
 "impact": 2,
 "label": "in-depth",
 "why": "Practitioner agent memory and harness design; niche podcast."
+},
+"aging of america: supporting family caregivers and direct care workers": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Off-topic for this reader."
 },
 "ai agents don't have to break security controls to go rogue. here's how to keep them in check": {
 "date": "2026-11-01",
@@ -401,11 +521,29 @@
 "label": "in-depth",
 "why": "Epoch overview of AI in research."
 },
+"ai use in research documentation – limitations": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Methodology note only."
+},
 "air india and saudia sign strategic partnership": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "minor",
 "why": "Airline commercial partnership."
+},
+"akhilesh yadav sounds up poll bugle at india bloc rally, calls it next battle against bjp": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Opposition rally speech opening the UP campaign."
+},
+"aleinik: belarus made great progress in sustainable development goals": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Belarus promoting its own SDG record."
 },
 "alphabet loses $511 billion in market value as google ad growth slows and ai spending weighs": {
 "date": "2026-10-31",
@@ -431,6 +569,12 @@
 "label": "minor",
 "why": "ETF disposal policy tweak."
 },
+"america is making a ‘freaking fortune’ in an energy crisis": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "opinion",
+"why": "US energy exporters are making windfall gains from the war-driven crisis."
+},
 "america’s lng boom faces its biggest test yet": {
 "date": "2026-10-31",
 "impact": 3,
@@ -449,11 +593,29 @@
 "label": "minor",
 "why": "UN deputy chief farewell; symbolic for Agenda 2030, no policy change."
 },
+"amit shah calls for ouster of congress govt in telangana, targets rahul gandhi over sir": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Leaders trading charges of 'foreign help'."
+},
 "amit shah dares rahul gandhi, akhilesh yadav to debate voter roll revision in parliament": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "rhetoric",
 "why": "Debate dare over voter roll revision; no decision."
+},
+"amit shah leads hyderabad padhyatra | bjp’s ‘lok tantra bachao, aarakjakta hatao’ campaign | news18": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Video of the same rally."
+},
+"amit shah visits bhagya laxmi temple ahead of bjp 'loktantra bachao' padyatra in hyderabad": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Temple visit before a rally; no substance."
 },
 "amit shah's 'special' offer to india bloc before gyanesh kumar's 'public impeachment'": {
 "date": "2026-10-31",
@@ -479,6 +641,12 @@
 "label": "minor",
 "why": "Indictment of one ICE officer; no change to policy."
 },
+"an in-depth discussion on immigration policy in the rgv": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Local panel discussion."
+},
 "anand kumar’s article ‘muizzu’s pakistan visit: from diplomatic promises to strategic outcomes’ published in south asia monitor": {
 "date": "2026-10-31",
 "impact": 2,
@@ -497,6 +665,30 @@
 "label": "minor",
 "why": "State irrigation spending."
 },
+"andrea r. flores: ‘democrats are a decade behind on coming up with an answer to immigration’": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Interview on Democrats' immigration strategy."
+},
+"andrew gillen participates in the event, “the future of higher education in american life,” hosted by the deliberative citizenship initiative": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "Event listing."
+},
+"another federal reserve study puts illegal immigration at the center of the housing debate": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "opinion",
+"why": "Partisan take on housing and immigration."
+},
+"another judge blocks doj ballot demands in california": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Supreme Court refuses Trump bid to set aside ballots; election integrity."
+},
 "anthropic expected to receive high ‘junk’ rating from credit agencies following ipo, ft report says": {
 "date": "2026-10-31",
 "impact": 4,
@@ -509,11 +701,59 @@
 "label": "promo",
 "why": "Hiring program announcement."
 },
+"anthropic's amended ipo paperwork reveals soaring q3 revenue and a stunning compute bill": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Filing reveals $895B in compute commitments, a key figure on AI costs."
+},
+"anthropic’s revenue surged to $17 billion in q3, swung back to operating loss": {
+"date": "2026-11-03",
+"impact": 5,
+"label": "news",
+"why": "Anthropic's Q3 revenue and return to operating loss ahead of its IPO show frontier lab economics."
+},
+"apple set an iphone sales record even without a new standard iphone": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Apple earnings are routine, with little tie to AI."
+},
+"apriel voice 27b preview: an open model for speech, reasoning, and tool use": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Open 27B speech model with reasoning and tool use."
+},
+"are trump and netanyahu in sync on iran?": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Reported Israeli push for strikes after the midterms; single-source report."
+},
 "armenia ratifies trade deal with united arab emirates: this week in business": {
 "date": "2026-11-01",
 "impact": 1,
 "label": "minor",
 "why": "Small bilateral trade deal (Armenia–UAE)."
+},
+"armenia's state budget deficit in 2027 will be 3.4%": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Small-economy budget figure with no global relevance."
+},
+"armenia’s fiscal policy in 2027 will restrain aggregate demand: central bank governor": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Armenian central bank comment of narrow interest."
+},
+"arunachal chief minister assures open dialogue to siang dam protesters": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Protests over the Siang mega-dam near the China border."
 },
 "as india bloc rallies against cec, bjp plans statewide mobilisation in up": {
 "date": "2026-11-01",
@@ -545,6 +785,12 @@
 "label": "in-depth",
 "why": "Analysis of the Quad's maritime security focus as West Asia tensions persist."
 },
+"asean’s biggest trade problem is no longer tariffs. it is friction": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Commentary on ASEAN non-tariff trade barriers."
+},
 "asean’s energy security: need for regional cooperation": {
 "date": "2026-10-31",
 "impact": 2,
@@ -556,6 +802,12 @@
 "impact": 2,
 "label": "news",
 "why": "Routine Asia calendar, though it flags an RBA hike."
+},
+"asia's crude oil imports back to pre-war levels but refined fuels lag: russell": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Asian crude imports have recovered but refined fuel imports lag, which bears on India's import costs."
 },
 "askstream: when and what to ask proactively under uncertainty in streaming video understanding": {
 "date": "2026-10-31",
@@ -611,6 +863,18 @@
 "label": "news",
 "why": "Anthropic automating misalignment research; frontier safety methodology."
 },
+"aviation india and south asia summit & exhibition 2026 opens registration for 3–4 november 2026 event in new delhi": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "An event registration listing."
+},
+"ayodhya ram temple donation: sc closes pleas for independent probe": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "A narrow criminal case."
+},
 "azam khan arrested by ed after release from jail remanded in 14 days judicial custody": {
 "date": "2026-11-01",
 "impact": 2,
@@ -623,11 +887,29 @@
 "label": "news",
 "why": "Tragic crash, limited broader impact; prompts aviation safety probe."
 },
+"bangladesh’s lng crunch is a warning for emerging markets": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "opinion",
+"why": "Shows how vulnerable South Asian economies are to LNG shocks; relevant to India."
+},
+"bank fd interest rate hike, november 2026: which bank offers the highest returns? check list of latest bank-wise rates": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Consumer FD rate listicle."
+},
 "bank of america expects bank of england rate hike on thursday": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "news",
 "why": "Bank forecast of BoE hike; pre-decision speculation."
+},
+"bank of england rate hike expected amid inflation and energy crisis": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "BoE expected to make its first hike as the energy shock pushes inflation."
 },
 "bank of japan confirms 2% inflation target achieved, holds rates at 1.25% - news and statistics": {
 "date": "2026-10-31",
@@ -647,11 +929,23 @@
 "label": "in-depth",
 "why": "Analysis of BoJ hitting target and next steps."
 },
+"bank of japan holds at 1.25%, hints at december rate hike; dollar-yen likely stuck in upper 156 range": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "BOJ held at 1.25% and signalled a December hike; matters for yen carry and global rates."
+},
 "bank of japan holds rates and guides to further tightening": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "news",
 "why": "Market reaction rehash of BOJ hold."
+},
+"bank of japan set to raise rates to 1.50% in december as fed flies blind": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Expected BoJ hike to 1.50% would affect the yen and global yield moves."
 },
 "banks see elevated oil prices extending into 2027 as supply risks deepen": {
 "date": "2026-10-31",
@@ -689,17 +983,47 @@
 "label": "minor",
 "why": "Local political violence in Bengal."
 },
+"bengaluru skill summit 2026 to bring together government, industry, global partners and youth to advance karnataka’s workforce 2030 agenda": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "A state skills event announcement."
+},
 "bhagwant mann-led punjab cabinet approves key decisions on patwari cadre, grain market and labour rules": {
 "date": "2026-11-01",
 "impact": 1,
 "label": "minor",
 "why": "State-level cabinet decisions."
 },
+"bharat renewable energy summit & expo: india aims to add 500 gw of new non-fossil energy capacity in 10-11 years, says pm modi": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Inaugural speech on energy security; no new policy decision."
+},
+"bhutan king dedicates sacred buddhist stupa to pm narendra modi to honour bilateral ties; rijiju calls it ‘huge honour’": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "A symbolic honour with no policy content."
+},
+"bihar ai policy 2026: state cabinet approves plan to boost ai innovation, startups, investment": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "A state-level AI policy with limited national impact."
+},
 "bihar cabinet approves industrial use of 266 acres at motipur sugar mill site, opens land for new industries": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "minor",
 "why": "Local land-use decision."
+},
+"bihar playbook in uttar pradesh polls: why bjp is seeking to revive memories of sp’s rule": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "opinion",
+"why": "UP election punditry."
 },
 "binance ceo says 90 percent of stolen assets have been ‘replenished’": {
 "date": "2026-10-31",
@@ -749,11 +1073,35 @@
 "label": "news",
 "why": "BoJ declares 2% target achieved, a regime shift toward normalization."
 },
+"boj signals december rate hike, but path beyond 1.5% remains uncertain": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "BOJ's rate path beyond 1.5% is unclear; context for global yields."
+},
 "bonds under the bnss: how the law seeks to prevent breaches of peace": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "in-depth",
 "why": "Explainer on BNSS bond provisions; niche legal context."
+},
+"boris vujčić: integrated, open and resilient: europe’s strengths in a fragmenting world": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Central banker speech on Europe's place in a fragmenting world."
+},
+"brazil's 2026 election leaves u.s. immigration rules for brazilian nationals unchanged: what did change in 2026": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Rules for Brazilian nationals; irrelevant to this reader."
+},
+"breaking! opec+ announces no adjustment to crude oil production in december": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "OPEC+ holds December output; confirms what was already expected."
 },
 "brendan carr | fcc chair, jimmy kimmel, james talarico, charlie kirk, project 2025, & biography": {
 "date": "2026-10-31",
@@ -773,17 +1121,41 @@
 "label": "news",
 "why": "Analyst poll lifts the 2026 Brent forecast above $90."
 },
+"brent below $105; oil steadies after biggest slump in over three months on hopes of us-iran peace talks": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Markets reacting to US-Iran detente hopes; repeats the oil story."
+},
 "brent crude approaches $120 amid rising supply risks": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "news",
 "why": "Rewrite of the same oil price story."
 },
+"brent crude could hit $140 next year in upside scenario, goldman analysts say": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Duplicate of the Goldman forecast story."
+},
 "brent crude eyes $120 breakout as strait of hormuz shipping threats escalate": {
 "date": "2026-11-01",
 "impact": 2,
 "label": "minor",
 "why": "A trader-site technical forecast; adds little beyond the price headlines."
+},
+"brent crude falls 4% as hormuz flows return to pre-conflict levels": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Hormuz flows back to pre-conflict levels would materially ease supply."
+},
+"brent crude falls nearly 8% below $105 as us-iran diplomacy eases supply fears": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Brent falls 6% to $105 on Iran peace hopes; matters for India's import bill and inflation."
 },
 "brent crude nears $118, up 4th straight month as iran escalation fears lift oil": {
 "date": "2026-10-31",
@@ -820,6 +1192,12 @@
 "impact": 4,
 "label": "news",
 "why": "Crude above $115 after Houthi attacks on Saudi Arabia, a direct oil import cost hit for India."
+},
+"brent declines on hopes of progress in iran talks": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Duplicate story on prices falling."
 },
 "brent ends at $116.08; houthi strikes lift supply fears": {
 "date": "2026-10-31",
@@ -869,6 +1247,12 @@
 "label": "minor",
 "why": "Ceremonial photo-op."
 },
+"brics needs stronger institutional development for smooth growth: s. jaishankar": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "India's position on BRICS institutions affects how the bloc is set up."
+},
 "brics not yet a defence cooperation platform, says misri": {
 "date": "2026-11-01",
 "impact": 3,
@@ -905,6 +1289,12 @@
 "label": "opinion",
 "why": "Economist reads Lagarde as signalling a December ECB hike, a turn in eurozone policy."
 },
+"budget, debt ceiling negotiations on deck as midterms could create divided federal government": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "A divided government could set up debt ceiling fights."
+},
 "business development, ai product partnerships at pinterest": {
 "date": "2026-10-31",
 "impact": 1,
@@ -922,6 +1312,12 @@
 "impact": 5,
 "label": "news",
 "why": "Loosens Press Note 3 rules on investment from China and other neighbours, a big shift for capital flows."
+},
+"cabinet approves commitment of rs.10,000 crore towards establishment of the sme growth fund for direct equity investments in small and medium enterprises to cre": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Cabinet commits ₹10,000 crore of equity funding to SMEs."
 },
 "cabinet approves construction of eight next generation corvettes for indian navy at over rs 40,000 crore": {
 "date": "2026-10-31",
@@ -1043,17 +1439,35 @@
 "label": "minor",
 "why": "Local Canadian budget cut story."
 },
+"canadian manufacturing contracts for first time in 2026 as tariffs hit demand": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Canadian PMI shows the effect of US tariffs."
+},
 "canadian prime minister carney reports progress in trade talks with trump days before us midterms": {
 "date": "2026-11-01",
 "impact": 3,
 "label": "news",
 "why": "Progress on a Canada-US trade deal, though nothing is concluded."
 },
+"captain: a pipeline for post-training code-as-policy robot agents": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Post-training pipeline for code-as-policy robot agents."
+},
 "category 2 hurricane isaias nears landfall, leading to production shut-ins": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "minor",
 "why": "Stale hurricane notice."
+},
+"causalwam: learning the causes of actions in world action models": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "World action model paper."
 },
 "census 2027 dates announced": {
 "date": "2026-10-31",
@@ -1096,6 +1510,12 @@
 "impact": 2,
 "label": "minor",
 "why": "Regional rural road funding."
+},
+"centre extends deadline for nilekani-led examination reform task force to january 2027 from october": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Exam reform task force deadline pushed back."
 },
 "centre signs mou with cesl to expand ev charging and battery swapping access across rural india": {
 "date": "2026-11-01",
@@ -1181,6 +1601,24 @@
 "label": "news",
 "why": "Chinese coast guard expanding Taiwan pressure east of island."
 },
+"china's robot makers have mastered the moves. now comes the race for brains": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Chinese robotics firms are moving from hardware to embodied AI models, a competitive shift."
+},
+"china's shift to new policy rate signals easier funding conditions": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Explains the easing implications of the PBOC rate change."
+},
+"china's xi says middle east should not become battleground for great power rivalry": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "China's stated position on the Middle East amid great-power rivalry."
+},
 "china’s military build-up has created ‘pressure’ in southeast asia, australian defense chief says": {
 "date": "2026-10-31",
 "impact": 3,
@@ -1193,11 +1631,41 @@
 "label": "in-depth",
 "why": "China's $938B surplus raises doubts that US tariffs are working."
 },
+"chip maker marvell agrees to buy lumentum in $80 billion deal": {
+"date": "2026-11-03",
+"impact": 5,
+"label": "news",
+"why": "$80B chip-optics merger is a major AI hardware consolidation."
+},
 "cho holds g20 sideline talks with eu, uk, india and mexico": {
 "date": "2026-11-01",
 "impact": 2,
 "label": "minor",
 "why": "Routine sideline bilateral meetings."
+},
+"christian blogger who said 'if you love america, you should support ice' leaves us after ice arrest": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Gossip about a blogger."
+},
+"churchill capital xi shareholders approve $2.5b agility robotics humanoid spac": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Shareholders approve the humanoid SPAC; follows earlier reporting of the $465M raise."
+},
+"cio notebook: fed holds rates steady, cites the need for more information": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Fed hold already covered earlier."
+},
+"claude's new ai report card tool gives companies a closer look at costs — and flags 'inefficiencies'": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "promo",
+"why": "Product feature launch."
 },
 "cm mann says opposition parties have nothing to offer punjab, eyes aap's return to power in 2027": {
 "date": "2026-11-01",
@@ -1217,6 +1685,12 @@
 "label": "minor",
 "why": "State-level event listing."
 },
+"cnbc's the china connection newsletter: nvidia's humanoid push relies on china-made robot hands": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Shows Nvidia's humanoid supply chain depends on Chinese components, a geopolitical risk for robotics."
+},
 "co-design bench: multimodal collaborative coding evaluation for agentic models": {
 "date": "2026-10-31",
 "impact": 2,
@@ -1234,6 +1708,18 @@
 "impact": 1,
 "label": "opinion",
 "why": "Political commentary column."
+},
+"combined experience as advocate and judicial officer counts for district judge posts: supreme court": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Narrow ruling on eligibility for judicial posts."
+},
+"comments on the draft national steel policy – vision 2047": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Think-tank critique of the draft long-term steel policy, relevant to industrial and trade direction."
 },
 "commerce and industry minister shri piyush goyal meets h.s.h. hereditary prince alois of liechtenstein": {
 "date": "2026-10-31",
@@ -1253,11 +1739,23 @@
 "label": "minor",
 "why": "Academic publishing topic, off-interest."
 },
+"confirmed by uscis: automatic extension of work permits by up to 540 days ends, and what renewing workers need to do": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "End of the 540-day automatic EAD extension affects H-4 spouses and green card applicants."
+},
 "congress expels kripa alva over 'sting operation' of party leaders in karnataka": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "minor",
 "why": "Karnataka party expulsion."
+},
+"congress rebuts bjp over rally 'losses', says delhi markets stayed busy": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Back-and-forth over whether the rally hurt Delhi markets."
 },
 "congress's june triumph, october setback: is karnataka's opposition arithmetic changing?": {
 "date": "2026-10-31",
@@ -1270,6 +1768,12 @@
 "impact": 3,
 "label": "news",
 "why": "COP17 agrees a biodiversity roadmap tied to the 2030 targets."
+},
+"corporate america's ai bill is ballooning. this startup raised $30 million to make sense of where the money is going.": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Small AI cost-tracking startup round."
 },
 "costa: compressed speech token adaptation for efficient spoken dialogue models": {
 "date": "2026-10-31",
@@ -1301,6 +1805,12 @@
 "label": "in-depth",
 "why": "Repeats earlier coverage of futures curve shape and diesel tightness."
 },
+"crude oil market analysis: opec+ steady output, iran war disrupts supply": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Rehash of the OPEC+ decision."
+},
 "crude oil price forecast – oil continues to grind higher": {
 "date": "2026-10-31",
 "impact": 1,
@@ -1325,6 +1835,12 @@
 "label": "news",
 "why": "Reports of a possible US strike on Iran after the election."
 },
+"crude tumbles 7% as tehran opens door to talks, brent settles near $105": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "7% crude drop on Iran's openness to talks; key oil price driver."
+},
 "cubans in florida waver on trump and republicans over immigration": {
 "date": "2026-10-31",
 "impact": 2,
@@ -1343,11 +1859,23 @@
 "label": "minor",
 "why": "A data page."
 },
+"cyberattacks hit ukraine’s and russia’s emergency-alert apps": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Explainer on the tit-for-tat cyberattacks on civilian alert systems."
+},
 "cyprus central bank chief warns lasting energy shock fuels inflation as ecb holds rates": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "news",
 "why": "ECB holds rates while warning that the energy shock is fuelling inflation."
+},
+"daily memo: iranian threats, european defense": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Brief on Khamenei's threats and European defence moves."
 },
 "daily memo: israeli election, us war plans": {
 "date": "2026-10-31",
@@ -1372,6 +1900,18 @@
 "impact": 1,
 "label": "minor",
 "why": "Routine ECB administrative decisions."
+},
+"defence ministry signs ₹53,867 crore deals for 8 next-generation navy corvettes": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "A major ₹53,867 crore naval procurement of indigenously built corvettes."
+},
+"delhi hc stays jnu order dismissing congress mp akoijam from services": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Court stays dismissal of a JNU professor who is a Congress MP."
 },
 "delhi on high alert ahead of india bloc rally against chief election commissioner": {
 "date": "2026-11-01",
@@ -1403,6 +1943,12 @@
 "label": "minor",
 "why": "A category page, not a story."
 },
+"diagnose distributed ai workload failures with nvidia attribution": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Tooling for debugging distributed training failures; niche."
+},
 "digital reserve currency price (drc/usd) today | live price, market cap & chart": {
 "date": "2026-11-01",
 "impact": 1,
@@ -1415,17 +1961,77 @@
 "label": "opinion",
 "why": "Speculative commentary on digital yuan versus the dollar."
 },
+"dimapur holds review meeting on sustainable development goals (sdg) india index 4.0 and north eastern region (ner) district sdg index 2.0 | dipr nagaland-depart": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "District-level review meeting."
+},
 "dissent in india bloc, nc mp to quit, mlas to follow": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "minor",
 "why": "Cracks in the INDIA bloc."
 },
+"diwali cheer: sc allows green crackers": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Local firecracker timing rules."
+},
+"doctor faustroll (why/how) (@doctorfaustroll): \"now there’s the essence of the gop and its project 2025.\"": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Social media post."
+},
+"does growth in the money supply predict u.s. inflation? yes, but …": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Academic note on whether money supply predicts inflation."
+},
+"does quad serve india’s interests?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "An opinion piece on whether the Quad serves India."
+},
+"does scaling toward agi depend on what system-1 lets system-2 execute?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Speculative paper on AGI scaling."
+},
+"doj touts fy 2026 ‘significant accomplishments’ in the immigration courts": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Agency self-promotion."
+},
+"doj urges biden judge not to toss anti-ice protesters’ convictions": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Narrow court case over protester convictions."
+},
+"don't travel by air, says sc; refuses urgent listing of plea alleging 700 pc hike in airfares": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "SC refused urgent listing, so the airfare issue stays unresolved."
+},
 "doordash said it’s only received ‘several hundred’ orders from ai agents": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "news",
 "why": "Real data showing agentic commerce adoption is tiny."
+},
+"doval meets vietnam defence minister, agrees to deepen bilateral defence cooperation": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "India-Vietnam defence ties deepen, a South China Sea counterweight."
 },
 "dow jones futures retreat on disappointing tech earnings and fed rate-hike bets": {
 "date": "2026-10-31",
@@ -1487,6 +2093,18 @@
 "label": "in-depth",
 "why": "Academic paper on the social cost of carbon; niche."
 },
+"dp22119 central bank retail deposits in the past": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "in-depth",
+"why": "Historical economics discussion paper."
+},
+"dp22121 tariffs, employment and the balance of trade": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Research paper on tariff effects."
+},
 "dpiit advances trust-based governance through startup support, regulatory reforms and digital single-window clearances": {
 "date": "2026-11-01",
 "impact": 2,
@@ -1523,11 +2141,23 @@
 "label": "news",
 "why": "Quad rhetoric with no decision."
 },
+"early childhood education": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Off-topic."
+},
 "easyquant: translating trading rules into pine script—where should human validation begin?": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "minor",
 "why": "Narrow trading tooling piece."
+},
+"ecb flags ai valuations, bond stress and fund losses as main risks": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "ECB names AI valuations as a top financial-stability risk; relevant to the AI funding climate."
 },
 "ecb holds rates and keeps december open while eur/usd falls": {
 "date": "2026-10-31",
@@ -1541,6 +2171,12 @@
 "label": "in-depth",
 "why": "Markets pricing ECB December hike after hold."
 },
+"ecb rate hike unavoidable, market underestimating needed scope, says slovak central bank chief": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Single ECB hawk's view; signals tightening bias but not a decision."
+},
 "economic fallout: new u.s. tariffs take effect on canada - here’s what you need to know": {
 "date": "2026-10-31",
 "impact": 3,
@@ -1553,11 +2189,29 @@
 "label": "in-depth",
 "why": "Academic study on policy uncertainty in Indian manufacturing."
 },
+"economic stimulus to strengthen people's purchasing power": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Vague Indonesian photo caption, no policy detail."
+},
+"economy statement for the treasury borrowing advisory committee": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Primary Treasury source on the economy ahead of refunding."
+},
 "editagent: rethinking agentic image editing": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "minor",
 "why": "Agentic image editing method; incremental."
+},
+"editorial: japan's 2% inflation calls expansionary fiscal policy into question": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Japanese editorial questioning fiscal stance amid inflation."
 },
 "editorial: talk about this poll": {
 "date": "2026-10-31",
@@ -1570,6 +2224,12 @@
 "impact": 3,
 "label": "in-depth",
 "why": "Legal questions over EC appeals against 16 lakh voters affects electoral integrity."
+},
+"elon musk throttles grok bot limits due to ‘unsustainably high’ costs": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Throttling over costs shows inference economics constraining a fast-growing product."
 },
 "empirical auction models": {
 "date": "2026-10-31",
@@ -1600,6 +2260,18 @@
 "impact": 3,
 "label": "news",
 "why": "New Black Sea grain corridor talks affect food and shipping flows."
+},
+"estelle komlan, managing director of ecobank togo: “with cips, we want to make payments to china faster and cheaper”": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Small example of an African bank adopting China's CIPS payment system."
+},
+"ethiopia attacks kill civilians as health system nears collapse, who chief says": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Ethiopia's conflict is escalating, with drone strikes on civilians."
 },
 "ethiopian pm abiy ahmed ali arrives in new delhi to attend 18th brics summit": {
 "date": "2026-10-31",
@@ -1661,11 +2333,23 @@
 "label": "news",
 "why": "Follow-up on the localised Oleshky ceasefire; little new beyond evacuations starting."
 },
+"excerpt: men without work: the immigration angle": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "opinion",
+"why": "Book excerpt."
+},
 "exclusive | top military admiral briefs trump on iran options": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "news",
 "why": "Briefing on Iran strike options hints the US could escalate, which would hit oil and Gulf stability."
+},
+"exclusive | u.s. strikes iran’s qeshm island as trump talks down war risks": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "US strike on Qeshm Island while deal talks continue; risk to Hormuz oil flows."
 },
 "exclusive: cybersecurity startup cyera discusses $20 billion valuation": {
 "date": "2026-10-31",
@@ -1679,11 +2363,23 @@
 "label": "minor",
 "why": "Single ICE arrest with no policy change."
 },
+"exclusive: india moves to resolve scotch tariff dispute under uk trade pact, sources say": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "India moving to settle a tariff dispute in the India-UK FTA rollout."
+},
 "exclusive: pakistan military 'cautiously optimistic' on iran-us mediation": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "news",
 "why": "Pakistan's role as a mediator in the US-Iran conflict, relevant to India's neighbourhood."
+},
+"exclusive: salesforce acquires startup cresta for $2.7 billion": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Large AI contact-center acquisition; Salesforce is consolidating AI agent companies."
 },
 "expert explains | to counter china along lac, why its grey-zone warfare tactics must be understood": {
 "date": "2026-10-31",
@@ -1733,6 +2429,18 @@
 "label": "opinion",
 "why": "OpenAI advocacy for fair use in litigation."
 },
+"fake nuclear warning from hacked app sparks unease but not panic in ukraine": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Public reaction angle on the already-covered hack."
+},
+"false nuclear attack warnings hit ukraine": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Same hack story already covered earlier."
+},
 "fdsml: formula-driven supervised metric learning with parameter-aware triplet loss": {
 "date": "2026-10-31",
 "impact": 1,
@@ -1744,6 +2452,12 @@
 "impact": 3,
 "label": "news",
 "why": "Fed held rates while interest on the debt tops $1 trillion."
+},
+"fed holds rates unchanged as two officials favor 25-basis-point hike: december hike suspense left to kevin warsh press conference": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Two Fed dissents favouring a hike; Warsh press conference sets up December."
 },
 "fed officials are already saying they’ll need to get back to hiking rates": {
 "date": "2026-10-31",
@@ -1792,6 +2506,12 @@
 "impact": 3,
 "label": "news",
 "why": "A Fed official openly calling for a rate hike."
+},
+"fighting returns to kherson region after longest ukraine war ceasefire": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Fighting resumes after the longest ceasefire so far; the war's course is unchanged."
 },
 "filing: chip startup powerlattice raises $86m to ease ai’s power crunch": {
 "date": "2026-10-31",
@@ -1859,6 +2579,12 @@
 "label": "minor",
 "why": "Courtesy meeting on India-Russia trade."
 },
+"follow the gradient: tracing safety degradation back to training data": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Traces safety erosion from fine-tuning back to specific training data, useful for post-training."
+},
 "for google, the economics of ai mode look shaky": {
 "date": "2026-10-31",
 "impact": 4,
@@ -1871,11 +2597,23 @@
 "label": "minor",
 "why": "Sports diplomacy dispute."
 },
+"foreign secretary vikram misri to visit nepal tomorrow, set stage for balen shah’s likely trip to india this month": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Prepares the Nepal PM's India visit; neighbourhood diplomacy after a change of government."
+},
 "form 6, voter roll deletions: what election commission told the supreme court": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "in-depth",
 "why": "Explains EC's position on voter roll deletions before SC."
+},
+"former meta security chief says giving ai agents your financial logins is ‘totally insane’": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Security risks of letting AI agents use bank logins; one expert's view."
 },
 "four-year undergraduate programme: students are paying the price of policy confusion": {
 "date": "2026-10-31",
@@ -1883,11 +2621,29 @@
 "label": "opinion",
 "why": "Education policy viewpoint; low priority."
 },
+"frameforge: harnessing priors of video foundation models for unified image generation": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Vision generation paper."
+},
 "frank elderson: taking action for nature – investing in economic resilience and prosperity": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "opinion",
 "why": "Central banker speech on nature finance; no policy change."
+},
+"freed from opec quotas, uae says oil exports have risen as it hosts industry event": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "UAE exports rising after leaving OPEC weaken the cartel's hold on supply."
+},
+"from dialogue to action: science, technology and cooperation in the indo-pacific": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "General commentary on Indo-Pacific cooperation."
 },
 "from green card to fraud: kenyans arrested in $130m us ghost student scam": {
 "date": "2026-10-31",
@@ -1900,6 +2656,12 @@
 "impact": 2,
 "label": "rhetoric",
 "why": "Symbolic opposition move against the CEC; it has no legal effect."
+},
+"from new delhi to manila to atlanta, the quad finds its rhythm in 2026": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Reviews Quad's 2026 progress ahead of a leaders' summit."
 },
 "from reactive to proactive: indo-pacific’s responses to ai-driven cyber threats": {
 "date": "2026-10-31",
@@ -1955,6 +2717,12 @@
 "label": "news",
 "why": "G20 split on security issues signals a difficult December leaders' summit."
 },
+"gas, diesel, oil prices are down, but reprieve could be temporary": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Local US fuel prices."
+},
 "gdp based on ppp, share of world": {
 "date": "2026-10-31",
 "impact": 2,
@@ -1991,11 +2759,23 @@
 "label": "minor",
 "why": "Daily casualty tally."
 },
+"gentherm designs thermaffyx to protect, move patients during robotic surgeries": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "Product announcement for surgical patient-positioning equipment."
+},
 "george answers your questions: possible peace gesture in ukraine": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "opinion",
 "why": "Q&A commentary on midterms and US foreign policy."
+},
+"gepa-curator: curated learning for self improving agents": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Incremental improvement to agent prompt optimization."
 },
 "german inflation drops to 2.8% yoy in october": {
 "date": "2026-10-31",
@@ -2026,6 +2806,24 @@
 "impact": 2,
 "label": "news",
 "why": "Price update largely repeating earlier coverage."
+},
+"global tensions in geopolitics": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "General commentary on global tensions."
+},
+"global trade and growth withstood the pressure of trump's tariffs": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "General take on how trade withstood tariffs."
+},
+"glow-fm: efficient generative low-light image enhancement with one-step latent flow matching": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Narrow image enhancement paper."
 },
 "gold and silver plunge as fed rate-hike bets, inflation fears weigh on metals": {
 "date": "2026-11-01",
@@ -2069,11 +2867,35 @@
 "label": "minor",
 "why": "Gold price page; notes oil at $118 amid the Iran war."
 },
+"gold rebounds nearly 2% toward $3,960 after brutal friday slide to one-year low as fed rate-hike fears linger": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Gold bounce; adds little to earlier coverage of the slide."
+},
+"gold recovers above $3,900 as oil slips and investors await fed rate decision": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Gold and oil price moves ahead of the Fed."
+},
+"goldman hikes oil prices forecast on high supply disruption risks": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Goldman's $140 Brent upside case matters for India's import bill and inflation."
+},
 "google energy chief: space data centers cost up to 100 times more than those on earth": {
 "date": "2026-11-01",
 "impact": 3,
 "label": "news",
 "why": "A Google executive puts space data centers at up to 100x the cost of ground ones."
+},
+"google expands ai mode ads as search revenue growth slows": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "AI is shifting ad revenue from Google Search to Meta; much already covered."
 },
 "google loses $500bn in market value as ai pressures search advertising": {
 "date": "2026-10-31",
@@ -2171,6 +2993,12 @@
 "label": "news",
 "why": "Texas grant bar adds state-level penalties for H-1B employers; already covered earlier."
 },
+"h-1b visas, green cards and deportations: what us midterms mean for indians": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Midterm explainer on visa control; mostly rehash of earlier bill coverage."
+},
 "h-1b, green card work visa bill advances after testy debate": {
 "date": "2026-10-31",
 "impact": 4,
@@ -2237,11 +3065,47 @@
 "label": "opinion",
 "why": "Argues against hiking rates in response to an oil shock."
 },
+"hormuz disruption drains nearly 1bn barrels from oil stocks: adnoc": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Adnoc puts the drain on global oil stocks from Hormuz disruption near 1bn barrels."
+},
 "hormuz tanker attacks hit record, yet oil flows and brent hold firm": {
 "date": "2026-11-01",
 "impact": 3,
 "label": "news",
 "why": "Tanker attacks hit a record while oil keeps flowing, so the market impact is muted."
+},
+"how ai applications earn their premium": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "opinion",
+"why": "a16z's thinking on how AI apps keep pricing power."
+},
+"how do banking supervisors deal with failing banks?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Research on how supervisors handle bank failures."
+},
+"how does india regulate food safety? maharashtra’s plea highlights centre-state divide": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Explains the split between Centre and states over food safety regulation."
+},
+"how iran just broke the u.s. oil shield in saudi arabia yet again": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Houthi strikes on Ras Tanura expose weak defence of Gulf oil."
+},
+"how new york’s proposed law restricts ai chatbot interaction with children": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "US state rules on AI chatbots and children could affect how LLM products are designed."
 },
 "how obama appointee and trump nemesis boasberg ended up overseeing ilhan omar warrant, other key cases": {
 "date": "2026-10-31",
@@ -2249,11 +3113,23 @@
 "label": "rhetoric",
 "why": "Partisan judge-assignment framing."
 },
+"how olmo 3 earned the highest ethical rating from nextcloud": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "Self-promotional post about an ethics rating."
+},
 "how rachel reeves has mapped out the economic agenda for andy burnham’s government": {
 "date": "2026-11-01",
 "impact": 3,
 "label": "in-depth",
 "why": "UK policy direction under a new government, including a lean back toward the EU."
+},
+"how stanford built a humanoid submarine robot to explore a 17th-century shipwreck": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Interesting niche engineering project with little broader impact."
 },
 "how the midterm elections could reshape the u.s. economy": {
 "date": "2026-10-31",
@@ -2285,6 +3161,12 @@
 "label": "in-depth",
 "why": "How Iran war shapes US midterms, which affect immigration and trade policy."
 },
+"hpcl vs bpcl, iocl vs ongc: which omc stock to buy as $110/bbl crude oil price becomes a new nornal? experts' views": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Stock tips."
+},
 "humanoid developer agility now expects to raise $465m in spac deal": {
 "date": "2026-10-31",
 "impact": 3,
@@ -2296,6 +3178,12 @@
 "impact": 2,
 "label": "opinion",
 "why": "Generic humanoid economics explainer."
+},
+"hutchins center fiscal impact measure": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Routine update of the US fiscal impact tracker."
 },
 "i've been stuck on a tiny pacific island for years and can't get a transit visa to fly home": {
 "date": "2026-11-01",
@@ -2339,11 +3227,23 @@
 "label": "opinion",
 "why": "How US midterms could shift trade and immigration policy toward India."
 },
+"if trump loses control of congress, what changes for india? the big questions on trade, tariffs and h-1b...": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "How a loss of Congress could change US-India trade, tariffs and H-1B policy."
+},
 "iiww 2026: india and netherlands sign two mous to advance kalpasar water project": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "minor",
 "why": "Water project MoUs, narrow."
+},
+"ikea among shops affected by fridge cyber-hacks – europe live": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Live blog; fridge hacks across European retailers are a minor detail."
 },
 "illegal immigrant charged with impersonating cia official using scam agency": {
 "date": "2026-10-31",
@@ -2357,6 +3257,18 @@
 "label": "minor",
 "why": "A schedule listing."
 },
+"imf executive board calendar archive": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Archive page, no news."
+},
+"imf staff completes the 2026 article iv consultation and reaches staff-level agreement with honduras on the sixth review of the extended credit facility and ext": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Routine IMF review for Honduras."
+},
 "immigration and the future of america: the choice between open borders and national sovereignty": {
 "date": "2026-10-31",
 "impact": 1,
@@ -2369,11 +3281,23 @@
 "label": "minor",
 "why": "Data portal page, not news."
 },
+"import ai 479: spacewar; low-latency tasks versus llms; genie 4": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Curated research roundup that includes Genie 4 world models."
+},
 "in focus | beijing has made hong kong a lab for digital yuan. will the experiment work?": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "in-depth",
 "why": "Digital yuan in Hong Kong; covered already yesterday."
+},
+"in poland, the 'coalition of the willing' holds first large-scale military exercise": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "First large Coalition of the Willing exercise; European defence building up."
 },
 "in ‘public impeachment’ of gyanesh kumar, india bloc accuses cec of ‘conspiring to steal votes’": {
 "date": "2026-11-01",
@@ -2405,6 +3329,18 @@
 "label": "in-depth",
 "why": "Context on India-ASEAN maritime cooperation ahead of Modi's Manila summits."
 },
+"india and azerbaijan: is a new chapter in bilateral relations beginning? – expert opinions": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Expert speculation on a possible India-Azerbaijan thaw."
+},
+"india and eu iron out customs issues ahead of landmark december fta signing ceremony": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Confirms a December signing for the landmark India-EU FTA."
+},
 "india and mexico launch negotiations for preferential trade agreement, sign terms of reference": {
 "date": "2026-10-31",
 "impact": 3,
@@ -2423,6 +3359,12 @@
 "label": "minor",
 "why": "Routine army staff talks with Myanmar."
 },
+"india and myanmar hold 8th army staff talks in naypyidaw to enhance bilateral defence cooperation and training": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Routine army staff talks with Myanmar."
+},
 "india and tanzania deepen defence ties through army staff talks": {
 "date": "2026-10-31",
 "impact": 2,
@@ -2434,6 +3376,12 @@
 "impact": 3,
 "label": "news",
 "why": "US credits India and Turkey with ideas for moving grain through the Black Sea."
+},
+"india bloc marches together from delhi's ramlila maidan in display of force against cec": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Opposition march against the Chief Election Commissioner, with possible legal action."
 },
 "india bloc rally ends peacefully in delhi; opposition leaders reiterate demand for cec’s resignation": {
 "date": "2026-11-01",
@@ -2470,6 +3418,18 @@
 "impact": 2,
 "label": "news",
 "why": "Critical minerals cooperation with Uzbekistan; incremental."
+},
+"india-eu fta rollout in focus as both sides discuss customs reforms, market access in brussels": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Customs and market-access talks show the India-EU FTA is getting close to implementation."
+},
+"india-eu fta: will european cars, wines and luxury goods become cheaper in india?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Consumer-level explainer on FTA tariff cuts for cars, wine and luxury goods."
 },
 "india-us trade agreement in final stages, but challenges remain, jaishankar says": {
 "date": "2026-10-31",
@@ -2512,6 +3472,12 @@
 "impact": 3,
 "label": "news",
 "why": "Signals PERM green card disruption at tech companies that sponsor Indian workers."
+},
+"indians account for 91% of u.s. eb-2 green card backlog": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Shows Indians make up 91% of the EB-2 backlog, the scale of green card delays."
 },
 "indiaspora warns proposed h-1b restrictions could hurt us economy": {
 "date": "2026-11-01",
@@ -2585,11 +3551,23 @@
 "label": "minor",
 "why": "Incremental diffusion distillation paper."
 },
+"introducing the grid protectors program": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "OpenAI is tackling data center grid strain and power costs, a constraint on AI scaling."
+},
 "iran oil output at three fields with zn vostok exceeds target by 7,000 bpd": {
 "date": "2026-11-01",
 "impact": 1,
 "label": "minor",
 "why": "Small field-level output detail."
+},
+"iran reconsiders its own ban on nuclear weapons": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Iran rethinking its nuclear-weapons ban would sharply raise proliferation risk."
 },
 "iran says hormuz could reopen two days after the us meets its terms. brent closed at $117.64": {
 "date": "2026-11-01",
@@ -2609,11 +3587,23 @@
 "label": "news",
 "why": "Iran escalation threat raises Gulf oil supply risk, relevant to India energy costs."
 },
+"iran vows ‘no limits’ war as trump threatens pickaxe mountain strikes": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Iran escalates threats as Trump weighs strikes; affects war-risk premium on oil."
+},
 "iran war live: 4 tankers hit in hormuz; trump says conflict will end soon": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "rhetoric",
 "why": "Trump claims the war ends 'soon', with no policy decision behind it."
+},
+"iran war live: vance sees ‘progress’, tehran says ‘ball is in us court’": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Iran demands the US lift its naval blockade before any deal."
 },
 "iran's army warns any new us attack would spread war wider": {
 "date": "2026-10-31",
@@ -2633,17 +3623,35 @@
 "label": "news",
 "why": "Repeat of Khamenei response vow already covered."
 },
+"iranian ‘ghost fleet’ filmed evading us blockade en route to china, uani says": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "An Iranian tanker evading the US blockade shows its limits."
+},
 "iran’s hidden web of military agencies is slipping hardware past the us blockade": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "in-depth",
 "why": "Report that Iran's military agencies are evading the US blockade."
 },
+"iran’s war against america began in 1979": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "opinion",
+"why": "Historical polemic."
+},
 "iraq to keep oil output unchanged in december 2026": {
 "date": "2026-11-01",
 "impact": 4,
 "label": "news",
 "why": "OPEC+ holds supply amid Gulf shipping threats; directly shapes oil prices and India's import bill."
+},
+"iraq's oil exports via turkey surge to 500,000 bpd": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Higher Iraq–Turkey pipeline flows add supply while the war disrupts other routes."
 },
 "ireland: short stay visa waiver programme extended": {
 "date": "2026-10-31",
@@ -2662,6 +3670,12 @@
 "impact": 1,
 "label": "promo",
 "why": "ETF chart page, SEO filler."
+},
+"israel election 2026": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Israel's 2026 election affects Middle East geopolitics."
 },
 "israel election deadlocked after two days": {
 "date": "2026-10-31",
@@ -2687,11 +3701,23 @@
 "label": "opinion",
 "why": "Speculative take on Israeli coalition arithmetic."
 },
+"israel’s new idf space division marks major shift in military strategy after iran war": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Israel sets up an IDF space division; narrow military-structure change."
+},
 "isro's successful launch of nvs-03 paves way for revival of india's indigenous navigation system": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "news",
 "why": "Adds to India's own NavIC satellite navigation system; already covered."
+},
+"it’s contract renewal season, but some customers aren’t biting": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "in-depth",
+"why": "Enterprises pushing back on model-vendor contract renewals is a direct signal on AI revenue durability."
 },
 "jackdaw approval sparks fierce debate over britain's energy future": {
 "date": "2026-10-31",
@@ -2704,6 +3730,12 @@
 "impact": 2,
 "label": "news",
 "why": "Same G20 remarks again."
+},
+"jaishankar briefs us consuls as doval deepens india-vietnam security ties": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Routine review of US ties with consuls; the Doval part repeats #37."
 },
 "jaishankar concludes bhutan visit, india, bhutan review wide-ranging bilateral ties": {
 "date": "2026-11-01",
@@ -2801,6 +3833,12 @@
 "label": "rhetoric",
 "why": "Clarification of political remarks."
 },
+"kerala man's suicide bid triggers 7-car crash. he survives but now faces law": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "A local accident."
+},
 "keralam chief minister calls for protecting vembanad lake system": {
 "date": "2026-10-31",
 "impact": 1,
@@ -2813,11 +3851,29 @@
 "label": "rhetoric",
 "why": "Single lawmaker's position on war funding; no decision."
 },
+"kharge pledges to give uttarakhand accountable govt as he chairs poll strategy meeting": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Campaign pledge in Uttarakhand."
+},
 "kherson braces for return of war as localised russia-ukraine truce ends": {
 "date": "2026-11-01",
 "impact": 2,
 "label": "news",
 "why": "Duplicate of Kherson truce ending coverage."
+},
+"kuwait lifts october oil output to highest since start of iran war, source says": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Kuwait at its highest output since the Iran war began, adding supply."
+},
+"kuwait turns up the volume on oil production despite hormuz threats": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Kuwait output rise, duplicates other coverage."
 },
 "l3g-world: real-time infinite world generation with latent 3d gaussian memory": {
 "date": "2026-10-31",
@@ -2836,6 +3892,12 @@
 "impact": 1,
 "label": "minor",
 "why": "Halloween listicle."
+},
+"latent reasoning in continuous space for unified multimodal models": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Incremental paper on multimodal reasoning."
 },
 "lavrov denies kyiv independent reporting on russian push for putin-zelensky phone call": {
 "date": "2026-10-31",
@@ -2861,11 +3923,29 @@
 "label": "in-depth",
 "why": "Bill restructuring the Indian Statistical Institute (ISI); affects statistics and research autonomy."
 },
+"lenders in no rush to raise loan rates after rbi’s 25 bps rate hike, say bankers": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Shows how slowly RBI's 25bp hike is reaching Indian loan rates."
+},
 "liberal court delivers immigration win for trump as judge warns of ‘floodgates’ if law firm succeeded": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "news",
 "why": "Diversity visa lottery pause survives a standing challenge; small relevance for Indians."
+},
+"liquidity against collateral - the swiss national bank’s approach": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Niche explainer on the SNB's collateral framework."
+},
+"lite-on reports record third-quarter profit as ai revenue exceeds 30%": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Supplier earnings."
 },
 "litigants will not be entitled to refund of court fees if disputes get settled out of court after commencement of trial, rules madras high court": {
 "date": "2026-11-01",
@@ -2879,11 +3959,29 @@
 "label": "in-depth",
 "why": "Data on LLM use in biology research."
 },
+"lok sabha speaker birla calls dissent essential to democracy": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Ceremonial speech by the Lok Sabha Speaker."
+},
 "lok sabha speaker emphasises the need for mutual respect even amid differences of opinion in a democracy": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "rhetoric",
 "why": "Generic speech, no decision."
+},
+"london stock exchange": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Off-topic."
+},
+"long island restaurants are losing workers and customers amid deportation crackdown": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Local business effects of deportations."
 },
 "look only when needed: certificate-guided visual routing for efficient diffusion vlms": {
 "date": "2026-10-31",
@@ -2915,6 +4013,12 @@
 "label": "news",
 "why": "OpenAI adopts shared robots.txt AI training opt-out signal."
 },
+"making kubernetes ai-ready for nvidia vera rubin on day one": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "Vendor how-to for Kubernetes setup."
+},
 "malaysia raises unsubsidised petrol, diesel rates amid rising global oil prices, money news": {
 "date": "2026-10-31",
 "impact": 2,
@@ -2926,6 +4030,18 @@
 "impact": 3,
 "label": "opinion",
 "why": "Pakistan-Maldives alignment affects India's neighbourhood influence in Indian Ocean."
+},
+"maldives opposition figure, former foreign minister abdulla shahid arrested": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Arresting a Maldives opposition figure signals political instability in India's neighbourhood."
+},
+"managed agent reference deployment": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Qwen agent deployment reference; technical docs."
 },
 "market wrap: oil prices inched higher slightly in 5 days": {
 "date": "2026-10-31",
@@ -2957,6 +4073,12 @@
 "label": "minor",
 "why": "Realignment in Meghalaya's coalition politics."
 },
+"meghalaya: paul lyngdoh returns as minister; metbah quits cabinet after udp collapse": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Meghalaya cabinet reshuffle after a regional party collapsed."
+},
 "meta allegedly created a humanoid robot with fourier — channel newsasia": {
 "date": "2026-10-31",
 "impact": 4,
@@ -2968,6 +4090,30 @@
 "impact": 3,
 "label": "news",
 "why": "Meta reportedly built a home-chores humanoid prototype with Fourier; follows earlier reports."
+},
+"meta builds humanoid prototype in three months to explore home tasks": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Already covered; Meta building humanoids with a Chinese partner."
+},
+"meta business agent: ai customer support | ai at meta": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "promo",
+"why": "Meta's AI business agent product page; relevant to AI in ads and commerce."
+},
+"mexico: online immigration appointment system expanded to additional application types": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Mexico appointment system change."
+},
+"michigan senate candidate breaks with trump over canada tariffs": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "rhetoric",
+"why": "Midterm campaign framing of tariffs; no policy change."
 },
 "microsoft reaps the benefits of protecting its aaa credit rating": {
 "date": "2026-10-31",
@@ -2992,6 +4138,30 @@
 "impact": 3,
 "label": "news",
 "why": "Oil keeps rising on Gulf vessel attacks; incremental update to the earlier $115 move."
+},
+"middle east war: oil prices remain elevated amid repeated vessel attacks": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Repeat of market coverage."
+},
+"midterm elections could shake ai, debt ceiling and corporate oversight, investors warn": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Speculative investor views on what the midterms mean."
+},
+"migration is a moral issue for burnham – but is he trying to please everyone?": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "opinion",
+"why": "UK political commentary."
+},
+"minister review, cabinet rejig: what are nc's 18 disgruntled mlas demanding from omar abdullah?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Dissent inside J&K's ruling party."
 },
 "ministry of ayush disposes of 309 public grievances, conducts 220 cleanliness drives under special campaign 6.0": {
 "date": "2026-10-31",
@@ -3107,17 +4277,53 @@
 "label": "in-depth",
 "why": "BIS view on policy amid geopolitics and AI disruption."
 },
+"more money, fewer checks: these 3 charts show the divide behind vc’s record funding year": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Data shows VC money concentrating in huge AI rounds while early-stage deals fall."
+},
+"muscle coordination can be mimicked by electric motors – it could lead to improved robots": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Early research on actuator coordination; far from application."
+},
+"musk warned america will go 1,000% bankrupt. now u.s. debt tops $40 trillion and counting": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Advocacy piece about the debt milestone."
+},
 "nadda terms india bloc rally against cec a ‘foolish and designed drama’": {
 "date": "2026-11-01",
 "impact": 1,
 "label": "rhetoric",
 "why": "Party barbs."
 },
+"navy intercepts russian spy ship off scotland": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Routine tracking of a Russian spy ship near NATO drills."
+},
+"ncp leaders take grievances to amit shah. his ‘pull up socks’ response": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "news",
+"why": "Repeats the NCP grievances story."
+},
 "nepal pm balendra shah likely to visit india in late november; foreign secretary vikram misri to prepare grounds": {
 "date": "2026-11-01",
 "impact": 3,
 "label": "news",
 "why": "First India visit by Nepal's new PM would reset ties with a key neighbour."
+},
+"new executive order and perm suspensions tie h-1b and green card sponsorship to layoff history: what employers should know": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "in-depth",
+"why": "New executive order links H-1B and green card sponsorship to employer layoffs, directly affecting Indian workers."
 },
 "new founder archetypes in the ai age": {
 "date": "2026-10-31",
@@ -3130,6 +4336,18 @@
 "impact": 4,
 "label": "in-depth",
 "why": "Epoch data: global AI compute doubling every nine months, key scaling trend."
+},
+"new surveillance footage shows ice confrontation in nyc street before shooting": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Single incident footage."
+},
+"next-day securities settlement, tokenisation and the transformation of europe’s financial infrastructure": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "ECB official lays out EU plans for tokenised settlement infrastructure."
 },
 "ninth circuit stays district court order, leaving fy 2027 diversity visa lottery program halted while litigation continues": {
 "date": "2026-10-31",
@@ -3161,6 +4379,12 @@
 "label": "minor",
 "why": "Routine legal empanelment notice."
 },
+"no channels left behind: understanding diffusion acceleration through residual gates": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Paper on why diffusion training speeds up."
+},
 "nomura pours cold water: midterms won't save tech stocks—only a fed rate-hike pause is the real fix": {
 "date": "2026-11-01",
 "impact": 1,
@@ -3179,11 +4403,23 @@
 "label": "news",
 "why": "North Korean weapons test adds peninsula tension."
 },
+"not ‘necessary’ for nicobar tribal leaders to join plea on fra: ministry of tribal affairs to court": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Court case over tribal consent could shape the strategic Great Nicobar project."
+},
 "november 1 rally showdown: is public support shifting towards the election commission? | munatrics": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "rhetoric",
 "why": "Opposition rally rhetoric against Election Commission."
+},
+"november 2026 visa bulletin: continuing use of the dates for filing charts for adjustment of status": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "November Visa Bulletin filing dates decide green card timing for Indians."
 },
 "november bank holidays 2026: complete state-wise list of bank closures, festivals and long weekends from diwali to chhath puja — check rbi holiday list for sbi,": {
 "date": "2026-10-31",
@@ -3239,17 +4475,35 @@
 "label": "news",
 "why": "Routine ECB survey of bank lending in the euro area."
 },
+"oies podcast - the us midterm elections, the iran war and the outlook for global oil markets": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "Podcast listing."
+},
 "oil context weekly (w44)": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "in-depth",
 "why": "Futures spreads show tightness easing, while escalation risk around the midterms remains."
 },
+"oil declines ahead of midterm elections despite hormuz attacks": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Daily oil price move."
+},
 "oil flows are up as iran war turmoil eases. why do prices keep rising?": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "in-depth",
 "why": "Explains why prices rise despite flows recovering from Iran war."
+},
+"oil futures sell off on middle east diplomatic progress": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Repeats the oil-falls story."
 },
 "oil hits six-month highs as hormuz attacks threaten iran peace efforts": {
 "date": "2026-10-31",
@@ -3275,6 +4529,18 @@
 "label": "news",
 "why": "Trump weighing fresh Iran strikes as crude nears $120."
 },
+"oil prices decline after draft of iran peace agreement circulates": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "A circulating draft of an Iran peace deal could end the war's hit to oil."
+},
+"oil prices fall as iran talks shift market mood, though risks remain": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Duplicate story on prices falling."
+},
 "oil prices head for fourth consecutive monthly gain amid hormuz supply risks": {
 "date": "2026-10-31",
 "impact": 4,
@@ -3286,6 +4552,12 @@
 "impact": 2,
 "label": "news",
 "why": "Shipping attacks lifting oil; repeats other reports."
+},
+"oil prices no longer follow headlines": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Generic commentary on how oil prices are moving."
 },
 "oil prices set for sharp monthly rise on hormuz strikes and us threat to hit iran": {
 "date": "2026-10-31",
@@ -3299,11 +4571,35 @@
 "label": "news",
 "why": "Possible post-midterm US Iran strikes threaten further oil spikes."
 },
+"oil slides on hormuz deal hopes but trump keeps iran strikes on the table": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Repeats the oil-falls story."
+},
 "oil traders brace for a wild week as brent approaches $120": {
 "date": "2026-10-31",
 "impact": 4,
 "label": "in-depth",
 "why": "Risk of renewed US–Iran hostilities with Brent near $120."
+},
+"oklahoma-led sweep across 15 states results in 230 immigration arrests": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Regional enforcement sweep."
+},
+"omen ai adds liquid know-how in $16 million aquatic labs acquisition": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Small data center water deal."
+},
+"on the origin and evolution of training-inference mismatch in llm reinforcement learning": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Studies the training-inference mismatch that undermines LLM RL in practice."
 },
 "on the role and effectiveness of fiscal rules and independent fiscal councils": {
 "date": "2026-10-31",
@@ -3353,6 +4649,12 @@
 "label": "news",
 "why": "OPEC+ holding output despite $115 oil keeps supply tight."
 },
+"opec+ quota reset could cap 2027 oil supply & reprice non-opec producers": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Analysis of how an OPEC+ quota reset could cap 2027 supply."
+},
 "opec+ set to stick with plan for steady quotas, delegates say": {
 "date": "2026-11-01",
 "impact": 3,
@@ -3365,17 +4667,35 @@
 "label": "in-depth",
 "why": "Practical guide to using cheaper open-weight models without hosting them."
 },
+"openai appoints dan driscoll as senior counselor for national security modernization": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Hiring that deepens OpenAI's national security ties."
+},
 "openai cuts funding target by $10 billion: ft": {
 "date": "2026-10-31",
 "impact": 4,
 "label": "news",
 "why": "OpenAI raising under target suggests cooling investor appetite for frontier labs."
 },
+"openai hires ex-army secretary as senior advisor": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "OpenAI is pushing further into defence work through an ex-Army Secretary hire."
+},
 "openai lowers fundraising target–after decreasing possible valuation": {
 "date": "2026-10-31",
 "impact": 4,
 "label": "news",
 "why": "OpenAI cutting raise target and valuation signals cooling investor appetite for frontier labs."
+},
+"openai pitches data center power plants as a way to protect nearby areas": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "OpenAI's own power generation at data centers points to energy limits on scaling AI compute."
 },
 "opentrons raises $40 million to expand ai-powered lab automation": {
 "date": "2026-10-31",
@@ -3413,11 +4733,23 @@
 "label": "in-depth",
 "why": "IMF tax reform options for Asia-Pacific, relevant to India fiscal policy."
 },
+"oracle launches $20 billion in stock and bond sales": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "$20B raise shows how heavily AI infrastructure is being financed with debt and stock."
+},
 "orissa hc issues notice to bjd mlas over alleged cross-voting in rajya sabha polls": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "minor",
 "why": "State court notice on cross-voting."
+},
+"outlook for economic activity and prices (october 2026, full text)": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Full text of an outlook already summarised earlier."
 },
 "panic bank run": {
 "date": "2026-10-31",
@@ -3455,6 +4787,12 @@
 "label": "rhetoric",
 "why": "Pundit criticism rehashing earlier coverage."
 },
+"petronet lng reports 52.3% growth in net profits, in talks for availing undelivered cargoes": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "LNG importer earnings with a minor angle on gas supply."
+},
 "ph national debt hits record-high p19.66 trillion in september — btr": {
 "date": "2026-11-01",
 "impact": 1,
@@ -3491,6 +4829,12 @@
 "label": "news",
 "why": "Modi-Xi review and BRICS presidency handover to China shape bloc direction."
 },
+"pm modi highlights india’s readiness to host brics 2026 summit": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "India's BRICS hosting is relevant to payment rails, but this mostly repeats earlier coverage."
+},
 "pm modi holds roadshow in gujarat during two-day state visit": {
 "date": "2026-10-31",
 "impact": 2,
@@ -3514,6 +4858,12 @@
 "impact": 2,
 "label": "news",
 "why": "Announcement of a renewable energy summit."
+},
+"pm modi to meet niti aayog leadership on nov 5": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "First PM meeting with NITI's new leadership could shape the policy agenda."
 },
 "pm modi unveils rs 14,000 crore projects in gujarat, vows to serve people till his last breath": {
 "date": "2026-10-31",
@@ -3551,6 +4901,12 @@
 "label": "news",
 "why": "Polish constitutional crisis escalating, with stakes for EU rule-of-law politics."
 },
+"policy roundup: rbi rate hike, construction pollution, agrivoltaics": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Roundup of Indian policy, including the RBI hike; mostly recap."
+},
 "pope leo casts early midterms vote in illinois: 'this is a revolution'": {
 "date": "2026-10-31",
 "impact": 1,
@@ -3569,11 +4925,29 @@
 "label": "minor",
 "why": "Routine SGB redemption price notice."
 },
+"president muizzu’s pakistan visit tests the maldives’ fragile thaw with india": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Maldives-Pakistan defence MoUs could affect India's security position in the Indian Ocean."
+},
 "press briefing by julie kozack, director, communications department, imf": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "news",
 "why": "Transcript of an IMF briefing already covered."
+},
+"probing spatial state representations in visual foundation models": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Probing study of visual models."
+},
+"processing of applications received under the citizen’s charter status as on october 31, 2026": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Routine administrative statistics."
 },
 "programme manager - network for advanced study of law enforcement and policing (nas-lep)": {
 "date": "2026-10-31",
@@ -3581,11 +4955,41 @@
 "label": "minor",
 "why": "Job listing."
 },
+"project 2025: america after the blueprint. before the ballot.": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Partisan retrospective on Project 2025."
+},
+"proposed us immigration rule could disproportionately affect indian h-1b workers": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Duplicate of the H-1B extension rule story."
+},
+"protesters stage ‘die-in’ outside wenatchee ice office to honor those who died in immigration custody": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Local protest."
+},
 "proving and improving the platonic representation hypothesis with jepas": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "in-depth",
 "why": "Theoretical result on representation convergence via JEPAs."
+},
+"psychological warfare: iran, us and israel show off war damage, trade nuclear warnings amid possible renewal of strikes": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "rhetoric",
+"why": "Posturing and nuclear warnings, no decisions."
+},
+"pune woman dies by suicide. relatives damage father-in-law's banquet hall": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Local crime story with no policy relevance."
 },
 "punjab cabinet approves 35 special ndps courts to clear drug case backlog": {
 "date": "2026-11-01",
@@ -3611,6 +5015,12 @@
 "label": "minor",
 "why": "Defections ahead of the Punjab polls."
 },
+"putin is “ready for war”: is europe ready?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Think-tank piece on European readiness."
+},
 "putin: i will pick up the phone if zelensky calls": {
 "date": "2026-11-01",
 "impact": 2,
@@ -3634,6 +5044,12 @@
 "impact": 4,
 "label": "news",
 "why": "Qatari mediation in Tehran could reopen direct US-Iran talks, the key to de-escalation."
+},
+"qodo builds context into ai code review with codex": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "Customer story marketing Codex."
 },
 "quad building reliable, open supply chains and securing critical minerals, says marco rubio": {
 "date": "2026-11-01",
@@ -3683,6 +5099,12 @@
 "label": "minor",
 "why": "Operational schedule."
 },
+"queues at chennai tasmac shops over rs 10 bottle deposit reform": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Local liquor-shop queues."
+},
 "quoting kyle kingsbury": {
 "date": "2026-11-01",
 "impact": 2,
@@ -3701,17 +5123,53 @@
 "label": "promo",
 "why": "Product changelog."
 },
+"r^2orch: recursive self-improvement for agent orchestration via self-play within a skill-internalization loop": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Incremental agent orchestration paper."
+},
+"rahul gandhi acting as a ‘toolkit’ for foreign forces says nitin nabin": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Partisan attack on Rahul Gandhi."
+},
+"raising h-1b visa fees and preparing to revoke 200,000 visas: will the us lose more than it gains?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Secondary commentary on H-1B fees and visa revocations."
+},
 "rajnath singh cites op sindoor, proposes ‘india-asean youth bridge’ in admm-plus": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "news",
 "why": "India's defence outreach to ASEAN at the regional defence ministers' meeting, tied to Op Sindoor messaging."
 },
+"rajya sabha mp kapil sibal claims 5-6 lakh attended india bloc's 'vote chori' rally": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Disputed claim about rally crowd size."
+},
+"ram lila 'vote chori' rally is congress template for lok sabha 2029 polls": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "opinion",
+"why": "Election punditry about Congress's 2029 strategy."
+},
 "rates spark: hikes coming, but bond yields choosing to fall": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "in-depth",
 "why": "Rates market view: bond yields are falling even as central banks signal hikes."
+},
+"rba interest rates live: reserve bank of australia meeting today before cash rate decision and announcement – latest news": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "An expected fifth RBA hike, to an 18-year high, signals global tightening."
 },
 "rbi rate hike alert: home, car and personal loan emis may increase, research report revealed": {
 "date": "2026-11-01",
@@ -3725,11 +5183,23 @@
 "label": "news",
 "why": "Weekly roundup of the biggest funding rounds, led by physical AI."
 },
+"rea: a routed embodied agent runtime for asynchronous brain-cerebellum control": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Embodied agent runtime paper."
+},
 "read, allocate, route: role-coupled tokenization for pixel-space generative transformers": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "minor",
 "why": "Tokenization tweak for pixel generation."
+},
+"readout: secretary of the treasury scott bessent’s meeting with venezuelan foreign minister oliver blanco": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Treasury talks with Venezuela point to possible sanctions or oil changes."
 },
 "real gdp growth": {
 "date": "2026-10-31",
@@ -3743,6 +5213,12 @@
 "label": "news",
 "why": "Chipmaker AI revenue target; narrow."
 },
+"rebooting india’s technology diplomacy": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Policy analysis of India's tech diplomacy, which matters to someone working in AI."
+},
 "reddit is going logged-in only. blame google ai overviews.": {
 "date": "2026-10-31",
 "impact": 3,
@@ -3755,6 +5231,24 @@
 "label": "opinion",
 "why": "Critique of credibility of India's latest reform push."
 },
+"reigniting war with iran would be a ‘huge gamble’": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Analysis of US military readiness limits for a renewed Iran war."
+},
+"reliance earnings, lower oil prices power india's sensex to near two-month high": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Daily Indian market move."
+},
+"relift: dense 3d tracking as lifted trajectory repair": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Narrow 3D tracking paper."
+},
 "remarks by eam dr. s jaishankar at the chinmaya amrit mahotsav global sammelan on un day": {
 "date": "2026-10-31",
 "impact": 1,
@@ -3766,6 +5260,12 @@
 "impact": 3,
 "label": "news",
 "why": "A Fed official's direct read on the US economy and the policy path."
+},
+"repo is the new dollar safe asset": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Argues repo is now the dollar safe asset; relevant to dollar-system plumbing."
 },
 "results m2 graded lab deleted/missing": {
 "date": "2026-10-31",
@@ -3809,17 +5309,35 @@
 "label": "minor",
 "why": "Dispute over a party switch in a state legislature."
 },
+"rld leader projects jayant chaudhary as nda's face for 2027 up polls": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Party positioning for the 2027 UP polls."
+},
 "robobusiness 2026 recap": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "promo",
 "why": "Event recap podcast."
 },
+"robotics startup tutor intelligence nabs $75m investment": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "$75M round for a warehouse robotics startup shows investor appetite for physical AI."
+},
 "rubio casts doubts on quick deal to end war in ukraine, defends russian contacts": {
 "date": "2026-11-01",
 "impact": 3,
 "label": "news",
 "why": "Rubio doubts on Ukraine deal signal prolonged war."
+},
+"rubio said trump wants to end the iran war 'peacefully.' oil prices are plunging.": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Rubio's signal that Trump wants a peaceful end to the Iran war."
 },
 "rubio says us yet to decide on new iran strikes": {
 "date": "2026-10-31",
@@ -3850,6 +5368,12 @@
 "impact": 2,
 "label": "minor",
 "why": "Russia-Africa summit podcast listing."
+},
+"russia plotting 'massive strike' during midterms, zelenskyy warns, urges us to stop putin": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "rhetoric",
+"why": "Zelenskyy warning with no new decision behind it."
 },
 "russia says 'massive' drone attack targeted 'industrial enterprise' amid reports oil refinery hit": {
 "date": "2026-11-01",
@@ -3893,6 +5417,12 @@
 "label": "news",
 "why": "S&P flags Meta's limited AI monetization; credit pressure on hyperscaler capex."
 },
+"s. jaishankar highlights supply chain resilience, diversification and de-politicisation of markets at g20 summit in atlanta": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "India's G20 position on supply chains and de-politicised markets."
+},
 "sam altman says it’s better for ram to be in a data center than on your desk": {
 "date": "2026-10-31",
 "impact": 1,
@@ -3934,6 +5464,12 @@
 "impact": 2,
 "label": "opinion",
 "why": "Data misuse fears; speculative."
+},
+"scigame: let agents play the scientific discovery games in the real and counterfactual world": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Benchmark for scientific-discovery agents."
 },
 "scott bessent says stablecoins could strengthen us dollar dominance and treasury demand": {
 "date": "2026-10-31",
@@ -3977,6 +5513,12 @@
 "label": "minor",
 "why": "Routine Japanese services price data release."
 },
+"shabana mahmood softens immigration plans in face of cabinet backlash": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "UK settlement policy change for care workers; peripheral to the reader."
+},
 "shah pledges ucc in uttar pradesh if bjp wins 2027 assembly polls": {
 "date": "2026-10-31",
 "impact": 2,
@@ -3989,17 +5531,35 @@
 "label": "minor",
 "why": "Local agitation."
 },
+"shri inbasekar sundaramurthi appointed as the next ambassador of india to the republic of senegal": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "A routine ambassador appointment."
+},
 "sinopec third-quarter profit rises 64% on higher oil prices - news and statistics": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "news",
 "why": "Already reported; shows refiners profiting from high crude."
 },
+"skål india and belarus sign tourism cooperation mou": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "A tourism-industry MoU between private bodies."
+},
 "slow recovery: on the isro’s gslv-f18 mission": {
 "date": "2026-11-01",
 "impact": 3,
 "label": "opinion",
 "why": "Editorial on ISRO's slow recovery and its shortage of people and resources."
+},
+"smugglers attack 3 bsf jawans in tripura, chief minister vows strict action": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Security incident on the Tripura border."
 },
 "so-101 bench: accessible spatial manipulation": {
 "date": "2026-10-31",
@@ -4019,11 +5579,23 @@
 "label": "minor",
 "why": "Single ICE detention case."
 },
+"sources of changes in current account balances and market operations (oct.)": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Routine operations data."
+},
 "south florida man detained by ice, husband fears deportation": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "minor",
 "why": "Individual ICE detention case; no policy change."
+},
+"speeding up planning decisions with ai": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Government AI deployment in UK planning; limited reach."
 },
 "stablecoin news: dollar stablecoins emerge as tool to preserve u.s. reserve currency status": {
 "date": "2026-10-31",
@@ -4073,17 +5645,47 @@
 "label": "news",
 "why": "Court denies a stay as agencies appeal the vacatur of the H-1B fee policy, directly affecting Indian workers."
 },
+"steel policy for 2047 needs to shift focus — from protection to competition": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "opinion",
+"why": "Argues India's steel policy should rely on competition rather than tariff protection."
+},
+"sterling drifts as boe rate decision comes into focus": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Preview ahead of the BoE decision."
+},
 "sterling gains as budget clears and bank of england rate hike bets build": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "news",
 "why": "UK budget passes and BoE hike bets build."
 },
+"stimulus addiction has led european economies into stagnation": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Opinion piece on European fiscal stimulus."
+},
+"sting operation probe lands at kumaraswamy’s doorstep as union minister’s aide is now main suspect": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Karnataka politicians trading accusations over a sting operation."
+},
 "stock markets trade marginally higher after us fed rate hike; nse ipo in focus": {
 "date": "2026-11-01",
 "impact": 2,
 "label": "news",
 "why": "Daily market wrap."
+},
+"strait of hormuz shipping risks complicate crude oil outlook": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Generic piece on Hormuz shipping risk."
 },
 "strategic diplomacy: inside jaishankar & rubio’s second meeting": {
 "date": "2026-10-31",
@@ -4102,6 +5704,12 @@
 "impact": 2,
 "label": "news",
 "why": "Mid-size round for AI expert-profile network; niche."
+},
+"support new ai frameworks faster using nvidia workload map": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "Nvidia platform marketing."
 },
 "supreme court asks centre to take measures against online misuse of court feeds": {
 "date": "2026-10-31",
@@ -4175,17 +5783,65 @@
 "label": "news",
 "why": "Swiss reopening Pyongyang channel adds rare diplomatic route on Korean peninsula."
 },
+"t.n.’s gst collection over past six months raises serious questions about its economy: annamalai": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "A politician's attack on state GST figures."
+},
 "taiwan accuses china of harassment after sea standoff": {
 "date": "2026-11-01",
 "impact": 3,
 "label": "news",
 "why": "China-Taiwan coast guard friction; ongoing flashpoint signal."
 },
+"taiwan and japan eye trade deal akin to taipei-london pact, sources say": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "A possible Japan-Taiwan trade pact carries geopolitical weight with China."
+},
+"taking stock of the trump administration’s victories": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "opinion",
+"why": "Partisan victory lap."
+},
+"talarico campaigns alongside democrat who called ice 'new kkk' and demanded its abolition": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Campaign point-scoring."
+},
+"tamil in hc: mhaa challenges 1965 union cabinet committee decision": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "A language petition in the High Court."
+},
+"tamil nadu can lead in expenditure reform": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Commentary on state expenditure reform."
+},
 "targeting h-1b holders poses economic risks to us: indiaspora": {
 "date": "2026-11-01",
 "impact": 1,
 "label": "news",
 "why": "Third rewrite of Indiaspora statement."
+},
+"targeting h-1b holders poses severe economic risks to us: indiaspora": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Diaspora group advocacy on H-1B economic risks."
+},
+"tariffs for factories: can india’s efta model travel?": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Looks at whether the India-EFTA investment-linked tariff model could work in other trade deals."
 },
 "taxes and high oil prices are set to spur more uk energy deals": {
 "date": "2026-10-31",
@@ -4205,6 +5861,12 @@
 "label": "news",
 "why": "TRAI proposes mandatory AI incident reporting, a possible start to Indian AI regulation."
 },
+"terraform init fails in c1_w4": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "A course forum troubleshooting post."
+},
 "texas voters weigh immigration policy as they head to the polls": {
 "date": "2026-11-01",
 "impact": 1,
@@ -4216,6 +5878,12 @@
 "impact": 2,
 "label": "opinion",
 "why": "Opinion on South Africa's trade position under AGOA."
+},
+"the ai paradox: how meta's ad business is benefiting from artificial intelligence, but google is suffering": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Rehashes the Meta vs Google ad story."
 },
 "the boom before the bust: from the roaring twenties to the great depression": {
 "date": "2026-10-31",
@@ -4241,6 +5909,12 @@
 "label": "minor",
 "why": "Narrow US tax-credit guidance."
 },
+"the four questions of ai": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "opinion",
+"why": "A VC's framework for the unresolved economics at each layer of the AI stack."
+},
 "the gambia: imf staff reaches staff-level agreement on the sixth review under the extended credit facility and the third review under the resilience and sustain": {
 "date": "2026-10-31",
 "impact": 1,
@@ -4252,6 +5926,18 @@
 "impact": 3,
 "label": "opinion",
 "why": "Gulf energy infrastructure may not withstand another round of fighting, an oil supply risk."
+},
+"the herthafication of the german economy continues as growth streak extends": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Commentary on German growth."
+},
+"the history of u.s. national debt under every president since 1901": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Listicle of historical debt."
 },
 "the ipcc’s role is larger than informing one global stocktake: climate policy experts": {
 "date": "2026-10-31",
@@ -4265,17 +5951,47 @@
 "label": "opinion",
 "why": "Advocacy opinion on Iran policy."
 },
+"the limits of china’s self-sufficiency": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Argues China's food insecurity could deter a war over Taiwan."
+},
 "the oct. 7 war and israel’s unfinished fight": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "opinion",
 "why": "Partisan think-tank commentary."
 },
+"the pac-man machine: how visa pipeline exploitation and corporate mission creep consume federal agencies": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Restrictionist critique of visa pipelines that hints at future H-1B pressure."
+},
+"the power of compounding: how time helps money grow": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Basic financial-education piece."
+},
 "the secret to wall street’s success is government debt": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "opinion",
 "why": "Argues Treasury debt underpins Wall Street profits; context on US debt dynamics."
+},
+"the stories behind 3 aap exits in punjab: controversy, sidelining, dissent": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Background on why the three AAP MLAs left."
+},
+"the ug's contribution to sustainable development goals": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "University self-promotion."
 },
 "the unforced error of trump’s tariff craze threatens gop’s hopes to maintain their authority after the 2026 midterms": {
 "date": "2026-11-01",
@@ -4301,11 +6017,35 @@
 "label": "minor",
 "why": "Index page, no content."
 },
+"thousands of european troops to rehearse ukraine deployment in event of peace": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Europe rehearsing a post-peace Ukraine force; shows security-guarantee planning."
+},
+"tim penny: trust the candidate that dares to touch social security-2026-10-30": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "opinion",
+"why": "Op-ed."
+},
 "timetable and schedule of u.s. dollar funds-supplying operations (november 2026-march 2027)": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "minor",
 "why": "Operational schedule."
+},
+"title: meeting, january 31, 1951": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Historical archive document."
+},
+"track uk's latest migration numbers - net migration, visas, asylum and small boats": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "UK migration data tracker page."
 },
 "traders bet big on a december fed rate cut despite a data blackout": {
 "date": "2026-11-01",
@@ -4313,11 +6053,29 @@
 "label": "news",
 "why": "Contradicts the hike framing elsewhere; low-quality source."
 },
+"trajectory lands $45m to democratize ai model training": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "No-code model training startup raises a notable round at a $300M valuation."
+},
+"treasury announces marketable borrowing estimates": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Official borrowing estimates are a primary data point on US debt servicing."
+},
 "treasury will spend $20t over the next decade to pay off national debt": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "news",
 "why": "Repeats the 10-year interest-cost projection."
+},
+"tribal leaders warned border wall construction would disturb native american remains. they were right.": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Investigation into border wall damage; peripheral to the reader."
 },
 "trump administration plans first deportation flight of detained afghans to pakistan, despite fears of return to taliban rule": {
 "date": "2026-10-31",
@@ -4343,6 +6101,12 @@
 "label": "opinion",
 "why": "Hawkish advocacy piece."
 },
+"trump considers pre-emptive pardons for elon musk if democrats win congress": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "rhetoric",
+"why": "Talk of pardons, no action taken."
+},
 "trump credits tariffs for historic economic boom": {
 "date": "2026-10-31",
 "impact": 1,
@@ -4361,11 +6125,29 @@
 "label": "news",
 "why": "US-Israel deliberating timing of resumed Iran combat; key signal for Gulf oil risk."
 },
+"trump risks violating u.s. law by giving russia even more sanctions relief": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "opinion",
+"why": "Argues Russia sanctions relief may break US law; relevant to oil and sanctions."
+},
+"trump says higher oil prices are ‘small price to pay’: is another us-iran showdown looming?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "rhetoric",
+"why": "Trump remark plus speculation."
+},
 "trump says iran war will end ‘one way or another’, claims tehran started it in 1979": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "rhetoric",
 "why": "Trump rhetoric about 1979, nothing new."
+},
+"trump signals progress on iran deal as tehran pushes faster ceasefire": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "Iran says Hormuz could reopen within two days of a deal; key for oil supply."
 },
 "trump tariffs hitting small business owners in multiple ways": {
 "date": "2026-10-31",
@@ -4390,6 +6172,12 @@
 "impact": 3,
 "label": "news",
 "why": "Trump plans executive-action tariffs as Democrats target trade laws before midterms."
+},
+"trump to remove rwanda and south africa from us trade deal": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "US pulls South Africa, a BRICS member, from duty-free access; geopolitical trade signal."
 },
 "trump's h-1b visa plan: will extensions get harder?": {
 "date": "2026-10-31",
@@ -4421,11 +6209,35 @@
 "label": "minor",
 "why": "Human-interest anecdote."
 },
+"trump’s immigration crackdown backlash poses challenge for republicans in the midterms": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Midterm politics of the immigration backlash."
+},
+"turnturk-gpt: text-based turn-taking prediction for turkish": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Narrow Turkish turn-taking model."
+},
+"tutor intelligence raises series b to scale model training, robot deployments": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Robotics Series B for picking robots; amount not stated."
+},
 "two fed officials wanted a rate hike this week. the rest chose to wait.": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "news",
 "why": "Fed split with two dissents for a hike signals tightening risk."
+},
+"two indian teenage founders raise $1.3 million for y combinator-backed ai startup | trending": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Small seed round for a YC-backed startup."
 },
 "u.p. cm prioritised his home turf over 2 varanasi seats in mlc polls: akhilesh": {
 "date": "2026-10-31",
@@ -4433,17 +6245,35 @@
 "label": "rhetoric",
 "why": "Rehash of MLC results with blame trading."
 },
+"u.s. index futures turn to jobs data and treasury's refunding after friday's 3.46% nasdaq-100 drop": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Routine pre-market note, though it flags a large Nasdaq drop."
+},
 "u.s. stocks dive on ai spending fears": {
 "date": "2026-10-31",
 "impact": 4,
 "label": "news",
 "why": "Broad market selloff on AI spending fears; macro and AI funding implications."
 },
+"u.s. treasury refunding plans keep 2027 auction changes in focus": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Rewrite of the auction-change story."
+},
 "u.s. warns gulf of possible short, intense renewal of iran war after midterms": {
 "date": "2026-10-31",
 "impact": 4,
 "label": "news",
 "why": "Warning of a renewed Iran war after the midterms is a direct oil-supply risk."
+},
+"u.s., russia and ukraine to resume peace talks in abu dhabi next week, witkoff says": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "US-Russia-Ukraine talks restart in Abu Dhabi Nov 10-11; possible path to ending the war."
 },
 "uae–dr congo trade deal enters into force after $3.5bn trade milestone": {
 "date": "2026-10-31",
@@ -4529,6 +6359,12 @@
 "label": "promo",
 "why": "Award ceremony."
 },
+"union minister piyush goyal holds talks with biotech startups on regulatory reforms and funding support": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Ministerial talks with startups, with no decision taken."
+},
 "unnes sets standards for healthy and sustainable food procurement": {
 "date": "2026-10-31",
 "impact": 1,
@@ -4564,6 +6400,30 @@
 "impact": 2,
 "label": "minor",
 "why": "Officials suspended over voter-roll irregularities in UP."
+},
+"upcoming webinar: immigration strategies for multinational organizations: employee transfers, u.s. expansion, and green card options": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "promo",
+"why": "Law firm webinar listing."
+},
+"update: chinese central bank shifts policy rate anchor to overnight": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "PBOC changing its policy anchor to the overnight rate is a structural shift in China's monetary framework."
+},
+"uruguay activates its second major european trade deal of 2026 as efta-mercosur agreement takes effect": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "The EFTA-Mercosur deal taking effect shows trade blocs diversifying away from the US."
+},
+"us activity update: tech remains in the driver's seat, but momentum everywhere else appears to be fading - 11/2/2026": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "US activity tracker shows tech-led growth while other sectors fade."
 },
 "us approves $2.1 billion patriot missile sale to ukraine": {
 "date": "2026-10-31",
@@ -4613,6 +6473,12 @@
 "label": "news",
 "why": "Bank of Japan holds rates."
 },
+"us fiscal policy to slow growth in 2027, brookings forecasts": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Brookings forecast that fiscal policy slows US growth in 2027."
+},
 "us green card lottery 2027: court blocks reopening of diversity visa programme; what applicants should kno": {
 "date": "2026-10-31",
 "impact": 2,
@@ -4655,11 +6521,35 @@
 "label": "news",
 "why": "Leaving the ruling in place sets a precedent on H-1B-only job ads."
 },
+"us manufacturing benefiting from a strong economy, tech investment, tariffs and energy security": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Bank commentary on US manufacturing."
+},
+"us midterm election: why no ‘china card’ played this time": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Looks at why China was not a campaign issue in the US midterms."
+},
 "us midterm elections 2026": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "in-depth",
 "why": "Analysis of US midterms, which shape US policy including immigration."
+},
+"us midterm voters weigh prices and tariffs against strong jobs and growth data": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "rhetoric",
+"why": "US midterm voter sentiment piece."
+},
+"us midterms 2026: blue wave, red wave or divided congress — what is india's diplomatic playbook explained": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Speculative explainer on how US midterm outcomes could affect India."
 },
 "us midterms: how a republican victory could affect india on h-1b visas, tariffs": {
 "date": "2026-11-01",
@@ -4667,11 +6557,35 @@
 "label": "in-depth",
 "why": "Explains midterm outcome implications for H-1B and tariffs on India."
 },
+"us rule on h-1b extensions would hit indians hardest": {
+"date": "2026-11-03",
+"impact": 4,
+"label": "news",
+"why": "USCIS data shows the proposed H-1B extension rule would hit Indians hardest."
+},
+"us senate elections": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Analysis of US Senate races, which shape US policy."
+},
+"us treasury auction changes loom in 2027; dealers eye long-end cuts": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Dealers expect fewer long-dated Treasury auctions, which affects term premium and yields."
+},
 "us-india tariffs: why the midterm election may not change the picture": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "in-depth",
 "why": "Assesses whether US-India tariff regime persists after midterms."
+},
+"us: how the national debt could hit household costs": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Generic filler."
 },
 "us’s freedom of navigation ops against india: what it means for bilateral ties": {
 "date": "2026-10-31",
@@ -4696,6 +6610,12 @@
 "impact": 1,
 "label": "minor",
 "why": "Company-level cost plan."
+},
+"venus-defakerone2: a vision-forensics foundation model with broader coverage": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Forgery detection foundation model."
 },
 "vibegame: prompt-to-game development with ai-native engine and self-evolving adversarial agent team": {
 "date": "2026-10-31",
@@ -4727,11 +6647,29 @@
 "label": "minor",
 "why": "Routine junior minister visit."
 },
+"war, tariffs and china: what the us midterms mean for the asia-pacific": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "How the midterm result could shift US tariff and China policy in Asia."
+},
+"wartalk: kofman on why russia's doing badly": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "in-depth",
+"why": "Expert analysis of drone-era warfare and Russia's military weaknesses."
+},
 "was i wrong about open models & cyber risks?": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "opinion",
 "why": "Thoughtful take on open models and emerging cyber risk."
+},
+"weak peso pushes philippine national debt to p19.66 trillion": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "minor",
+"why": "Philippine debt figure; not relevant to this reader."
 },
 "weaken to strengthen: weakening-induced on-policy self-distillation for large reasoning models": {
 "date": "2026-10-31",
@@ -4757,6 +6695,12 @@
 "label": "minor",
 "why": "Auto-industry roundup."
 },
+"wefair: fidelity-aware alignment from human feedback for personalized query rewriting in short-video search": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Industrial personalized search query rewriting, close to recsys work."
+},
 "west bengal cm promises caa certificates to 2.5 lakh matuas by end of 2026": {
 "date": "2026-11-01",
 "impact": 2,
@@ -4768,6 +6712,12 @@
 "impact": 2,
 "label": "minor",
 "why": "Niche agentic video editing paper."
+},
+"what agtech founders get wrong about roi": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "VC view on AgTech ROI; narrow sector."
 },
 "what does it mean for homebuyers now that the fed paused interest rate increases?": {
 "date": "2026-10-31",
@@ -4792,6 +6742,12 @@
 "impact": 2,
 "label": "in-depth",
 "why": "Election analysis of minor MLC polls."
+},
+"when ai agents agree on the data but not what it means": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "General piece on multi-agent semantics."
 },
 "when judges move markets: ideological shifts in the supreme court and macroeconomic expectations": {
 "date": "2026-11-01",
@@ -4865,6 +6821,12 @@
 "label": "opinion",
 "why": "Halloween-themed speculative safety piece."
 },
+"will turkic gas go the arab oil way?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "in-depth",
+"why": "Turkic energy integration, which is indirectly relevant to energy markets."
+},
 "with new ‘deportation judges’ working remotely, nyc immigrants struggle for a fair hearing": {
 "date": "2026-11-01",
 "impact": 2,
@@ -4895,17 +6857,35 @@
 "label": "promo",
 "why": "Paid promotional content."
 },
+"worldbridge: bridging video and action for task generalization in world action models": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "news",
+"why": "Paper on generalization in world action models."
+},
 "world’s biggest humanoid robot maker wants to change how we measure robot work": {
 "date": "2026-10-31",
 "impact": 2,
 "label": "opinion",
 "why": "Humanoid maker pushing new work metrics; vendor framing."
 },
+"worst of the worst: ice arrests murderers, pedophiles, and rapists over the weekend": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "DHS press release framing arrests."
+},
 "worst of the worst: ice arrests murderers, pedophiles, and violent assailants": {
 "date": "2026-10-31",
 "impact": 1,
 "label": "promo",
 "why": "DHS publicity release; no policy change."
+},
+"would the u.s. use nuclear weapons against iran?": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "opinion",
+"why": "Speculative piece on nuclear use."
 },
 "writers, students, engineers face false accusations of using ai": {
 "date": "2026-10-31",
@@ -4918,6 +6898,12 @@
 "impact": 3,
 "label": "in-depth",
 "why": "Analysis of the fifth plenum and China's direction."
+},
+"y combinator’s garry tan uses ai agents so much, he spends up to $200k a year on tokens": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Anecdote about one person's token spending."
 },
 "yen gains against us dollar after bank of japan holds rates": {
 "date": "2026-11-01",
@@ -4955,6 +6941,12 @@
 "label": "rhetoric",
 "why": "Opposition protest politics."
 },
+"zelensky confirms ukraine targeted russian emergency alert systems in retaliatory hack": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Zelensky confirms Ukraine hacked Russia's alert systems in retaliation."
+},
 "zelensky to visit istanbul on oct. 31 to discuss black sea security situation, turkey says": {
 "date": "2026-10-31",
 "impact": 2,
@@ -4973,11 +6965,23 @@
 "label": "opinion",
 "why": "Halloween themed fluff."
 },
+"‘1984 violence planned’: bjp marches against congress in delhi, says party should apologise": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Protest march over 1984 violence."
+},
 "‘consider notices on voter deletions when alerted’: supreme court tells election commission": {
 "date": "2026-10-31",
 "impact": 3,
 "label": "news",
 "why": "SC direction on voter deletions bears on electoral roll integrity dispute."
+},
+"‘ed, it department may be used against me using kpsc probe as political cover’: priyank kharge": {
+"date": "2026-11-03",
+"impact": 1,
+"label": "rhetoric",
+"why": "Minister says the exam probe may be cover for agency action against him."
 },
 "‘engage with open heart to avoid fresh election,’ israel’s president isaac herzog tells parties": {
 "date": "2026-11-01",
@@ -4991,6 +6995,12 @@
 "label": "rhetoric",
 "why": "Ceremonial event."
 },
+"‘india’s green-energy shift shielded it from global crises’: prime minister narendra modi": {
+"date": "2026-11-03",
+"impact": 3,
+"label": "news",
+"why": "Modi outlines 500 GW more non-fossil capacity, relevant to energy security and oil dependence."
+},
 "‘it’s the inflation, stupid’: us voters sour on the economy despite economic growth": {
 "date": "2026-10-31",
 "impact": 2,
@@ -5002,6 +7012,12 @@
 "impact": 1,
 "label": "rhetoric",
 "why": "Rally speech rhetoric."
+},
+"‘not a monopoly’: supreme court tells rajasthan poll body to reconsider voter campaign plea": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "A narrow ruling on state poll-body campaigns."
 },
 "‘skeptical’ lawyers highlight growing pains of ai agents": {
 "date": "2026-10-31",
@@ -5020,5 +7036,11 @@
 "impact": 2,
 "label": "rhetoric",
 "why": "Iranian warning rhetoric; little new substance."
+},
+"‘who picks a fight with canada?’ trade war angers alaskan businesses ahead of u.s. midterms": {
+"date": "2026-11-03",
+"impact": 2,
+"label": "minor",
+"why": "Local business complaints ahead of midterms."
 }
 }
