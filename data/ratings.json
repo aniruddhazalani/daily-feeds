@@ -191,6 +191,12 @@
 "label": "news",
 "why": "Hasina extradition standoff shapes India-Bangladesh relations."
 },
+"'no place for goons': cm adhikari's warning to criminals after encounter of shantiniketan accused": {
+"date": "2026-11-15",
+"impact": 2,
+"label": "minor",
+"why": "Bengal CM's tough-on-crime posture after an encounter killing; raises rule-of-law concerns."
+},
 "'only the bharatiya janata party can do it': pramod sawant on goa's development": {
 "date": "2026-11-14",
 "impact": 1,
@@ -1469,6 +1475,12 @@
 "label": "rhetoric",
 "why": "Party point-scoring over a memoir; no policy consequence."
 },
+"bjp cries ‘treason’ as italian leader raises ‘vote chor’ slogan, rahul gandhi laughs at telangana govt’s event in hyderabad": {
+"date": "2026-11-15",
+"impact": 1,
+"label": "rhetoric",
+"why": "Party point-scoring over a slogan, with no policy content."
+},
 "bjp forms manifesto, chargesheet panels ahead of punjab polls; raghav chadha & harbhajan singh named members": {
 "date": "2026-11-15",
 "impact": 1,
@@ -1948,6 +1960,12 @@
 "impact": 2,
 "label": "opinion",
 "why": "ECB speech on digital euro."
+},
+"category 2 hurricane isaias nears landfall, leading to production shut-ins": {
+"date": "2026-11-15",
+"impact": 2,
+"label": "minor",
+"why": "Old, dated hurricane shut-in notice with little current relevance to oil supply."
 },
 "ccia urges dhs to preserve h-1b grace period, citing significant economic costs": {
 "date": "2026-11-11",
@@ -3053,6 +3071,12 @@
 "label": "news",
 "why": "EIA forecasts Brent near $100; key for India's import bill and inflation."
 },
+"eisenkot accuses netanyahu of fuelling ‘racist’ campaign against arab israelis": {
+"date": "2026-11-15",
+"impact": 2,
+"label": "rhetoric",
+"why": "Israeli campaign rhetoric during government formation; no decision taken yet."
+},
 "eisenkot accuses netanyahu of ‘racist’ campaign against israel’s arab minority": {
 "date": "2026-11-14",
 "impact": 2,
@@ -3370,6 +3394,12 @@
 "impact": 2,
 "label": "news",
 "why": "Small $135M fund for robotics and physical AI; a minor funding signal."
+},
+"exclusive: india backs freedom of navigation in south china sea, opposes myanmar isolation": {
+"date": "2026-11-15",
+"impact": 3,
+"label": "news",
+"why": "Signals India's position on the South China Sea and Myanmar, relevant to regional alignments."
 },
 "exclusive: openai disbands its stand-alone robotics team as its general models start running robots": {
 "date": "2026-11-14",
@@ -6065,6 +6095,12 @@
 "label": "news",
 "why": "Poll shows pressure on Iran war; no legislation yet."
 },
+"murder of bjp worker by own party members sparks speculation of intra-party feud in west bengal": {
+"date": "2026-11-15",
+"impact": 2,
+"label": "minor",
+"why": "Local crime story hinting at factional strain in the new BJP Bengal government."
+},
 "murthy immigration services is now in mumbai!": {
 "date": "2026-11-15",
 "impact": 2,
@@ -6664,6 +6700,12 @@
 "impact": 1,
 "label": "minor",
 "why": "Trade-press repeat of falling oil and pump prices."
+},
+"oil prices up over 3% over concerns about prolonged hormuz disruption": {
+"date": "2026-11-15",
+"impact": 3,
+"label": "news",
+"why": "Fears of a prolonged Hormuz disruption push oil up 3%, affecting India's import bill and inflation."
 },
 "oil prices up over unresolved us-iran war, brent tops $96": {
 "date": "2026-11-14",
@@ -7666,6 +7708,12 @@
 "impact": 3,
 "label": "news",
 "why": "Moscow plays down European participation, tempering hopes for the talks."
+},
+"russia revives demand for nato rollback at peace talks": {
+"date": "2026-11-15",
+"impact": 3,
+"label": "news",
+"why": "Russia's maximalist NATO demand suggests the Ukraine peace talks remain stalled."
 },
 "russia's ambassador to the us alexander darchiev dies 'suddenly' in moscow": {
 "date": "2026-11-12",
