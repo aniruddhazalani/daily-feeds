@@ -10,7 +10,7 @@ sources:
   domain: euronews.com
   reason: cited by FDD, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-11-15'
+  last_qualified: '2026-11-16'
   samples:
   - '''Time to make a deal,'' Trump tells Zelenskyy as he complains US has got ''nothing back'' from Ukraine'
   - 'Investment summit: German government strikes AI deal with Nvidia'
@@ -25,7 +25,7 @@ sources:
   domain: kyivindependent.com
   reason: cited by Phillips O'Brien, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-11-15'
+  last_qualified: '2026-11-16'
   samples:
   - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
   - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
@@ -55,7 +55,7 @@ sources:
   domain: footballtransfers.com
   reason: 11 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-11-15'
+  last_qualified: '2026-11-16'
   samples:
   - Arsenal confirmation as wonderkid decision stuns Chelsea
   - 'Chelsea Transfer News Today: Manu Kone unlocks everything as record signing eyed'
@@ -70,7 +70,7 @@ sources:
   domain: sundayguardianlive.com
   reason: 7 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-11-15'
+  last_qualified: '2026-11-16'
   samples:
   - 'LIVE | Silver Price Today [22 October 2026]: MCX Silver Drops at ₹2.29 Lakh/kg Amid Trump-Iran War, Fed Policy Uncertainty;
     Check Latest City-Wise Silver Rates in Delhi, Mumbai, Chennai, Kerala & More'
@@ -86,7 +86,7 @@ sources:
   domain: english.aawsat.com
   reason: cited by FDD, The National Interest
   added: '2026-10-22'
-  last_qualified: '2026-11-15'
+  last_qualified: '2026-11-16'
   samples:
   - Private Sector Fuels Saudi Arabia’s Growth Lead Among G20 Economies
   - Saudi Crown Prince Receives Written Message to King Salman from Egyptian President
@@ -296,7 +296,7 @@ sources:
   domain: engine.online
   reason: 11 matching items via search
   added: '2026-11-03'
-  last_qualified: '2026-11-14'
+  last_qualified: '2026-11-16'
   samples:
   - 'LNG Bunker Snapshot: Singapore-ARA spread narrows as European gas supply concerns lift Rotterdam'
   - 'Middle East war: Oil prices remain elevated amid repeated vessel attacks'
@@ -327,7 +327,7 @@ sources:
   domain: marketscreener.com
   reason: 27 matching items via search
   added: '2026-11-04'
-  last_qualified: '2026-11-15'
+  last_qualified: '2026-11-16'
   samples:
   - Central bank gold holdings, as per IMF data
   - Kuwait lifts October oil output to highest since start of Iran war, source says
@@ -358,7 +358,7 @@ sources:
   domain: businesstimes.com.sg
   reason: 10 matching items via search
   added: '2026-11-11'
-  last_qualified: '2026-11-15'
+  last_qualified: '2026-11-16'
   samples:
   - Oil prices ease to two-month lows as US downplays further Iran strikes
   - European shares near record high as lower oil prices boost sentiment
@@ -373,7 +373,7 @@ sources:
   domain: investinglive.com
   reason: 12 matching items via search
   added: '2026-11-12'
-  last_qualified: '2026-11-15'
+  last_qualified: '2026-11-16'
   samples:
   - TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite
   - PBOC is expected to set the USD/CNY reference rate at 6.6797 – Reuters estimate
