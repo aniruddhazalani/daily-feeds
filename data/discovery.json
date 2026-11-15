@@ -292,6 +292,18 @@
     "source_id": "stratechery"
    }
   ],
+  "abudhabit10.com": [
+   {
+    "date": "2026-11-15",
+    "post": "https://www.wisden.com/cricket-news/abu-dhabi-t10-cricketing-home-came-of-age",
+    "source_id": "wisden"
+   },
+   {
+    "date": "2026-11-15",
+    "post": "https://www.wisden.com/cricket-news/abu-dhabi-t10-pushing-cricket-boundaries",
+    "source_id": "wisden"
+   }
+  ],
   "abujorjia.com": [
    {
     "date": "2026-11-11",
@@ -853,6 +865,13 @@
     "source_id": "fdd"
    }
   ],
+  "aljarida.com": [
+   {
+    "date": "2026-11-15",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/is-hezbollah-secretly-buying-up-christian-land-in-lebanon",
+    "source_id": "national_interest"
+   }
+  ],
   "alliance4europe.eu": [
    {
     "date": "2026-11-14",
@@ -971,6 +990,11 @@
     "date": "2026-11-04",
     "post": "https://www.fdd.org/analysis/lebanese-military-prosecutor-charges-13-over-hezbollah-explosives-shipment/",
     "source_id": "fdd"
+   },
+   {
+    "date": "2026-11-15",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/is-hezbollah-secretly-buying-up-christian-land-in-lebanon",
+    "source_id": "national_interest"
    }
   ],
   "anoma.ly": [
@@ -4526,6 +4550,13 @@
     "source_id": "propublica"
    }
   ],
+  "electrotech-revolution.com": [
+   {
+    "date": "2026-11-15",
+    "post": "https://www.exponentialview.co/p/ev-610",
+    "source_id": "exponential_view"
+   }
+  ],
   "eli.gov.pl": [
    {
     "date": "2026-11-05",
@@ -4805,6 +4836,13 @@
     "date": "2026-11-06",
     "post": "https://stratechery.com/2026/an-interview-with-intuit-ceo-sasan-goodarzi-about-accounting-and-ai/",
     "source_id": "stratechery"
+   }
+  ],
+  "espanol.thehotline.org": [
+   {
+    "date": "2026-11-15",
+    "post": "https://www.propublica.org/article/alabama-fetal-personhood-laws-punishment",
+    "source_id": "propublica"
    }
   ],
   "espn.in": [
@@ -6982,6 +7020,11 @@
     "date": "2026-11-15",
     "post": "https://www.exponentialview.co/p/jensen-huang-and-the-future-of-the",
     "source_id": "exponential_view"
+   },
+   {
+    "date": "2026-11-15",
+    "post": "https://www.exponentialview.co/p/ev-610",
+    "source_id": "exponential_view"
    }
   ],
   "investor.republicservices.com": [
@@ -7593,6 +7636,11 @@
     "date": "2026-11-13",
     "post": "https://www.theatlantic.com/international/2026/11/nvidia-affair-chips-china/689417/?utm_source=feed",
     "source_id": "atlantic_intl"
+   },
+   {
+    "date": "2026-11-15",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/is-hezbollah-secretly-buying-up-christian-land-in-lebanon",
+    "source_id": "national_interest"
    }
   ],
   "justice.org.uk": [
@@ -7926,6 +7974,13 @@
     "date": "2026-11-11",
     "post": "https://www.fdd.org/analysis/to-disarm-hezbollah-lebanon-need-only-enforce-its-own-laws/",
     "source_id": "fdd"
+   }
+  ],
+  "lcrs-politica.com": [
+   {
+    "date": "2026-11-15",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/is-hezbollah-secretly-buying-up-christian-land-in-lebanon",
+    "source_id": "national_interest"
    }
   ],
   "ldtravocean.com": [
@@ -8336,6 +8391,13 @@
     "date": "2026-11-14",
     "post": "https://www.fdd.org/analysis/iraqi-prime-minister-puts-iranian-stooges-on-notice/",
     "source_id": "fdd"
+   }
+  ],
+  "lorientlejour.com": [
+   {
+    "date": "2026-11-15",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/is-hezbollah-secretly-buying-up-christian-land-in-lebanon",
+    "source_id": "national_interest"
    }
   ],
   "loudribs.com": [
@@ -10848,6 +10910,13 @@
     "source_id": "unherd"
    }
   ],
+  "polaris7.io": [
+   {
+    "date": "2026-11-15",
+    "post": "https://www.exponentialview.co/p/ev-610",
+    "source_id": "exponential_view"
+   }
+  ],
   "polarlng.com": [
    {
     "date": "2026-11-11",
@@ -11035,6 +11104,13 @@
     "source_id": "chinatalk"
    }
   ],
+  "pregnancyjusticeus.org": [
+   {
+    "date": "2026-11-15",
+    "post": "https://www.propublica.org/article/alabama-fetal-personhood-laws-punishment",
+    "source_id": "propublica"
+   }
+  ],
   "presidency.gov.lb": [
    {
     "date": "2026-11-04",
@@ -11045,6 +11121,11 @@
     "date": "2026-11-11",
     "post": "https://www.fdd.org/analysis/to-disarm-hezbollah-lebanon-need-only-enforce-its-own-laws/",
     "source_id": "fdd"
+   },
+   {
+    "date": "2026-11-15",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/is-hezbollah-secretly-buying-up-christian-land-in-lebanon",
+    "source_id": "national_interest"
    }
   ],
   "presidency.gov.mv": [
@@ -12001,6 +12082,13 @@
     "source_id": "chinatalk"
    }
   ],
+  "scontent.fcps4-2.fna.fbcdn.net": [
+   {
+    "date": "2026-11-15",
+    "post": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "source_id": "ahead_of_ai"
+   }
+  ],
   "scsengineers.com": [
    {
     "date": "2026-11-11",
@@ -12027,6 +12115,13 @@
     "date": "2026-11-14",
     "post": "https://www.propublica.org/article/georgia-election-board-cleta-mitchell-midterms",
     "source_id": "propublica"
+   }
+  ],
+  "sebastianraschka.com": [
+   {
+    "date": "2026-11-15",
+    "post": "https://magazine.sebastianraschka.com/p/understanding-positional-embeddings",
+    "source_id": "ahead_of_ai"
    }
   ],
   "sec.gov": [
@@ -12546,6 +12641,11 @@
     "date": "2026-11-03",
     "post": "https://www.thefp.com/p/haley-stevens-election-michigan-alaska-hhs-marathon",
     "source_id": "free_press"
+   },
+   {
+    "date": "2026-11-15",
+    "post": "https://www.wisden.com/series/pakistan-vs-sri-lanka-m-2026/cricket-news/the-best-test-batter-this-year-was-babar-azam",
+    "source_id": "wisden"
    }
   ],
   "spot.uz": [
@@ -13393,6 +13493,13 @@
     "source_id": "atlantic_politics"
    }
   ],
+  "thehotline.org": [
+   {
+    "date": "2026-11-15",
+    "post": "https://www.propublica.org/article/alabama-fetal-personhood-laws-punishment",
+    "source_id": "propublica"
+   }
+  ],
   "thehub.ca": [
    {
     "date": "2026-11-01",
@@ -13832,6 +13939,11 @@
     "date": "2026-11-11",
     "post": "https://www.fdd.org/analysis/hezbollah-reportedly-rebuilding-networks-in-southern-lebanon-pilot-zones/",
     "source_id": "fdd"
+   },
+   {
+    "date": "2026-11-15",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/is-hezbollah-secretly-buying-up-christian-land-in-lebanon",
+    "source_id": "national_interest"
    }
   ],
   "todey.xyz": [
@@ -14661,6 +14773,13 @@
     "source_id": "national_interest"
    }
   ],
+  "waradana.com": [
+   {
+    "date": "2026-11-15",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/is-hezbollah-secretly-buying-up-christian-land-in-lebanon",
+    "source_id": "national_interest"
+   }
+  ],
   "warfarehistorynetwork.com": [
    {
     "date": "2026-11-10",
@@ -14921,6 +15040,13 @@
     "source_id": "fdd"
    }
   ],
+  "whopaysfor.ai": [
+   {
+    "date": "2026-11-15",
+    "post": "https://www.exponentialview.co/p/ev-610",
+    "source_id": "exponential_view"
+   }
+  ],
   "wiadomosci.gazeta.pl": [
    {
     "date": "2026-11-05",
@@ -15129,6 +15255,13 @@
     "date": "2026-11-10",
     "post": "https://www.propublica.org/article/trump-sons-xwell-xprestest-government-contracts",
     "source_id": "propublica"
+   }
+  ],
+  "yalibnan.com": [
+   {
+    "date": "2026-11-15",
+    "post": "https://nationalinterest.org/blog/middle-east-watch/is-hezbollah-secretly-buying-up-christian-land-in-lebanon",
+    "source_id": "national_interest"
    }
   ],
   "yasharwitheisenkot.com": [
@@ -15800,6 +15933,17 @@
     ],
     "title": "ECB holds rates steady after Lagarde says to quit early",
     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1DXzg4VzF4WEZhb2RWV2JVSHQyR2lmVkFwQ3JFMU9hVndNektxTWRPQWhPbWZsRldXMk1rZzJWejRJNGVzMWFRQkk3cw?oc=5"
+   }
+  ],
+  "africa-news-agency.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Africa News Agency",
+    "sections": [
+     "finance.dedollarization"
+    ],
+    "title": "Banking: The Yuan Gains Ground in Africa",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBjcERIb3RiZTFKSjlCU2NLcnNEcndhcExESUpXV0U2WjlhX1F3SE9LSm9fT0xMVVBRZ2dnQzJmQVRBTEctblhYX04ya2xiQXFnZm13cnRpTU5VU1FuTVZlb3FFZnFaclRfYjN0dWg3NktPV05naUVHSXo0RQ?oc=5"
    }
   ],
   "africa.businessinsider.com": [
@@ -17507,6 +17651,60 @@
     ],
     "title": "Giannis Antetokounmpo, Bam Adebayo help showcase Heat's potential in win vs. Cavs",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRHV1Q0lJR0VibVRpNzRaSVdGa2tXOTJPSDZOY1QzZjJVc1hzWFZZbVJQRTF0V2ZwTFFJal9pbUdUdm1LajVmSmRHQ3NIOUpxVXRjUTdYTE9lTE1SMHNNU0o1elJIclJ2YmEwV0RiSDZkNWFTSGowTkY4Q2ZIZ3JqcVdqdndnd3NneDhTMkNWRWdMSGF1ak5iYXlBYl9EcmVvSi1lRA?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Patriots' Drake Maye, Lions' Aidan Hutchinson both injured on same play in Munich",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkp5T0l1c3ZEOHJ3bGdnRXpmSzhSRks0LVlEeFdCU0pCWUFMQmlyVGNDaER2UU5jSVVJWktvYUtmb2YxSXVoNFlvTURia1B2Z2xuaGZYYnM0MkRjNU03VGZrdUx1LVY4NVBHX0N1dVFlcmlZTHYyb00zTkZjaDFMUFFfQTNVSlN6MlpyNVNhMmNvMUQ0Y3ZiNXlxR0d0a1k?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Hornets vs. Clippers (15 Nov, 2026) Live Score",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5qUkVTdktWZXh4QXNNV2txaHZzbGI3M3I1SFZsUV9CNWdfZDJTYlp2N1k4MG1STnA3OUNIdHhjMlA2Zmg4QldRRFU4c1RMWDA1QURIeHdXeFlkMDJ2QUxVQll4NG5tWk9wNFFXZGl6SjF5YmxiT0E4?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Sources: Chiefs had renowned baseball doctors weigh in on Patrick Mahomes' elbow",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPODZ2OFFfMVEwNjBaSWQ1YWlTa0JIN0ZIR0k1Y29yeTBubWdqVkpWekw1WWJFdUNjRGdoUTNkUWFXOC1DTXpIc1R5TmkzMjZkS3VFdXJLX3NzSVI1eFI2aWFUQm5ORVgxMnIzbHJydDN5THJKUmdtdE1LSGVHSy1STnlVWHNiMklBQkNVallkQ09lOXpuNUppcVVXeUt5OE4zWENyVFRBRQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Sources: Raiders planned to start Fernando Mendoza soon even if no Cousins trade",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd3Q2TnFrVnBpaEY4Q3d2WnJ3SmpVZk5WY28xQ1FBbFFtTUM1cnBzazlVeExuYWxHc1hyM0tFTG9nQkpBTXFKa2hHVXRtU0sxWmZvb0ZRN1o5OTFWUEY1QlNmQWJqZEJtWElYXzBJTmRVTlNORWF5cDNrR0d1bGVmcnh0dHY0V1pUd2lpd0JkYTd1eG5wc3JUWXRIdDRPaXhVa3JreVRGWEtWeEozb2VXcw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Sources: Vikings want to keep Kirk Cousins, talked to QB about staying in 2027",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTV9nNlpvYl9qQW96R0FabU1yTHcwaWRGQjJ5V1M4aW1PdkFObGk1alA5OW43QmpHZGxST0FHdmhrazVRVjFweXJldk1WeU5sTTN3cHctVFdBWmtXbTJRaDV4U2tOcXYyM0hwZGlpMEduNGpadm5qampDOEZkWktDT0dpbTVJc3o4WnFCaTlwT0tOU0VBLWNveEFfekdIVnc?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ESPN",
+    "sections": [
+     "other_sports.all"
+    ],
+    "title": "Bulls 117-106 Timberwolves (15 Nov, 2026) Final Score",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oV2xFbHlQQ1FqNU03N3FwTXRoLVh5emxjR3R0NTRaVmptRGY3X19PRUMyVEVRdmZua0lVbGVYbFdFTGFWYlpabUltYzk3UHp5WmRzTjZEbnNNYURma09TemlidDVHZ1BYWjJNZmotRjUxNWhGZFczYkhB?oc=5"
    }
   ],
   "agbi.com": [
@@ -17891,6 +18089,33 @@
     ],
     "title": "India-Philippines ties \"excellent\", says Secretary of Foreign Affairs ahead of PM Modi\u2019s Manila visit for ASEAN",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUXE3YU1YU3FwYWE3SU1kcXVwTkpWZ1J1WkRVekUxbmFHUXVEUGxaS3pMY3hoT1JJcVBDWGJTaDhrUHZIb3BfTmtPTXc2QXo5emZHX1ZFaXdST3IzeFZoOUFvQzB5aVNuN0Z0Q2VzaHJaX1A1VmRETVkzWENWeUVOaGJzSGRPUDZ4Z0VIS2ZEM2Ytc1RHMTVILXRRZjV6Mi15SEllbE1QaER2MTlocVliWjBjLWxrZ1pXYmQwSEFGWGdaRHFPOXZsWGlnS2hBUzJTMzc1ZFBEOW13T0FDR1hMWnY2Ym1UOXJH?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ANI News",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog to organise five national workshops on PM Modi\u2019s 25 years as head of government",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQmZTRVBDazhGMzRhb3EzeHBHOWg0SWJIbFZiQ004X2VnQnhId1NsWGhwNU0tMVFaRS1RT3ZoZWZXN2pjTDdkUHpPc3lTcEtrQmoxZHVuMmcwdHdKaU94VDdYNTN2UHE5VmpEX0I0QVpsWUwzd1lLRlExOEx1Q3NJSThyMmExLXZJVXFsZEt5YU5ISi1XdWppVlViUmZ6MEZzTTNIVVlYa0ZlVm1LWHNqeFNtX3NHY1ViNlRWMEUzeExieVo0dVFTLXJPaUt1OEJJcGdUSDh5T2Rkd09BeXV5MmtER3BlT2J4anMwaFhR?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ANI News",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "PM Modi to visit Manila for ASEAN Summit; maritime security, trade on agenda",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMEk1UnIwVzFfQlRKRGVkMk1aanNqcDRTb0J0MEdDcjZVWUlNRWV2MTNDMm9UUDU3Z1pyYU5pSHhHVmEydHpNZFJncEFlelVRTlFrV2tNMnF1MEVUNUh3cDNnYnp5SzZyNmdzMUE0TkF2NnBZY3FVZThPQmVJbkFDOUc1WXB2eXlSaEE2WEpSbTJQLVo1S013UjFvYzljWGI2dUJXOUhfTXdKMmJyc2d3d2ZFSy1WRnQ2amVVV0VlUW5UeW5QcVE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ANI News",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "India and Somalia hold first round of Foreign Office Consultations; discuss bilateral ties and regional issues among others",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYXNMWndhcHVYeVpBWWFHNnI2dFZVRVpSY2JaTHFrVkgzcFpWMjVCWGRFd2VjRDJ5NDU4dHJmaGlVeUxNck4xWUpmcUlZejZQZHN4bGZBMkxfaTk2UHNLZHl0NWlPZlVhNzJzWkxsa21QLTBpa3NXaGZWVWo2NGhnQTB2Sk5hSkZqVkNCblJZTUR1Z2V4NUN3QkZhTmh0ZXotQ1Q1ZzVFcS1faGZ5OU85NjF4RVczZC1kUEpBeFZiYWJ5bHVVVjI5b1o3RVc5WGRwemxHUXlQdE5uNnBiUGd4TUpoeEdvY00tUmN4SWlqXzdSUjR3bExGeWdPTkhhZHNqamFVUHNNc1k?oc=5"
    }
   ],
   "antarafoto.com": [
@@ -18308,6 +18533,33 @@
     ],
     "title": "Cabinet approves Aqua Line extension to Greater Noida",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWDRKQ3hRNG44U1lHQ2R6RVN2V2p5OXRHdXpQSVhwOTluRWtEUlJNenJ0cjg1U3BPZndLRDZPMzdabjNhZldNMDVYVjREU0ZnZm80bTc5UWlCd1Bqc3dLZmtSc2xPbjBwUWhydjhMX2IwQ1d0Y09wRTktOFlmOWNnclJRWHBSbUlRQUhINHYyclZFeDF3QkN3Z2NnVjhCV0tmRlRCMW53?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Awaz The Voice",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Delimitation Bill likely to come up in winter session: Athawale",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakNENkk0RTJIdVljSzlwRWFSamh1cmNaVFZZSzM2V3d6UTR3NjJlWXBWdlRVSGpERlNtdGpuWndWM2RIZFA2c2M0S1h1YXZ4b0VXT2R0N09LRExDN2dBLXBjSThwQTFaZ1hVRHZuRHA2akpPUWNRUzhpdXF0aHdDdUc4REw0MlMxN3gwTTJOYzJPTjBucWF1anh4aVp4cmtRZmNtaE5ESTdHODNOZVQwQlNn?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Awaz The Voice",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "ICICI Bank sees 25 bps RBI rate hike in December",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOY0ktRUJhbVFVQlp2bk9JeEp4Ty0zOEdXZUNCQWFkNGpfeV8yWkR2MDhQZU5WcFVQUjA5NzF3TlBZZ2tOR0JCdmt0b2dTcUFHWFVtRUlta2lXUjBVYzVuM3M5MldVVjRoVFhPbWZzRElPUlBENk5IUDNQMkZHTlFLbGQzVWNGQjRmUUhzNE93cnpodGNzcmdKOWRYYlUtRWM?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Awaz The Voice",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "November inflation surge may prompt another rate hike: UBI",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNemV6SHpRdGJBSGZUNEtXUDZndk1DSEd5dFBIQnA2RGRhVXdzbVhYVzEzMmtIaU5xTEZzS281V21nMGF4VVVmbGlqTkYxS3JxdklLRThsR0NjM2tES2lteE1Va3JjUTVzVzNZUXVxSXR4dXZtT1FoeUVpQW5kMXY2Q2NGaDRBS2gzYmUxTnk2eVJTN3lpU0puTDc4TTNXT08xckpsVjRFanVkMTVjNkM0?oc=5"
    }
   ],
   "axios.com": [
@@ -18671,6 +18923,17 @@
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQemNHRnFacnJFNHNDcDJEQkVBOWdqSnUzblppWEpvSDNtdmhlTFpZdmVqTFZ1SXJUWG1EbHI2M2VIM1gxZDZpY2ZFUUZNT0FCX3llVkdSdlI3OEU5WTRDeTd0OUVBWGZfeFR4ZkFybTVHWk9idmM2OF9mMDhYZG1zUjJZbzMwV0ozOE9hNVZBblFnSTN6ejB3SGFMVlV4V2RKZzRTT0NPeG1XUjBya2R5cnp0ZEMxU3czVUdoQU9ZWG9QeEZTelZUaTdXUHJkRkVK?oc=5"
    }
   ],
+  "batimes.com.ar": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Buenos Aires Times",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Milei government wants to fast-track US trade deal",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNGd0dTZCMlcxZmZhYnR0RmF3RUphRE9aZEtmWGx3Yl9sSVdscTFkUDhueG1CQll3Z0I3d1MyN0tudGVYMzdwaXJRTktnRzNlbE9uMUVmZkE1dDhGNGVkT2tmY3VrX0RIZ2xQbTZNbDhTaFE3R0ZjNUx1a0l0RTRTLXNnTnpxclBNQlF0VzNJc1BfQXpER0VvZ25tQmnSAaIBQVVfeXFMTzV0UDVGQ2plbUdsa2pBakZrZ0EyTVBUN0xieVlQYlBKN3o0QlRqYmdJWU9oajZCVjZTQmpEdlNlRW1Ja053UEVKMkpISEI3M1pJeXdzakJLV0NRM0hTeDFLaUVtMjhBeG9HbHRocmUwcDZLTjhES2lPVkdjWnh0dmhZVzBPV1BoSnZNRHFES3c3Y2hXaEM0VXlxajJxX3REN1F3?oc=5"
+   }
+  ],
   "bbc.co.uk": [
    {
     "date": "2026-11-05",
@@ -18831,6 +19094,26 @@
     ],
     "title": "Indian economy has been 'shining star' in otherwise 'gloomy world': NITI Aayog VC",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQzVGWDRSanVsYU1vQ2ZzUjZOSjBZcmhMSkhvMWZOTTNOSGlVVkJ3aUM2blVYLWtid0lLdVFSYXI2ZUVXcFB4bE5UWjU2M2tSMlNLVkE5SzNvcmE3RnVpNFRZRmtKQ1QyZ2RxUUpOcHRZS2J6ZTF0VWRSOHRWT3NocWRTVF9naVVsSUlqRlh2SE1ydGdoU05tQXhxMExzRTBvWW8zLUExM0RaaGNacnlBUzhCUS05QmRxQ3RTcUItRUxrc0gxUWxoLTNzSGpWVW80UE9n?oc=5"
+   }
+  ],
+  "bfsi.eletsonline.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Elets BFSI",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Sharpline Broadcast files Regulation 32 nil-deviation statement with SEBI",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYmNmRlUzdlNKNlNGSFlMemR1WkhZWFpvUzAzNXdGRlB6S242SUZGb0dubVpIZEVmQ2JmY3Ria0F6cjJ6UTA0b0hzSHo2ZDV2WGpNOXFBZXc5R2Zrd29MVkJ2UzA5VDdCTE1GNUtyWS16VmtCbmNLdGFfN0hkOGMyMkpFVzdzdk9jV3JIRTlwVjh4QlFlM0FVSmdOOUlzeFU?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Elets BFSI",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "RBI\u2019s revised gold-lending rules push NBFCs into repayment stress",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa1o4eU9BdW1yUmZ5aHRTX3Z5MGw2ZFZmaHJXU2ZoMU9UMXFEaHFhWHlLeUJGcllwdjVlZkFWYngxN05zRVplR0E3d1VuYnRUelhtQ1VST2dhTmhQcXVzV0hsZTBqU2JsU2djY0lwb3BsX2dHX0NmTmNpUlFtdjdEdUhycFdIYUljcFJaOS1RbV83bTZYRVhHekJHMA?oc=5"
    }
   ],
   "bhaskarenglish.in": [
@@ -19217,6 +19500,15 @@
     ],
     "title": "How did protective tariffs affect France's economy under Louis-Philippe?",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNXBRTG1KeEhGWWFlbGE2VXpmdGZvYkJubF9vRHpUSDRYd3BZQ2w3dHZlWTBKVU54cUxZZ1l5b1hlZ0pmWXJGTHVNc09iaWtoazYzWXh2RXJYQkJ3aGtvVGVpYmFWNDVoejJoR3VGelBPNVVnTVZSTmlWcnhqUlR4YjZ4QmZjM2VfYkdkS3JPSktiRTZkNF9HS3Z0c29TZk1hb0NhSzU2SFZhRjQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Britannica",
+    "sections": [
+     "finance.agendas"
+    ],
+    "title": "Brendan Carr | FCC Chair, Jimmy Kimmel, James Talarico, Charlie Kirk, Project 2025, & Biography",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5neWJIbWxseTFVZVVVOF9rVTFhVVJxNG85MXB4c2RIT3oxdnVad09XR21LWWk5aEwzSVpubjlYRl9sNjJ2NXNaZmJOZjdTeVdiaGZXME1wZEJLOXBLb2c?oc=5"
    }
   ],
   "business-standard.com": [
@@ -19647,6 +19939,24 @@
     ],
     "title": "US assures India of lower tariffs than peers under proposed trade deal: Report",
     "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORnFfWWxoMWRtM296Sy1UX3c3WlNxam43M1dmMUloSTZsNS1VMFJyUWRSZy03UHZKSXdtWHBlMWp1Mzh3MkxCWmxhYllfYzFvdDNTUHRRQUhxejh2VkRmaFBab0RMM2lkSExKRWdPOUp2RjFRaU5FdTZmT0M3UndrcDYwdkpHZ0ttQ2JNMGdieWRVV0pmMUkwMHRoNENJTXRybjlYNGo0M3B5NmNnc2tnX1pDdHFKVFZDTnJ1dXRPcUZGS3dSNmlTMVRPTUIwRWY0cm05MHZlNU9VV2JfbWfSAeMBQVVfeXFMT25FYmRWRGNTTHhDYTJLLXk3dVluNXlPRXA0dEtiTDJJWDZyU0J6NVM2bm9DNXVGSXhnUWtxbFVZX0owVlVwZ2JadnVxZ0l0M2ZYYXRDdVlPNVBGcnhlaXJWR21oN0pod1pMWGFYSU1WSERPaVJEUTRhM3JjZHphaTRiakhoa3V4MFFNWWlNa2ZiQzVZUUk3eTlVU3VhR3NJVDI0ekVoT1ZhOE5ZU0twVmpHRUt5Yl9iZjR0Zlo1TU5ZV2ZrMmdDS3FXTkstLWRFZ0tKM3QxRHRKQ0N3SW9pOG9Fd1U?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Business Today",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "'Learn to live with US tariffs': Raghuram Rajan cautions India despite Trump's midterm defeat",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcEgybFVUc0VfUWx6Y0JRQlJHZ1VkSks5VEtUeXE1YVZWeGZWUHcwdFc4RDdCMXdVci1idHFEYVhuM2JvcnlwMG9yRXYtdmRpWUtPRkdzeUg3VlZQOEJFV2M3c1pMMVVYNW1uQ0ozQ1phTzI3WU9QWmVWRGFhb2VxYUpnQVc0Z254bVRnSzRvS0FvRW5PdV9KdWp2bmlpRnphUWpQRlBZNHZEYy1OemxQSnh4YWdBUnppNUEtTmhIMzhiMVRObTJIenpSWDdkUmlPRHc3cXlhU3ZpN0YyN2ZjZHY1dW40cldMYkpENVFB0gHzAUFVX3lxTFBTdHN1THRjR0RzR25rR2UtakJaWVVPR1pieF9HaHU4U0N3RzczR05jVlo5NG5yc3BpUU5LTTlhMUpXY01BYTVNcWR2MHpwbEFSbDMzOGhOZXA4eThJZlZ1YUFxTjdJOUhpS0NxaWIxbjU5VlQ0SUVuSkRJWjRnLW1wa2FGV1d1RS05VDh0ZnZlRTFxVUZfRklzT2tWYXhxZ0ZpTGQ4UE15MkJnVVNWekNKNGJrX09Yc1dUNjFZUlRwYXpSN0FKV1NOZWt6LUlYbUxzSGdfMDhRV2JEZzJGVnNLczdGWXkwcTB5U3A4UGZJbmFvWQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Business Today",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "H-1B visa abuse: Anthony D'Esposito signals further suspensions in widening immigration fraud probe",
+    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYVRwdGFsR3l2czhEMnR4WUxyV18tTFNZNFk0N2lJWFFZZE81Z1pld1BwTEs1bDlCY1V1N3BfeV9tTS13M3Q1bllidTFHVjNPWGNKY3RiRnVrSDA2VlIzREhJWnRCdW9kY3A0dWNrbUdsUGNUTHY5S1M3QnRmU3BRYktRV2k4OVUtX3JmeVFPYS1Obk5HMXJ1UEF5eDI4cUs3a0RRdnRTcWFpMEd3QW5xOEFuY3dzdWFIa21MNHp0ZEx1WE1ZeGxOaXN4amNOMGszaDlHdmhkRzdaSmZleWwyQ0ZaWDhPcHp3Y3lGMnQtdzFoaV9DNXfSAfYBQVVfeXFMUGFUcHRhbEd5dnM4RDJ0eFlMcldfLUxTWTRZNDdpSVhRWWRPNWdaZXdQcExLNWw5QmNVdTdwX3lfbU0tdzN0NW5ZYnUxR1YzT1hjSmN0YkZ1a0gwNlZSM0RISVp0QnVvZGNwNHVja21HbFBjVEx2OUtTN0J0ZlNwUWJLUVdpODlVLV9yZnlRT2EtTm5ORzFydVBBeXgyOHFLN2tEUXZ0U3FhaTBHd0FucThBbmN3c3VhSGttTDR6dGRMdVhNWXhsTmlzeGpjTjBrM2g5R3ZoZEc3WkpmZXlsMkNGWlg4T3B6d2N5RjJ0LXcxaGlfQzV3?oc=5"
    }
   ],
   "businessupturn.com": [
@@ -20620,6 +20930,15 @@
     ],
     "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5YW05b2ptbVhhVkdHSnNqN2wwU1RaN1pHMGh3UUU3SlpWcUl0MVNINloxLVFmbVV4N0dWaU90RDBGb3p4MktjTDVVeUtIR25PVnNjLWhQeURhdkthcUJ2cUVmMkJ2OXUzVUNFZXF5UnBoQdIBd0FVX3lxTE9DQVVfcVVUOVhwbko1ME5GeG16NmR6Q2lWVnNNdU1mTjdYS3RmVVh2WDQyY2hqZWM4UGNvcWVnX3hhdkZFby1hVjRTVHFWUmg4TjNxSE93aDFPejc4SWFIM1RGOGVzR0xhdXAxbU5kUmtiLWxoZzFF?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "CNBC",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Eric Trump-backed robot soldier startup can't pay staff after founder borrowed $4.6 million from company to buy home",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5YW05b2ptbVhhVkdHSnNqN2wwU1RaN1pHMGh3UUU3SlpWcUl0MVNINloxLVFmbVV4N0dWaU90RDBGb3p4MktjTDVVeUtIR25PVnNjLWhQeURhdkthcUJ2cUVmMkJ2OXUzVUNFZXF5UnBoQQ?oc=5"
    }
   ],
   "cnbcafrica.com": [
@@ -20687,6 +21006,15 @@
     ],
     "title": "US promises India better tariff terms than rival economies in trade deal: Government sources",
     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVENnY25MWVVBOGJlZW5Pakt2Ul9XNTJXR0NwOXFiSjBoYml3NjJ6TlRjNm1iV3BpZi0zUDJsRjZud1dFVjdFWmFHV002VXc5S2pfUUxBM1FsWVBCdmFfX2FnanU1T1p5Zk0xc1RfakpWOXpndGZTZ25SYUVuRzh2Z3EzazA2X3RPOFlRbDNRNGt0Vy1ld3VmMk9ldkpCVUwyTkZ3bVA1WGkyT1plN2lId0gxTHBJbnNRZEdVcjljOVlOcU9JMDVvT0JLTm0tT0hfaFZB0gHYAUFVX3lxTE4zYk9oM0tOaXVMelNORFZHbDR6eUZkZ3hVVVFRRXBpRHVpUjlpRzFGdVJaUk9aWnhnd3hjLWVkaVZUQlMybHVQVmQ2bmpqS1hQTFAtTUlzRDdUWkFVdmJBZnJmTFBhQno5NndteEdqT3ZRQXJSQWNsQ2NoaS16bXNuLU1VX1llS0F0VmdLbEVNZERUYTVfRE1Pd285SjRoaTJKWXBfS3NCQVdrdVo5UGdnUkNjcFZHdE9pU3JITHUzMTJUYzlBVk5ZdzVuejFtcHBOSXJ2N05qcQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "CNBC TV18",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude oil may extend losses next week, Brent seen testing $90-92/barrel: Analysts",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNR1hLcWNZa0d2Vm5hQ3F6c2ZpRjdsX1JoNDQ3ckU0SEVHNU1kdHVWOWlZMnBCM21MaDh0NmtpNHRad1ZQNkZtLTluUjZ0TkRHaEtrSlVlMExET2l3NnZCSldQa3E2RWpOSjc4bEhTb3dvbFpnNFctTG1VOXNKRWh0U042Q3pDYU43ZzhjS3A5cEZLR2VlTFZKWkx6RmhzckhLVWRIUEF1ZEZqUjYybmViWjBBQkg1UE81N3RHd09DZElKV0hfSlY5cDdnQTE1SDhP0gHWAUFVX3lxTE9kWnp0ZzFycXNkM3lxdE9RMi1RbFdXMjJVVkZxdUdkbjhJZnA3b0F6aldSYTU4YjRFYk1CRjlVUUtic25hZFdvbGZ0TEJsbUFsSE5yVUZCenlNSG1lZ2ZUeXVCWmh2VG5VOVZRRmxhaTM1T1A3QjRNcDd5bmtiSnRaOEI4TnhOb1JTNHByZ1JIUElWeWFwS0xYMnZ3aDQ1RlJzU0xwUTFITXExelZ2b2FnbXRxRFNfUllJN3p2QmJoZ0dtejBGd2pGdV80QjJidFRERHcyOXc?oc=5"
    }
   ],
   "cnn.com": [
@@ -21710,6 +22038,15 @@
     ],
     "title": "PM Modi to Visit Philippines on November 16-17, Attend ASEAN-India and East Asia Summits",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNODlMYm5fTVNtLXh1Z1hQcmtqcFdiZzVfUlpPMjAyc0FwNl9KclhSZHlzNG5DYUdZcG8xRjhVc1EyZDJKRFVMMFhVRGw0Q2JfTktEZFN5WllZTE93S18xbElvNFZHRmp3enhRNW04M29KRXJpcXRCVm9jM216bVNjM0JyT2NvV3pXZGFkc0E1THpNZFktWTNXWHVVbHRPdFBISWdPdkpIWVNHc0wyY1RNN0JoN0Z2V09iLXc?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "DD India",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog to launch five-workshop series to document 25 years of PM Modi's governance experience",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQblBaN1dpUXVjZmJYZF9rWHk1R2dNMkh2UXlnTTJGVWN1U0dzcFBnNmRnS1JiMTRraU50X3BDS0F6dGRTdTBMeUpTVFNKYXdIRG12Q3ZfZmdIWklQMzBOQ1k0ZmRBMFBRVTgxa1FxVjV6NzlDLVFGbHJFSlFnc1U1eHZvck5HQnpyekRpQTFSVDhfaXp5aWxDRzIxYW14MVNuMkF5V3V1RHptazlMX2M4S1ZtMmhMRHR2SmZVcktiLUNsRmR0YWc?oc=5"
    }
   ],
   "ddnews.gov.in": [
@@ -22405,6 +22742,15 @@
     ],
     "title": "PM Modi meets UN Secretary-General Antonio Guterres on sidelines of BRICS Summit",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFF0WFRINWw2TkdBME5HcE5GTlVWM1BndUJzbnYzQ29pUFpmYmJXRmxxd2lyQkhJYno4VW9oUzgwOUhUaHFkYng3LWFkeTl6Nmd6MjdWOE5xeEtuZmxVOXlRQmltYVZlQUV6bTVEMFFERm91NV9fb2ppU1hIc29oRGxWbzR2MnpKWmR1M0c5cnFvZHl2ajJiWXViZkR5eGFfX2dFckFwRUpYZw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "DD News",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "Telangana CM Revanth Reddy meets PM Modi, invites him to Invest Telangana Summit and Khelo India Games",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSEZPVnpseDZfbnpmT3J3OVZmWjB5Qm00aEh1djZ1T1ZpcjBPb3BVZDlJMGk3OHlBZGFJOXIzcjd0cnRQMWJzQUNtNkFBS3J6SEI5U1ZRWFRtRkNkMU12a1Vkam5BTEktOGprVzduZThQb3dhNkt0eTA0TlNfazB0dlpRVGNEVXpzMVFYRVNBMnEyc09MdGVWQXllRWo5UmFxNUxoWTdXaVBuNjhoQjFGQVNMSlE3Z1VIeGl3eEloUVZNek9KV0E?oc=5"
    }
   ],
   "deccanchronicle.com": [
@@ -22544,6 +22890,24 @@
     ],
     "title": "PM Modi heads to Manila next week for ASEAN summit; maritime security, trade on agenda",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNclJacTBzSUh1QVpuVTlWRWdMMHRXLTZ5b2h4MDZKNVVlWC1HVUswLVVrWFlqZ1J4Z0QxeC1DcXczTU92dFNmV2pXOWJMUTJIRmxndEJMZEFsTVc2WDJnc25QSXZfR1Z3Snk4R0hBM3JYRmxPUHIxd1E4TjFrbTMxaHIyMHNaX3pOY3EzY2prbkltN0dsUWZOeDg1TDg4YWRaZlIyb0hVUE1PNXNzWGI2cW5fVXc2a0FCWWhRSnFoV3NERVJrRGc?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Deccan Herald",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "India-US close to signing trade deal 'soon': S Jaishankar",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdklJOVNmd2YyQjhQdmV3N0hqRFNsNUZMZ1R0U1d2c2VUeXZtdUktR2tfeGE0RHM1V3p1Y3lPWFFPdmk5WE9nQWVVZENPaU1QU1dXMmlrNDRvd0V2Y1RiVlFwTk1wODFpMkYxRF9DT3JNczRrSTBUdkkxSDZLaGpvZUpnRDM3ckJxaWxnNHZJY29qdFpSUWJSeUpZdTRwU3ZVMzNtVkM4SEFqU1E?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Deccan Herald",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Delimitation Bill back in focus amid uncertainty over next Parliament session",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSjBXc0JqRVJYdWJITDUwV19Xa1hzUF9sb1lRRmJPVHpZTE5lN25UQ3RMTmhFdk5jTzdLdUE1SGZvakctMXo1X2VEU0tPdVR6STFTSkxkel9DZERlU3FweUdiMkNqZEhad1lWcmhFaE84bnc3MUpsSE9jelpBTFRZUTJHMTNDb0Q4TWUxNGdvcThkYVpOcDdneTBqTnQzcXhVNTMwVmRiNUJJMFZ3SFNFLWg4VFdVVF85SnBKY1ZjOWZCNmhjVDJQZklqWDBGX1NTU2JPRQ?oc=5"
    }
   ],
   "decrypt.co": [
@@ -22566,6 +22930,15 @@
     ],
     "title": "India and Myanmar hold 8th Army Staff Talks in Naypyidaw to enhance bilateral defence cooperation and training",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWmlVaXlGVzYwQjhOR3V2ZWRzTnBHVkpfaXVxSWUyOTRJem5VRll1MEZ4RWM1WmVpOWpUQ0pKOUwyT2dJQ2h4c2xGZXRvdzJfdmlLQVpYaEw2clFONHk4SkZOekJOVUEwZFNuZ2JfVHVRQUVNSDFLTVZiYm51X1h6bGNpMHVaSkFpbnJIM2VldWN4Q3p2eExmUFh0X1BmQTItLXk3TEtlLXBpSkMxNFM0ME9nZG5MTWo5M251RkFWT2RlR1AwOW5KSkZUVFZ6QjJkV3VPS3hFek1naW9M?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Defence.in",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "Ahead of ASEAN Summit, India Eyes Malacca Strait Patrol Role with Littoral States to Track PLA Navy and Boost Maritime Security",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOdnE3WEFZU1ZBeWthWEM2NHpvQmw2ZmczUzRtbVFrdW54U29TRC1hVERxTllrY3p3WW4zRURvQ29XUnlrVFhtZnFhNXlhLThlTEVMb1MydTVJNDloc2FpcGdJUl9USnlScTNKaEdyZ2FwT3FuM3FibDc2OUJCbmt4RU9ObldnbGk1QjFPTG1YdlRFVHNLWFY3c1pEWFM0R3pyRlBRX09uWnlWbVZwNGRNVFhzczV0SlpzRnM0b3hDRU5CTElpWjZmdkZqcjlJamRiVWZxWFVFLV9ncnl1SlFVZG96OWlQSnBiejlhbTBkWV9HZw?oc=5"
    }
   ],
   "defence.newsd.in": [
@@ -22717,6 +23090,15 @@
     ],
     "title": "Hormuz Tanker Attacks Hit Record, Yet Oil Flows and Brent Hold Firm",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX0wtYkZ2TFViZWRWMXNFczdjTXRMY2JwdTZiWnM5b2k1anVQaFpvWlI4QXRrTkFfTU1xOUJldzJIeDdlSU1LMHZPYmVtYS1mR3A2RDQyTDNiVi1YeTlpMDMyRTlNVVRnaGI2RGtnbndGdWdnUGpVcXJYU3pUR0Z3ckgwbVhjZ1RTYXhnWVZOXzI?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Discovery Alert",
+    "sections": [
+     "finance.dedollarization"
+    ],
+    "title": "Central Bank Gold Buying Is Loosening Ethiopia Despite a 16% Rate",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUGxUdlJxczRrTTlHY1NlTFFYa1FUQWdUQUZOUGxocWV4ZmtaZTdneHZrZGlhUGhFWVhPb29CdU10MkVROHBUZTBWU1IyaldOSXJpbkk3OXhkYWlMc2w0ajcxWWxQTmg2Wk1MRFBadzlDeWROUWttTGxONFFjckFHcjQ0QnRKRnN5UkpKSA?oc=5"
    }
   ],
   "dmarketforces.com": [
@@ -22755,6 +23137,15 @@
     ],
     "title": "Crude Oil Prices Down In Week As Russian Exports Surge",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRVRqNUwzdzhjcml0MXlranBzVTRJSjBmRGY0OW91WFE1UzkxcVlOdFp1T1dQZVYzM2E1ZUVmYk51cmJmY3BjbmI4c2lVMXR4WExtaUJDTTZlak9BS1EyX2JkdFgwcmpYS3FLdVFKM1llajVsMnU1Rm80ZnZBRm5DalJ2N3I1WFZO?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "MarketForces Africa",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Ethereum Tumbles As Rising Fed Rate Hike Odds Trigger Crypto Selloff",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOM1hiLS15amtGVVYtdUpRTDZtZjFqM0dNNkFhN1otMHlBUFJFMUNfNlZZdXdCaXRBY3BiTFVCaEM0SUowdlZtYVVHNXBMdXp1X0ExV2NvWXZkdDdwdnA5cndNWlRYOGR1T2U5UHlSN0l5VVZ4Ti1zSlNpWWZlWXZJTW9EY3VXZXJWTGFITDF1a1VGalp4dHhiWkRtQQ?oc=5"
    }
   ],
   "dnpindia.in": [
@@ -23203,6 +23594,33 @@
     ],
     "title": "Battery PLI scheme achieves just 1.4 GWh capacity against 50 GWh target, faces delays: NITI Aayog report",
     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPem9xZjhhbWc2Ui1sc2NfRy1qNFFKT3BVRzNndG1aaUc5aWNYWktkaDRwcTNNNkI4MDNhZEUtRTNoMEM2ZVZVdkV2ZG0tTk14SEd3SnN6TWpSWThqNDVzd0ppV1FqUkNkaXZTWTVncmZ1MkZSdkJNZzVLVThEMEpVNlROQ3IwckQ3RTAxN0hpVzdyNE9sNVhfMjVlWnd3ZXROZDNsallRWENrNmJsc1htUkVjWUlmcHFlMFRqZXNtVE1nLW9Fb3BtaVJXZTlCWDhpUXBCczBiTWVsTFZ0RzR5VHRSd2tDeUh6ZWpVUXZLaWJyRWlFNS1qaVo3VmtjMVZVYTJXcEUyc9IBjAJBVV95cUxNdkFDSEUxZzdmZWhhazFWQUVuRmpVdFpGQ3FNV1pseUR1U0xvdGUzWXk3eGhaUVdnLThzNFNEU3B6WFF3NmhsQ0l1NlhmQjJkb1h1TlhVaWFiYVFjV21nYVlta2RpLTl2MzRka3JiZW1jOWVfa3NOMmNYZ29pa1oyYjBNVDhSLUZ3T0FzLUtzRkVCTlZlMjVWWkV3UnVTa3hKdnNuT05sQ1pSRjFOOEc0bmoySXZxYUtjSXJKeFBwSmMyR2xmNHpfZGtaZ21Pd0cxN2dFNlhNUTBSalRpVWR2OE1vMEczSG12UVNBdzFWNWlpVGZKc2NYSFZpM3pqYWhRclZvbEh4elF1WjZ6?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Economic Times",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "India-US trade deal: Lower tariffs than rival nations 'already agreed', says Piyush Goyal",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNV0hEV0tqUEJpeFdISVY1QkxSblpkaUJPTE9MbC1QOTFieGZJNVJxNVJVX0Q3c0w1WUVDZjBjVjY3eHpXLTJBanRQdEM1cHo3ZFRSLU5hbTJWcktnTXp0Y1RrY0swT08tT0R6OFVLdGs0TTk1dUFSZ0Vkbzk2U3prVS1SUVBTZXMxZTN3SEI5U1lnS3BpNEhJS2preTFHYVVGanRKem1WdmtEQ1VrSHZGSGQzc2R2a0lyVHpEaTNXWS1jdDIwUXdtLTFCUlJ4SWdET18xUXdoUUtFVVZEaVh5N3ZSOC12eVFGUWFVbHlqRVlNYWtM0gH6AUFVX3lxTE1LQkpxTVZ5YnA2di0yR2tYNHE3U2F1cnpGS3VIT1RZQWlLa29NZ3RzdG5MR0pBNVlXajBmazNqNXVCaVpDUEc0NHRWQXdEMy12V0duQmJBeUk2SUtFTWhVV2hrQ2pJYW81a3h2X1kzX3VXMWJDS1JwTzNGeEw5aC16Wmt0dEp3RklhVG5vdGJSeGVzb0lleTNsUXI5ZmkwNV9kdGIzbFVzLW1Id1FMREIwQ25fVWhMRVgwUzFzekYzd3dOVVBVVlFVQk9NWnJ2ZW1lbmRIX0dSNHc3c2VjSnQ1dzVKN0lsdHFwNUxLbjhuMDZraXBDT1hMTUE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Economic Times",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "PM Modi's Philippines visit to deepen strategic, defence and economic ties: Indian envoy",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPdEphNHl6ckRwOHhaNC1QbVJIUnZKNWtiNUlsMUZLU2JYeUQ5YjVXZ2djaXlCSjJ6bE1ZdzdfMkZsblRrWWFBcGN1VldwbEk2MDcyZUlsS3ZpWmZIZUk5ZU5qcWNjQldaeVhjSzgtbUo5S3otRUV5V0YtbmE4bWpLcUNMOEE5dXAzMXFlemgxQ1E4bjlmRlplVkd4YXNNZVZBSEpLUGR5SUdLdzMtNl9BdkxIMzVRRlFoYlVqcUhCSkU0Q010TEpVQXIzXzVHYzZwZWNLRXhGbjRoenBkdG9NMFBKNDTSAeoBQVVfeXFMUHl4ZVhDM2N1TUhiY0s3M2E2My1IcEptNlZCRkJiYlFrTzYxemt6MTZDaVNJQXNhUm80Qnp2N243S1ZzdEtWaWxIX0d0bHlIZjFXNW5zcGFlQ2ZXdVZMU0NFb2cxZUMzR1hUSDk0VFBIRWhqQWxYRFBFQzlKUzB4Y2YyanZEeWp0eGd3MTRhTlM1LV9Ya1dzaW01dmx2OU1mdTRiLU9mcFY3T0w2VVVRSlFsdXJCdTk2TTMzU3lHMXRXbWVvZUJQTWNsbkJ0ZE53UC1uZmdOYjZlbHZ5M0pOU3hSYkFNa1JSdWdn?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Economic Times",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Census 2027: UP self-enumeration begins November 16, households can submit details online",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdE82S3ctaFR0VmdadjlrbzJ2cEw5LXZTWkVEbkFhSU5vV0o1ZVMxSzhYMFhITUNUMDFsNkVCXzZ4QlplOWk4SWJGRHp3X3BpZzRzTnJiRmZQQmZxdkxsM05tcF9MeUJnU2RSM195Y2FrTTFhVkpVV1Bod0lIMDkwTWNLX3M3cjQzcl81Y2J3cGpsdTVvUzJTUkQ2V3oxdGc3MXFqSFh2a0xycDFfcDBNV083MTlEc2c5TDRkVThCcUdIOTZ4RFlHQVZyV3otaVYzNzZuUG12ckVnZzRYMGluZ0hPMFhHUknSAewBQVVfeXFMTzFZUmoySk81S3c3czVWQm1Pa05hR1JuWlI3R0ttZk5ycEJhZ0praHBEbnpQMEt2Z1dKeDZDamNPZFQwTUVCdk1JN1BGUHhaeVV3RHpURGhFOGwtamk0UTJGZE8ycmZMa1lucGNrdE4tS0M2VkQ4YzdSQUU1UXRxNlZPQWluejRjNzFRb3VTNWV5S0dHeFljX29JTjVWRUQyNFZ6MmZFb2Rsdkl2MGxqZEt4Tll0QmdhZkc4dHFiSXFEazFqSkRGQ25YdWZRYnYyQjZCZDJpTzM3bjNyVDlaM211dVNLQTBpY1lmTGQ?oc=5"
    }
   ],
   "economictimes.indiatimes.com": [
@@ -23413,6 +23831,15 @@
     ],
     "title": "IBM Ends Visa Sponsorship for Most IBM Consulting Roles: What Happens to H-1B and Green Card Employees?",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNSVcxWHRRYTFIbllYbG5WZ0hBWDg2YV9oTF9QUnNoZjVJN2RaeXZWMmYxTHc0b0pKZEZfUEFBVWY2UUZNWDFHOE5kNWs5dlFuQ1BQUWd1ZndmWVNqa215MzJUaDNLLXpJOUxTWlJUcVN5TUlsUjhjM0tBWFVoUHBBVXl4YkhIZkZJdWMtdFYyY0JEbEowdDI2UEQ4WjBkT2hSYVQ0NDdFZTFhVTRLbFRzb2ZvdVd0YlRxaTlsWV9vV3hQQ2tOcnRaRVNkQUIxZ3ZfS29nUEJ0RmZjcWM4dDAzTW1aUVd5U3UzVHcyRGVYUWdFLXVUWkE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Education Times",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "OBC Creamy Layer Rules: Supreme Court says \"Parents' salary alone cannot decide Non-Creamy Layer status\"",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdXdsa2tPdzJNSUstcFdNX0NpUy1EQWlCYjQwUjE1bW41WE81QUtiT3E4c216UVBZcV9kd2Y5dTBfOVNxSmJDWW1TcDVqVmNONFVZMU10Ny13WjZreEtucExCeEZJdEZNZ1FYWmZGdXNoeExFNk9MNjM2d25RZDM2TW5KazhMbnFqNlRQOWp4RXVPdXZFdFZoWmduU0JBNEczRGg2WW1NbjN6LTcyMzdITDI3NVN1TTdNbGE3UTQxX2tsYWxrbVc0R29waW9rSkZnRHRDMWRCd0JYRmlJYTVOc2FJelhkUWlrRUpYc2g1UXlTbzNLNTZjdlVB?oc=5"
    }
   ],
   "egov.eletsonline.com": [
@@ -23651,6 +24078,15 @@
     ],
     "title": "Bank of America Adds January 2027 Fed Rate Hike to Forecast",
     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BZ1pCbFM2dnZvZ0lTS3loc3ZrME5GWE5lNmw2YWRYWWF4ZmlKUVQ3NGJSa0RoTUpmVmtQM2NOWkZfY2tXV3dTcHpBREN0TmdRMmw4cw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "bloomingbit",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "stUSDT Halts Interest Payments, Begins Service Wind-Down",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIeGdLc0Z0Z3dwaU85YWtDX0tuYWV4YnliSnVuWUdRREtzN0gtbTA4RmZ6X3MyS2ZoUkFQck05SHlfWUNmZGNVYnFOcnUyOE1GeXVGcQ?oc=5"
    }
   ],
   "en.cryptonomist.ch": [
@@ -23943,6 +24379,15 @@
     ],
     "title": "Oil Prices Extend Gains on Escalating Middle East Hostilities",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOYTVmQ1BBdTZIYXo1S1hHSXlTR3lFY2NiS1Jna2g3YnJIRGVxZlFWcnB6LW95akNMckI4NmtFM3FlV01rcTVLNGtWWU4yN282NjJzbjY0QVY4VDdrR0hlUktBLWhfWHVpVFJkSE1FN0lkelVOS0VlV0daZkRCeVJJOGR6bGRuTUREby1kbHJ2Nkp1OGhxY2c?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "EnergyNow",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Drop 4% after Qatar, Bessent Raise Hopes of a US-Iran Deal",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdVZScXRaMUVtSFJ0ZW9mWUN6TGRWS2F6TkNvS1ZKMGVhY2dRbWc4ZEhZN05GWFE5SW5HN2t6MUJpLUh2dkx4ckY1ai10dHNLcjBhTnEwQ0RfbldOOVRRTWNDbE1EMlVFLUFWWWpieHVGZVh5bURRb0lzNUVmUURiTnpsX0JaTHRlTVRhdjF0bHFzZmpJS0E?oc=5"
    }
   ],
   "energynow.com": [
@@ -24296,6 +24741,42 @@
     ],
     "title": "Oil Prices Slip as U.S. Maintains Iran Blockade and Global Supply Outlook Weakens \u2014 WTI Near $88, Brent Below $96",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPTVJZa1R1M1hsZ2pTLXFJSUR2MlRLdVB4OGl3WTVRY1VKMlVIUmJWcm5lRkdlWEJCTkVqb3JpLVloQVpZRDJOdzdTVHJuclVISE4tSGZNUmFOQjlnczQ3bGEwQS1mQ2JIV1hHMktkb1VGc3M5cnN2STUyOGJGUWdfSVZuWDRpa1Ytd0I0YmpIWHBFWXAxN2FDQVJkdXdxWlRzUEQwbXdiU2U4QWpvb0N4d3FSNlBSeVRIQTRCZV9mN0pJbzAxTVo4VXp4cEg1ekRXcTEzMA?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Fly Blind as the Hormuz Enigma Deepens: Bousso",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQekw1WFJNUFRkc2k0UVUyRWEzSXJLV25ldkdCcC1hTDM4Y3N5amZGV3NXUWN1VHZUMVVMS3ktejJTbkJBQmoyMHFkeER4Y0E3b2VFYzlLY1lPaW5NZzY4U3BQUjNMR1duQVJoNTVpMXhJQnBuUGx6by1EWnYzOXNpY1FYSG16VXlISFh3NXlGcWs?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Rise as Hormuz Stays Shut Ahead of Trump Deadline, Strikes on Iran Intensify",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1F3aUd5aVRidkNSWEw1Q3M0cG5sVlNyRWZIdzhzcGJOZlQxOUpPaTRJcHhFZGlxcVpJOHRkZ2RlT25qWVlObDZDN1FrLWVTTDFtbkY3a2VJUXpySlE2emlFamVTVGNJV0cxa2xQYWQtTXhYVnprVkUtMU9SdU1tY0RBc2pmR0FEM29PXzRrak5yM3BqUVhxYkVGSTA2N2pkQ0hiOGUyMnpoRms?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "North Dakota Crude Output to Rise as Operators Eye High Oil Prices",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYXhlR1lCODJSZXp5bl80MUVkaTFjNFpkb3E2U1dzREhnZUdnQmVTOUFxTERNY0hsWUI4U2tDWV9fdURBOUM5Q2xsX1M0eHBzM2s2NHZQZFJLTE00ZWxab1V6VFp1NmhDMmhvV1FuRUxUZkktdzlxSV8wR0ZycEl2T1Z5VzRTM3JkVlFyY3hJV2FHX0p6X2dFTk9iZ3JrUQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "EnergyNow.com",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil Prices Extend Gains on Escalating Middle East Hostilities",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQkhhUjAwdlB6ckdSaEtIT2Q4ODRtdU1aeXZuVy1KZzF4SmZYdVh4RUh2eVl1em5oRURJMVgwcEp3SFJfU25ZU1o2OW9lS1FVQVVaalZwdGJOVlU1eTdoZ2RoV0gtb0VweEpoN0ZYU2NCX21MYTF2M2lESnM1WEJhWHc2VVhpR20yaEtHbFpraVoyMnF6VElF?oc=5"
    }
   ],
   "eng.belta.by": [
@@ -24537,6 +25018,17 @@
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSDRYNWJWZks5OURHQXFwamgyQ1pjT2dvQXUyM0c1aEdaYUhrOHBpS21Jel9acFJhRmZGRUVoODRONWlsSUFiWkVlSTUyNWtNTENOQVB6V3BmTVZDaWNleDNxSk9VSzFpMVJ3RHkxTW8xaTc3dXVNN2tOTkUtVGMwVlFRVWVHTHNqRmRTdXlFOFR3Zi11VUE0cjh6ekNrdnpjWHB5LUl1RHJsbGtkX1ZnNlZUV1Z5elZFdFZEaVpNOE5rS1VwQTBWbldWZnFGZUZlenB0a2Y4LWYxRFdvaFdhadIB5gFBVV95cUxNOFJlTmd0Vl9QQ2NsY3RLbGh2ZkR4VC1panNDQjRLelNzVDNsc2Y3emI0MGFDZjNTZ0VUV2J5LURtSnJtWjl2a3llYll0UWk5NGlibnpfNGlNTVUzR0pTLUYxUHhvM0czNXF5Z0h0NVpKaElPdUp6MnJxNzg3Y0R6NWk1MDFPV1NwNXBqdUpVb1h1SHlsSnNpUWRiMjAwMndGbDRobUgwZGFNSm9lQ2xhMWlTcEt2cmc3RElXSHFvTzNZUWhzV3liVGJRMjdYcmpGVVFWR3MzN3E5d1I1R0ZwSUt5LTBPQQ?oc=5"
    }
   ],
+  "environewsnigeria.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "EnviroNews Nigeria",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Navy discovers 56,800 litres of suspected stolen crude oil at illegal refining sites in Rivers",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYTU0Z3NJMWxvNkRkSFBPZUhkLUluc1dRanhGcHFsOWpLMXhCSXhYV0NjX21WVmVVdDBEVE1LUjcxZmtTeWVaV2RzNkNBX3dfcVRCazRVUGdNUS1LbHdCa2NocE5NOHBVMFpPNWpRN05XTnY1Y3BtT0pLMDFFaVY1dHVnT2VsS2ZCR1A0alRQNUl1RmNQdGVUc1djTnA3MUp5TVF0Xzg0ZlRkVjRVRWJrZEZUcU1CZFpvRjU1SUR3M3BtWXpyM09N?oc=5"
+   }
+  ],
   "eplindex.com": [
    {
     "date": "2026-11-03",
@@ -24626,6 +25118,15 @@
     ],
     "title": "Gold Price Today: Yellow metal holds near $4,100 as weak US dollar counters Fed rate hike bets",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS092X2pla0dnYWFQYS0tNnlBMEZ3M1duMlM5ZTRoWFo4aHdWbldOMlZsWkhMUXViMS1kZjVxSzJoZ25aWEg2X19TYk5SVEV3STJxazg4emFMcWl2ckc5bUNZSkVsc2p6eUVnak9IS3ZCcWNxMTcxNXZObWIyMmNMZWFhWkx2dGU3S3AxWElOQjg5VnZSTGcyM1gwcThTcWJ1RVBNZnA2dFhOOUMtN21TeGd6cW95X1B3R0JZcUJhaEwtemNWQnpQdnY3MnYwdC1Bbmk0WGdDT0hRV3fSAeABQVVfeXFMUDM4SHUxNzZRMzRKZV9XcEZGRlUzV3hab3F3bXNKVURFNFhpSkJHQTBFRTFPeUZYeEpDQVVRWFlkQVFGb21wcE4tYktSMmp4N1Zsc0xWNGNEZTBMcWVuOFFsUHdrWmZBZGtmWFJVb1QxRXM3VlhaSkYyXzBha3BzSXJnRXZxcElmV0IwVl9kYmxKNnM0SldSSkhGTVZObFJjQzhLWTBwM01WTXl2Z3RnYklabGZjU0xiZnl1N1JEWVJjMm0yZG5fbk5oWk1nNWVYdmt0ZUdPeGhUMU9qcUhiQzk?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ET Now",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "\u2018Finishing line\u2019: Jaishankar says India and US resolved bulk of trade deal issues, pact could be sealed soon",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOSGNNQW5MZXZVdWdqaS05STdpdGJocWxXRjhXQk5TQ2dldkFPVDhFcmN0UDZYZVhicGRTbW05U0xob2ltbXhrSWJCc1daS2owQ3d3ZDYzOTZXczRMZXJUTnBqanlTQ0dvbDNLaHd0T08zb1M4ZjRJWWxmZDByX1RiS1Q0N0dlOENHaUhTTGZpV1d1ZWhlaWpoejJSeWZkOHliLVQ0ZlA3ak9LMWhYY1BtdnFqUnNNWEZTbnpEalBSNUhWVVd2bjJTZ1g1ZHlsNEdRU1dUbTBaZzV1XzNIT1VNVmI5amM2c3U00gHuAUFVX3lxTE1BV2o2eUpmSW5yVDhDY0RNOHBxa3RoM3hlMHkyYTlabTUyY1dMMjR0dk5ndWozckEtYnNMa1dFcHByUjh0cUtJLTdLRkVxN1k3N2xxWEhvV2tmX1RfQUJHbTlnOG45cFQxTUpjSDYxWnMyOG5QaHg1WmRCbktlalRuLTRSUm9ZZndYWGExRHdtVnFEeTkweXlrLWR1ZlVWTVdpUlFCQXFVVTd2cmY3ZzVVZ0MtaW1UOVRHXzJvTUtDdmQtNU9RdVNXYnA3WHlyWVlXaHJNcFI5bHBQNERCTmc2YkpNSjBFZEtVWGU5Z1E?oc=5"
    }
   ],
   "eturbonews.com": [
@@ -25179,6 +25680,15 @@
     ],
     "title": "Crude Oil Futures Head for Second Straight Weekly Loss as IEA Flags \"Oversupply,\" Shifting Market's Center of Gravity",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGZVdDbVhSOHE0QjdjeVNkMnhJQ0VtVldvd1ZraGpLSHU3b1hCMVF0U0J4Q1gzWFlPb21yOG5iVDE0UUhxcVQwa3FadEdmYVpzS3dPTkd6Mnk2SmdMZElLX1VERTBLLTZRdjRDTlFSNUN1cnZ1MHc?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "BigGo Finance",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Global Oil Prices Plunge for Second Straight Week; Vietnam Retail Prices Fall for Fourth Time",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA1QUIxekNHQVFGR1JTYkRSZFNHbmJKd2xDLVBDTFZGdktPRHZSMTRqbWpLcDhMeHdyVFZEQkgyTXJNZjh4WTVhdV9fUHp5RFY0dExfZ1VrNTlwZ1NxY2Y2X2haQ3hkWDAzSEZudlpRa1RLN0ZBM1E?oc=5"
    }
   ],
   "financefeeds.com": [
@@ -25226,6 +25736,24 @@
     ],
     "title": "Brent Crude Oil Price: $98.32 Saturday as US-Iran Deal Bets and Tuesday\u2019s CPI Frame the Week, Bull $105, Bear $93",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaTFUQU5ROWp6UF8tVkl6R3hHMkdnVnkwYi1pZzUxNnFiVUFITEdxTGNacTZpaWtZWWdGRnJweXNNRThBWDI5N1J4TURpMk9RdEJMNER1dHZLR29GdGJJOWdSdmNUM0dETVk5ZHJ2dUk1aTRKclprSmtfNDktN2lTLWpyNjRyYl9Sb0FCckRSR2VPSnpiYWxtclRZSDdlUE9Xdm9ZMlVPZkNIdGZ6dXJXckhOUkQ4NUdvVHFqQWl4b3ZiUQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "FinanceFeeds",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent Crude Oil Price: $95.84 Sunday Before the Futures Open, Iran Mine Claims, Bull $98, Bear $91",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcVN2NXRkckxzTEk1eW9xVE1JTkgtTU01aHROaDJiNEFYbDJwLW1DQV83RkZZRnJ2NU1MUFJQLXdDanN6WTZVUlJyUFpKT3MtNk0zWl9qeWd2aEVlVFNmNno2QXZJeGFRWElJU1o4SWtCYTNYNDhia1FzcmZYMjlXM3J3ZFdBOS1VVGhLUFkxT3dfUklxampZajM3OVNkWmxZdUZHdWtHTExZd3ZhVS05Mk81ZU9fQ1Vl?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "FinanceFeeds",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Brent Crude Oil Price: $95.84 Saturday Week Ahead After a Second Weekly Loss, Bull $98, Bear $91",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHhHU2c1emhwOERkZ0JhUW5Fc2NCS1JaOHpDSVBETWhwZThvU211eXRGNF9zSXp1UFlLbUZHY1c3UXZRdFFXdzQ3YzZ5ZEFyV0tweWNQUnFkNU8zN2IwemhZbTBBV3RrSXM1NEhPTjlyeE1HZkl2TmRIOXdyTUx0QkIxWllLLU9EOHVzOEF6aEY1bFh4SlNZTTlDcGFSRExjR0MzcWg4QTJXOE9J?oc=5"
    }
   ],
   "financialexpress.com": [
@@ -25291,6 +25819,15 @@
     ],
     "title": "US assures India of tariff edge under trade pact: Officials",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQnZNSVN1dE9iWm53eTg5TVg0em9yUS1XbkdPa0llclpHSEtJaUM5TllLaVBKUHA5Z1V3cm0yVGh2a0xPbVJiVlhfaFJOQlZ2TVQya2x6alVnbmtxUmxnSWlpS2ljZTRyOGx6SkFKTzc0ajBONUxXYXV2NGdoYmdvY0FwRzZSVE8wbkxrMU9wb09zd3pKZm5ndDI4YmRNYlVyMlpTb2JIYVcwSENQZEVqVXlLR0hjWlBOLWxFZGJLbDZXWlBYOVdkR3ZQZ9IB0gFBVV95cUxPX2tiZ2JXb2QyZlE4MGU3UDNLaVZRTjVjY1Z0MXM5cUxNbU5kc01MTVlVdDA4Q09yN1dsRU9QVkU4N0FLZmlsbFJ0c1o4RzExSUdmZkFNcHBpOXFFalJfVE9VeVc5LWc0YTNVVXpFUlgxM1d1cW41a0JSejNfalZyUTBhTVJpb0t2UWxmTWJHci1vVjUyT0xNWXhNQklmR2VCcFp6dmFxQW9RS3MtdnRLWC1HeUZsVTJWVXp3bUxTMVdsZzRpODM0S0xnV05qTmZYWFE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Financial Express",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "RBI rejects MFIs\u2019 demand to ease rules on income-repayment ratio",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDFrOTc1TVBwZ05XZGdCaVRLcVlhVEsyN2cwd0FlNWtZdWJTNFIzUTFlRmVHdzdaaVpQRU1jVFpPdGpSN0FsamN5YjlFTGZpU3ZfT2dnX3JmeVR1WmdXWFhablpfeXdYQnNhX09EeGJaVGlhWHF0OGdzNE9zSzR0ZVd4Z1NVQll0aFVobGluWkllYlM5Q1pYU0RSQm9Pc1BvX19DalZfeFFqQmVmOVFwTXBva1RKN0Ztdmc3S2dYTlMtRnZlSGY4blVR0gHQAUFVX3lxTE9xWjJoVUFvSnY4aVg3SkNKMEpVUmp6U3AwVWdBUmN4enJNOGJKN3B6ZkdfQVdWZ0ptT1JOamN5SXZsMFlpSEVpTjktdDFBNGJ3X3VQT3pBSEdidGx6cUhQc0xhcEVxZ0R2a0xBQU1LZGg4MUNMTGllOTlmZDhrWTloc0VBUFllaG0xMGVReU52V3A2LWtodmNQSHpJaFlaa0hkNTVDLXdpM1YtcnRZRDZPYmk1Z2hWV2JCejVfSHpqNXBJRExISVJ3TVgzN2MxT3Y?oc=5"
    }
   ],
   "financialpost.com": [
@@ -25416,6 +25953,17 @@
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzR3WW5ZR3luVUczMzVITHpTQlZFeFdPTjRWUVVrX0UwQUtJREpwYzJrVmFjY3YzeEh1bWxsMjF4VkpUb3JRaF9ZaVd1Ti1EblRVNTdZUHR3eW5Tb2ZaWHR3aFFxbHR0WWZFeGVtZ05PcXl3LU9yQ0p6ODFQWmVHZ1dqU082emE5d2pqbldOMVJUbzlsaTl4TkJhSm9iOUJiRTh5OV94ZnVrUTZVTFp2dERFam5uYTFJRHg3X1diVQ?oc=5"
    }
   ],
+  "football.london": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Football London",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Tottenham's \u00a350million blow as Premier League duo circle for January transfer",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdlZoZWhEUEVBTjNGNERHN21ETVBhbEwzQ0lla0JCWlpBTnotWG9NMWM5Z3NocU9yaHdiRHN4VTlFMUh5Z01OeTUydW55V1dGMGZQcXdCazRqN2VEOHdsOUp3VmdRaGJMYXpKSzlROHkyQU80MUpnVk1DcWV2STE0R3ZyRmZZNzFmV1otM3FZclloNEswTzlkNEJ4eVBydXJDdWt3WV9JdVgxbEZndnJNd1l30gG3AUFVX3lxTE03SGFFTUxFU05WdnZ0QTRjVnZPVk9HRXJITGxxeUF5a09WZjJveVVIWnRBNnRxVlZMWkJhaTh5MDNEc2l2QWtTSE0yWEZIYmJQTU1pM0xhSlNTMFVZT3QzVzd4WFUtSVM1ZEpFT0V2YnZiQ21FQ0pvbU45bkxkZVJORHdUZXdEa3hrUHhMX1pmRFl3N2xWS2JfQVVHUjVwN0wwV3p0VG9pYnR3NnhmZkZ1bDVubHl5UQ?oc=5"
+   }
+  ],
   "football360.com.au": [
    {
     "date": "2026-11-08",
@@ -25454,6 +26002,15 @@
     ],
     "title": "Best Premier League transfers of the season XI gives Spurs reason to laugh and cry",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0h2bmxCaHg4NXFJNEMzdFhpaWNEOFNzVnoydHJEOEwtSGI4UkhPUThMTklIQ0FVYnRwVFFhNnQwbnBfOElpUVdSSWhJMzh5RTVLMlpaU25VV1E0b20tSzZoSDJpRTlGWlEtY29WZ2lKaHNycl85cnZuVm1GRkxDa2NB?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Football365",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Pochettino reaches decision on first Man Utd defender signing in \u00a355m deal",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUjlpVW5WYzV5QkFJc0RUNy1vbk1lelF3U2JvQWRONFRWeFRCMXRJbUZLOE5vUDd6Rk53YVNoUnFCVzVFdmtnNExtWnVha3BCRFQ2Z1ZNc0FiVmxKeUtkY3ZkcUhnUUU2eFROaVEwMHhNbW5RRDdONzJWYTYxcHBjN1JMaw?oc=5"
    }
   ],
   "footballfancast.com": [
@@ -25559,6 +26116,17 @@
     ],
     "title": "Exclusive: Former Premier League Star Reveals Wigan Athletic Talks Before Hull City Transfer Hijack",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPd09sTXdUTEoyQVU5UXhOcFNxWTVCNzJzRW1SeGxENE1nWnB1d2tOdWJ2YWd4ZVpHQUw5dHJtVnpJbFJ5YUE1ZmJfejQtR0c0WV83Y3lFZWVMYWRISEdVTWd5aXh5eG9wWnktVTR6ZnBKekg1MjZ0OWVzS3JWSlhTNlVrN0gtbjctRGM5NVNDREhiYzJVS2hzZU1pUFQ5b25jdXpZcG1rQW9VRDFDVV84WXNfSHI5R2o1N0IyN3lPOVkzR2RyaEE?oc=5"
+   }
+  ],
+  "footballmuse.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "https://www.footballmuse.com/",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Premier League giants circle as RB Leipzig face \u20ac100m transfer sales",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUW1HSjUtMVNJM0lmX05sX05WQTZUMlV1OUFzc0RQOVZRNk8xVW1xUkp1M2t5ejlIbUVwN3R0MVRRN0gteWxzMUUwaEpQU0FtOEVwU3Z4WUM2YVRFcEZlYUlmY2xHZ1BQMS11NDFPYjEzc3FCSjI3WFZKQ2I1bklQbUxzd0pfeUlJNy1hRFYtM2g1a3dsd0dZQm5ocGIwUm9mYWc?oc=5"
    }
   ],
   "footballtoday.com": [
@@ -25846,6 +26414,15 @@
     ],
     "title": "US Treasury Auction Results",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10ZW52dkhXNFFMVGNRNnVaQ0MtZFpZOVBVLXBlXzZOdUFJT1FseUR0N3UxSVNEMkhId0xtbURfTVp2elZwcEJ5WWlGUWM2ZFFaVVBKVFJYODB5OTN5VHdrUmFQajJ1T2N0ME1lN3NNMGdvUEZucG1VUNIBfkFVX3lxTE9neUtvRl9MOEV2d0l3Z3g4V2phbEVacGl3V0lpWVQ0SlJwRUtfZFdlelVlcEpBSUh1Rnk2Zkh1dGJ3d2FLX1JvWDVzOHp4UFlvRjZ1aHlCVXJoRW52dFFjamNqTXM1aTluekFYVWRTVldoVEhYWHhTWktHc2pMUQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Forex Factory",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "France October inflation accelerates as energy prices surge, keeping ECB rate hike bets alive",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd0psZzF6MXB0MW5uUE5nWW9TNnY5a1E0SzMzUEh2d1lQNnFJS1hVM1dyUk5JcUtzWWhSNHVoUVBRMGRVaDJBUkF5eUdrdU8zWlhUQ0JEeXZYRVUydzFEczFKc05jWUpsZVE3NFhWUTV1MTdQRXZvVjFEYUZsQzhpWG1xdGpGV3pCSk5UWHFnMlB4Nzh6SmxnZEtCa1ZMNE5sUkNv0gGoAUFVX3lxTE5OVUNfS210eTVKNjk5VUg1cTNWYVphQXdPUURUSnpoV2FKcmhhSU5YZlY2NTlSYjVPbjhwdGtWTHRSdUZQd24xRlZiZ0FJc2ZJR19MZHd4UkVOSkZSM2dIY1Z0RW9lem9ud2RrX3hBLUV4N1NFbi1VemFyYmdkVFAxTnFlT1NQRU43ME9LZXZONnQxaWF0YTZkcGZFRVZiRFZZWUF3THBQMA?oc=5"
    }
   ],
   "forklog.com": [
@@ -26151,6 +26728,33 @@
     ],
     "title": "Bhopal Global Investors Summit 2027 To Feature Three Helipads For PM Modi, 20-Acre Tent City And Parking For 5,000 Vehicles",
     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPbWNsRUpEaVkzY3BZZnJJVkFPbjNmZzNISG1pb3lUSEJDV3RwMzNsMGRPSU9vOTJ4enhQYm9aeXFhTTZQb2ZxdzlKek1LRE8xanJETVF4eFRtekE0OGpWMm40MFZGOTVVUGV1UzBKRmtRREdhdU0tYllyRnQ1SFZ0RzlWSU4tdXVseXlTTmtaeGxLeUpWS0lwb29xb1E4alhEV0RDaTRHdC1zY2R3aE9KWUhGLXI5aEZzTXdrc29jV3BTUHFCSU1XY2JvdkVlMnhoMUV0V21BcHkwSkhQZ3lqdk1BRkdkY2NzT1FkNXUwOEhPdw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Free Press Journal",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "India-US Trade Deal Nears Final Breakthrough As EAM S Jaishankar Says Bulk Of Issues Resolved",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdC1nVEdSOWhrOHNuRXJkeUFBZW9TaFdkeTNQQkNMREI3MW5yMEZRNFBBMVRsT0c0dTBnT2NfZmRBMEZsZmVPb3JnRnFLNWItVTBBWjR3d2FKWV8wZkpYQTRVb3ZsUmZMWE1HUkk3RDdsMEFBdmlic3J6ZzdOLWstTjRjR1dmNm1IRnNCLVhJV01vdno0VFR1dFdnSGhXd0RpTV9sMUZhOS1qOHVma2c2VG9nT2M4SG9rNmRGc2tlS2g5VVMwbkE2M01hQdIB0AFBVV95cUxPZEVlckd2YWM4YzY1a0hnMzBfRUJOSlpTLXY4aU1iSWJjUmJvWTlrVjZWbzE1aC1wTDdTUE5TRnhfM2JJTWM4dm9kUmFjS2xrYTgxaG1Cb2gyUWQ3RnNGemY4dTdxUEpTU250LVIzOU9QU095Mk82TGQ5MjBLSXNfVjV0bi1TdG9RelFuNTdnU0V2MzBBVWhfaUsxbVFJWnFzU1dYWk5HejN4WkNOSUZfd2ZVZTBybnpmSEVQVkhTM0dCam1lWmFKaVNQVWlTcVNw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Free Press Journal",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude Oil Prices May Fall Further Next Week, Brent Could Slip To $90\u201392 As Supply Pressure Mounts",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPWk5xYUdBUUtsWUpmWXdaaW5vUkozTEVJMF84cHlWcHd2WlZpWDdFLThSd1ZJd1NZNmJYS0pBSFZhUlJBLV9QbVNZOXZ4R0FhdElON3k3WnpUOHc3alJZTTR4VGJQeDI1VE05RjZPeEhzQ2JxNkxib1BkMk1qMENxU1Z0RFRXbkYtMkdhSGNZWExSRjZGb3NKLXU4QVVWVzVvcmVPRnVCNG1MaWJFMVRaM0pCUmNmX0dBQTI1ZXE1QnBjNGItV1VpaVlEMU4zUjJK0gHWAUFVX3lxTFBraUMxOF9hbm5HTHpHVGYyeVZkOWdxSjZESTVLMEtWQi1KNlItbzl1cTU5YTUtTlVXUWFCaXFSbHBLbnNfbUxrTlB2YkxRckdMeXAwM1U5cjFwcm9yaXQ3XzBpQUN1NXcxZEliU3NNSGw0UXRfTTBPZFB3RTVsX09kV3BYWms2SDVxTlZZS25mX1dBM0wyUzZiTlBGcmw4aXd1QV96NnJsR3JMMmFIaUxxM0tFUnB2MjFDUU9NMjR6RkNXQmlmemttdklld1V6QkQ5ZXdEVnc?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Free Press Journal",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NCP-SP MP Supriya Sule Open To Delimitation Proposal If Lok Sabha Seats Rise 50% Across All States",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQSFh2U3VhUXJOc3JoU0lwdHZqWENTQW1RNWJhakpVRVVkczRSVGtQbXEyX1pybzZCUk5XdGJ1Ql9aaVBEU0JIVTU2Q1FCMGs3OXhmUEhXT2JHVWxxcEFsSVVNWWJXQVIxeTFmSjNFTVlXaXVFYmNhM3JjX3oxQTBvZGVjYlEtMDJyRDRPY0FUSENPZjRmY1g3N3FUWFNaS05GRWQtbHFuU28xS0xWWVBJdNIBtgFBVV95cUxPTUxOT1RKR0VyYUNKOWUtY0tIT2ZObG9zYzk4Vzg5ekx3UUtqcS0xTm9kTmlSa1FpclE4NUJkd295cl9fUWZnY3cwTlV3Mm1WZVlOenZpQ0dVSHhtZzNvZ2JhdjU2djl2VHVYTlpnN3NVQzlkNUNHT0RlazdJdDlwbS1RY2NEVm1HWHdfcU5xOHlubFRNdVBRU095Q1BsZlE2NEVrb1JEYWdOQ1BNUU9jTEdhYTVPdw?oc=5"
    }
   ],
   "ftlsomalia.com": [
@@ -26803,6 +27407,15 @@
     ],
     "title": "PH envoy hopes changes in immigration policy after Democrats win US Congress",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYXVveEJlOXZpdzJnX0hpMFZab1FHNWE4SGM2cm5sTEJOSzVKVk5wZkUxWHNFNW5zUWk4b1hib21fSHNUZ1MteFRiS0pyaFBGU2lTUnk4NWk4UVBKX0RjanhGZGdzWENiR3hfak1UU2lHMERwU3lyTGZ3X2wyclJ0c1BLbXdycUwtVWdGcW5oc3ljbHdNaHRfNVpEeFJMbzBMWUtaNVFST3JXS29sbTU4eG51blRmYU1PdDlxTlZwdHFXM2plbGNzRjVGSzU3MjhfbU5HTmNsSHEwSkJG0gHiAUFVX3lxTFBqVlNRNnZXN0stWnBITTJmai0yRzFucXpVSHVIRHh1SGFiNS1XVXpZMGNlM2ZSS1oySnMtYmw0UWdYaHhVQWQ5aDc4eDlLUHBsWXpHSGJJdU9kY1NJMGJYVHdSRnFVUHdTUlczeWJ3cTIwV2NaQmFHNmFKMG5oOHRZeVpuUHR3cmxxN1dFS2RTWlpGTldwYV9hd0kwbXVGMEpHbGV1WGJMdjljS0Zma1dpbGlUUHBKdWNnT3Yxb3FRekYtYWdtRzlDbEZESmJFdy1HMmRIWm5rdU1OVTFNVGdjQVE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "GMA Network",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "EXPLAINER: Will oil prices keep falling after Democrats' US midterm win?",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU3JmSDdRU0JsVzZLVjRWc25ubW8tOUVYWlctMTBBVVpHQzNSaXNVN0kwbTJJbHdPbjVBZlA2akNIMW5HNWw4eHZLTXhWQmZTazB5SUY1QzU5NktPWVRpaEtRNk9vdVFTbElvald5bnRWZ2R6WS1hR05memVlbExPczF0YWpWc0RlblBxV0VvU0w0TV84OHpuQXktQzEyVDlISjJuY2pvckxQY29oMkZTMGItRVpObG5BdERMMlJ6UW5nNm85RktWY21B0gHPAUFVX3lxTFBxNVM1MzlpYXpKbENOekR3VWE2cFZNVW5ublNhWEhQY2s5TDhNZzF1aVVvaTdtS3Z0NmVVUUtBVmxvMVRRWTkwZVMxQUtoTDh5ZGdLUjlHRHRObW5hUEl4UzR3VVFldnpwZ19EMDBXNTRTeHdvcERVeGc1V2hINGNmUUpVd2xVZ0t0a0pxU1lkSXNTcC1LMWpLRnVGRDRSU3pTV3JlUkVla3VGYkd0Vk9wS3FDb0hOSGZNOVhmSlFTWEZrMkZuZ0Jwd1k0MUh0cw?oc=5"
    }
   ],
   "goal.com": [
@@ -26986,6 +27599,24 @@
     ],
     "title": "Global Technology Summit 2025 begins in Delhi; EAM Jaishankar to highlight \u2018possibilities\u2019 in emerging t..",
     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPX3ZISGlpRDZlckNhRDZlSUNSYmE1YlNETE4xSm1TelRuNlllVzlzVTdZXzFjem5vckVOc0p3LW5GWTJycHZjNWJzTjRXQUlXM2NTZFl3Q3hhUV9XcnRjTHNCbEVGcDd2ZUQtdXFtdERsWVlOaVV1elhUOHpxTEJOMHhpaWZTV3VqeURFMDUzTnRXNzR5TXh2TVpuUXFUSU9iLVg4OTl6MHhRbjNMRXpsdDVnY2hwd25VN3g4UFNCWGZoMDR5WGROejN3akdkME9wXzFWcHBUN01SbDdSZFl2Y1dnNFA1bk90czRpQ3E0YzZtRldPZks0ajVRODhjWUNxbG5RZk1idGNoNlI5dHhOSEdmMNIBjgJBVV95cUxOU2xETUg1d1U0YmJyWHBIcTJNV2ZhckdUdUk1ZmlqZVZXUTZrRExOVEF0VDhZMk9kNHdndEV3YzluOFFfYU5kOUdESC13Z284UXB2R2ZrYTJrNXladFcyVGt6THJBZXdQaWpOTHBiZ2J3VUxXdURNYlJ1SjN2dl9sdm9Sano4MThETHlhM2g1VzJsSWhaYmNRR3E3aUxRdGRUTnhoNk5FdTB6TE5QRkItX2NNUlY5alRzc1UtN1JweHViT1N2SURkQmNFckp2djJrbHJCSkpFa1pMUXAtVmw4bHRLNlYwbFRIZ2cyanNJV3N5ekxPdlBoZlhjQW1xQjFHa2x2QV93eU82bGxhbFE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ET Government",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Amit Sharma to lead Indian delegation for UNFPA-supported census mission to Trinidad and Tobago",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYUcwbURnVGVnaVMxSlJyOGE0ZkR6RGZMX01STEl5MWpTN2NlN280REZiOFVUQXprSXRVNnJDMUxGZUpDTE5QREVBWmc3UUVjNnhZZEpZcE1TM3ZoQ3ZCYmFYTWt1YV9DRmxldmgyLTNuTEIwS20yZXJSb2REXzY4MHdob0NmRUItNGNrQXA4dURGcWNFejVKOWpza1VHWkxDQW51dF9ndUV5RWZXT1JzMDNwM2tmMjZlWnU0eHJJUkpGRUN0R3p1aW91TWZKQ1FJdjlzUlVER1RrTDNXNGI3N1ZNYTc5NGYwT3NYZnhRWUdybUVwMjZjeWdibzJ5UdIBggJBVV95cUxQTmd2Umt4VGdiYjFKT21Yb3lZekwzLXNBT2FtT2h3ME52TzFoZE5GWUozTElQZEY0bWluMG9WVGJPYUxyVkVDVkFvTzRIOFgxdnUzcWFLejh1UXdVbEl2OFZDd2JYSEVoT1FOdG9aS2JhdW1hTXpfbjBaNWJXYUFZUkhWYzI2UzdURjVBTlJzdXExc1BSdDVKV2xHQm1DRDBGSkN1R2hlS3dvV2Jsdm5uOEZ5YVJBQjVESXE2ODJuWm9EQVRNWGhfUTZmRWNIeTBlZHFoMU9WOUllMGRqYmpOcTZla1VrS1FvUmo0TmQtdG5EM1FTNzl5blZoVl9SRkl3T1E?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "ET Government",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "DPDP framework takes shape: Can consent managers give citizens control over data?",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOV2VEWWU0eXF1MTJtVU9OcmNIaGljZ0NMbDRBT0R4cHVvbWg2R29oS0cwUFZKdno1dGh6cUEtYXZZVEVKa2tPSU1QNEo2YTlCOVk0MTlXcFl0TEZXM0JSZm91S2lWa1FOdFJTRHR1b2NmN2VFMVJlMUoxYV8yajgwWFY4dEU0RU9xR0dpbDE1MngyejJhSjdsV2hBMXEtSWludWxtZ3JoRXhHYjVmZWlLb0xLelUtaHJubkNfY1VLbkhZSWxsLTFDbnI5SXMzcEl2RjVpZWZCS1pHajdqTFowX3dTdmtTM0NETmp5adIB8AFBVV95cUxONC1FR0p3enZpSUtxY2VaTFktY2pFaURDWDdaT0JnaEZlYWNNVXBIa3JPbEt2SGtwZzNEXzFvTXJqY1FneHA5WlFaUUp0RkZ4NmZfU1FxdjRzUWM0cHZYMmtVYnlTYXRNQmxUMjl0dlZLa3Y1c01Kakdlajlqa1U4RTAzYjBmc0M1UWcyakE4anMwcE1HQmNzMTI4TVhVOEFramkwZDhNSnBiV1FrY3dnNEJaTEJ6NE5aSzItTmQtLTNXZzNQWWdDVGVZLUJqLXBXMm1DR2JlQnV4R0ozQnZnZ25pbWRHQkR1b2J5dl9veVM?oc=5"
    }
   ],
   "grafa.com": [
@@ -27017,6 +27648,24 @@
     ],
     "title": "Union cabinet extends Stand-Up India Scheme till March 31, 2031",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNkdIeXVFUFJ0cExSNnY5bzJSQ1pyQVNCOUNicW5uajEtSnFhZ1pLaHZucFVYLTI5X3c5VEZYWjc3NXo4UldnNzlIMUNuZ2R0cUNfaXJ3TmFPY3BOb1cxV2NtYjRZY29KOWEweWxNREJpNWs0Q29Sem1wR1REV3ZtNVpwMUh5d2hxamZKNExHNmtWbDh0ZlNVblh3akZTX21NenBtUUtjeEFUZmlTVXNiT9IBtgFBVV95cUxOU0Q2dTFkYVlTZ25yWUk2Ukx1blFTYUZidlZacmZ6aVV2RmZzanBQTFN4SW1iSnNfajNmVWhMaW53MktpZVZXOVBTQ1I1a01PUV9YU3U3SDgwdUg0eF93dzBFS005QkhDTm5tUlpoWHNyX0M5MjR2R2JsektBMmpCYXJsekxBVl8tNndsZFlfVnJ1VFNVYnJhcXV0WTYtV0Y0dW0tUWVJMnZKUFpNd0dEU3duRXRVdw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Greater Kashmir",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog to launch five national workshops to draw lessons from PM Modi\u2019s 25 years as head of government",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNbHZUVGxPUmRfaldid0txdUVJdlhRNjdZb0pnaGp6WWhLcGxJZ0dEZ2xBSGZEUEJKc2N0M2llS2M1THRIOUNtQkh2Sm9LTWlWX25WNEpLUENBZ3E3RTFIZ2FERF9DcGlsUGZhLTAtSXJhdS1MU2loeHczMEY3RThITXJTTWNSVWtTZGg0Q1NoQzByRE9qaXNMUVhjc2xoOW5GbzdyTW5PYzcxdXJCelJ6S2lZS1hocUdLY1gxUG14aFo4T2haM3NJc00zY2pyUWRwaC1QeHEzaXVVTkVQRDNDMDZfbHNCX0Q4TWs3bVFud9IB7wFBVV95cUxNbHZUVGxPUmRfaldid0txdUVJdlhRNjdZb0pnaGp6WWhLcGxJZ0dEZ2xBSGZEUEJKc2N0M2llS2M1THRIOUNtQkh2Sm9LTWlWX25WNEpLUENBZ3E3RTFIZ2FERF9DcGlsUGZhLTAtSXJhdS1MU2loeHczMEY3RThITXJTTWNSVWtTZGg0Q1NoQzByRE9qaXNMUVhjc2xoOW5GbzdyTW5PYzcxdXJCelJ6S2lZS1hocUdLY1gxUG14aFo4T2haM3NJc00zY2pyUWRwaC1QeHEzaXVVTkVQRDNDMDZfbHNCX0Q4TWs3bVFudw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Greater Kashmir",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Amit Sharma to lead UNFPA census preparedness mission to Latin America",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMVg2VnItTGdZZUxpS1ZlcWpKc0pRTGc2X2ZDYWZLUmdPc2tsdDBoZEpsUlJPU1doYnprT18wSmozMk9mZFl3TnFxbGZIdnZ3TFlESFRGd1NfV1drOXIwSEhvUG1rWEVUSm04N21hVG44TGlQMHJPeEJtVGdIbHdqbm5WY1M4bDZYYV9yMGh2aHNYVElFQkdoLWZXYm4tX1c1MFl5THJ4bkplMHNMOEgzZ3Q4MlVuU3fSAbwBQVVfeXFMUEYtZnI4ckFJUUxqZ2dQMWNJOTYzVGYzZG50cGkyX2YwOUNQMVNTNXJVRGF2eGVsZWNuaUNGc2N0NTBBWkhkaDJnS2dyNmxxZEVwZ01MVUZvNjhKRFl3dXhIV3pXWTZiS2ZpQmV5T0NuX29UQ2Z2SUl3SG5vZW9vdVNjU3BKU0Zqb2tfRUtHbC1OY1c0VVJxcWNqM1E2NXVLN2UxZTc0UXhzdnBueEM4MzA0VEpNTVUxTnBLVzc?oc=5"
    }
   ],
   "guardian.co.tt": [
@@ -27246,6 +27895,17 @@
     ],
     "title": "Orla Prendergast makes history with WPL signing",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5uQm4wX3VXc3BRazJvYW9VYktHenF1ZVBwV1pmVzlsSnpjX2JjYWlWTWpsM05aNWpNZS1sZnhlbVI1VVFFVmt6UFh1b1l2ZGRFQ09JQVJZakphMjRYTDRSQWV0UHlBbzAtd1pBVWJuUkJ3MENOdll4MTh3?oc=5"
+   }
+  ],
+  "hokanews.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Hokanews",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "U.S. National Debt Rises by $1.1 Trillion in Four Months as Trump Proposes $1.5 Trillion Military Budget",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXFFQlVDenUzN3JXLWNyNklNZE9VZHd3bVctcnk5MW1GZlpiN29USzk5b0tobi1jWU9va2xkaUxVWXByR2NpTWZNU0llS2VIUUxEbjdjSmxiV0FES1E2dEE1ZEFBdXVEcWdyYlJPX2N0MlIxTGo0WExzS3VnX181cA?oc=5"
    }
   ],
   "home.saxo": [
@@ -27695,6 +28355,15 @@
     ],
     "title": "U.S. dollar surges to biggest weekly gains since September on Fed hike certainty",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZG9jcHdaY04wYU9OTFE4OVNwNmo5VUFzQTQyTUl6UjJ0OUtWSi1ST1VFRlN2OXRPMy10aDhtcGkwZHh4UG00SEphbXk2dGFHSzVCd21PT2E0TUNEU3BuT0JjbkFFbFhKZHJxd0VlaXN3emVzVHIxWXJyTjRpa29ybVV0OGNYWHlxT1gwYnZiUWh6NWhtVExqQS1FNW1WRHVDSjNDRGM1QXR0bkgtZVlQNDdZRGhDOExDbXd5M0FvRVhPOUw4V2c?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Investing.com India",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Spot gold posts worst week since March amid jump in Fed rate hike expectations By Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOS0lpdDNCT2s1bWs1R0RmNlRWaVd4Rm5mczdYTW1WRTFwcHdWQzBwblZ0M2h3ZnJZeVB4MncweGFTeGVTTlBJTmNCRkg4dzFQU3dUdEdZRHdTb1VxN1JYenprbnlPSGJlc2tkSWM2ckIyS29vVmNEX0JHWV9VTndIcTlmY3JGYll3QW9KMDZSRGVHSE8yVl9pWldnaEFyODBCTGFyMHVnQWlIQmlDQjdGdGpOSFI3LVJONTB2TDQ4X1U?oc=5"
    }
   ],
   "ina.iq": [
@@ -27766,6 +28435,15 @@
     ],
     "title": "Mortgages expected to rise again as experts say third ECB rate hike is \u2018increasingly certain\u2019",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZDVyX3J3RnR1MUE0V0tzdU5fcENpa2pJUzRERUhDd3EtS1hVQjhvdFRtdnRXUDJBNXRTVEdoX1ZMN1RiRHM3RnNxZlRzTTJHdnR6RW9TS3BOQ2Zuc1hIeDE0QkFfVUVJckg1U1VvYzVUYndpWndYRnBkLVgzb2xYQTYyYTJTZ0lDaFBUZ3R1Z0pEd3lwdkRxVGw5dHVPUU12c1BjVzNTTVRvRWJmSXJNRzMtR0tyVnBHMi1sV3ZTTzBwTTJfLUtSaUFXTzBnRzlVdzl2TUJOZEw1NF9ONGlYQXhzUWs?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Irish Independent",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Ken Fisher: Hormuz bottleneck is increasingly being bypassed, and that\u2019s good news for oil prices",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY1IyWVJzRno1enBEcHdRZlczRFkwR0FsOGlJRDQxcDhSeW5jV0hzbWVrVFRRYnNRZlpmbTFNTkxsVUxta2EtWnVJQms5Um1FVXVzcHJ5VFlNRk9CQ3VDZ0Izc0c0OHdRLUlCMGEzUzZkbDlsOFhHZC1DVEt6dzFZRTNwTjhOa1VzcWdsTU95Tmp6ZUVIN1dBcVN3OWZjcmFoWkd4WW4zaHFlSVg5MVdNcnAwNmhFS3pXR0dJSC0wQXY5NDU2dUxmUnNxNXRyRURfdWM3bm45RER1U3YwcWx0VUtianplNGJv?oc=5"
    }
   ],
   "indexbox.io": [
@@ -27858,6 +28536,26 @@
     ],
     "title": "Fed's Daly Leans Toward Rate Hike as Services Inflation Stays Sticky - News and Statistics",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZmtWbU5PVkZYeHQ2cDJickxRaTdtalE0VS15OThuRnJZcGlMUXcyZlB5SktWcENvZjhmQmdtSTl4ZkxVVXRoZHNEMkdBVVJaSl8wZUtjcFpseG1qTDJ2TVp0aWYySWJHa0RmNDFLdUgzSHdrN2hNd3l2OW0xanVYaHZpcHdQYnJaejd3al93aG9iRWxtT0Y0Tjd6WmpjT01EVmJSV3J3?oc=5"
+   }
+  ],
+  "india.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "India.com",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Attention investors: SEBI to issue AI usage guidelines for capital markets, focus on investor protection",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV2V3bGtEdEJZQ0t0b0FkT3VmVGQ2TnZXd3hEX2FsQ0Q2YThtbTJOVVd2UXFianpuN1hqN1RDdWR6NlVvLXJYa01aZE9Jdkl4bEcxQnkyeGRuc3piLUNPQVl6M2xaX3ZRbzZRNTVhVExBSUh4SDdJUEl0dWNmVWpiNWRyZHN6VU90YXZJQlZicWRNa0tVWV83SzN6dVhXRUQxS1BQbzVyTGt1TzdXWUpDTmcxT1F6X3o0NlJpMmRGNk5YSC1RR2UtYXA0VjI4U1JzU1RLRWVHNEdOd9IB3wFBVV95cUxPZzlWbEdmZ2tPS0U4djdYQlk2bjNWem5HN0pHT0I5elRIQ3VnRHFXal9sbEdESEstN0VldmRISFZ4MzFBS0s0bWFqeERfMUVaVVJnYlJmc0lZVWk4Q2tVbUNUekFFV2RMUlk4VXZ2djh6eXVaLVItQlM2a2NydF95NGhCejRvT3dzUHc1SnFXajF3SGZFbFB1QnZzWTRoTFFfMFBXcnlINGNrRU9UUzFMNy14dDJ5VWhQVmt2SW85SlRaM3FtMXdxVzFEY2VQLWJ3X2pJXzdqS2xrc2NoVXdz?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "India.com",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Parliament winter session: Centre gears up for delimitation-linked women's reservation bill push amid confron",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOVFg1Y3dXZWRCV3psakR5eVlGOFluODlaaGhzdk1NMEUtRVhWVjdMUzVkV0xpVHF5bHAzV3BWU3EwTXNpelI2aE9CRVdLd2k0MDZva1BrSmU2MG5FQ0RmSW9rZXBQS1h1enZtOW4zU250ODNlS3ZaWmFOV2JXV1dMTi0xRm8tR1ZlQVRKZVhRc2NEVFQzMzFrV0VfTkRJSndXaWlGUmdfaGVLelpKelZ4MVB6X1NSbVB0YWwtcTlIM2IwVHdnRXlTYjg0MWE5NVJ0czRmSUpZWUpUb3FSVTFoUElHQ3J2aS16czhJSVZnQWtlNkxZU3AtdTltR1pOU3A0RHd1OXY4VkdVRlVFd0pFSjFB0gGXAkFVX3lxTE5QNkd6T2s5QW5iN3k4aHBwZ29UeDZqT1ctMTZZaWRDcEVjMVY2UTRTWGV0VWFON1J3Ykszc1JiZXRoT3E2X1pNekhia1RaZGt0cy1wSjM0bUNudWFVcU5YN3NTbWFlUmNWMTVMU3Z0Z19QcDVjNnl6LTdyMy1tSVZ2Rl9faXFZbFdwc1FnbDZfTlNGVnJWYXQ4TE4wODhKLUV1V1A1V3FFN3hXUVJzSEVZR3VuYXJzMjctbWVLSXNlZHQzc0VaakFOdlowNFF2QllFTWROOG91WHRSd1luUVpJTGJZOGhWVWpPdS1RbnVzX3hQOC0xVl95ekt0WUN0MWpXckhkUVpZb19CSkFWOFI3NGZSLW5MSQ?oc=5"
    }
   ],
   "indiablooms.com": [
@@ -28009,6 +28707,15 @@
     ],
     "title": "Democratic Control of Congress Could Reshape H-1B Visa Policy and U.S.-India Trade Relations",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjBraVJqWC1QUXN3LTVWdmxzcE5tcXIzXzBGdE0wZVNGSEVfLXJYcS1KTUFmTkpETXdqdXRtUUZhR3lqT1ZJNVZvU0RDWHFjMGVDY0NPd2RmczBBVlNvY29uVktMd1dYbHZGVXlRQW1oVDNFYWZGQlYwUHhpbmhZYURfRVFBYkx5SlpmSXdPTmdOYXdERUs4NUlrQ005VkV0eWRNVkR5WlFURmdaazRzR3VxOGxDWFE2Qk9yRA?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "INDIA New England News",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Florida Governor Ron DeSantis Blames Republican Midterm Defeat on Failure to Eliminate H-1B Visas",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeklqZVA2Yk41akF2NW01dEluWXRtRmo4QUI0R2dFN2EtS3ppTl9FUVB2NUxQNWxia2RKaUY3VkZhTHF6bXpjMktHaVBna3gxdFJJQ1RTaFhnZllUVkpvLXE4SlFoaGpaaGlfcmQ3VEE4SEF5NUFnNnhlVzB1dXdsZ0ExaUVDZE5PWm9SMW9TVW12bzgtR0xjRXloMDdwVXBTbUtQcHRfMWtPLW1fUkhxM3lCNURMNGQ0eEFxcjI0SEVGTllF?oc=5"
    }
   ],
   "indianewsnetwork.com": [
@@ -28087,6 +28794,15 @@
     ],
     "title": "NITI Aayog, TEXMiN Join Hands to Build India's Critical Minerals Technology and Research Ecosystem",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUk5pQXNuSHNGYXZTVThGX1RWRUFCSDZuUTFKb3hVTzZtTzBvWWpiQlF6M1NUeHhfOVh1TkY4amNzTlhPWjY4REpmSVlOZFhOcHlaak0wT1pFRHFXTU05ejN3VGhEeTZMc2M3b1AwQkdOYzNrWDZiUlExblFTekZwUm81aDYwaEtHdGtHVUN0c09QVlg4eHE0?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Indian Masterminds",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Who Is Amit Sharma? 2012-Batch IAS Officer to Lead Indian Delegation to Trinidad and Tobago for Census 2027 Mission - https://indianmasterminds.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXR2eG5EU3RzMUN5R2RiYVd1OEF6R05rVU1QeDBvV3JOY01vMVFpc3JvclZxTTloYUItVDBoZXdlak9Zd0pvSG1CeHJKTGRYQ3dhbWF4UUdEeWR1MnUxMFBtcFdzOGkzT0lNRjQtUG1JakdRTlIzeERmYXZ1YXpOWVNuOXFTVXpKaXhtWUV0TEtIWEQxSEVTY01JMXNBYU43OEl4NGlVYlF5MnZMUlE?oc=5"
    }
   ],
   "indiashippingnews.com": [
@@ -28147,6 +28863,15 @@
     ],
     "title": "Assam Cabinet approves merger of Guwahati's Krishna Kanta Handique Sanskrit College with Nalbari university",
     "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNZmF3R0FwcjNaR3Z2ZHdXaFVMR2U5YXJRMVFrWlItaG1jSUFIZ2ppNEtYc3B3YThuWmVPb01vSEI2S3A0THd1SnVrcG9zck5WVGc4M3FwdFk0ZjNhWjAxSHRHRTlFMlY3SUJBYVZRLVRwU3RJWlFRLXhDRUU0cjFORERQSVRobVN6Y2JBVXR4T0JmUGFBTmZvMk42bXVDOFU2dkNSTU85dG1GaUhPcnBaN1VQZ2dhV3RQSjJhUHczMmI0LUx3M3FaVzh4a2VUc0toOXBCZTdtWjNTWXM5QmQ2eG1HTllnNmhFYkJsTHdqZkVEVnhmUDMxVkxWbVNSUdIB_gFBVV95cUxNZmF3R0FwcjNaR3Z2ZHdXaFVMR2U5YXJRMVFrWlItaG1jSUFIZ2ppNEtYc3B3YThuWmVPb01vSEI2S3A0THd1SnVrcG9zck5WVGc4M3FwdFk0ZjNhWjAxSHRHRTlFMlY3SUJBYVZRLVRwU3RJWlFRLXhDRUU0cjFORERQSVRobVN6Y2JBVXR4T0JmUGFBTmZvMk42bXVDOFU2dkNSTU85dG1GaUhPcnBaN1VQZ2dhV3RQSjJhUHczMmI0LUx3M3FaVzh4a2VUc0toOXBCZTdtWjNTWXM5QmQ2eG1HTllnNmhFYkJsTHdqZkVEVnhmUDMxVkxWbVNSUQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "India Today NE",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Second phase of Census 2027 to begin in Tripura on January 25",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOd1Y2SHF2UUFMcVpLdEk3QXRUTFNtTDlPSW9XNWxWaTBPNFVuSi12SFpZaTUxbXZMRVVGWW5ZYlJMRHotcFhMaklwQk56dzdXRUFacmhZMzd2SzRkc0l3THAwMHVrWlV4dEQtVHlRTTVMZjBGTVN3djBacW9UdWlGMGl2NXlyTjJGVk8wdWdsazJueWJUYWFpNnpJQ25oRThmanB0S2pFemtLN0V4WFhMQnNMNEhIaGlJSUFVbXkxNNIBxAFBVV95cUxPeVc3alNldnpEM3NyRVF2dHRnRFNPQ0FwRzZuY1ZVRGFzdUJxS3JSakg4b0RMRUhiTk5QNm1uQ0ROSUVsNWljeUVQNnRZQ1VaT0l0V1VJX2RJYVlYSVExN2czOElnTE4wajhrZkgyU1ZWZm1hcmNCV2F2ajhxaXd1UVJnS1hma3F5RTltMVhsOHpqVXJFdWdaNWh3SE5tNWZkdEw3TWkwdUxNZDlSeTZjRHpNZ3h0ZWpkLXhjcHl0SUhsTy1I?oc=5"
    }
   ],
   "indiatvnews.com": [
@@ -28320,6 +29045,15 @@
     ],
     "title": "IBM ends visa, green card sponsorship in consulting unit | Tap to know more | Inshorts",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQkZoazhWS0pISGFYMHBwc09GSVp3UlI0bUo4Y3ZoQ1lDSkZiTDZoLUNQdlRsd0hiU0RWNWFkaTd0TlVkYXozUlNyeFBKUnpXQ0dKc0txOTZZZ2NwQm0wZERZbk9jcVYtXy1XWE9KZnBNWTNwdTlybGJNXzEtNVRsOGt6di1KSVNkSXVmZXJ5ZExoaktiUlpBMGw3TFpuMUpFNzAza1pB0gGmAUFVX3lxTE1CRmhrOFZLSkhIYVgwcHBzT0ZJWndSUjRtSjhjdmhDWUNKRmJMNmgtQ1B2VGx3SGJTRFY1YWRpN3ROVWRhejNSU3J4UEpSeldDR0pzS3E5NllnY3BCbTBkRFluT2NxVi1fLVdYT0pmcE1ZM3B1OXJsYk1fMS01VGw4a3p2LUpJU2RJdWZlcnlkTGhqS2JSWkEwbDdMWm4xSkU3MDNrWkE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Inshorts",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Tripura kicks off Census 2027 Phase-II prep with state conference | Tap to know more | Inshorts",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR1RCd0VOYjZvM0NNM0x0YmJzeF9tWVlxZERqZ2ZNeUVDWE9COElfSmlNVU1aczc1bVVxV1hOUld5c3VxX0ZXNjFycUhNbVJDSlFMWVBrek4zZWFSZDU5V24xb0tadFFtdWR1UkZqTFpCYWk1OXNLRDZyRkl2cXk2NHp5Z05CT2pZMy0yVkQ0NUVHTzlCYVpiS0V6WFFIUDYzVzFiYnJRLWs2QVJr0gGyAUFVX3lxTE5RaV9fZmljSTkxUlhUOEdqbS1rQTVKWWJfemFuMW9KRzdESjNEQTBRSTBSQXBiUFhvNGl6REFVQUljTWowNU8wVC1DYU1EQTlKb1ZnUC1IanU2UUJHaUxPX1F4VnhoY0JaNC1pSkFLUkxpOTIyN0lzWEFzdnNLM2xEWGJfM0RHNWtTWDNzTFBTNF9zWlBBRXlkZTZfeUVEYm56MEd4elBOMFRFY29CbzliN1E?oc=5"
    }
   ],
   "insidehighered.com": [
@@ -29067,6 +29801,15 @@
     ],
     "title": "PM Modi to Visit Philippines for ASEAN-India Summit From November 16: Check Dates, Agenda and Key Meetings",
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcUEwQVZJaVR1M0VHSFBLYWVxV0g1UHE4SGVCdTRSa2o1WmZsTnFSaFNPMFhjTGJ1RGtLZ1RXcS1LdGhiajJOeTQ5MGRWNDlKMU1qWTRNQXZSWHVEUDlxR1hXN1R1SkI4LTB1UDlES2hCc1dOQ3h2M1FROUlpSEFPUU1LdFdOcVUwZXA3UTB0LXZzUEZjb05NVmphZER4Z1NmWDhlWW04dV9UV2JHOXJuWEN1TEJZc1o2QkdSNXpXRE44UHNrUjFjV3Q5MFZlZmdmYVRRZE5RLWlXRnJlNXByV21PZ1FvQWxSVFJVcm9pQndDaGExLTVfajVuY9IB-wFBVV95cUxQcUEwQVZJaVR1M0VHSFBLYWVxV0g1UHE4SGVCdTRSa2o1WmZsTnFSaFNPMFhjTGJ1RGtLZ1RXcS1LdGhiajJOeTQ5MGRWNDlKMU1qWTRNQXZSWHVEUDlxR1hXN1R1SkI4LTB1UDlES2hCc1dOQ3h2M1FROUlpSEFPUU1LdFdOcVUwZXA3UTB0LXZzUEZjb05NVmphZER4Z1NmWDhlWW04dV9UV2JHOXJuWEN1TEJZc1o2QkdSNXpXRE44UHNrUjFjV3Q5MFZlZmdmYVRRZE5RLWlXRnJlNXByV21PZ1FvQWxSVFJVcm9pQndDaGExLTVfajVuYw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Jagran Josh",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "ASEAN Summit 2026 Begins, PM Modi to Attend: What is ASEAN? Why it Matters for India, What's at Stake?",
+    "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxPZ3dlMi1pM3k0VDFVVURYQXBIdXNFMzIxbEp5U3dGMHFRMlFWZEY4QjNkbDlZaFZzaERyZnhacXZ4dnV4Rzh4cnFZSWlCS0liNzh1cnlvOGlYX192c3JUUnNaS0toOE53WFh0V1o1MWQxY2tFRnNTNjJsekJ6S2N5RnNSLWduN29tX3NTSzFJZDZUNjZrOU95cW04Z2V1OTc2aEg1aG1aZ3FzODFuNTdHN2sxcE9ORHAzSjZrS0tHTW1zcHJzeERSbDJRVUJuS2xzVVlDWXdpTnZTSE96VVZPVlJxNFd0akh5YS1ONDBaUkNJa2gtWElaeGNQN1NaR1FSVVJtTVJuYTB6bm0tOUtrWEJQdzZJWWlFeWd5bU1Jd05hNkR0V3ZIVHIxNzNqWnZ5NlZGM0V6cmRnRk1QVDRUWlFyRdIBygJBVV95cUxQenJoZHkwU0pEYzVmUWtsbF8zYU9qdHB6czd6QkM0Sk13UHpTanBrX1F4eEc0UnlQY2V4eVEwbkxjaUxwVFRpcU16blFmY2lsa3NxVEwxQWpOUlBwUmhGZDE2YUl0TUFPM0V6ZW5zUnczUHdCdnltS0FYY3VrZUdhSkFlcUFUaHJLT0dxSjRacWJ1QWFVaWlKb3IwbEFEZXM4b2VtUGd1U0puamozaThXUGVsVXp4Q1VCcDVONmhoSWpKYXJnWFVRVklwSV90Vy0xaE5vc1JIVWMxYlVqa09hLXRNdHZkMU82R1pkQkxhbVV0dS1PanBnQ1hBcWYxN1BHajZQc0trRUkzb0lCaUo0bXVzYUl3YV9aUHhDOUtfdXd3MUxkejd5N0FENWV4cUlNLXhVcDFaSkR6Tm9uN3BqR3M4WHNMa1JTYVE?oc=5"
    }
   ],
   "jalopnik.com": [
@@ -29348,6 +30091,24 @@
     ],
     "title": "Gold Holds Below $3,900 as Fed Rate-Hike Bets Cap Rebound",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQXpIcjYwV3lEV1FJU3pJUG9HcDRiaTRmT1h6RC1lZkVGZHFEQjh2TjFiNDJwNEptQ29Lai1vblFVY3hYY2xBVnhOdzFCWjBnY2xXRWtlOEUyZ0o0b1F3SWZlajhlTlEwYWZ2ZjVVSDZhWWxMaXlrdmpBU01MbnBqY1V5U3NzaDRVN2JNQ0ZURFBldw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "JournalArta",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Fed Officials Signal December Rate Hike, Possibly Another in January",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnhEelp0UTZJUGU0d2ZUUTdRM1JrNUd1UzRQZG5uUEVYeDdYb1NuZEdKX0ZmN0VycTlBeTNJaGZNVGxoY20zRGxid0VMN2ZSSF9oZFZDN2hGMHh5UlF6RU43aS1oMGx4V0MtMlplNFBMSGo5d2dLVW1iczFQbTI3Y2tRX2N1dTJ4SHhHWlZDSmpfZ0U?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "JournalArta",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Iran War Hormuz Attacks Fail to Spark Oil Shock as Brent Slips",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRzlBLUE1ZjRKeGRqVU00bEpmTDdSOUY5cFpONi1jNW1tdjRPa3lYY000OTJ2R3pFY2F5Q1ZuSnpIS0ZqcmJKOGVCSHMyMW1KYjVrMW81R2lmVUdXRXZMWlJZSmdsMGEyYjlxMXhrMDFlQ3RDcE1xZ211ejVPMEJobVQ1MVZWZVFqbDZBVk5wNjRYckhn?oc=5"
    }
   ],
   "jpost.com": [
@@ -29526,6 +30287,17 @@
     ],
     "title": "PM Modi to Visit Philippines on November 16\u201317 for ASEAN-India, East Asia Summits",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY1FwczZ0d2pBXzN2WTRHUXRHS2h3aVg0Tmg5N0xBTm5YSk5zZjY5Y091MkJJUEItU1dnN3NBZnlpWk8tVFFMZEFnTk9NUV9qcEhCVENCMTA2aXRNb25jNXg3NXZUd3RTdHB1ZnJUYmJ0SmRKYWppS1pXWGsxMU5KOEIxcVl1TmMyenVhdVNtOTlLTC1Fa0tXYkNURDg0eGFIYUR1R1AxamxGTVg2eGc?oc=5"
+   }
+  ],
+  "kashmirnewsobserver.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Kashmir News Observer",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "IAS Amit Sharma to lead UNFPA Census Mission to Trinidad and Tobago",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNLUt5dzhoM1BTbkZ0bjY3MEsyRU9uWHJjT3RyYXJ3RllzTUxkMGVDTG5idzNBTmw2ekhVc25uam1ydnBJU0dJOEZ5TWJKakFpWXd0LXNlX0VmWFAweXh1UVZoOXNqYUFTcDM0QWpCR2ZnRGNfaDYzSHRad0R5OFlwRFh2QXUzejkxMGFzRFFUdktuZ1NaRkdTS1oyOU1hTlpMSS1YZXlGQ25QS2x1dW4yTnRlS0RIT1ZOWVBBZ3JvNmI3RDE0?oc=5"
    }
   ],
   "kathleenhays.substack.com": [
@@ -29925,6 +30697,15 @@
     ],
     "title": "Oando Production Hits 42,985 Barrels Of Oil Equivalent A Day As Revenue Grows 9% In 9 Months Of 2026",
     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRk54ZFBzamoxSEo5NTNRUklnNDFDajBTWEh0alJPWWI1NnVKX19hM244TWF6M2ZlSWRXQjhEbFg4aWtzdmxwTXZLWl9keWpXNzlydVByZ3htUjcyWXIzY3pRMDhTWGZCb3lyRm53d1Y3dWFXVWlEUUkzYTFIZGQ0RTJKU2loTVdhSV9pWEtncWRVSkh0MzBnaVdYalp0X0lKb2Rqd2FFYngwY0xMTHAyamQ5SnkxOG1MOWRhTWZB?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "LEADERSHIP Newspapers",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "2027: Igini Urges Trump To Link US Immigration Policy To Credible Nigerian Elections",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSnFlWVNtSFRkSENIV3U3ejc4SWxXYUJaZnZQQ0R0TkI5cHNnaklpdEktX2NrN2RWLUJ6VndtclBpUU9ZUW9xdHZ2QU5tRE02Qjc0V2JRRU9CZXpPMmJlQldMV1owVnU1M2xKQlRBZWN1Ni1jOXlvcHNydk5Qek1faFItUlUwQ1JNcE1ZMGxJYWozYUFXNVA1ZVhuOFdCaE1DSnpjVnZhall2QQ?oc=5"
    }
   ],
   "learn.deeplearning.ai": [
@@ -30082,6 +30863,15 @@
     ],
     "title": "Deportation from USA: How to Challenge a Deportation Order in 2026",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQb0FFVFFrajAzX0tiY01QODVsU3BVRnZSc3ZnYXFIOUxOMUgwRkNSalNoYUt3MVg5Y1pzZTN4SXRFRXhBWlN3MmpjMExEVlprbzh0YTZkbjBvaXB3bjd1Tkw0d2swRWhuOUZOMFlJYTB3RW5YcXpXX2dISlZPLWN5aTRDdXB0YnZrQTh0ZmhMcnlxZlRienNDRklTcUs5Ylk?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Legal Service India",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Oposa v. Factoran: Landmark Philippine Supreme Court Judgment on Future Generations",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc2xXUGxzZXhzeF84ZVc3c0dBRHFkVkR3dThNRmRhYzVGMk9jdmpEU1BjRFRsUVZlVXlWUlJtaHJ2SWhMb25zUWFmYk95bHFERzJUcXdoU3NDa1M2akE1OE5UYnd4ZnVnWlJlanlaSWx5Nl9xZzNuXzFGT1FhaWxZZjYwTE5wRE93NmllOWZ6aXBlWktPaHo4?oc=5"
    }
   ],
   "lentedesportiva.com": [
@@ -30238,6 +31028,15 @@
     ],
     "title": "Tottenham braced for Pedro Porro bidding war as Liverpool, Man City and Chelsea circle for record-breaking transfer",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPQXcydU1DUDF4Uks4UlJKUVZIYTU1ZEVKWW5IM1l1THpPbDJyOWdLWXUwVFE0NjVrRzE3cFpBWWk2QlllQ1JpWndmZHVRQjRUTjhfc091WWNsRFl6dk1FSjM1Vm95VENlbERfZEtRVkhaNzdmYnJWNjlkLUFfeDZ5SDFzWUJkT0oxcEtGU2huMkktV21Ed0g2cXRRQ0c3UjJITkZ2aWRuTU9pbUEwbTlJeDJnMjFXNEg1TzVFNzIwQk5Bc3RlVGdQU01uU1JQZHFtYnNBN09TNF8tdzI4ME5xVFpPbjY?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Liverpool FC",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Liverpool make transfer enquiries for \u20ac30m Brazilian wonderkid",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYWxBZkdOb2VCeXMxVlFIa1FjY1c2aDNDM28zWmlNeFY3b3FhbkFjSkxjMHpST0ZrMmgzd0lPTUI0S1FlcklXelU2S1kxdUhJWHptUEVROHg2VjJaT1dxbTE1OGtUR0xRV0s0WVA4aVcxSzlxWWo2azFfT2pYci1iYW85dGhxamI4VE9Ma20xc1hMeHpQMGpNR2NBd3kzZw?oc=5"
    }
   ],
   "livescore.com": [
@@ -31086,6 +31885,78 @@
     ],
     "title": "Approach made: Newcastle United working on signing Spanish star in January",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPemFxRVBDYTB6Z0ZtWndaOHZscS1XRDVBTXAySk1uaExGTUxYSlJmZkR0RDl6UTIzdkk0b19JdnRMUExIUTV1cm1aQmZ0TEZBcWdCMmVCb0ZnbFNQVXpXUjJYcDV5MlVDcnNEN0ZsaUs3dHIyZmZhdE9qM2p6ZXRaU2FnSEF3cHExbE0wSy1RVlN3WHMzSXZ4N1NMbG9tMFo0eUxhd2MzeVhsQ2tpS09BT0gyZzk4bldvSjRlWVJ6aEhiS1RRWVNqS1l2T01ZWFNfdEtpMVIxWWJvbTBYcEFF?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Fabrizio Romano Transfer News: Gusto to Man Utd truth, Araujo update, De Bruyne latest",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRVlSdFdsREhub3huNkR3QjJ0NzBkSWxKSmhKTUlGZ0JuWWlwZUFGaTBVM2k4U2ttZHl2QXQxaWtQNzFySTI4SkowTlRGY3JDeXF6RWNkTEFETkhkMl9hdnZLeURlczdNb05Obl9xRGQyaE1TbUx6aVZQb1dBNzJpYVdvdHhlelFhOGVuS2FvY0FDTDdhaWhDRDRDUDJNamlPbHg3VlA2WkNzX0dUV3BxZGtIQmxHV2Vfam9aVzlnYk1OWXg2el9VdEhjaVdUTGNNbkx1bV9rM3lVb1pxR3QwNXRDdzQxaldfQ0gxSDBIU3ctUQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "\u20ac110m superstar makes Arsenal transfer admission",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3hMTXYycnhPamJRTEtrOV9ZcmdGVldYNzhwc2V2eUFHV212MHJlUUtFcmwxZVg1M2w2ZXZSWFBtWHRQbFE3ZWpqSThtTmp2M01PVFBxLTB6MjR2OWJsckhvQ2FROTFGcmVkdHQtUmlVajFwdlFLWDJ5Mmp2WlpqVG00VjhIcTRqU1NDbHpSajVMVHFReXRYSFpaWEJ2ZjZST0ZMT1NCWVVvSVl0QTBuNGo3WHRDSmZQN2c2UFZYX2JwUQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Chelsea locked in transfer battle as \u20ac100m offer confirmed",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT3ppUW1idldnRzBNaU9FOXlSWFk2S0ZEakVnMUdRWmFPYXZ0TmhKeTdVRDFsVGVfc1dzN0YzTVhpTDB1TnVCdFc0c21SbFpsMWZ6QWhFcWVaclFZU3U0T1E4Y3d2amRjNGY3RXB6U1ZhTzJCcVpyRWlKOF83R2hBUzd6M3JBU0dMRGJVamJJeFRPQzF5bW9wams4V2VxcExaNkoyeWNDMWRhRnRrbnZoZVdvZVpWVXZRYU9iZXdNblN5YXYzTnhKQ0N0Nl9KWHc?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Three realistic January transfer targets for Mauricio Pochettino at Manchester United",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOWnpyN25hbk5JTUdNV3FWNHU0ODlQeEVqM0J1NHZYZmdBRndUaTgxRzIzZmVlQWNrTlRDaXAwN3F0Uno4MXZkM2o0U1BsdmZWNl9ZNW5LbGgzNDV2Wm1hZjNCZlpPdm02M3dYV25yb0JiX1lmMzhOOFdhNXl1cU9DRURDdlhsdEE5bTJYZW1DdE81TVdTVk41RjVKeTloUkpsUTVYMGVlcFVYM0xWT1F2N2lQcWRyRGcwMUt2Q3h2VVNoQmpUNEVBdEd2VUFxdVk0OHBETkZRa3E5bXFVTml4dF9HWVFwZ2dBc21fdzh4TQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "\u2018Shall We?\u2019\u2014Erling Haaland Lashes Out at Possible Transfer, Man City Charges",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQamhoalRIUWR6bWF2el91ODlOaUJqWmFOZWRBLTlrcWhmSkVXZ3hINEYycVN0V3VieUZZT2ZvSW5hN2JDWUc0dXg1RzBmcUNmZ2g0N3p5SWp3cW5CM1VHNzNPVGZlU28xSGpWNmFGS3VXeVlfSGpBOTROVER5dDhiY0NUbVZHRkxBZExfamVhSFFxcm5abWVaSHpIVGFNMG94WVJmZE5UM3NvWDg1blVxc0d5dDVaX1Y5MkJpVld6a2UtQUhsZzdHOHJVVXRxQQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Premier League attacker admits Man United dream amid fresh transfer speculation",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVmNWWFhCeDkweVZRSlpvM2xpNUVlX2tPYUFDRU9JeEJnb21zbzVUUDJNYTdkMi1tRVkxSHl5Q2c5R2Jzc2NjR3d4NS03cm94TUVlSFdZOXBsWkw2MGZoMXdiektYQW9pc043ZGczbXd0YnNHNzZjMW9NMzNWa3Q2OURRbnpEdW50clFrRHdiY21lWEdicW1oV2RfZUdGeVN4LWVaaDFZM1lwbkw3ejlOQUxEdmRrOUZwRE54TW5UVmhDRkFkYVpUdVNsdWN1NDNtXzA0R1IwazdyUUVPMjByOUgwdHptTkE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Transfer Rumors: Man Utd\u2019s Plan for Paz; Real Madrid Receive Ridiculous Guler Bid",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPVDg0LW5uWW1HUTgzQ3RaOEJ6b01Kc3JDX3ZzZDllZV9uUmhvaWxqZHRoRnllTDJwMkRSdmszcVFLbDZhYVVBMERaWTh6bHp3ZEtQRjBtMmZwVGxYcGpvdFBOT2FtajhvdmxjVllFaFlpbG1fMjJJTWhDTU5VeTRBVndPU3htalB0bWtCTEdYc3ExRXBUQmJBWTUwTzNIUG5vcGZOTDliMUJwcXNjQ1lmdE1XYW12RnBDNmN2NmpCNDFKMnRTQWNtR0hpMHc0NGZlWW94eTBSNA?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "LiveScore",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Man Utd stun Chelsea with talks over \u20ac174m double signing",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNEo2M0p5YV9aYXpGMjdnRzJobFVmbVlnNjRWOGwzaXpMaS1haGpNZVlLLURHdFZkZUZrQ3FkcU9kay1kdERhWjJXRmZnbnhYSENfRjdtYW9XU3l4YmZJRWZTc1lpSEVldlJndDFGS193UUJyellPc3A1VllmYnFFdm9oYmhQelNJakJYSXhMZTBMOU1scGFidG03RGZaSk03dUViRk8tSlZlemZ6c1NyWlpEN0c0M0F1M3dtUlFybHQ3eWc4U0U3WGxfSTB4Zw?oc=5"
    }
   ],
   "local10.com": [
@@ -31260,6 +32131,17 @@
     ],
     "title": "Reuters Survey: OPEC Production Rose in October to 90% of Pre-War Levels",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xUWQySEhMZ2ZYZGhZYVMyUG9oRmZPNDh3Y1A2UUx1dTVNMk9fLTBXeHBaMk9rbXVtUTU3TUtUTU0wQkZyTDhYZTJheGhpUjZacFNHNWhjNGs3ODdxdlNjRXpyZHpzaXZDSWhR?oc=5"
+   }
+  ],
+  "madhyamamonline.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Madhyamam",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "India and Egypt to begin groundwork for possible bilateral trade agreement",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQm1aWmJzcjVscVllN1F3bC0xNGh6M3MybjZjbTZWeDJPVFpmM2tOemhmdG1GRmNVR0pvMUNlMFYxVlprNmZnaU44UXhvZjRLd3pIZVBqMTY3MUNtMWZuQml6c2l6Wm1yRldnZ0FFeUt1akZ1YmR6YU43VTg2dzFBMGtYSXNnM2Q4cFl4enJnSW9HZ3dqV2xTaUs2bWl0ckNOY016SFJER3FUeGFGSHdMOTlhelBKSE3SAbwBQVVfeXFMTXh0XzZFWGI5b28zTzVYMlpRbHZ2UTlJWWVJa0pCZlZwdUFoSWJtTGM1WFFaRHBPNUVpQ2FwcUI0ZElMZlJfUUdCZV9zTW03MmRTV1NhQXJyUXFJTWZkVlVRMENqSUdESjAtS3hPVV9HbGZPRzZTTEw2NC02TEItdTJHZmhlMmpEaHBGb0ZjR2xqRVhsemF3amJPd2VjVlNObl82U1NqTUhvOEFRdU82SFI1WW1mX0F5TUhlclI?oc=5"
    }
   ],
   "mainichi.jp": [
@@ -31589,6 +32471,17 @@
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTF9jWDgtRk5lelNFejk5aDZqZ3ZDRmhULVdCSjU3SzgtcmZJRDNVTVNXbEtqQUlmc18yMXdRdUJrM0xXZGM5U3R3bDBZTEdrWkRPSW84Sk5TZG14NlhFMHdueTRmY2lfd3ZQaHBJM0xIVGVNVWloUk1Xd0I5OGFrUWJ4cHNIS0I2MUhteXNzaW9xRjg?oc=5"
    }
   ],
+  "meadowlakenow.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "meadowlakeNOW",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Democrats want to kill some of Trump\u2019s tariffs \u2014 but that might not end the trade war",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOG1iTEM1V0NaZW5mUExXT3Q1X3ZLV3VaeDVxbDNtQ3M5cENBa2ZaRHc5R1FIVC1FZGdRcEdzN0pwczNVaUNVdkdxN1l6NXRzQ2RsbmE3OW9nMXpRYWlBOGRDUDhBQkxNMFdsQjJZYjhJV1VUSUpZV3ozSENpMVdjWHFydWMyR285Mi1aOTMycDBBU29qbjVFT0g1a2RjdDJjLU9jRlF6UHpRc2pkQkNVY01naTFEVVlIZWJaSQ?oc=5"
+   }
+  ],
   "media.unisba.ac.id": [
    {
     "date": "2026-11-07",
@@ -31618,6 +32511,17 @@
     ],
     "title": "Former Project 2025 Director Paul Dans: \"We have to let young white men take the wheel again of the American economy...this is their birthright, their country\"",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2c2YzV6M2hxeElRN1RJZ0JfRW9ZWE5RVXZncHRFZHFYMVlSVk1Vdmt6NmhlRFVZUUpQT2ZidW44aFRhZlh2bDNUSXhuZU40ampJV0dILTByUHZVUEw4M01JbkMzdWdaczRubFEyXzR5QU4tZDdUbDdTU3MxUDh4Q2xRbF9HRGJFTFR6aGpYVHRNd3R4LXhPZTRTT0kwWlhDUFc2bWo0SENySTVVUXRYczdFQ3EyeXBIMHF6S1F6NGE?oc=5"
+   }
+  ],
+  "meghalaya.gov.in": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Meghalaya Government Portal",
+    "sections": [
+     "finance.agendas"
+    ],
+    "title": "Sustainable Development Goals (SDG)",
+    "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE80UjhkLURybEJ6U19VWi1md1I1UHdSazl3T0gwSXQ3cVhRUVhGUWJaZWI5SHJPODVyX0ZTc0Y5RGQyQQ?oc=5"
    }
   ],
   "mercedsunstar.com": [
@@ -31971,6 +32875,15 @@
     ],
     "title": "Liverpool news: Alexis Mac Allister transfer stance clear as Premier League move desired",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYlJ4cEpOQUktTXBLbE16cGFCWl9KUkZ2RUFYX1VQajVfa2JrcmlPajljSldoZm9QRDF2VXU2WmtmSmw0QWEzWkZpcU9mVzI5VGJrTDlpaHFjQXJYN3RWVlhCbnZ6SjdkcGh0TDg1WHdXQmRCZi00RHdqTnRfanNGak1rZXROWnFHNTlwT0JkUEh5dDdhX3p30gGcAUFVX3lxTE92OVp0TzZuMVZGeEhzMGNRSFp5TnZZVlh3cmluamNHQ1Izb0pfeEh0YWNVdVlMbmN5ZEtqR2hwZHJfNnVMMTl3WEdSOGc3ZkdDcTZiQTkwa0ZZdFJUVTVtaGVXc2MxM2JLMFFJZ0tfOXlKVGF0VENiTHRtODdUdmNmNWV4SlBGaHU1MHF6VHozOWgtVERudUxrZXgxQg?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Mirror",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Man Utd line up Premier League star for January transfer in boost for Mauricio Pochettino",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTlwMkRncVp4aEEtUjBnR2FEODhUeWdJZ3Vaclh6a1Nzc2wwM3BVNndMRjRVeFdhMmRueG51MFlMR0N6aDRmX25BdEEzekJlMmQ2OW1XUVZjYVFsdlhncWFTbHljXzVQWmFGUWRNcjFKOXpoSmlhVC1hRm5QWUY1Wmh4TDdBM3l5bGpKMmFWSHY0ajdONDRyYzZlc2Z0NVnSAaQBQVVfeXFMT0hEZDN5Nm5aQ3lhaUV1Tl9hYnQxVDVsVl9YMDc5RVZfWS1vM0hyRS1rXzFaSXhTVDVIa3VqZ3JuU3I2d3FSUVJLTm1xUGVvTmdCTTl6Yzlnb05Oa2pSZDFUN2tVOVJQbnl3S2R0anpuZkQtcm14Yk1lZXJMelQ1SVhNMW1MUmVyYmRqY0k2MXFnU3kwTTlqc2xvV09CM3Q5V0xfREw?oc=5"
    }
   ],
   "mishtalk.com": [
@@ -32320,6 +33233,15 @@
     ],
     "title": "Indian Economy a 'Shining Star' Globally: NITI Aayog VC",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQkVaMHlJV1BMUk1tdnFSVFlmUUpibjM1WmlqSUN4aHY4Nml6LS1uX1lYMlhmUGVRaW1iRDREU0hLdzZfWjYyRlFxbWRYV3k5ckx5M2l6RkZNT1RDTHhiTVpQNGNzZUE4ZmhaTjdxSW1VNTJpbkFjai1EaHdKajZ3eWJCbzRIb2UtdzFVNUdqRmZrekdvNF9PNXZnRGpTNE5aSWg4ZWZjSUhLSzZq0gGsAUFVX3lxTE5CRVoweUlXUExSTW12cVJUWWZRSmJuMzVaaWpJQ3hodjg2aXotLW5fWVgyWGZQZVFpbWJENERTSEt3Nl9aNjJGUXFtZFhXeTlyTHkzaXpGRk1PVENMeGJNWlA0Y3NlQThmaFpON3FJbVU1MmluQWNqLURod0pqNnd5YkJvNEhvZS13MVU1R2pGZmt6R280X081dmdEalM0TlpJaDhlZmNJSEtLNmo?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Rediff MoneyWiz",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude Oil May Fall Further: Brent Targets $90-92 Amid Supply",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOV0NxQUlQVFMwdHVWU1FVSkVCYzd2OGxHekdBcG95SmpsblZVbnI5VWIxdk1aMmVNVkQtcjM1NW44TWg1SmZIWDJ0WEp6OXJ3cHFIWWd3RVlHUVN5MDUwVGU4aEVlRy1kcDN2N281V0JaQjlzNDNOQ3NIbm12UUlSbUZISjJiN2hlMlpSaVZob2h4b2FoMVBvREQ2a3dHX3VSRjE0Ul84QlBfWXgwalh30gG0AUFVX3lxTFBrWmJZaS1aQ3RPQ0RQVGVDbXdpUVBkUTBMc0pmQWtqNVp5SkNTckltRWFuMUcxVHhYTnJTWjJtbG1LMmZRWmVaaThsbEFkT0psSUtteU9aaUZRbnltVVJhVWtvc3FOd3hwa21IUjdSbW96UjRfOUYtTlE3SU5KQzQ2U0RVUlYyaFF6SHA1a2NPNERYNWxza3pCWWEtTWxJRVRuVnhGTDk0eUhldEc0UEJhdFJaRw?oc=5"
    }
   ],
   "moneycontrol.com": [
@@ -32520,6 +33442,24 @@
     ],
     "title": "Daily Voice: RBI rate hike in December cannot be ruled out, says Nine Rivers Capital founder",
     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNbzJEVTJmWV9ZeF9WcmUwVE53TnZuWDJpS29MNG1IcmlwOXhKZ0hxRWhXQmNyY0hFOTVSZnpQV1ZRX2VmV0Z4QmVlcERtbmxkOC1TemdwUDNlaUlXNWQ3dEs3QmVlRmt1WXpwVGE4OHFiTl85ODQ0VU5iWGh4dVRwM0h3T2x0aS11NTlOaDJxV2hwZ1Uyd2FXTUlmalhqRVMwd3NNWlF6akVuN3VFOEFZODlKZkZpNUIwdUcxb19iX1NGcUJoaGdoR3RlRVR2OUF4QmJrTmJMQnkyeFpiYzdiU0JYSG1jaWo3c0FR0gHwAUFVX3lxTE9NR1kza2F0RHhHZmU5c3dzc1Y2TWZOMnVkdHIxQk1mTmVVME5IeGwwV3ktZXVzWDBteVpqTGRfZTJWaFFlQWNHa0dBcVBxNnRPX25YRTYxcERqTnV5d0NtVDZTZjZscV9xT2ZPVlpwU0VpUmM5bnVCVzdRdWNXaTk0VExhVERrLWtfMlBUZXNkQTNfcVpsYUlIeFBYb25vMVV3OGIxQnRNcWJFLV8weUVMNW5sYXA3aXRnSUxXN0o1SWRuc24td1otR3FVWkVISTRoNk1sUE9PX1J6RGJBUDFwMGlfZzlYTXhXSUN2MWd1cw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Moneycontrol.com",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog to launch series of workshops on 25 years of PM Modi as head of govt",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHJydWM2Uk9SYzNHTDJxOFBld1JNSnRQaDljcXh0eFJQRWJUOHNqc0VDWXhuSlFvYkZTcTFVRFlma0JHUjlMWTlZcTFXUzdNRlQ2VkVlWDdOUmhSYTNLaVo2d3llMkpKUjk3SUxXcU1WajJtUldjbWh0NFp0ZWhuWUlBVzVEcXZxajRmc3dqZGhuYjZaeHQtR2ExQVFwY1JjSXlxS2lQSWVEeUtpLXdpc1FTX3haVmtxbDNfME9wMnVTUnBvUDh4VDcxSWQtZ9IB0wFBVV95cUxORms5LTJMbGlkMEFkeFd6NHp1WFVIQ3V2VXBrQVdwM2FGVkFYX25RcDg0UUhFaW1ISDE3elVxTDZVcFFBOTdEb2dVbVVVZE5WTEdSZm84MDA1ckdkZElidW5hTjRQd0J4OWY3QTlUZXd3bkFBcDlISFNCR2hEUFZ3eHJ3bG0wQU1acWw3a1c0NVdmelJQYzlnRzVuX1VvSzVJU3FfLWVIRlB3RlBielJUM3ZNNXVwSGhnTzVZWXE0YUdEWGZhYkkzbDBiMHotNG9HenZZ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Moneycontrol.com",
+    "sections": [
+     "ai.robotics"
+    ],
+    "title": "Who will be aboard SpaceX's first Mars-bound starship? Meet Optimus, Elon Musk's humanoid robot",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPS1R5OWRac3RzdHRQMWtsbGFJbVAwTEt4dnlydlRWX2V4anl6RVlxbjZGUTFoN3RoY3FSZjhYTUhfcmlDTXhUd1g5X0tjUDNEUVdna1N2M0Q5amNPeVhSOEJIajJHNlptYlRqeU1XR2piS241OGt4bHZ0d0pqQmdWZ3JqMmhTOGxxaDBlR0tQcm1uSmdwN1VDcVlJM3JUS1ZsYnctM0xqcWR6N0dkby1zalRhd1g2QUpaTHZaNDladGFGWUxxNElCSFRDMzNUUkRMdndTRkwtZFFpbjVTUFlaR0ZTNFFnVE3SAewBQVVfeXFMUENrY3FwcEpXbVAxQ2VDVGZtdmxUZms4T3cyQWszcGNlZG0wZHlfcVVlekE2dnNkQXloZnVyaDdMRGZxdEhoeTMyaTdndWtNRUJPOURhbDdXNnhQbElsbTNRWVVubkRQd2xGNnRiZ0ZhM2R3NThzbm51M3VVLTYzbDNNN1ZOa01YdGZDSU1PeDlLTW56N29xSkpkajFaTnVDQ1pmbjlqc3dhUS1zTy15djg2M19JRFdGRVk1akltOXdjSjNub3hLSmROb3lRczRoN1ZMZEc2Q0ZWZWhfcWFWdGhScVZLYlFDLWpyM2s?oc=5"
    }
   ],
   "moneyweb.co.za": [
@@ -32769,6 +33709,15 @@
     ],
     "title": "Union Cabinet Approves \u20b962,370 Crore Fertiliser Subsidy for Rabi Season; Clears Major Development Projects",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMWRvMjd4Sm5ha2JheGxxNkd2TVZxMWZXeW5EVU8xbFFqTHhVWF8ySHU4MlhESm5HbGxPYXZFbnNLUWRFc0JCR2dDdEtINEp3NlMxMDktU0Q3VmlVZmIzb2RfVTd6ZWtMblpweWdpOW5zRi12Nmk0NTJ4WVNnbEVCSUtuem1CY0s3R2ozSHhLMTJHOEdmSU5wcFB3?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Munsif News 24x7",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "CM Revanth Reddy meets PM Modi in Delhi; discusses Invest Telangana Global Summit, Khelo India Games",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkZmc1SlpOdnlaLVdfeDNtaVRvZHZ0VG1JQWxsWUwzT3V6clV6d3VnbC1xT1psanFrUDVBb2ZLS0VWMWdtcWlQN1dhRHVVbVNBc1ZNWGRPQ1hXSW82VV9JaXNqOW01LWdURWhuWC1RMWxIZw?oc=5"
    }
   ],
   "muscatdaily.com": [
@@ -32871,6 +33820,15 @@
     ],
     "title": "How big is this week's oil price drop? The steepest since COVID, but Brent is still well above pre-war levels",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUG9aM1FJREM5Q0NJa2xFcTRtY2d2Nm1nVFBJdVdyNk0tb1FTWlp1MjkxTm9sbE1JNjFWSjRlZGJpUnVrQVBwQzk3NWwwcjdIVE9QN0pVOGlhNlh4ZEtRTGJtejZYQkk5OWJWdXFpVWxwNWRReERWUERneEV2N2F5RmUtSmUwSEFPcXFXWmtmTUJuc095QWRvbU1QUXZzY0Q2SlFUUE1aOTNoWXlPU3NZcTBKYVNaaHJhaFBKNnJJT0xZSW8?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Nacionale",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Why is crypto crashing? Hot inflation data and Fed rate-hike bets pushed bitcoin to about $63,000",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc3BqSzNCZ1ZSWEp4OVFjc0FsWFMtZGRBaGtlcVlPZE82UHFucjE4eGY2VXhxVHQ5OGpjbmdCZVpRbEZ1VThOY2t4c0pNTlhEWFJVLXN0NURCOHl0N3hFRDJ2a2NyWFVEVW1NOElKYjk3bno2bDduNC1lMVQ5bjh2dVRMeEprVTNjMnB4eGxYYUdRX0dBaUIxMlNkOTdHTUh5UXVxY2I0Q1RjWDJGdC1NNg?oc=5"
    }
   ],
   "napolitannews.org": [
@@ -32893,6 +33851,17 @@
     ],
     "title": "PM Modi inaugurates Bharat Renewable Energy Summit & Expo 2026",
     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQWFVa0NydmdaVlJXWldpeTNsWUpjcVhpMXlDaWNwVmdQSG8xQUZKVFctUmVjRzJhS1JzQlRQbEg2ajRQVXYxdkhveDNhVnY4b1loYjFEMGx0aG9XampkRHZoODhpQTRITlhDRkR4cEhuODA3ZkJKRmV6eXYwRFdzTUVCbURVMWlwZ1VKZi1lZTUxb0dqenJPWkVSdmQ1Z3g5Mk9VZDVxZElWT1VILWxGU3pORl9ySl9OSktGLUxIWFhRQ3M?oc=5"
+   }
+  ],
+  "nationalheraldindia.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "National Herald",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Census 2027: Another fraudulent register of citizens in the making?",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZVRXZhcFo1dk9qN2tqTzBERUpoNF80dlpHZWJLby1peXE4WDFuVlVsY3lDUjBOeDUyVXY4M0ZrUDU5MnpDTXNYWnZKazVIV0pNeWZmNERGLVpfZHJoY0RscF9zQjByb1gyalJqalAzdnNxQmM2aklVT1cwUWdCVUZaSk5ra2VyNThyU1ZNUTlwRDA5aGJHN3VISGtXZHU1TUHSAa8BQVVfeXFMTmtzWWNSZ1N4V2RibU1MQVZCQXhnTXQ5TG1uS1NyYnJqNzdmRkx0SXNuVnFmM0ZvX2VhZ2Y3Xy0tNWhaSHJ2VWZrMUJjMWtnRVpJZS1XLW5jajFEcE1Wejg3bEpZUDZrOW9veWlxMi02T2V5dFhfZzRIbDV1ZE9pd0dTeVR0bUpLc1BoZ0hEU1hoa0ZMRXF3YTJ4SDMwVTNiblBCODdqVUpVT21HbWRpSQ?oc=5"
    }
   ],
   "nationalsecurityjournal.org": [
@@ -32960,6 +33929,24 @@
     ],
     "title": "Jaishankar Says India-US Trade Deal Talks Near Final Stage",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWGJPcFBRdnVTSUJrdlBpd2gzdDJxVTBVcVVxWHg0ejRoVU44dzVDbVdOcWpUakdDXzhFUkZlek1RZ3JwRmpCcEpoWTlsRUN6ZTlqZzdEZy1DYnJ4bzg5cVlCTXA4OUczQTZmNTNyREM1RUQ3OTY3X2JlTl9uem4xOUlqaG85aG5URzZLSW9Vcm1GWnM?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "www.nationpathindia.com",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "Jaishankar Says India-US Trade Deal Talks Near Final Stage",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQWNGZHNvNnNzUjRUZWRjQjFoV3gyaW00NGxPdlgzNFRjRDJORktqaGJKNE1yZzNLZFJmem5IN3hFTnB3WTNCUURtOW9qT2pfeUJUQUhVb0k2N1doYnl1UUxPcDQ2UldYeHJ1VWstYlVJWGpXdHM3TGtZWjZFaF9QaXJpRFViM2tvZVA3Z293?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "www.nationpathindia.com",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "India Opens Consent Manager Registration Under Digital Personal Data Protection Framework",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRTBDZjhOcmxEM2FoSVJKOUhoLTBHX3RQMGotbkpXRU05RlZ4Uzljb0hyeFZTV0RobFA5WXRHN01JYWxYZUYzcnQ5N1laRzlodU5TVkNCWnpuNUJQeEt0ZXRCcEVIbVRJelNBS0VnQm9VOHBYYW9qaEo3cFlaY1piM3ZwTFhFODFzbzhN?oc=5"
    }
   ],
   "nationthailand.com": [
@@ -33027,6 +34014,17 @@
     ],
     "title": "November 2026 EB-2 Filing Dates for India-Born NIW Applicants: A Technical Reading of the Visa Bulletin",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcFdTdTZ5Y2lURDdyMmN2WkpxbFE4V1RNRjVKOGoyQmtQWWtKMkFDcXdOTFFBMDZDeVFRSGlBQzZla2VaQ2MyUXNRS2NHbEVsRkFHTTJHRFBTOXlfT1NFeExmUkl1WU5SLUxfVXdNOWlaTGgyOWhWY0pxRTNVUC1pQ3k1XzlpODlTRDR1TVZ0MnJoUS1oYlkwMFVUc2RydmFtbnR4bTdNcTR5MU5Wa0pLcmh0QmpaZw?oc=5"
+   }
+  ],
+  "naw.org": [
+   {
+    "date": "2026-11-15",
+    "outlet": "National Association of Wholesaler-Distributors",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Fed Holds Rates Steady in Warsh\u2019s First Meeting as Chair",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNl91MDloVUVTaUpaaTNhbnpXM3FRQjY4ZWV3c0tnMlBLVjRWX3J2djkzTldRd0J4UFI2ckhZaEttMmRaY0dLdnNtRkJYRDdTUzlHZ0NRTkJVU1Y4YllJampkX2hJRzg1dzUtUmFtRVhtdGpiN3ZfaVVDbURRNE5Yb3FyVGF6SEpTQVRvQzF3?oc=5"
    }
   ],
   "nb.com": [
@@ -33181,6 +34179,24 @@
     ],
     "title": "'Reaching Finishing Line': S Jaishankar On India-US Trade Deal Negotiations",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWhLbU5WTUZyX05XNzBPVjZSQndiS0tfNlpBOTdOLTFjaklGb0ptRVJoSUNGdmRCaEpONFNOTWlnV1pyalA0NHBFNzlrMFlXSVlSR0tncnBPU041VEU3VkdzRW1fYXlCYTMyakI3ZUZlUU5oV1M4VmZGdkVOVWRjaVRRXzBJMEMxbVNmS2NEYzZQWnZaWktHUWNyYTA1V3Q0Z2hFRXZsZ0lvc2NlQ1RSYVBBa9IBuwFBVV95cUxOc2JqZlBVX1lUSndZWm95TmFkMkw5U3NMUE1oWlFQLXg5bzZvSzdFZldnTlpvbjVncTZYNllIcjA2TFBDSHBMR2FXVFk1S2h3U0JYR09tenB6U2d5bUlKUklYMmxLVFBLVHhyamJuN0xLTzZfZG4yVTVtSE5vTzZJZW05emo4UkZMeFBZZ0dhRjhremJvNEptS3AwYS1VaEluVmtaVDJEN1RSYWF0VjBPdlBWLUxsQXk1QU5J?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "NDTV",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "Video | Chaos Near ASEAN Summit Venue: Protesters Detained After Clashes With Police In Manila",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSUc0d180Q3pwVW5sLUhjTFhNNzA4N1BKOFN5X1Jac1NQQjdoalQ2bTdEZmdPYUNmcEg4cU12akprOEl1bk1IR2swbGZLQkd1VG5WVTM4bFNmRkVXSkNBZnZRN2NuVE1XTDdQaW9Kbnd1a2Q0NEdnM3RWZGtLM0xSOXFxdFNWV1VmclVxRmpCSnpzU0hDQUo1cFZSMmd1QVEzSFVMSkhPN01QRmtRNEstY1NNeUNTSXA3b2kwaA?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "NDTV",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "With 'Flat 50%' Caveat, Supriya Sule Backs Centre's Delimitation Push Amid NDA Move Buzz",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQa1MtRk1xRm4tY0pQLWxHNThZOEtaSzR2Z2hTZDlrOXNzZ1dnZ1VzQnRVRDVSZXRNWE1IYWJLQV9pVDhMc2M2dDZVMWppbHgxZXdfaXlRNVhLUm9SSkktd2g2bl9DWUFEYVlPU3BrM1FJaXR2bk9SdV9JbmhfbklLb1puVEFQTkx0Zk5lQ25JQzhUWlY4SVotclFtbDY0XzJCMjJWWnAxQ3pUV3NFTFRkN0JpVVdsWElPdDZIRjZzbnZSd9IBygFBVV95cUxOcGtZQzUtVnJESTRtM2lKQ2tmZ0VQMlJrbVFSMktWUU5OMURPOFlQOTB3MHg2QzVEd1Q5emhYenBlUmdSX0luMUpBbThhdU95bHB1ck1QeTlLSWozNkR6THFUamU0ejdFWnFUeVkzYTZXSlVwcS1pU2VPTUNzNnY1QmlOS3A5eWVCNmhBNjhBWFFHMmlVd2Qtbk42QzRzaTdja3hJeVN0eFRVYWZ1S0VXVGJxRF9pMVIyRkVpQjRGaVZ2RENWZkFXTDdR?oc=5"
    }
   ],
   "ndtvprofit.com": [
@@ -33318,6 +34334,37 @@
     ],
     "title": "Final Hurdles In India-US Trade Deal Lie More On America's Side? Here's What Jaishankar Said",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWxsWE1iZy1nTUlpTWxtazFaSTdDTXE0TXZPUDdKdl82MVpreWpmaHBpN1Ita01qTWhyLWNMY1RRdnFiVHg2dXFYa045b2ZYUVJqMnN1YmJiMWZsMVYxYmI0bzFXRTlfX3dONkhwODlOR2FpaHc4Q1ZsZUg1Uzg4VXRnUkpSU0xtWktWRnRCZlhyaFp6V3Vwdm4yMVB4SEloYWgwMWttN0hFQ3ZQYWV2d3NYUFR4blEwMmc3cXBKdUNnd1NuV0NNZ01MQ1BpZ9IB1gFBVV95cUxPclFHTlVsWlZlOGUzcE54TVNaOVJJSkZTSmdJTWUycFlBMEVPUmRHUXZ5ckx0c3NESjE1aEF3X25YenlvV1VyaDZua0t3VW5QUWZzV3Y0YXhPUFFNOXdKamItaVRxVEt3Vi1PUmpnS2tHZnFFRmFLbmpwaDQ1SWlmNTV0cXhKNnZYSEt3T3htU0RLRjJrcTM5cUlXcTN6UENPY3gwXzRJZG8xQVVNdURjSjhKa1VmLVY3R3kwV0dYTFlmTW10R2ZQcEg1S2x6clVnd0o2VkRn?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "NDTV Profit",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude Oil May Extend Losses This Week; Brent Seen Testing $90-92 Per Barrel, Say Analysts",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPcnBadDA2LWdpY3N4QXJQcXV2ai1MVHpLSzJJZi1pZ2lDMjZrVlpnRWtQTm9raVdKUkVnOUd5eDE2aG5EaFdEX2x0ZG1Hbm11akRPMzIxWTNGUEFjME11RVVteFpSWDJrRGVBTFliNFlPMnhrX3RKSnJSSVBKUVoyTGt3YjNkak93MjFXdW1MUHhKck4yaThBSmRzTURDMFplUlZTdlNRSUhJQ1lpZkRpUHpsUHBxSEFCZndLR3NNejFVYmpsalZUbWJUMkVMblnSAdcBQVVfeXFMT0l1TmFqQVFvOWVwLXNWRmJQWGl2OGcyUnh0dXhFbjR5bktoVl9vakxCX0lpZEhjR3FROWFuT09QcS1YdklyZTN6RDF3UTFDWlR2RmVWaG5VQUg5U2xYRXE4aENUd21GWkw5QmFnaEZVQjVqSWY2RUJpMHpVQXdIeGxrcXBHQ0YzSXl1LXh1UEpYbkRwdlNOSFBvZzlIcjdQbGpJWkh5cE12STA0X2xZUGMya3JSNlVSZjY0azhwSDVhRllTT0wyeU9aNDdkTTFFY3RvSEJHanc?oc=5"
+   }
+  ],
+  "nenews.in": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Northeast News",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Tripura to conduct second phase of Census 2027 from January 25",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeHVmZDdkNjE3VlhsNlI1R3BaU0kzS2Y4b1V5OHlVb2pKa1ZiOEZ5RmsyWnVKNTF2Y1dDN2FCaS1XLVFEU3BnMVo1a3B0WlhwN1JIN1cyNlVTblNhejZTQTFSWjY3SkQ3TXNOdnFmdzIwR2YtTGI3b0l6bnZzOE0wd3gyZDJmUEJRY3lCSnR2ejJRR2pUSGpxRWFScw?oc=5"
+   }
+  ],
+  "newarab.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "The New Arab",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Peanut the squirrel\u2019s owner detained by ICE, facing deportation",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXpUTGJyaEw5Xzc3ZHpJN3RuUmdVM3BWMDdUM3hVblBYQTd4QTY2RDFwX2NGY2RpVTVodG0tbkNweEQzQzRmTUJyekNjR1lyV2x5QXRfLWgxa3pZa0EyU3FxZmZVMWMtNlBITEtUTVMyZVJjTUpLNUVFcTJyY19OWjlHNHU3Tmk3Rldr?oc=5"
    }
   ],
   "newindiaabroad.com": [
@@ -33592,6 +34639,17 @@
     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1WdzZFeGlDY1ZreXVCWEk5bk1WT0xkcTFDdFpKSWVTYjRrcjBkMEdHZUdBWEYybHFVUVpESFRyNGxGNnZLRnlUNTdCYTVfOWoxbWg2WDhFWXdyTDAtWVV1R01n?oc=5"
    }
   ],
+  "news.laodong.vn": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Laodong.vn",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Update on gasoline and oil prices on November 15th: Simultaneous increase",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcWgwek12LVlvRXdDNDJRM2Q2M2Y4d1o2ZHlmVE5McG9UMVlsYnpHdGtCaThWdFAwWThJOEllY1JOMDlKX1ZHNEVIaW5TSTR5enpRcTgzeTl0bnRWWi02U2tjbTlieTVkWkVVYm1fWFF5aXkxajdnU1BWYjVBVE1oM01DVFJEVjVGcDhwVUtlZkluU1FITThFbw?oc=5"
+   }
+  ],
   "news.metal.com": [
    {
     "date": "2026-11-12",
@@ -33710,6 +34768,15 @@
     ],
     "title": "Quad Summit 2026: PM Modi, Trump to meet in Manila on November 17",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ05Rd2YyTFN0RlU0M0doYjhTclJLSG5DVDFsSldkQURqOFp4d0hqMGtyaXdGc0wta3JBajdPT0tWOWtVR3ZweDB4OTc4YVhmOUJqZ1V3VTVUTVZFajAwUUxhMkFrZkJxbUtLZldYRjgzUVpLenVjSkdRejRVRG1NeVhGNE84THRsSFU3dnBRSlNIb1NSWkNhdllyNEV4ZE1FZXRQcGtn0gGrAUFVX3lxTE5DS0xmdlFnTWRranV2enpOM2RUVG93bHJ1LVNLVWlCdVJxYVhaUlA2S1JESlVtTzl4WXl5ZVgxU0ZhVTBJUTNhR3dhNm5OcVFmdWRkU0d5eTdQOFQ4NU9HYkU0Y01xbTV1UWRfODV6dG1EOVpjSjllNVhSYVdfOW45QncxWmtrVW9keHdmOFJyc09qYUZIVTU0OTA1RnNrbllGNDdSRkpmTkFoMA?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "News9live",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Parliament winter session likely in 1st week of December, delimitation bill set to take centre stage",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcURLZUJGMjFlRHlFNkFob2FNS0R6S0VJTHBHaVNBNWlycG95OFVLeDBoQ3BVd0lJX1NVcjN3R21XTVZvLW0wOW9oenR4bW80dkVMOGxIMm8yRkRqRmI2VFJEaDBJQWszMGFMRE9QcmNMYzR6RFVleU1lQ3J6YXdTTEowdEtpU20xeXlpU3JvMFl1N0ZUTlYxcGhwVWlMWXBTVnh4U1ZfSlo0SUhvcEhuVlhIUUxjdEcxWWlpN0VFZWU1czYtOXlwWmozSU9xTnJFWFpRR19R0gHbAUFVX3lxTE1lTVNwNjRTYVk5NGdHSHFnMDNPaUhxVWstYkZLbTBCY3A2QUxTMENKVjFuUHk0NGlpd0o5N082am5IQ25ZTGNtOFF1VmNuNkZOSzJnTlo0Mjl4OWZ1R0pYQXNuN011NHlaNTdhRV9tOFV5SUgzRVhhWjJhM3I3RDF5cHBITUtob3Q1bzJmWUU3ZmtnUHhJUmp6RmJ5WmQ2bjJnVnMzVFV0bGdsZTQ2MjA0Zml2Rmc2ZEc0emd0MFloZ09hYlNRVWhRcGFJMW50WC11YVg4ZGlRRmcxQQ?oc=5"
    }
   ],
   "newsable.asianetnews.com": [
@@ -33838,6 +34905,33 @@
     ],
     "title": "Cabinet Approves Yuge Yugeen Bharat Museum in New Delhi for Rs 3230 Cr",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTGtqdDRIMS1tUTZTYmlCT0JZNGs0WkZZUXk4eFVTMU4yMkE1Zmhib1ZkU0hLLVdxdTB1NndfY1JmN3gwTEF1VExVUHh1VHZVX1ViUWxrMW5wRXZYRVo4MC1XbFNCSjgySDA5emlCaVlfZ3NZd2g1b3ptaHFtNU9uN3RkQW9XQVdUdUlMZjZ6ZW9tOE5zdU8xTkwxMzlmQThDOXlXd3IwUXd0OFEtSF83QTl1ZlpxWU9HNTJRT1hOSmlacnA5bDlQcg?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Asianet Newsable",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "PM Modi To Visit Manila For Annual India-ASEAN And East Asia Summit",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMjhGUU9feWgwWExfV3U4TXVXdjNrbDNsQWlSTVd1NjNXT0t5QjEyOHhjNDc0TEhNc2dtSjNRTWxZRWdmVHRlbUNYZVFKWkhETDVQdEppd0JEa2NHdnhYY3k1aG1mQXpnNlpIcWt0bDV6cHRkNkJBalVabkZjNmVRcklEOUl2c1hnZkU4dTZWNzAtaHoyRUoyQnBwMjFQanh6TVB1dHdVUFZuS3lOekZRM2tuWjZXdldraUczWHh1VnhOVGl20gHKAUFVX3lxTFBUQm9FVmhKOEVwalByUDhOSmhxcG8wdTRTVE5xejB5eU1UbHFLcUdnSEdHS1JVRjdkYjRPck9rREx2ZE85a1pkNDZrQ0Nqby0xaVdmNVBSZXBzVk9ma2Q5YXREcWFGS29KeDNrRTdzVl9vQ0w0VGpTV0pHR2NFWjN2ZVRILVc3dDFSQ2VlUVFXdXk3TmVKSzZGcXVVUlZjTVBIeDVrYTFkQzZ3R01MWHdaNGZvSmt2S0ZuME9HUmZTcjdnUzJHUDdhZHc?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Asianet Newsable",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "India and Philippines Eye Deeper Economic Ties Ahead of Summit",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY3c1NnQ5S0JNWlFzOHlRX3pUQVd0Q1g1RWZZem1zMEEzWGZiWHdyNS1hVVlEUzU5Q0x5blYtS0tTQnRfeXZsSzFGRjNTb1BsTmhrRVBwaVg1c0FhSnNfdGVDRWUzejk5SFc4N0pIQW9JRGFDdlh5cGJfbzBXbUQzd3dNX2pQQ2ZTU0VOX18xVmZpSFBhb3dTU1FNZi04blAteVZBZ0dDVEIwUS1oSHJaWS1GcnRMcHNmU3lacFFn0gHDAUFVX3lxTE4xX2V0alcycV9hZ2VsUHhpUWx2OUlIX2Y0WlBxTEFia2VBb0RGLXo3Q0N6SFBfazdEUkwtMVQ4bHRfTFdwZ3pNUllsT1hkVmJrS25ud3hhR1JEQncxYXN2dTBxSnZGbUpxQTNfNC00Tlh3UWtDRFdnV21kcnBPN05xUEpyLVRnUElRbXhoY0xDM19vb1pJRU42TkVjbFhWTGZjTllxYzVPd2hUNFRYWnFzZjMzR1ZxM0dsbktGcy1tT1paZw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Asianet Newsable",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog Reports Slow Progress In India's ACC Battery PLI Scheme",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNY3NIRGRGaTBkRF9wWFVTTmtzZ0dUMTJFSTRLRlAyeG1MWGpXcFplOWRQSkZtVGdUUkZMcmNUQmExNmFWdTFOT3QtYUY5NHVLTHZOa1dMaXZUcEdPSlZHY3lCQW0tZnBuMHUtX0dDdGNBb21TS1FLZ3hJSWcyRURaa2k5WDY5cThhcXNwM2R1RDd6VXBzZmNfM2dwQlBFTEEySm9UOHYwQVJmMk5YSG42VkE5M2xVQVBkcTNkY3dkVzhnaHpYUGhn0gHMAUFVX3lxTFAwY3NkeVhEdWdReHRnN25RdlZTNkprVW9FUEgzTmlwd0lZTldyNFR4Y2xwajViUlJiYUI5QnRnVTZBQTN2ODV1ZVozdFJfcmdyRndiVzRwZmpYQzFySzdKN19CUVBBNlZkWDhvZHZLNTdHOGhmV1dTNkVBSW5wcmZDcTFVZWVUSGE5NzBocGZxWnk5aGhVRFNfeHJ2aDRkMlROMnVpUUhtdU9QcEdZdk1IbFJVempJRzZWLXlLN3ZGNWxsWm93RnhWOXM0eg?oc=5"
    }
   ],
   "newsbug.info": [
@@ -33905,6 +34999,33 @@
     ],
     "title": "Union Cabinet rolls out 12.6L/cr MUDRA loans, 62,370.02cr Rabi subsidy",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbmk5MUI5ajNXQWtTeWRfRkxoNUV6ZTlEdU9XX1pFMzV5VlhPNlBaVnYxeXdmRGMtVG94VElSNHZ6dnRSNUI4RzQtcEhDSU1lbHlzTW9NX1F6bnBrVGZnRlJQLUxublZCX3pmc3c3ZEZ2TkJoU0JsZWgxVkd3bEdIVjl1NFRubU9uSnJpWWZRQm9IaU1UMUxxMWVZcWhIbDFDOEpNNHNRSnpVVmV1eVBj?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "NewsBytes",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "PM Modi attending ASEAN Summit in Manila to boost ties",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelB2Z0tOT3ZjaVI4WHB6Y0tVWGlOM1NrMkFWTjlIcDhYTTZsemVaejhWcEZsVlpvY1dPWGhneDUxUVNVdnh4WmhfdWxIRkEzV1lLTEV1TGEyekhtZE1McF9kZGo4T3ZIRlZOREctbXRmVUwzVXpxWFFXd2I3amRIRThEX19UMWx3SHEtckNRd29ObXlRc3dTRHhFNnVHanhM?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "NewsBytes",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Crude oil prices may touch $90-92 per barrel next week",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdElhRGxPbmNGSHdEZWp1TW01Unc3SGt3QUhvNE03MUhRY1ZTU0NlRGptSkNYRThQdThxdldNNEVhZ1IzdnBTVjR5WjZ3dHptallRdmhtN2w4ZDgtUzNVVE5LVlRRR1BCTmkyWkZyelJMRnd6dDNZN2s1V1FwV3NDY1A4U01SZ1hiZ3N6MUYtTkhqMU8tWWJib0MyMERzUQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "NewsBytes",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "India set to begin national census, 35 day returnees counted",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOSXRfSXNVS1lKZjJqbHlQdGF0TWxUTzBWdl85cUNSSldJR2lZMW0yWUc1a0kzVV9uZjAwWnJOMk1fZldEaXljcVZ4V0FCckpzQmNzejRtV0o1YnAtbkNIRUc5RC1OdGJ0WUFxalFLVUpJcEFVQXJrT21UbHFPekgwcDh1MVFQcVY2TXBUVVZzSUpyMUNzbFRGa2xYYWNxRGVaS2Y2bWphUQ?oc=5"
    }
   ],
   "newscord.org": [
@@ -34018,6 +35139,17 @@
     ],
     "title": "Fed Rate Hike Bets Rise After Blowout Jobs Report",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQazd2bVVTRE1SdjZ2eFViVHZQdlY5UGJtbEZOUUszem40dWI2V3pUNUpKR2dCNW16cXZHOWpHZEQtY3R5bWZPdHZfR3p2TTFSM0FyNEs2WlpNbmVNT1FRV01QX0VJSGJrbjZPMEF5ZFA0OEp1TWR3SjU2VTRRMU42SU5PYUd5WXltM0xySHdSdVZScGF3Rmc?oc=5"
+   }
+  ],
+  "newsmeter.in": [
+   {
+    "date": "2026-11-15",
+    "outlet": "NewsMeter",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "CM Revanth seeks Centre\u2019s aid for Telangana drought, invites PM Modi to Global Summit",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjZpNTJiTHZ6QW1HRGxBSmZXeFdSY2FiSWxyc2R0ZS1ldzA1VFRFU0JqX0txRk5KUkFpMHRGX0g4andqLUNqSGhFUWljV1VQMGl4NGdCT19KSVdwUmNmVXV5bjdFT2ZNN25ta0JLb3JtYU41TDBPc1JFTHFsNnl2STNZc1lfcFQyNjZ1bnQwREhKcUMwU0hsYUtHQnljOXBGeVdxMUtaVnAtWi03bWV3Vm16V1ZDM1VFd180QTRXTXc?oc=5"
    }
   ],
   "newsmobile.in": [
@@ -34179,6 +35311,24 @@
     ],
     "title": "PM Modi to attend ASEAN Summit in the Philippines next week",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbkYxaXlkaDdiN3oyVzZCX0szbHpyUS1LS1JuNXdpZjNRSEs4bFdPQ0VqTXFJN0FWUURLV25abEx2T1RHcFR2azFMMXYwd0dhRWVDanNJUERGdzNxaFpqaTJLeWw3ZmwxejJMdXBjWjJMZ2NnSVpsdmVSVlNIY3p4LXMzLW0tOWplWkRqSG53?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "News On AIR",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog to launch five-part workshop series on PM\u2019s 25 years in government",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMWtucWpjQ3Mzam9EcV81eWh4MVRPWTRUNHlNS3dveU5XT0pfZHozaGFwWkREOW5fM1pjMEkzVGRLVEF6X2NJbHhjU1R0QTJTUXYwZmhkeGhlb1ZDZngtU1JjSTlRZUVlQ3V5OV8tRUhZd0tuLTRqY2s0bGJwMVJ2Nk5IQmpReDNRaFAxNnloYmpVTWY5YnhsVlZyM1oycGhFdk94aA?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "News On AIR",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "Central banks of India and Egypt working to promote bilateral trade in local currencies, says Piyush Goyal",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOckRmRHdJVkZBckpZQ0RNNGplWV9aVnFoVnBQLTZvVExHdUotM0tncHh1WUhzMzdyRXdELU1zWlpuazZPOXZaUkZGdktkdmtfeGo2MklzSFI0UVhabk5xeVk1eG41Z2xxbDdvVXU0NlFBNklvNTdmOXZVR1dnYXNaMFJmenVKY0VYRlhxVGZSX19sa2ZRTG5zZGpsREszSVRJZW41dm9NZ2FPUGU5ckR2eUV0Y3NrWkh3eUNfQU1mMDc5eXUyTWV6c0JlWQ?oc=5"
    }
   ],
   "newsonprojects.com": [
@@ -35013,6 +36163,15 @@
     ],
     "title": "EAM Jaishankar Meets Armenian PM Pashinyan During Delhi Stopover, Discusses Gulf, Ukraine Conflicts",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNX3VmdkNUZzBZZ2RyM1dXLUtXeDh0NXZ0Y1ZDZnliZ09mcjJ2dDVfMTZDUnY1TUZsQ3N1Y2JtcnJkTXhkY2NJRksyUUZFblB5X2JnZE5oWnVicE8wNHpsdi1Wc0N2bTVNQUNUSXlUb0VuTDdFdU94cVRWN0FBVENfb21PNmRaX042eHhCaVhUTzU1VnBhMDVnMGYzY0tRa0IzVFk2YnYtelZnUk5fX0VvSTZvVlhqU2F2N2tacW93bWtfaHc1R080OHAzNS0?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Ommcom News",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "CM Revanth Reddy Meets PM Modi In Delhi; Discusses Invest Telangana Global Summit, Khelo India Games",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQQlAzY0lRWnlMbF9lOHp3WVZaTG1QbGdza0I5bUw4MFVTc3pTU2c0YWpKeHR2dXV5ZmN4NXFsc1dkcVAwVlNSSjc2dzZhekoyZmR1czZhcjRmNmJiWFliSDNLWGFTdE42TjZLLWpoaEVWeTRuWURNbXVIZ1V3ZUtZcXVWZkxWMmp1a3Vhbk1PdTFnVFJ3ZmZoeFRkX2tPVUNQT19HUkw3QTkxMUJ4VE5oMDZBVWFSQjlPWDgxNlpWQm5XTlZDOUFKV1Fta3NNUQ?oc=5"
    }
   ],
   "onebullex.com": [
@@ -35102,6 +36261,15 @@
     ],
     "title": "Noida Metro Extension, Yuge Yugeen Bharat Museum And \u20b962,370 Cr Subsidy: Cabinet Approves 5 Key Decisions",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQcmZDVzYzNEoxNjNFcF85WkpGQ0E1S0Y4UjVRamxIQjN4a1hTS1FtdWVnUDFwZElXakN5djZjZUVmcVRHVlZ5b2syNjU2ZWtvZlFZQm5HRkNlQmw3TlhtTFpGUUtfd2Vyamh0YkNaWE1YYU1KOFlxMVpBVi01VnJMY0ctZjJEWVY2czVwcEQwQUlZMzZGNVZvcGdxSVg3WFlnNWhrclQ3bXlmVExNNGctMGpvZEpzUlJQOFdLdDJrOHNsOEJ0YUY0NUNNR2o4NlJLaVN1UXRIWmRpUdIB5wFBVV95cUxPeFZBYkJOQnFjTDFON3FWaUpYcWxkdlduWFNZaWdZZXZTWWN2VzBhaFNXT3Y4dXQ4X0NQY0x0Q0dreHdDbGd1RUt1ZkQxX1lFRU96Mm0tZEhiQXBvS3JybnM4aWFEdF9TQ0Z2MlAySktiOFgtUmtUOEZQNXhyYXgzeWMyT29oQm96cXBwWjdTY3o1dzczTnowR01oMy0xalpBWFc1Z1dxWEJ0SG1reldnNVBqem1uWU5oRW5wSGc5aWkzeTFzb3hOVXdRSkpiQlVBbU5YeFl1ZldkN1IxajYxemZadm9talE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Outlook India",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Parliament Winter Session Likely In First Week Of December As Delimitation Bill Faces Numbers Test",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNaHpjM0pYaVVyWEN6czRDYXpYM0pucGZGbkhFMnRwSmdIMVJJS2FkSlZrb2lpWDE5WUhhcmZ5SFhiM3pPN0lzVFpTNm9pUEhaOWl3aEJZZVJuVVcxRUo2dGVCY2JGVlFIS2tEaGVEdVRncml4Z292MlFJX1pyck4xa0dwRVF6U0l5dmQyZDVTcFYwaGV2c3hoOTlOWHppbXFYVllpMzZOVzl4aWtqWjRnaEdUelpodUliRnV1Q3FYVEtKdVJsaHkzZXNWUGNGT1VVamfSAd8BQVVfeXFMT0hOdnF5dm9mNkpEWkJSb0dLcG9YWHBJYlY3endBZ0YxaklBcERTVHlYYmdaMVFDd2REUVJOVzVURWtJWm1tWlFBVzhKbm53UDBPMFhIc1NpQXZZOWdkd3ZUSzkwaG5neUVETm9wRklZRHNmZF9CcDNCTERnYTNleU5lbThoYWIxa0lqemNGc08tc1ZIaTk2WXN5VnE2MDR0aHR4Z0ZzUzdhY2ZEQ3JjbGVZRVZyTGRDMkJrMVZteElfTWxwZ1U4WTRucllsbXlULTdVNlhzVDVVS2lFU3FmRQ?oc=5"
    }
   ],
   "pakistantoday.com.pk": [
@@ -35336,6 +36504,17 @@
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNR0RINDNETG1mLWt1OVlDaFl1RE00YVZSN0poQ1I4M1owNzJyQ19QSkQ1MWRCWkJrUHAyVFRWRkJxaHVqTER2Ykg2T1lQSWttLTUtdzhkNkxPbExkdG5vc0hKTXdockQ2NWxLTUl6YTR1dGx4ZzZBMTNvTzNwNExmSTdsTEhXbUhJWU1OMVdNSjMtc3RnalE?oc=5"
    }
   ],
+  "portal.anthropic.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Anthropic",
+    "sections": [
+     "ai.labs"
+    ],
+    "title": "Log in | Verification Portal",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hdVl0bEhfUzE5ZTdOR3Q0dXdsQ2c2bDZUWll4cF9FS2NrZWpUbUg3bVZBalg4eHpBLXp6YzlOMml2T1ZFQzNPSExjV0Z0Vnps?oc=5"
+   }
+  ],
   "powerline.net.in": [
    {
     "date": "2026-11-06",
@@ -35383,6 +36562,24 @@
     ],
     "title": "PM Modi Holds Telephonic Talks with Zelenskyy; Reaffirms India\u2019s Commitment to Russia-Ukraine Peace & Black Sea Food Corridors",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdl92RFlxeXpXSXc1bjl0VkJ0MHlRTFlyYWNFSmRpdFBXSGlhekFIdk5oZVhBT1lvaUZxSnZVcjJXUDJBXzVMUXo2X0ZqajFWbFdOMkZHdzRwVkVPX2pEOG9BZ1NPcTVXQmVUaGI3UE1fTWdaUFNZaXFkZ1NObnJiX0NIbVZRdUNyY1NOS1ZhTjdIU1JuTTQxVmZqamRyOGJYWFIyc194TmxJMWhWcmp2R2xQVHVLak5iaW0wUnFLbV9JbkxYeXFGLTJuVDJkc0drUWt3eXJaT0RTM0M4MFZxTQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Pragativadi",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Second Phase of Digital Census 2027 to Begin in Tripura on Jan 25",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSLTNyYXlyTGxqZHBuangySk5HSlJnUUFRUXhtcmYySnFmY0pVelo1VGZubjJNUkg4VnVSeVFDYzFETEU5bGlnYTJoRzRZNkdmb0pNRDlUb2t0b2VFcHNZM1VCUXFmQlo5U0ZV?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Pragativadi",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog to Launch Landmark National Workshop Series Chronicling 25 Years of PM Modi\u2019s Governance",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWWNBdzY0MzVYLWJ5TWhKNW1XZ3VwQUM5SGdnTEw4anlTNVRpN3U5VmdiQ0tqY0NrWnFQNDVsTmtTNTlveG82NDloclhzNy1yZkdUMk8yMzlTNHpNeGtaMmYzUHgyaEVXMU9RMjlQSkdtSWxZNk9pNnpkMHh3WGFZRTNUUnRieHEzQ09GRHBjbFVGdV9zanhNYWFCZF9PbjFWd19qSFVuZzI3WWQxZnpPOVd4NWoxT1QzZklrYjlBNEc?oc=5"
    }
   ],
   "prameyanews.com": [
@@ -35562,6 +36759,17 @@
     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSHZTODBVS3EyTUk0OGtYNUtXZVljSW1QMmdNM0Z2V0ZDdC1qc25ld0JRUWhILUpoZVV2di1iODgyWi1pajVqYWU2SXNQaTRYMUxkaTJ3dnV1YXZlQXV4dzIxcnRaM194cENCNlpVSzR6TERpN290M0hCUGRibUdzQ05sQmZpWEV4TjFUTlVoYTBwVWpuTUtmekJ2SHRPaVdDRTJ5b2lFaWpvWnRWMG5zVDh5cW81SFdHY0VrZG80ZXBRWjBkRXV4NWNwM3pRc3RHWENRR3Z0aDkyanU2Wl85NG8zZFI1UEJVYVpKelJHdHdRdWpTUUxPUXVTTQ?oc=5"
    }
   ],
+  "pw.live": [
+   {
+    "date": "2026-11-15",
+    "outlet": "PW",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Why Does the US Want High Oil Prices? West Asia Conflict Explained for CLAT 2027",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa1lCM3gxTlFVandOaEt1ay1RVzBnM1FMQ3hTckRKNnNzanpONjBEb05UT2Q2eXpMZlp6MnNhZVhTejI2cXk1SEhQR2ZUcHBsYnlVaTdyZHBxZzZmLV9QN0VBV1pDaXpEaEFtU3EwbUFfbmxDeUxGdkp1Tzk0WV9uZg?oc=5"
+   }
+  ],
   "qcintel.com": [
    {
     "date": "2026-11-03",
@@ -35721,6 +36929,17 @@
     ],
     "title": "Oil prices reverse course after Trump said U.S. doesn't need Iran deal",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCTnJuT1NrX09nUUp2dWFfQmZBVG43R1lHOVlyLWgyWXpMeG5wWWJIVUNoVDhVTnFFNVRUdnpNWm5UTWJGRk5YU204QTlINVN0Y0ZLT2VtQmpVWk9YYnJ4RVg4cVhhMVN1UkQ3S3k5VQ?oc=5"
+   }
+  ],
+  "radiomoldova.md": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Radio Moldova",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "EBA warns higher bank taxes could affect the entire economy",
+    "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9COWwzOWZZVlc4VHphUzBmNzlhVWprUzRiTTZTcW8wVWljT3otZEJSZi1QTXdGeTloM0JWN3FxOXZaaVBPRlE?oc=5"
    }
   ],
   "rappler.com": [
@@ -35996,6 +37215,15 @@
     ],
     "title": "An in-depth discussion on immigration policy in the RGV",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajRTRGNrS05yTXBOWUh6cUlBTnhEV3Fsa0RlakJrbmt5aGQtTkJHeWxWQW85N2hOYTk3QlN2c3EtMzJ4eURnV3FhbXV3dG1RcjBvY0IzeWFnUHJ5bXFKUjNBTWFSSm4wdk1sRVdwSGQ1dFhxTzJzQ2IzWXlSSmJZX2lFYkdmY1NFZEVPMkMtSFh1YU9RVUVtSDFfaHJyaVI1?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Rio Grande Guardian",
+    "sections": [
+     "politics.us_immigration"
+    ],
+    "title": "Villalobos: Border communities must have a seat at the table when next chapter of immigration policy is considered",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNLV9idU9VRGJ1TTJOQUJGMDBEYTZZLXhEaE1YTGdkTlloeG1XNzNweUNrd1lVWTRYQzZnXzVYTUJjdkx6dDRYS1VSLU9JVnlTc3RmQXRubkNOejRRYy0wNXk3NTBIYVcwOUo1QVBfOGhZZ2RYeTJTTGF6SHJJQVBpWlU0T3gyQ240OXlvNTlrbjczamlYcGFEckt6UUZ0WHVCM2t3OWhEeVVQaXZWNTkyaGRWNmpQeU5ldTVhTlZWNDdvRVZDSW5HX19DYmh5TDNYZlE?oc=5"
    }
   ],
   "rivieramm.com": [
@@ -36315,6 +37543,15 @@
     ],
     "title": "Brent crude falls 4% as Hormuz flows return to pre-conflict levels",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNXlaUF9scnpyaEE3TTREa011V1I2djdvMVo2U1BGckZ1bHJKUXFLbmNCcWlJa21LT2VIMVMzb2xqckh0MW9qOFI5Y2FaODlCdzc4MzBlMjFfWVB2N21PZTdlQ0FIc0NLTy1QU1dQMXRVZG4xZDNNd2JzanNGaTNFbEVPdU9mSlpVcjdNNUoxS0xmNFZzMHM1QS1yc3Jnb09qSXdiZ2NhckNuNzg0c2Q4OFl3T2w3SmNaanB4TDJQSQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "scanx.trade",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Excel Industries Limited Discloses Resignation of General Manager \u2013 Strategy Under SEBI Regulation 30",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORmJDLWZnUXhjV19sckxZc19QTDV0NXBXX3ROU3VhX0p3Z0czbHZqRUxsaEhsMm5GYjVFSGtoZEt1Z3RacXplMG9ZVmlGU1VUVjhQbXhtZjZadkVnM2lwWTNQWDFpdnR3WExXbGk3MUNDYlRzNjVoQ1NIOVdid09pX01kUGJFNG1UdEZ1TjR5Ykg4aDQwaUQ5cHJzbkdOcU9wdDRCQ2h2ODUzQ2oxalZDRF9PU0Z3dUNUS3VuLTVjRmExNElTd1Q4WnBfc0hYUy03ZnhWVlkzSi1IUnZMMjVoaVhCMXc0SUhnc2tUdQ?oc=5"
    }
   ],
   "schiffgold.com": [
@@ -36533,6 +37770,15 @@
     ],
     "title": "US Ambassador and Indian Minister Scindia Discuss Strengthening Strategic Partnership",
     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOdWh3NjI0aVR4QUtueHk1eFI5SmtIUTRnQnhTVUczdm1nWTZsb0ZWWVlJR2lNT1pFTHRoX0pIdWZOQm5uMWxGQUdoODkxd1pnazFITWJBc3JqaDdRNGRCTnFNSzR5NThYQXA4SnN5emlJeGFmOFdQWUlPS0tlclU1ZmVaMFRsSXIweFoyaW5kN3pkUm42enhYb2tVYlhpSWt5T1hxTURUeTg0bVJoS21sZ24yYl83MG1jV2h3T1Nhei1id2JhdUozbDdVOUVLTlRoQlJrclN30gHjAUFVX3lxTE14UkN4QkE0MEdXeWlkRHJXd1lKOGhtSXJqYkEwdXY5OXd2dEgtSlBjR0pwQkhNd3AyVjAzdmJMdmR3aENNU0luYTFXR2Mwb3VQTEJhX2ZhNDFibXJzaktkRUJQMXdzMzl1am1MYlBMWWY1ZU8ya0hPM2l6TDJqeElNOEVwMWVPNHFJZ1l5X055WFN2LW1YeHpNMTZ4X2p0eFBGLUVJLW9nRVVCUmRDV20xR1VsNFZrdFFOM1BxQ2VNSnBfZ3pHZkNHY19iZGt3RDBVZ3QyWmZSVGFZVk8zdzBmbXlF?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Sentinel - of this Land, for its People",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Tripura to Begin Population Enumeration for Census 2027 from January 25",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0FpM3R5b0dKalJpR3lGeXNDX0NyRGV6UDYxM245Wi1pSzF1R1lrVzRXWEF4bk5aaWNRc3N5bWtQUENWUWU0NjlEVmttdzhkWi01UTRyRlVwWDJ2RUZJNzVIZEZnc1VnV25aNDh5V2NrcGtsU3dsSHE5NjdZUEw3eHFfN0tvWk5CS1d6YnlvRFRZYVhyRm45bnFucm5BektyUTZQM1ZMVzZEclRBWTFZRGtra2VDaFg5VU5vYy1LNUJHeGhsc2RJSUdJU0lSNGNXM1HSAd8BQVVfeXFMT091UzlwN2tfUlg2RldzRUl6RDZSLUR6ZnR3VzJCS3BzeElMQV84dDhJcnozY2g2NGNzR1Mwek5HM3hMLXJtVS1CbWZWVWY1NGIwd0RIQ1BONGNMUGpPYllrVHh2M05JMkw3cnlIWGhXVUI5cS1kSDBialBlYXFyc3ZpZ0pPS0ZDbk9OWExWZ3hSelljLVlCaWlIaU9rUXpza0VneHYwNm1BdlhhZEI1YkZ3aU9UbXhmMm10YktaNS1ZSUNtYUpZZ0FWTkJVYnZkSXI4Smd0NFY5VEhhU3FHVQ?oc=5"
    }
   ],
   "serrarigroup.com": [
@@ -36949,6 +38195,17 @@
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNWNwU3B1cWEtZmxVZXNQZkFhaXdHcnhraEEtNHItb2NVaDBQOTBQOXJjRllhWVpieUFDUUE1c2V3RnhyVkFDcGttclNYTWdKTHNVN01UTEZHcnk1WHZWQ1ZzcmNmWGkzaEtlUU1PaWUwSVRxTUMtdTBOMlhOSEFGYzBkT2RnbDdhemVpdURZVVk5ZklLUW1vWExFOEdSQ000NlE?oc=5"
    }
   ],
+  "southfloridareporter.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "South Florida Reporter",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "The Fed Is Weighing a Supersized Rate Hike. Here\u2019s How That Could Affect Your 401(k)",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQXBvZ3lGczk5a25JeFVJcnF1dzZjcWdwQ0FFUlFueWJDcjZBSW1sVHlLak15U3E3bEE5Vml5NWNwUjZuWWxJLUI2WjRiNEUwb1lCbkI1M0lwNlZ3emRsa0liVHpoQWI3aEhlMTk1aVJvdERNaC15NklMMl8tVE9HUUNvaHpOd0FaV0xGdnl5aERIVkNCa2ZpMk5qR2trb2w5N0FtQTBiZElfTHNPR1E0bGsyNTM?oc=5"
+   }
+  ],
   "sowetan.co.za": [
    {
     "date": "2026-11-10",
@@ -37108,6 +38365,33 @@
     ],
     "title": "Rayan drops Manchester United transfer hint after Mauricio Pochettino arrival",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXVxWjVQOWZMMWN2RFo3MkxtR255Nm5JQng3dmJnOUdZM2hfcHljTncySzA3YnhuZV9ZUTN0R200SjljSDZsSlQtR3pOeTl2eUxXQWNZRGFjaTNKa3RneGNsajlSX0xVZWR2R2xYc0E5NlQ0Z3RaUTh5eUh4dzdtdzVNMU15OTJ4TWdjMm01eFU?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Yahoo Sports",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Premier League giants circle as RB Leipzig face \u20ac100m transfer sales",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQS0VtREZscmtiN2VhbnNOc1M2dUlnYTlOSGpvYmpvNk5IOFBTeG4tMk5LSGpFWW9zdzhRWWdzV2cxQm5Nb1BKN1VJS3RlSjlyM0xiSnpXZ3k4MmFiUUE2cHlsOWpycUVLLTJrZDB0YzB5R0xrM2xsZkY2czJkZlZtamNrM3V6bTg?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Yahoo Sports",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Man Utd Forced Into Instant Transfer U-turn After Mauricio Pochettino Arrival",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUjhxRzRlWkIxWVdhNjVfTmxTMW1LVl9LaHF3RC0yYi1EZVlDZ1RoX280cExPck1leDhiMk1MRmg0bi1LaUZSQ2luX1pDVUhhSkpCRjZETGt0SHZHdS1weURRQlNnM0R5YXNKUmRER0d2XzZUM2F2MFpKTWsxRFpuQjBjNUVNcEU?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Yahoo Sports",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "\u2018I will never sell!\u2019 - AC Milan owner Gerry Cardinale makes bold transfer promise and reveals \u2018Berlusconi 2.0\u2019 vision",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16OEU2U0FIR29pbklvOWtMcFN6eGtIdU5uNmh3OWZxZXo4ZC03UWlBcVJKNkQ2SjJ6WVVLc0pvdUZSX1ZOV0dxSnlKV3ZhYkZ1LTFCMk5tUUJYMDVfSVBtVDhsV0g3X05wUjA3djF6Sk53NmJybkQxN1M5S0FiMDA?oc=5"
    }
   ],
   "sportsmole.co.uk": [
@@ -37308,6 +38592,24 @@
     ],
     "title": "Man Utd transfer news: Red Devils face La Liga 'competition' in Rayan Ait-Nouri race",
     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOd0xkTmdKcGRWVXZtTWRIU0REdUpNbkRGOEJ1c082Um5CRjBxRnIzSUhrOG9WWVVjd0dzVDk2Z0JET1RXbjEzVUxnZ1VRWUZ6V0t4U3QxSW1HTEdMcnNYUTJLUFJLRmtQY1JvdV9kbzVMQ3hFLVJkSGxNMXp6b040ci1lZ0lCWWVMVndrNTV3SzdIYm5oSGg4Z1VUVHNHazFuOF9qdU1sek1Wd2xrNV9PeDRHelZzNERyOEI1TEpkcnFINGlOVnlJcnEtQzF2QQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Sports Mole",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "AC Milan devise \u00a353m Endrick transfer plan with Real Madrid buy-back clause",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZ0JfSEo3MTJISW9YNkliV3BpRDRieC1kU2V1SlVsUFFHVE55bTlsOF85RktpNTBNb2NVM08xb2pQSHFpdG5HdXJQSVlWUUNrMDY1cGtzYVNxQ2N6ZW5DYXgweXJvWlFSWjk1N0ZlREZTLVJxTkQ1a2F4WGk0SjltcC1GUEJ6N2tHd2ZoU19tZzJjTXNfSTR1RFFsRUhTVXRVdEFzVkRtYkZ2cjNaaWZrUG9aeER2QzZaeGMyVVljWHU2ZkdRWW1Hc2gxR25pYmNMTmtrOURFcW9BTml1VUJaVFRIZXdqcFRJcTZsWjZNNGtUNWpabzdHdzFB?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Sports Mole",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Spurs transfer news: Roberto De Zerbi to be 'blocked' from signing Premier League striker",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdzB0SlNVOUNjdmxWYnBmSXFMLVpZSHExN2IwVjUxMUdTTlpYc2d3dXJtbnNUSEdHeGtFdjdRWWFoX2VjVVRqTnp6U1dUdU1tVFN3TUpocy1fbHZfay03UDJzTlZUUGNsd2ZpMExob1FidUpDWUc3c21FU3dVSldNaUJVR2JaSEEzYzVoVko3aXpnQ3VZRzE5dG9GWnNVVTJOcW80bWpGZkZaUjItSEpRVVR6Q0xPZG1aclVPQm92Ni1mb0VWTnNFbXFR?oc=5"
    }
   ],
   "sportsnet.ca": [
@@ -37352,6 +38654,17 @@
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM1pTRlYxdkp6Yng0VHRtenFQV21fdVlyNHF5cGl1b0JJc3pnekNzdHgtVllrS1ZfNkdvX3Q5WXpsT2ZNMjVMMGc1WUNaem5Ta1dQdU1hczRfZ281bnlPX3NjVWFaUkxZcVpQVnFxa3FmZXlmcjM4T3h6WUxXUUhfdTNvLV9IdTNnSVFOLVA0cGkxT2tCTXFuSUFONlU2WV9PYTZEUEhKQ0h6Y29MTEN2OGxBRy1sbWgybXFmeFpibFZ4SERjcUdFbEhOVHhvaTA?oc=5"
    }
   ],
+  "squawka.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Squawka",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "David Affengruber: The Fulham signing transforming Alvaro Arbeloa\u2019s Premier League defence",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRVdOSkxlSUY0eHNXa2Q3MExDbFRORTV2b1VQZ25oMV9Ob2hiT2tCTlg3MzVDLUx5enZrdnh5OTFfOElvdWdET2dETlJuYW5sUEMtd3NwZXVHVGdqSjFkalVyRW14M2xlU0NYZkpYMnJnbE9MR0Q2SWo1MmJFcHA3elpLel9Fb0JrcDJCLQ?oc=5"
+   }
+  ],
   "srbija.gov.rs": [
    {
     "date": "2026-11-14",
@@ -37383,6 +38696,26 @@
     ],
     "title": "India and Canada Hold Inaugural Defence Dialogue to Strengthen Bilateral Military Cooperation",
     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRWZRZ0pKNFlFN1hEVzc2d2J0RmVFUHQ0cFlaa0NkYjdJc3Z1YmJ2c2RBWVVhZWZUUDZ0Yk14UnpocTg4V0xTZUF4bFRVU0Zsa1diYVVBcnFnZ0pQeU5VR295eUR3dk45ZlJ2V3lhdU92RXktWGVoLW1Ta2lmT3J4RThFTm52WTE1dEpmaGhUTTdpZDhzR1J5aGo3ZnFxeVU4ODhXR3JVenhTSnJsNFA3dndZeGxUaHIwWVZ2alktNTJoS0RkWnltRV9wZw?oc=5"
+   }
+  ],
+  "standard.co.uk": [
+   {
+    "date": "2026-11-15",
+    "outlet": "London Evening Standard",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "Rice gives verdict on \u00a3100m Arsenal transfer target after \u2018contact made\u2019",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOHQ3OFpVTVZqTlVBT2tpRmF4SVJtMHc3R05XOE5KVGQ0QlNBbmJCajJIUV9pOHEtVGF6N0ZPclUteERwaFUzR0ZNUEx5eklBVjJUN0lOZ2NCbXdoeU5TZF9QclpmT0pJNkc0OFpBbXFSTXFZX2FUaHhSTnlSSW00WWZCX2hOdlJXaGNoVXFIY3dBTjdsekE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "London Evening Standard",
+    "sections": [
+     "football.transfers"
+    ],
+    "title": "\u00a3183m Man City star issues major transfer update amid appeals process",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOEQ4WmpFYkdQd2g4R1lpdml1LW9iTDdOZnY3WE1HZzR6WEVOc2VwcWxTX1pscWF4OTJuNDdTX3p2eGJ3Zi15cjcxbThlejZZRXgtaUhOalg0RmducTNtR2RxUjI3UllvRVM3Y3pIeGhvTlRYNUFtQUVpVHZydHJmSHdxZXdkV1Izc2t5NkRzTmpNV0xmcmh5YXppcWI5ZjQzMWprSWM4SmtMNVpNX25zS1d0T2xvem1X?oc=5"
    }
   ],
   "startupfortune.com": [
@@ -37492,6 +38825,17 @@
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTThwXzNmSlowVUJ6d1JXYlZ0bEJwcGM2UTFuSm9KTll5dnpmRFFjc2xqTjFYVzFGQW9SNW5ibE81Nko4eDlMY0ZHY05FZl9PSV9VdnlQRjZpcktReDVOQTI4M21JTTdtOTFCVlFDVWYteVBxYWZlWGZFQ3RzMlJPdHk3TTVpS2hFUE1vcjNUemRnamFycl9vOFdn?oc=5"
    }
   ],
+  "storyboard18.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Storyboard18",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "SEBI to issue AI guidelines for capital markets, prioritise investor protection",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaTkzR1BfZ0FfcEZDX2lPZzBaem44bVp4OHVyN2lKOHJ3SlNXNkRESU1VN2ZsV0ppSUE3RDEzbEtQY0pQblQ5Y1dHc2ZWQTBiZkZlZE4wZjFIMS1WWjVndTlWZUQ5SmY0TDU2RjFLajR2XzJIRDkwWE1GeHNuUG9YVUlxWGdnQV9FbFpuTzZqUTRGSUZjTXJmN1NkSGJoVENyNzV2aXlrVTg4MmZ1eGxNZmc1RkdxUmJTQW81MTJqTmRXMmlK0gHKAUFVX3lxTE85cTFIaWVST1FXNkhJak14cDJoVVk2OVl0UTR3a1BEeTI0TnhWQmVfY21MN2lyY2E0d0lRY3c0blF3SWRqVTVkc21fTXJobzFaUVZpbnYzS2I4a1hxbERrR3ZLcUFZNVVMRm40bWxFdEo4MV96a3V6UV8xYUZTRWVxa2dvWDlybTBhOEdSNWRyWjJWd0VBZkxkcWJtVlhXTU5abmxKSmJNNUI2LVczUlN1M1MxRlhpaVpBdk8yS0pKVFBwUXlqQ0p1M3c?oc=5"
+   }
+  ],
   "straitstimes.com": [
    {
     "date": "2026-11-05",
@@ -37579,6 +38923,15 @@
     ],
     "title": "The Agoa trap: How Western tariffs are forcing South Africa back into a colonial economic corner",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc0pPaVFENkdPeVRPdzlxd2tVUzF3N0R2VWVQdG9mdWJURkN6UVYwSC15RjlNYThQTmUzbk5Nd09SMFRadV9ubXFqR181dHJ6RkFBNDQ5eDBNMENvTUJSV21FWmI4TkM2MkZSanBYd2Y4N3VyTmswM3gwNXBiTmZHbEV4aGJ0ZWw4THpxNHltQkU4OGhNS3ZCOFZUVVpWdk4ycVIwZGF6WnVIakxQbUFnMko0SXNpMGw2Skw5OHhBcW9rY1pMUjY0Yk5R?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Johannesburg Sunday World",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Oil prices slide for second week, raising hopes of fuel price cut",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQQ2oyNDRSZjVxU2txclNkSjJ5dk11a3BRNmN6Ykd1M0NVNXcyUmZwVzBia0JqZWZFR2s5Um1tZjVaSC1wbFpjS2d1TS1aWnBjdHNzR0d5S193TVR5V1B2bTdUWHM5QXhyTVFTOGoyY29hWFhKakRpaHhXUndUam1ualNGQldxY0kxdXpRU0czLXVxU1JwLXhtU1pZT3pCZ2F0SXc?oc=5"
    }
   ],
   "sunderlandecho.com": [
@@ -38198,6 +39551,33 @@
     ],
     "title": "India, Somalia sign MoU on foreign ministry consultations as MEA Secretary visits Mogadishu",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbS1kTW1RcjVnWWFackVLSmRBcjhuckFrVFM2WEl1ZndnX2FKT3dMNjBHcGUtSllZN1ZRdmRSQzR6elBDUzcyaGQxOGxOcTljWW1UblAzZEc0THcyTnZKcEMyLXRCQndvMV9GSWNxMUFLLXhHcGJFQkl0UlBEX3g3UTVPWkJKb1hwS0xsSldFNEF2RVZYb05vMGhvQWY0endXLUVwYlVTbFlIb0dOdk53MkNrQ0xnczF4cU05Q3VqRXBMcktlMm9HQTNQdkZRNnU1SU8wVWJRaDNUZw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Hawk",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "SEBI to issue AI usage guidelines for capital markets, focus on investor protection",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdGNwZC00UkE0TkVpaGFHYTF4bXFHOGtvQ3lhMDJnaFg2cXVSZ1ZCLWJ6QUJ6VTRXaTVhX09FMS05T0pSaDhoTUNGNVNYVUJsZklZOXhPcWp4QXhkbXYtYS1pQV9JNmZkc1VsZTI0SGozeXpDdk41SzM4eUFiWlhnZTcwM1l6X1ZUMnlaU2xlMXpQM3JuWnlSSWV5YjhxMTJjbmsxQnMyQ0NmZGxXXzRybmxUZS1QTV9XZ2dyWElR?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Hawk",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NCP (SP) open to delimitation if states get equal 50 pc seat hike: Supriya Sule",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMUpBYk5TdGdHTTFUVWdYMmpZMmo5ZWMwekZlbjRCWlBiRzdURnVBRXl1VTRZT1gyWjFEbHNsU0pDaEZNOUhzSk1XVWZOeTZwR2QybE9WbUtoTS04ZUUwZHhSa2FKWGlEcHBWVmVsRU5SbUJnSTNfX2IyN2JGNnptaW1OdVlqd1IzbU5wa0ZOTVRoVmtmT1hlMFUzbnA4cVZLOGRrNHRMTDdrMG1JaE9TLUNaYw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Hawk",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Delimitation cannot be done under guise of women's reservation, says Manish Tewari amid Special Session row",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOSTZxRFFKb2txclk2bFZhT3VoajdiMjkwUGNxZXRiZV9rZEc1TXMzYlNQN05EQWMzNC1oZWFGUmJmWVJfQTMyczVHVDMtWTRzSl9DZlEyZXo3aTJRRUY0TWxPWHgtbUU4bFhRR1cwdmE5QVZ6UWhELWptVnJUNG8zWWFhdXpVTjZBS0VDYUVqU3o5ZGJlcVVsNDdLNURFT1hIVXFUX1VCbm9ER2h3c1JfXzdoWnJFbEhFdm9DYnMwWHdvRVlHaDJndmNiTVJjMFVaZGJrdllBYTlGZw?oc=5"
    }
   ],
   "thehindubusinessline.com": [
@@ -38274,6 +39654,15 @@
     ],
     "title": "Agniveers get 2-year extension as Cabinet approves extension of service period",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPczZ0MTM3d3hCM1F2R09Dcm9qajV0aHBpTlBUaGdieFF4RGYzZzFVbW90WXNldHpSdUdaeFBTVzN1VVJtMVE4RlpFclo5cVRoRnVjYWF2b0lJdXNPbTlxa0ZuXzJoR3lEYnlWX182UUVmYVA3d2xtajhkejZuc25DMF9lNEZMbVFoM3pLX0VHNV93TW1KUUJoVUhHYTdhclJqRE9BSmR6a21Cdw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Indian Awaaz",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog to launch five-part workshop series on Modi\u2019s 25 years in governance",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbHhCZXVYSXRTX3p4QWZDUVBjSUppckJ4TGpHQ09qVmJDT2xZclpnck9FcVRUYzNTdHk0bXluWklqVE41ZXljbGdlSVU1QWRNbUc4dDd2M2lfMjRkT1pYa21JTnY5RkxTUzhSZlRCOUp5VzJ6bGdkcDdGa29wU3k4cXhQVHJsZ1N6bWM1QUdkeTN4QkpWLXlZM1hrOEg5dlNDNjZGTWo3RFV6UQ?oc=5"
    }
   ],
   "theindianeye.com": [
@@ -38303,6 +39692,26 @@
     ],
     "title": "India and South Africa review Strategic Partnership during 12th Foreign Office Consultations",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaVRKUnZKY2hvV3M0d1NsYzZ1elVNZ2dpdXBfRVEyWnFTdHd2NV8wM2ZJQWZuYUpHSTVtRU8ydXZUUGp1VU9DdG9YbkVkTzZ2NmdYSVZlWTR2SGJIaFdzLU5CN1VLdlc5RERRcElfMHlpNmlueGlOZXU4S3l4d0hfcVdUallVdGxha1FmUFVPOXZERUEzeGVGX0FBRHdwQkFrV0RIblN0WVM4YVE2S2pPMlpITV9FMG53SGV6YzJXSm03LXhwQmtzWQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Indian EYE",
+    "sections": [
+     "india.foreign"
+    ],
+    "title": "PM Modi to visit Manila for ASEAN Summit; maritime security, trade on agenda",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQUJTRFpWTnZ0OFpROVVERlZ0US1YZjIwSXItS1VOTk5hd1dNYjdndWx2TVNINmRCTVB6OS1vOHhGZi1saFhSRjFmMkVEZk1GbDcwRHlnaVF4dFB0WTNZa01mWTRVRnZrTnNBbmRfUDM4T3VuRnV0R1dzUDlrT0JPRGh4M3FKbmhhNm83bXNrNkpqbUdQZWEwVnY2eU83X2ZKczBjbFF4WjExbTgybFBUdA?oc=5"
+   }
+  ],
+  "thekashmirhorizon.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "The Kashmir Horizon",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Director Census Ops Amit Sharma to Lead UNFPA Mission to Trinidad",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLW5EVXdaeFk1UldBbHh3M0t5T29MTlhaOWhvTzBFMUdwcEhQeEkxT1JNRERMY1NSYTBWQnBZTEU3RjZOTHdBOGV3ekQ2VFA2TUFoaWR4QzBhZFBHa1BkaWxiOWc0ZXF0ZmM3MnVDMDZmOExIVHdabzFCQmFVZ2hpZ1Zzei1qWTh5V21Oc3hJdjd1VHFMbFh1eS1mb3BsaEctd3Q4UmRFV21CbXM?oc=5"
    }
   ],
   "thekenyatimes.com": [
@@ -38479,6 +39888,15 @@
     ],
     "title": "Rahul Gandhi says he will defeat PM Modi at Bharat Summit",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZ0VzTTdkQnc3NWJaMlc2cFpaY05XTjd1T0FHNTc2TTV1THVCcVVTS181NmN5RU9CaHhDN1hUYVpWdklycWdPc0Z4QWVHUVVtSUFidmprbDRjRjBJZ2t5TGNBdF9uTWNSWG5saFVCSEoxT3ZEdzliT1JwRW1sVllyMXNHWEszc1BHMHRSSXdxRnJ0ZW9WUlJXYm9ySUR3Q2h3U1RrYWRR?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The News Mill",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog to hold workshops on PM Modi\u2019s 25 years of leadership",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEVJbkV5OXJEXzZxNlZLRXhkbkIxTzAwVldIY2U4aDEwdlF3Z1pQWThQUUduMXZURU5XRVVmVV9ISUljdzQtaTRpQ1NoQnhHWDduUHhkNW43OFNwS09jSGdnOTlNNTBJNE94YTNPdlVKQmp1Z21DcUc1cHVNVGlvZUhxTjdpb3RhbHpwcFVrNVZESk5Rbm0yRlhjcXJNSnhWajVN?oc=5"
    }
   ],
   "thenewsnigeria.com.ng": [
@@ -38490,6 +39908,17 @@
     ],
     "title": "Orelope-Adefulire Receives Global Recognition Award for SDGs in Cairo",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRW9pbG0zdnBPaTlwb1RTX0g1NWc2b3JLTGNNeHpnckUzYnlSVUdPcVZxMXlIS1NHRk5rbHlaRnE2NFd3NHFnWk5nX0ZWWFVkby1XZXVVaW1zSTFpWG8zajZDTUZqUXIzRWJEaEdKcDItbzZWT01TSS1vYUY3ZXZzUWFmWElabWdYX3I3cWhldWFuXzBDaFhKTHVnXzBWbVhDYnNTOFh3Umx6dGtndE5yeA?oc=5"
+   }
+  ],
+  "thenorthlines.com": [
+   {
+    "date": "2026-11-15",
+    "outlet": "The Northlines",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Amit Sharma to lead UNFPA panel for census preparedness mission to Trinidad & Tobago",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcjR0Y1NaV1JYQkhiUWRTTjl0Z1dEaTJvb19oLUxoNHVLNUVaSVZBcExBOU41cDRpTm5KYWRpenItbnFTaDZ3NTBDRlRkVFBxWG1KZXdjaHR2YTNFZzNDbU8wbTVUdGFFbnNSbGpJSEVLVUJySW5iUzBUUmtRSkc4OEJpdmluaERQdXZTbWRiaWFIN2pOTGhFeEhjaHNBc1haQ2oyOWR5LTlrbzQ1Z3c?oc=5"
    }
   ],
   "theopenpress.in": [
@@ -38528,6 +39957,15 @@
     ],
     "title": "India-US Trade Deal in Final Stretch, Bulk of Issues Sorted, Says Jaishankar",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPN2FfR21UNVlSVkpWb0RpOVJvazVSTDdQZTZDS2stTlJ2TUJJVExMWThza2JodkZNY3R3V2hWYVhxVUVXT09lMTRaVDlpVURfZElIMUV5cklETDliY2NDdllGM1lLVmxJNnYtUWlnYmZzejFHbThDZGtnZFptTlZCbXM3bVEwc2pWa0ltUFZ3eXJsejNSbHc?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "theopenpress.in",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "NITI Aayog to Hold Five National Workshops on PM Modi's 25 Years as Head of Government",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUExJSVlLbDRRbHY1bkIzckJEQ3BROFFOZkJQaWFOVzRTeUdYY0FlNjZsbC1ReDhHWVBpdFhIaWlYUVlXMkVVYTl4TVAxQkFqZk91QzZLNHFQd3RBX0Mza3V4d2ZQTjJrdDhfVzZLeHpPWkpuYl80Z2N0ZFB0ZTZPdWVxejdXZW1LSEE?oc=5"
    }
   ],
   "thesamikhsya.com": [
@@ -38664,6 +40102,15 @@
     ],
     "title": "PLI Schemes create 28% of targeted jobs despite 76% investment achievement: NITI Aayog",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOLWxsdTVDUnlqTXhqblpxc1lSNlRmT1VEaFBucW94dk9XWHk3bHBlbXQwanV5cmN6bGI3TkdiQUxsQ29HM2xVV0l5NEd1dzhMekJta3dqcm1DNDRQSVZ3UWNiTzk4U3l0X25MSllWNHNBUHpBOXRRN0NiUzg3MVJFeHNvSGh2MXBGb0h1MF96aEpOYmJiZ3czdVVTcXVUMTJ1RGZaRmUwZ3pNNjhhYzNQWmxQQnV3cE9UT2ZSV293UXBNcHB5dnVGemhQLVN2WmfSAdQBQVVfeXFMTzRfMzNPMHdLWENSb1BRQnZ0emVOcllxdDhMTDRfWVNDWlRvYjJZUzNFNHZOQ2k3ZUNtWXNSRXpaWDVSeFNqSy04d19qdG92TDFnRXdmS1VWV3k0dU5Ta1JEUm12RFppd1lycU5NaGUtRTNGQXBDRHNDVExhYm1GQ3VzbHBWUXF5OGYyTUFVUGhxN05uSlVCb2VZbnFxRnoxY1A5RzNmY2ZyZ1ZUWGNGVUpNZ0Q0N2lXUnNMOGhOS2Nybk80TVFKcnFKalJtTFFNMmFxZ2M?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Statesman",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "J&K\u2019s Amit Sharma to lead Indian delegation to Trinidad and Tobago for Census exercise",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc2QtLVVXZ3oycm16VWFkYzBmUlBJVlhoX2JpYzVZVkczUUc5MTJ2T0dzb2s2b1JTOXFFRHZ6cEJsaVBEbHdWX3VXRlhwWUJfcXgwRDBLeHNpOW9jTUt4TXQ0WXhwTkVtUmppTC1XYi0xSC13MllfN0R0ak10SVBXaXIyNXNsel9qLXl3TlN6SkNsZWtUZlgxcmR0MnM1V2dTWVU3QUswdzRDTzd1TVpseExDbDFpeHlsdGE4WjZrTy10eXgyVmkzbDI3ZlZ3U2pm0gHWAUFVX3lxTE5zNzEzUjZoMEl0QktydjVTMVVtaGlBRUJzdmJHTTNsazFqaGV3YWpZbzdCeG41bjV2UnJoNVJOMTgtQWdGVFU3c1l5Zm8zUVBmMlJUd192UXl6NWJCT19SY2EyLUpvUjhkVGM5TW5wZlVodWZRNFJ6amZheG5uR1h2eDFTRV9WRUY0ajg0UXNPcHRnbF9RVHNIMkhNV3R2TWVrVEpwaVBCb01MNlFWaF9qY2FlM3FsM2lqZ200QmtTTHU4MjI1dVp2anlOazJ1TkZ5aVVtUUE?oc=5"
    }
   ],
   "thestreet.com": [
@@ -40487,6 +41934,42 @@
     ],
     "title": "Ties continue to gain momentum\u201d: EAM Jaishankar meets Armenian PM Nikol Pashinyan in Delhi",
     "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPVE42SDNVRmlUR1kwZ2hFM3BkZnNZWmc5X1l1RWd3S3FUZHZudWhfWjIxdEhHWlJ6dk8ta1FRbmZ0NTlpS3hFOHVMd294V3FoMmI3UXUzUGp5MjE4Y3psTHdweVNOZWctU0p3OTNFOVhHalFrbFpuQ0lNMU9QSk42cDZRczk1d0FmS2dWU0Eyb1FHVkx1bDlLYTczZGg0bUo1dDNGLW9nSmZqVjlmUVhycjV0Xy1HeWljYUVxM1VxQVJfeG1mSFZZX0NrY0NoaHdiZlZTT1NyLWlpMnRzNjFWdnFFaXEyZzE00gHoAUFVX3lxTE9UTjZIM1VGaVRHWTBnaEUzcGRmc1laZzlfWXVFZ3dLcVRkdm51aF9aMjF0SEdaUnp2Ty1rUVFuZnQ1OWlLeEU4dUx3b3hXcWgyYjdRdTNQankyMThjemxMd3B5U05lZy1TSnc5M0U5WEdqUWtsWm5DSU0xT1BKTjZwNlFzOTV3QWZLZ1ZTQTJvUUdWTHVsOUthNzNkaDRtSjV0M0Ytb2dKZmpWOWZRWHJyNXRfLUd5aWNhRXEzVXFBUl94bWZIVllfQ2tjQ2hod2JmVlNPU3ItaWkydHM2MVZ2cUVpcTJnMTQ?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Tribune",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Sri Lanka Supreme Court rules almost all provisions of SLC reform bill as constitutional",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORE14eHRSbmNiNlJFei1aeFhQaHRfV1pKLTlxSFdfb2IyUUx4LVdoYURXUUdfb1JMTmJ5NG9KWVJ0NG52YjRpTmxvM1gwTjFhdHRuVXpjSHR0bm4xcGdvbnVHSjF3dDVneXo1WUJPYXdkVmg0YVAxb2N0TEhfb3g1SEVUaF9vMWd6TU9JTXlTQ0JFaVJTVlkzTTkxLU0zSlpfWGhIN2hqaUFyY0oxR1BncGo0dUpXRTE3MjZSUXI5SklVVUZEZUtkOVFB0gHOAUFVX3lxTFBjWW9VSlpRS3hNT0ppYmlwejE5QkNrXzFpelo5c0pKT3VReGhqOENBc3hIX0hLUFRjYUI3SGJ3d1NIdXNIN1VHNC1OeG55LXRxV2RTb2s4a2NTVVhDUEtLZXFZbTZnb1g3WU82REJLSGgxWVVacGYyQ2o2RmRtM2ZBUVN0TG1yRDlwMHE4a21BWkNJWDJaeTUwUW9rNzdqN256LU4tRDVfUmZ2S0FSZHp1VEdEeGd0dTZCRTRDYllyME9LVGtqdWdVeWpkVWp3?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Tribune",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Hoshiarpur: Citizens can submit Census details online from tomorrow",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPb2tGYS1aOUdmdDhyTktQU2FLRFZDUnFLQWxjS0xJUFVfdUNzV0VqRTVMd2d4bTN2VHo2VF84dVJURDF5RW5WNUpIMVctQzFSR3BUalpWc3pPcHYxQXUzTmN0N25Zcmp1bC02cmRLeGpqT0ZhLTdLVUNxUktpa2VhQmRURnBsTHd3d1ZmT0N0VHA1NWU2M3BzYldkbkl1SmtlVnVQaTBab0hLSm5sbXUxcNIBtAFBVV95cUxPOWhLSExmc0VFaW10eks5TkIyMHEydFJtVk5fZzFBWEphY0JITDRnSm43TWtpU0U1OXNjSmlfQ21uRkxMVFRxeDlYRTJ4dlNGQ1pZWV8zUjNpd1Exd1VfMkN5amdPR3ZQYkMtMzkwcWFuOVdKQ3RjQ0dHSkVlRXI1d3RPdjhaLVpGQTd3RmM0ZS1VX3FLb0FGanVTTmd6N2pDdWY1MXJTY0hDOEctTDMxUlctNWE?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Tribune",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Census 2027: Chandigarh residents to answer 40 questions, from caste to Aadhaar",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNbnlFYm5EVF96UEtVU0xUQ3kwUUtyUjhYX1VsY1dWbFJzYTRYdEtyei1HMVlDZklNOURyNThpaG5XUnpBNG5ORlUzZk1oNWZMMm93WFJPeHZVT1ZOcUUta3B5QW9kU185czBGWERoZUlnUVNJamc2MEZlbUN6Z0NOSm83YWd0UjJTY0hhYjZDNElyUXRtTFptS1pwSVVlYnkyWHZvdnVncEdkYmRCWDNhNG9zcncwbDYtaG5iUjJsdnXSAcQBQVVfeXFMTmpyQzAzc3dMZUo2UHYteXRUV0sycU5uYUtsVkJhcFV6UmVUV25xbVp5YjhSMWMxdXhpc2NFQk9qTjRWM0lhcmZmLUotLUE4M2psOVFsbG4tc2dCWGk1NjdkbHlMTzcycl9GTGJMZXZrdDhpVEhuZ3FmMVppMFVfLXdycE1NLTV2RThnUVdfVmpHNFFfUnBMbmVSMGFySFctWVd0ekVoNjBxeVh5OUxDSWZfbGxxUE1rODZiRkhFamNVMGhPcg?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "The Tribune",
+    "sections": [
+     "india.changes"
+    ],
+    "title": "Amid Centre\u2019s special session push, NCP-SP\u2019s Sule backs delimitation",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOalFLOGlXMlZmZnJ4V01NT2stLUIxVDdDZW5hZ3FfRm5LOTk1SnFwd245ZWFJTWlfRTJpcHpqZml4RktpRWMya01IRFBEM09USEN1a1ZvQXZlaGRaR1ZwSHNaN3lmTWJpY1p6OWdRVW9hd1Mwc1ZPd2hoWWtCY2g4RlpPVThQT0ZJekVVaFplNE1pakE1S1VIWFpxRS0zTzB2Z0FRZUVQZXF5QdIBrgFBVV95cUxPSFI4MzVYaUNWWHJZTFpuWWRPeVd0OERLYXp1dEZMVkxURWIzdkJ5eDNWTTBXdEJ0M3BJNl9MeDZzMGVqSWhEcUYxZVAyaVhCY2N0QkNHZzBJcVo3OTRaY2phZ3dNcWVIODRyUzVzNTNQQ0ZuT29LRy04RG9TVktPd2drU3B2LUFXLUdnVXZSdUI2V0FWMXhqVlR2WVlpNE9nS2tTV3d0S2UyTC1ORWc?oc=5"
    }
   ],
   "tribuneonlineng.com": [
@@ -40918,6 +42401,17 @@
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSHVHY25IMXE4QUh0Y1FkRV8xa2ZxY3p6NkowenNUejhTUGJGemVOT1RZc09RajZjb2U4czEwbVU3NlFpd2dTY3BZM2xmMUJ0N1NUZXowdnlQems5aXduMl80RDlzTGlnWV9QMnNfbHItOFhTS05MRlZRVW9zWktTZTNzOUxMR1RxRVBSSEtFdXBKd1hfeW5JMm1yWjltNW1rT1RZSVJRUQ?oc=5"
    }
   ],
+  "uatv.ua": [
+   {
+    "date": "2026-11-15",
+    "outlet": "uatv.ua",
+    "sections": [
+     "finance.fiscal"
+    ],
+    "title": "Budget Deficit Exceeds $63 Billion, Even Security Services Lack Funding: What's Happening To Russia's Economy",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTEJmSVFwX0FsTktOcThjUmtkYU9HTmN5S2s5ZC1yZnJLRGJJWU9JdnVaM0ZSRklNZE1JV0hqc1d0MUJ2WktnVDVVZmNSTkdMUGQ0SnlxZ0JJbTNuQnN2RHJmVlRxcV9Hc0dEWW0xWm9SOFdqcXhCSWZpTlh2Q3NGdVdyZmxISXlxYmVTY1lCSzc5NXhFUFhRR1h1TE5oNUpyb0lLSTROMkFWM3VjRnZ4eDl0UDBDaXU2elkwWWo3b0ZFWm5K?oc=5"
+   }
+  ],
   "udaipurtimes.com": [
    {
     "date": "2026-11-12",
@@ -41039,6 +42533,15 @@
     ],
     "title": "Oil prices hold gains as Trump sidelines Vance from Iran diplomacy",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYnBKUWtEZmJXUEFkUnRxcFU3M0wteV9GalZicmlKUS1NMXJzNVZWMVpMNjAwZ3d4TDFqQnFtMkhiOElocm14LXRJRVM2Vy11RFVTc0RBOHA5eVBpSzFtdTFBNHhGX3dZVXBZYldUMUlHN0FQejhZZXpmb1BEamd6d1RR?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Yahoo Finance UK",
+    "sections": [
+     "finance.agendas"
+    ],
+    "title": "Solactive Sustainable Development Goals High Dividend Low Volatility USD Index N (DE000SL0A923.SG)",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zLVdrYmRNdkRqNTZzeV9BUDJYRGc1czVnWFhGUmJsdV9XSkNabkZ0VFdBcjJVd0lFamFoOEdvWDRWZXVqVWU5NnYzRTdrMXFJdlBvdDZlc2pzdmtWYzJLRFRsTVRRZVJNNkdQa0pR?oc=5"
    }
   ],
   "uk.investing.com": [
@@ -41398,6 +42901,15 @@
     ],
     "title": "SDGs can\u2019t be achieved without free press \u2013 Professor Talabi",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRnF2N19oeklsNEdhNDlZQWk1cVVkSXhRLXA0NEcwRkU1TFpXRmdpU3JQNHdUNDR6NC11cFQtZnFPdVJvakFMMmVxWk11Zmc0cGFOSXBDb1BwTjZOMmh2Vi1jMW9SZU1id0FWTzJDOWI1ZjIyN0Z5TFNFYTFEbVQzaWVZNEo2QlI3M2dJb2dWSHowOXo2amhXLXFn0gGfAUFVX3lxTE5xWEc5cWV3b0d6c1NxZU5SNFE4cmVSYjB0WTFVZXJmUU1uN0VleWZxNTIxZ2VuMWNyaFlGWTFjUklKWl9LdVJaMjF1OXBENzRzVVBFS2NtWTdabFZYTGZqWDJCZjlLRmc3Y0haMzVCVHViR1BNWUdxaHN1ZVlyVmNHUjg5RU9rWnBZdXVpTDRaZ0dRYk1pRld5RWk1QjFKYw?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Vanguard News",
+    "sections": [
+     "finance.dedollarization"
+    ],
+    "title": "Stanbic IBTC unveils CIPS to cut Nigeria-China payment time",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYmZGVDg0R2h0R3pMRDNsT19ucjF5bGszdkNPMUNhVEVlYVVHb29MMm5WRVFhXzlqN2FIaEJtTW96Tm91M0JtSHdJQmJrZUNjSTFXeGhwSENDWlhpV3AtV2hyc2prbWpqcGF5U3k2X29kMDBxV1BWenZlc0p5MlZnWjNUeGtTZFZMMy1TWVRlSkwzSEFSbUl6NFhfMTdrRUZtNXfSAaIBQVVfeXFMTWJmRlQ4NEdodEd6TEQzbE9fbnIxeWxrM3ZDTzFDYVRFZWFVR29vTDJuVkVRYV85ajdhSGhCbU1vek5vdTNCbUh3SUJia2VDY0kxV3hocEhDQ1pYaVdwLVdocnNqa21qanBheVN5Nl9vZDAwcVdQVnp2ZXNKeTJWZ1ozVHhrU2RWTDMtU1lUZUpMM0hBUm1JejRYXzE3a0VGbTV3?oc=5"
    }
   ],
   "vietnam.vn": [
@@ -41463,6 +42975,26 @@
     ],
     "title": "Oil prices fell for the second consecutive week amid concerns of oversupply.",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOFFCUDNYaHVrOGk4ZjdpdkdFU05STXRSQVZrTXhFUGdncTdKMEtFN2xNcWFpaXdGaldmdS1FRmFncmRScV9MQVVscllVUjRFbnVIX1VHMTFsS0V4Q3JvRkhoYzZvVDBWN3NkS21YdWRTS0ZDYjZFRzJMNnZpM3BzdThoTUR4R0V2VExR?oc=5"
+   },
+   {
+    "date": "2026-11-15",
+    "outlet": "Vietnam.vn",
+    "sections": [
+     "finance.oil"
+    ],
+    "title": "Today's fuel prices (November 15): A volatile week for world oil prices.",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNbVN0UmRfQlQwY2pQZ3NEVUcwWWFObDA1dk11bkdwOEhMYTI1SVZ1NXpHcEtQbFNTZjVKY3otOW4wdV9PeHFjMnA2N0VTV0VFUXk0TURrZU5qZ1dhQUwzREY4bTBkcFpFaDdJMEJ4M3NQcnU2SFhIMHNjMjlGbmRBWk9RUzlaV1hjWWM2eDhaSkhxQQ?oc=5"
+   }
+  ],
+  "vocal.media": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Vocal",
+    "sections": [
+     "finance.central_banks"
+    ],
+    "title": "Record Liquidity, Record Lows: PBOC\u2019s Historic Cash Injection Drives Chinese Bond Yields to Uncharted Territory",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY01BNGFzVDRLQzVvYXp2ZU90c3dSSllsSkx0OFQwWXJFUXo2QTF5dzhTeTZDT192cmtoVTFxT2RNNlJ3Tjd2YVAxRFRMekpRMDJIRHVSZ09RVkRQZWhVckR0OE12TFhsRUpkZU1UZU9pSk1kemFvV0Q2Z0NCWEY5ZG41b1p4ZG1YR1VldFFib0pHbU9seXJVMDNXZGlZN1AySWNRQVlYNXF0MkJycGVxZjdNRm9oODJCMW1rLXJfX3NXRXJHVHl0OXdIY2VCQmV6Vnc?oc=5"
    }
   ],
   "voi.id": [
@@ -41636,6 +43168,17 @@
     ],
     "title": "ING\u2019s global economic outlook for 2027",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BLVlvcHBlWWNrVkJyVldpdVgySXBKeDdCRmZuN3ZVQmcxWVBIS1pobmw0UU9qT1QxRjE4WURNVkc3OExlQjRaMzFjVjRxSE1BQ3RjUzN1NTlPaTR5TFVXb25RZjZQLWxJeGVVelFHOTRFZXc?oc=5"
+   }
+  ],
+  "westernpost.ng": [
+   {
+    "date": "2026-11-15",
+    "outlet": "Western Post",
+    "sections": [
+     "finance.us_debt"
+    ],
+    "title": "On national debt: A reply to Obasanjo \u2014 by Tope Fasua",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeGZ5ek1NWGN2RkFuMFFvVTAxLUVicmMxeVFJV2lzRWpBaDVoeFozWjhGOU5Nb2puc1lGOHBIV0hIMDF2VXhZUXFvSzZGV1doZnZwN1VrOGFnOGdjOVZxbHFVTjVnNzRBNklhN3VOUDduRHhieWEyYmcxZkVwSWxVRDdHbXA?oc=5"
    }
   ],
   "wfmz.com": [
