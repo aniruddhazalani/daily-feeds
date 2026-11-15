@@ -1,16 +1,16 @@
 # Daily Feeds
 
-A personal news page with five feeds: **Politics, Finance, AI, Football, Other Sports**. A GitHub Action rebuilds it every morning (scheduled from 01:07 IST because GitHub starts runs hours late, so it's ready by 6:00) and publishes it to GitHub Pages.
+A personal news page with six feeds: **Politics, India, Finance, AI, Football, Other Sports**. A GitHub Action rebuilds it every morning (scheduled from 01:07 IST because GitHub starts runs hours late, so it's ready by 6:00) and publishes it to GitHub Pages.
 
 - About 190 trusted sources: outlet RSS, official press releases, expert blogs and newsletters, arXiv, Hugging Face Daily Papers, and Google News searches for topics no single outlet covers well.
-- Headlines and links only. No AI summaries and no API keys.
+- Headlines and links, with a one-line "why it matters" from Claude's impact rating (see below). No API keys.
 - The app also finds **new sources** on its own. They're added at low weight, marked NEW SOURCE, and listed in the "New sources" tab, so you can promote or mute them.
 
 See [PLAN.md](PLAN.md) for the full design.
 
 ## On the page
 
-- **Impact rating:** Claude reads every candidate story in Politics, Finance and AI and rates it 1–5 for you, using the reader profile in `settings.impact.profile`. Stories rated 1–2 go into a collapsed **Low impact** list at the bottom of each section (with the reason), and the rest are ordered by impact. In rated feeds, only rated stories are shown; if Claude is unavailable, the page falls back to rule-based ranking. Each shows its rating and one line on why it matters, plus an **In depth** or **Opinion** label where relevant. It runs through your Claude subscription (see *How it runs*); without it, the page falls back to rule-based ranking.
+- **Impact rating:** Claude reads every candidate story in Politics, India, Finance and AI and rates it 1–5 for you, using the reader profile in `settings.impact.profile`. Stories rated 1–2 go into a collapsed **Low impact** list at the bottom of each section (with the reason), and the rest are ordered by impact. In rated feeds, only rated stories are shown; if Claude is unavailable, the page falls back to rule-based ranking. Each shows its rating and one line on why it matters, plus an **In depth** or **Opinion** label where relevant. It runs through your Claude subscription (see *How it runs*).
 - **Developing:** a headline that continues a storyline shown in the last 3 days moves to a compact "Developing" list at the bottom of its section, with a "Day N" label, unless its coverage jumped (2× or +5 outlets), which signals a real new development.
 - **Top stories:** the first tab lists the 15 most widely covered stories of the day across every feed (3+ outlets). Each is labelled with its feed and section; click the label to jump there. Tune with `settings.top_stories`.
 - **Read tracking:** opening any article of a story marks the story as read, and it fades. "Hide read" hides read stories, and "Mark this tab read" clears a tab. Tab counts show unread stories. Stories that weren't on the page the last time you looked get a **New** badge. All of this is stored in your browser only, so each device keeps its own.

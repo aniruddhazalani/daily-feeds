@@ -68,7 +68,7 @@ settings:
   # the rest are ordered by impact first. Without a working login the page uses rules only.
   impact:
     enabled: true
-    feeds: [politics, finance, ai]
+    feeds: [politics, india, finance, ai]
     model: opus
     fallback_models: [sonnet]   # tried if the plan refuses the main model
     effort: low
@@ -87,6 +87,10 @@ settings:
       - India in depth: decisions that shape the country's future: international meetings, summits,
         bilateral deals, defence and trade agreements, Cabinet decisions, major legislation, constitutional
         cases, high-level national meetings and reforms. Party rhetoric and election punditry are low value.
+      - Indian domestic politics and policy: what is changing and why: new laws and rules, regulator decisions
+        (RBI, SEBI, TRAI, CCI), court rulings, reforms, state policies, and how elections shift policy. They
+        value deep technical material (legislative briefs, think-tank research, legal and data analysis,
+        serious explainers) alongside the latest developments.
       - Macro finance: central banks and interest rates, government fiscal policy, oil supply and the
         effect of wars on oil (financially), de-dollarization and BRICS payment rails, US debt servicing,
         Project 2025, UN Agenda 2030.
@@ -156,14 +160,16 @@ leans:
          motherjones.com, newyorker.com, independent.co.uk, democracynow.org, jacobin.com, opendemocracy.net,
          foreignpolicy.com, brookings.edu, lawfaremedia.org, migrationpolicy.org, americanimmigrationcouncil.org,
          immigrationimpact.com, thehindu.com, scroll.in, thewire.in, ndtv.com, thenewsminute.com, thequint.com,
-         newslaundry.com, epw.in, deccanherald.com, telegraphindia.com, propublica.org]
+         newslaundry.com, epw.in, deccanherald.com, telegraphindia.com, propublica.org, theindiaforum.in,
+         downtoearth.org.in]
   center: [reuters.com, apnews.com, bbc.co.uk, bbc.com, bbci.co.uk, thehill.com, axios.com, bloomberg.com, ft.com,
            economist.com, wsj.com, cnbc.com, newsnationnow.com, csis.org, chathamhouse.org, cfr.org, foreignaffairs.com,
            warontherocks.com, ecfr.eu, thediplomat.com, lowyinstitute.org, carnegieendowment.org, understandingwar.org,
            geopoliticalfutures.com, chinatalk.media, indianexpress.com, theprint.in, hindustantimes.com, livemint.com,
            indiatimes.com, indiatoday.in, business-standard.com, moneycontrol.com, orfonline.org, pib.gov.in,
            uscis.gov, dhs.gov, state.gov, fragomen.com, murthy.com, boundless.com, jdsupra.com, mea.gov.in,
-           pmindia.gov.in, niti.gov.in, prsindia.org, gatewayhouse.in, idsa.in, takshashila.org.in]
+           pmindia.gov.in, niti.gov.in, prsindia.org, gatewayhouse.in, idsa.in, takshashila.org.in, livelaw.in,
+           medianama.com, ideasforindia.in, icrier.org, sebi.gov.in, trai.gov.in]
   right: [foxnews.com, foxbusiness.com, nypost.com, washingtonexaminer.com, washingtontimes.com, nationalreview.com,
           thedispatch.com, thefp.com, dailywire.com, dailycaller.com, breitbart.com, newsmax.com, freebeacon.com,
           theamericanconservative.com, city-journal.org, realclearpolitics.com, realclearworld.com, telegraph.co.uk,
@@ -277,6 +283,23 @@ sources:
   ft_bigread:       { type: gnews, kind: blog, name: FT Big Read, query: '"The Big Read" site:ft.com', paywall: true }
   bloomberg_bigtake: { type: gnews, kind: blog, name: Bloomberg Big Take, query: '"Big Take" site:bloomberg.com', paywall: true }
   city_journal:     { type: gnews, kind: blog, name: City Journal, query: "site:city-journal.org" }
+
+  # India: domestic policy, courts, regulators and research (added 2026-11-15)
+  ideas_for_india:  { type: gnews, kind: blog, name: Ideas for India, query: "site:ideasforindia.in", topical: true }
+  india_forum:      { type: gnews, kind: blog, name: The India Forum, query: "site:theindiaforum.in", topical: true }
+  icrier:           { type: gnews, kind: blog, name: ICRIER, query: "site:icrier.org", topical: true }
+  livelaw:          { type: rss, kind: news, name: LiveLaw, url: "https://www.livelaw.in/google_feeds.xml", fallback: "site:livelaw.in" }
+  medianama:        { type: rss, kind: news, name: MediaNama, url: "https://www.medianama.com/feed/" }
+  downtoearth:      { type: gnews, kind: blog, name: Down To Earth, query: "site:downtoearth.org.in policy" }
+  bs_policy:        { type: rss, kind: news, name: Business Standard, url: "https://www.business-standard.com/rss/economy-policy-102.rss" }
+  et_policy:        { type: rss, kind: news, name: Economic Times, url: "https://economictimes.indiatimes.com/news/economy/policy/rssfeeds/1106944246.cms" }
+  mint_economy:     { type: rss, kind: news, name: Mint, url: "https://www.livemint.com/rss/economy" }
+  sebi:             { type: gnews, kind: official, name: SEBI, query: "site:sebi.gov.in" }
+  trai:             { type: gnews, kind: official, name: TRAI, query: "site:trai.gov.in" }
+  gn_india_regulation: { type: gnews, kind: search, query: '(SEBI OR TRAI OR RBI OR CCI OR "Supreme Court" OR "High Court") (rules OR regulation OR notification OR guidelines OR verdict OR judgment) India' }
+  gn_india_reforms: { type: gnews, kind: search, query: '("labour codes" OR "Digital Personal Data Protection" OR DPDP OR "One Nation One Election" OR delimitation OR census OR "Uniform Civil Code" OR "GST Council") India' }
+  swarajya_longform: { type: gnews, kind: blog, name: Swarajya, query: "site:swarajyamag.com analysis OR explained OR policy" }
+  firstpost_explainers: { type: gnews, kind: blog, name: Firstpost Explainers, query: "site:firstpost.com explainers india" }
 
   # India: center and right-leaning outlets (added for balance)
   toi_india:        { type: rss, kind: news, name: Times of India, url: "https://timesofindia.indiatimes.com/rssfeeds/-2128936835.cms" }
@@ -502,8 +525,82 @@ feeds:
                       deportation, deported, ICE, naturalization, citizenship, "travel ban", "work permit", DACA,
                       refugee, migrants, "international students", border, EAD, "Gold Card"]
 
-      india_foreign:
-        title: India — foreign relations & summits
+  india:
+    title: India
+    balance: true
+    analysis_label: In depth & analysis
+    # Formats that don't inform: law-exam quizzes, IPO filings, regulator order boilerplate, weekly link roundups.
+    exclude_titles:
+      - '\bMCQs?\b'
+      - '\b(RHP|DRHP|Red Herring)\b'
+      - '^(Order in the matter|Adjudication [Oo]rder|Settlement [Oo]rder|Corrigendum)'
+      - '\b(This Week in|Top 10 Stories)\b'
+    sections:
+      changes:
+        title: What's changing — policy, laws, regulators, courts
+        sources: [pib, pib_cabinet, pmo, prs, niti, gn_india_governance, ie_explained, ie_columns, hindu_lead,
+                  theprint_opinion, mint_opinion, frontline, open_mag, takshashila, orf, carnegie_india, economist_briefing,
+                  thehindu_national, ie_india, ht_india, toi_india, india_today, mint_politics, scroll, the_wire, swarajya,
+                  firstpost_india, ndtv_india, republic, opindia, livelaw, medianama, bs_policy, et_policy,
+                  mint_economy, sebi, trai, rbi_press, gn_india_regulation, gn_india_reforms, downtoearth,
+                  swarajya_longform, firstpost_explainers]
+        include: { "Cabinet approves": 5, "Union Cabinet": 4, Cabinet: 2, scheme: 2, policy: 3, reform: 3, reforms: 3,
+                   bill: 3, "Lok Sabha": 2, "Rajya Sabha": 2, Parliament: 2, ordinance: 3, "Supreme Court": 3,
+                   "Constitution Bench": 5, "NITI Aayog": 4, budget: 3, GST: 3, census: 4, delimitation: 4,
+                   "One Nation One Election": 5, "Uniform Civil Code": 5, UCC: 4, infrastructure: 2, semiconductor: 3,
+                   "national security": 3, "data protection": 4, regulation: 3, regulator: 3, mission: 2, federalism: 4,
+                   "Centre-state": 4, "Election Commission": 2, amendment: 3, law: 2, ministry: 2, crore: 1,
+                   approves: 2, rollout: 2, "Viksit Bharat": 3, PLI: 3, "Digital India": 3, SEBI: 3, TRAI: 3,
+                   CCI: 3, RBI: 2, notification: 2, guidelines: 2, rules: 2, verdict: 3, judgment: 3, ruling: 3,
+                   "High Court": 2, "labour codes": 4, DPDP: 4, "Digital Personal Data Protection": 5,
+                   "GST Council": 4, framework: 2, "draft rules": 4, consultation: 3 }
+        require_any: [Cabinet, scheme, policy, reform, reforms, bill, Parliament, "Lok Sabha", "Rajya Sabha", ordinance,
+                      "Supreme Court", "Constitution Bench", NITI, ministry, budget, GST, census, delimitation,
+                      regulation, regulator, mission, Centre, law, amendment, programme, "Election Commission",
+                      SEBI, TRAI, CCI, RBI, notification, guidelines, rules, verdict, judgment, ruling, "High Court",
+                      framework, consultation]
+        exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket, murder, rape, accident, stampede]
+        penalize: *rhetoric
+        min_score: 5
+
+      deep_dives:
+        title: Deep dives — research, legal & policy analysis
+        sources: [prs, ideas_for_india, india_forum, icrier, takshashila, carnegie_india, orf, epw, ie_explained,
+                  ie_columns, hindu_lead, theprint_opinion, mint_opinion, frontline, open_mag, swarajya_longform,
+                  firstpost_explainers, downtoearth, medianama, economist_briefing, niti]
+        include: { policy: 3, reform: 3, reforms: 3, bill: 3, Act: 2, law: 2, regulation: 3, scheme: 2, analysis: 2,
+                   data: 2, evidence: 3, study: 2, research: 2, judgment: 3, constitutional: 4, Constitution: 3,
+                   fiscal: 3, budget: 3, federalism: 4, governance: 3, welfare: 3, subsidy: 3, GST: 3, census: 3,
+                   delimitation: 4, "data protection": 4, DPDP: 4, "AI governance": 4, telecom: 2, electricity: 2,
+                   agriculture: 2, "labour codes": 4, education: 2, health: 2, urban: 2, climate: 2, judiciary: 3,
+                   "Supreme Court": 2, Parliament: 2, explained: 3, Explained: 3, "what it means": 3, why: 1 }
+        require_any: [India, "India's", Indian, Centre, "Union government", "Lok Sabha", "Rajya Sabha", "Supreme Court", SC,
+                      "High Court", NITI, RBI, SEBI, TRAI, GST, Modi, BJP, Delhi, census, rupee, crore, lakh]
+        exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket]
+        penalize: *rhetoric
+        max_analysis: 10
+        window_hours: 168
+        min_score: 5
+
+      politics:
+        title: Politics & elections
+        sources: [thehindu_national, ie_political_pulse, ie_india, theprint_politics, scroll, ht_india, ndtv_india,
+                  mint_politics, pib, carnegie_india, orf,
+                  epw, the_wire, swarajya,
+                  toi_india, india_today, news18_politics, firstpost_india, republic, opindia, pioneer]
+        include: { BJP: 3, Congress: 3, Modi: 3, "Rahul Gandhi": 3, "Lok Sabha": 3, "Rajya Sabha": 3, Parliament: 2,
+                   election: 2, elections: 2, "Election Commission": 3, assembly: 2, "chief minister": 3, CM: 2,
+                   minister: 1, "Supreme Court": 2, governor: 2, cabinet: 2, AAP: 3, TMC: 3, DMK: 3, AIADMK: 3,
+                   NDA: 3, "INDIA bloc": 3, "Shiv Sena": 3, NCP: 3, "JD(U)": 3, RJD: 3, BSP: 3, "Samajwadi": 3,
+                   bill: 1, ordinance: 2, coalition: 2, opposition: 2, polls: 2, MP: 1, MLA: 2, Centre: 1,
+                   "Amit Shah": 3, Kejriwal: 3, Mamata: 3, Kharge: 3, Yogi: 2, delimitation: 3, "One Nation": 2,
+                   policy: 1, reform: 1, "foreign policy": 2, "Jaishankar": 2 }
+        exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket]
+        penalize: *rhetoric
+        max_items: 6
+        max_analysis: 4
+      foreign:
+        title: Foreign relations & summits
         sources: [mea, pmo, gn_india_diplomacy, gateway_house, idsa, carnegie_india, orf, takshashila, diplomat_sa,
                   hindu_lead, theprint_opinion, ie_columns, ie_explained, economist_briefing, thehindu_national, ie_india,
                   ht_india, toi_india, india_today, firstpost_india, republic, swarajya, the_wire, scroll, ndtv_india,
@@ -522,44 +619,6 @@ feeds:
         exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket]
         penalize: *rhetoric
         min_score: 5
-
-      india_governance:
-        title: India — governance & policy
-        sources: [pib, pib_cabinet, pmo, prs, niti, gn_india_governance, ie_explained, ie_columns, hindu_lead,
-                  theprint_opinion, mint_opinion, frontline, open_mag, takshashila, orf, carnegie_india, economist_briefing,
-                  thehindu_national, ie_india, ht_india, toi_india, india_today, mint_politics, scroll, the_wire, swarajya,
-                  firstpost_india, ndtv_india, republic, opindia]
-        include: { "Cabinet approves": 5, "Union Cabinet": 4, Cabinet: 2, scheme: 2, policy: 3, reform: 3, reforms: 3,
-                   bill: 3, "Lok Sabha": 2, "Rajya Sabha": 2, Parliament: 2, ordinance: 3, "Supreme Court": 3,
-                   "Constitution Bench": 5, "NITI Aayog": 4, budget: 3, GST: 3, census: 4, delimitation: 4,
-                   "One Nation One Election": 5, "Uniform Civil Code": 5, UCC: 4, infrastructure: 2, semiconductor: 3,
-                   "national security": 3, "data protection": 4, regulation: 3, regulator: 3, mission: 2, federalism: 4,
-                   "Centre-state": 4, "Election Commission": 2, amendment: 3, law: 2, ministry: 2, crore: 1,
-                   approves: 2, rollout: 2, "Viksit Bharat": 3, PLI: 3, "Digital India": 3 }
-        require_any: [Cabinet, scheme, policy, reform, reforms, bill, Parliament, "Lok Sabha", "Rajya Sabha", ordinance,
-                      "Supreme Court", "Constitution Bench", NITI, ministry, budget, GST, census, delimitation,
-                      regulation, regulator, mission, Centre, law, amendment, programme, "Election Commission"]
-        exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket, murder, rape, accident, stampede]
-        penalize: *rhetoric
-        min_score: 5
-
-      india_politics:
-        title: India — party politics & elections
-        sources: [thehindu_national, ie_political_pulse, ie_india, theprint_politics, scroll, ht_india, ndtv_india,
-                  mint_politics, pib, carnegie_india, orf,
-                  epw, the_wire, swarajya,
-                  toi_india, india_today, news18_politics, firstpost_india, republic, opindia, pioneer]
-        include: { BJP: 3, Congress: 3, Modi: 3, "Rahul Gandhi": 3, "Lok Sabha": 3, "Rajya Sabha": 3, Parliament: 2,
-                   election: 2, elections: 2, "Election Commission": 3, assembly: 2, "chief minister": 3, CM: 2,
-                   minister: 1, "Supreme Court": 2, governor: 2, cabinet: 2, AAP: 3, TMC: 3, DMK: 3, AIADMK: 3,
-                   NDA: 3, "INDIA bloc": 3, "Shiv Sena": 3, NCP: 3, "JD(U)": 3, RJD: 3, BSP: 3, "Samajwadi": 3,
-                   bill: 1, ordinance: 2, coalition: 2, opposition: 2, polls: 2, MP: 1, MLA: 2, Centre: 1,
-                   "Amit Shah": 3, Kejriwal: 3, Mamata: 3, Kharge: 3, Yogi: 2, delimitation: 3, "One Nation": 2,
-                   policy: 1, reform: 1, "foreign policy": 2, "Jaishankar": 2 }
-        exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket]
-        penalize: *rhetoric
-        max_items: 6
-        max_analysis: 4
 
   finance:
     title: Finance

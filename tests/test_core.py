@@ -203,9 +203,9 @@ print(json.dumps({"type": "result", "is_error": False, "result": "", "structured
 
     def stories(self):
         a = Scored(cluster=Cluster([item("Cabinet approves new semiconductor mission", url="https://a.com/1")]),
-                   section_key="politics.india_governance", score=8, primary=None)
+                   section_key="india.changes", score=8, primary=None)
         b = Scored(cluster=Cluster([item("Leader slams rival over remark at rally", url="https://b.com/2")]),
-                   section_key="politics.india_politics", score=8, primary=None)
+                   section_key="india.politics", score=8, primary=None)
         c = Scored(cluster=Cluster([item("RBI holds repo rate steady at policy meeting", url="https://c.com/3")]),
                    section_key="finance.central_banks", score=8, primary=None)
         for s in (a, b, c):
@@ -263,7 +263,7 @@ class RulesAndStorylines(unittest.TestCase):
         self.assertEqual(money_bonus("no amount here"), 0)
 
     def test_rhetoric_ranks_below_substance(self):
-        sec = self.cfg.section("politics.india_politics")
+        sec = self.cfg.section("india.politics")
         rhetoric, _ = score(self.cfg, sec, Cluster([item("Amit Shah slams Congress, takes dig at Rahul Gandhi over remarks",
                                                          source_id="ie_political_pulse")]), NOW)
         substance, _ = score(self.cfg, sec, Cluster([item("Election Commission announces Bihar assembly election dates",

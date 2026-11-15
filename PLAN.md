@@ -249,6 +249,14 @@ Guardrails: at most 5 new sources per day, at most 40 discovered sources active 
 6. Create the GitHub repo, add the Actions workflow (commits `data/` and deploys Pages), and do a first scheduled run.
 7. README: how to add a feed or section, promote or mute a source, and tune a section.
 
+## India tab (added 2026-11-15)
+- India moved out of Politics into its own tab with four sections:
+  - **What's changing:** policy, laws, regulators and courts. PIB/PMO Cabinet decisions, PRS, NITI, SEBI, TRAI, RBI, LiveLaw, MediaNama, the Business Standard / ET / Mint policy desks, and searches for regulation and reforms.
+  - **Deep dives:** research, legal and policy analysis. PRS, Ideas for India, The India Forum, ICRIER, Takshashila, Carnegie India, ORF, EPW, *Explained* and op-ed pages, Frontline (left), Open, Swarajya and Firstpost explainers (right), Down To Earth. 7-day window.
+  - **Politics & elections** (capped at 6).
+  - **Foreign relations & summits.**
+- The India tab has its own `exclude_titles` (law-exam MCQs, IPO filings, regulator order boilerplate, weekly roundups), is balanced left/right, and is impact-rated. The reader profile now describes the domestic-policy interest.
+
 ## Depth, India, AI quality and impact (added 2026-10-31)
 - **India** is split into foreign relations & summits (MEA, PMO, Gateway House, MP-IDSA, ORF, Carnegie India), governance & policy (PIB Cabinet decisions, PRS, NITI Aayog, *Explained* and op-ed pages), and party politics & elections (capped at 6). A shared `rhetoric_penalty` ranks point-scoring down.
 - **In depth:** Politics' analysis list is "In depth & analysis", fed by long-form sources on both sides: The Atlantic and ProPublica (left); The Economist, Reuters Investigates, FT Big Read and Bloomberg Big Take (center); City Journal, The Free Press and National Review (right).
