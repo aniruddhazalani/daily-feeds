@@ -595,6 +595,10 @@ feeds:
                    bill: 1, ordinance: 2, coalition: 2, opposition: 2, polls: 2, MP: 1, MLA: 2, Centre: 1,
                    "Amit Shah": 3, Kejriwal: 3, Mamata: 3, Kharge: 3, Yogi: 2, delimitation: 3, "One Nation": 2,
                    policy: 1, reform: 1, "foreign policy": 2, "Jaishankar": 2 }
+        require_any: [India, Indian, BJP, Congress, AAP, TMC, DMK, AIADMK, NDA, "INDIA bloc", "Shiv Sena", NCP, "JD(U)", RJD, BSP,
+                      Samajwadi, "Lok Sabha", "Rajya Sabha", "Election Commission", ECI, CEC, assembly, "chief minister",
+                      Modi, "Rahul Gandhi", "Amit Shah", Kejriwal, Mamata, Kharge, Yogi, Akhilesh, Owaisi, MLA, MLC,
+                      bypoll, SIR, Centre]
         exclude: [horoscope, recipe, "Bigg Boss", "box office", IPL, cricket]
         penalize: *rhetoric
         max_items: 6

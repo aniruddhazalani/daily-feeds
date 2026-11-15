@@ -71,6 +71,8 @@ promo (product marketing, customer stories, press-release filler), minor (small 
 not just restate the headline.
 
 If a story lists "earlier coverage" and adds no real new development, rate it 2 at most.
+Each story starts with the feed and section it would appear in. If it doesn't belong there (for example,
+a story with no India angle in an India section), rate it 2 at most, however important it is elsewhere.
 Judge by substance, not by how dramatic the headline sounds. A story's outlet and the number of
 outlets covering it are signals, not proof.
 
