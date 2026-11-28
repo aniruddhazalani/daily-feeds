@@ -10,7 +10,7 @@ sources:
   domain: euronews.com
   reason: cited by FDD, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - '''Time to make a deal,'' Trump tells Zelenskyy as he complains US has got ''nothing back'' from Ukraine'
   - 'Investment summit: German government strikes AI deal with Nvidia'
@@ -25,7 +25,7 @@ sources:
   domain: kyivindependent.com
   reason: cited by Phillips O'Brien, UnHerd
   added: '2026-10-21'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - Ukrainian forces reportedly strike energy infrastructure in occupied Donetsk Oblast, Luhansk telecom site
   - Zelensky confirms ballistic missile early warning systems operational after skipped alerts
@@ -55,7 +55,7 @@ sources:
   domain: footballtransfers.com
   reason: 11 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - Arsenal confirmation as wonderkid decision stuns Chelsea
   - 'Chelsea Transfer News Today: Manu Kone unlocks everything as record signing eyed'
@@ -70,7 +70,7 @@ sources:
   domain: sundayguardianlive.com
   reason: 7 matching items via search
   added: '2026-10-22'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - 'LIVE | Silver Price Today [22 October 2026]: MCX Silver Drops at ₹2.29 Lakh/kg Amid Trump-Iran War, Fed Policy Uncertainty;
     Check Latest City-Wise Silver Rates in Delhi, Mumbai, Chennai, Kerala & More'
@@ -86,7 +86,7 @@ sources:
   domain: english.aawsat.com
   reason: cited by FDD, The National Interest
   added: '2026-10-22'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - Private Sector Fuels Saudi Arabia’s Growth Lead Among G20 Economies
   - Saudi Crown Prince Receives Written Message to King Salman from Egyptian President
@@ -101,7 +101,7 @@ sources:
   domain: digitimes.com
   reason: 7 matching items via search
   added: '2026-10-23'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - MIPI expands beyond smartphones into AR glasses and humanoid robots
   - Tesla's Megapack boom meets AI power crunch, but margin gains raise questions
@@ -146,7 +146,7 @@ sources:
   domain: lemonde.fr
   reason: cited by Commodity Context, FDD
   added: '2026-10-24'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - Russia and Ukraine agree to truce in Oleshky
   - Trump lifts some Canada tariffs ahead of midterms
@@ -161,7 +161,7 @@ sources:
   domain: defensenews.com
   reason: cited by FDD, The National Interest
   added: '2026-10-24'
-  last_qualified: '2026-11-26'
+  last_qualified: '2026-11-28'
   samples:
   - US military needs ‘urgent revolutionary institutional change’ to prepare for modern war, Petraeus says
   - '‘The West can’t stop me’: Space wars heat up as Russia tails a Ukraine-linked US satellite'
@@ -281,7 +281,7 @@ sources:
   domain: engine.online
   reason: 11 matching items via search
   added: '2026-11-03'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - 'LNG Bunker Snapshot: Singapore-ARA spread narrows as European gas supply concerns lift Rotterdam'
   - 'Middle East war: Oil prices remain elevated amid repeated vessel attacks'
@@ -296,7 +296,7 @@ sources:
   domain: siliconangle.com
   reason: 10 matching items via search
   added: '2026-11-03'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - Robotics startup Tutor Intelligence nabs $75M investment
   - 42AI launches with $62.5M to predict how traders act when markets turn volatile
@@ -312,7 +312,7 @@ sources:
   domain: marketscreener.com
   reason: 27 matching items via search
   added: '2026-11-04'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - Central bank gold holdings, as per IMF data
   - Kuwait lifts October oil output to highest since start of Iran war, source says
@@ -343,7 +343,7 @@ sources:
   domain: businesstimes.com.sg
   reason: 10 matching items via search
   added: '2026-11-11'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - Oil prices ease to two-month lows as US downplays further Iran strikes
   - European shares near record high as lower oil prices boost sentiment
@@ -358,7 +358,7 @@ sources:
   domain: investinglive.com
   reason: 12 matching items via search
   added: '2026-11-12'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - TD Securities sees gold retesting $3,900 as Fed hike bets and a firm dollar bite
   - PBOC is expected to set the USD/CNY reference rate at 6.6797 – Reuters estimate
@@ -373,7 +373,7 @@ sources:
   domain: ms.now
   reason: cited by FDD, The Atlantic, The Free Press
   added: '2026-11-12'
-  last_qualified: '2026-11-24'
+  last_qualified: '2026-11-28'
   samples:
   - 'Top Oversight Democrat rejects Trump White House ‘threat’: ‘We’re not bending the knee’'
   - Trump speaks at Arlington Cemetery as legal fight over arch intensifies
@@ -387,7 +387,7 @@ sources:
   domain: tomshardware.com
   reason: cited by Latent Space, Newcomer, Tomasz Tunguz
   added: '2026-11-13'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - Google reworks TPU silicon into specialized systems for agents and security
   - Techie uses voltage glitching hack to turn $2,500 Nvidia 8GB cryptomining GPU into a full-fat $20,000 A100 with 80GB of
@@ -465,7 +465,7 @@ sources:
   domain: kyivpost.com
   reason: cited by FDD, The National Interest, UnHerd
   added: '2026-11-20'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - '‘We Won’t Allow It Again’: Merz Says Europe Will Not Accept ‘Yalta 2’'
   - Kushner Says Trump Wants Europe ‘By His Side’ on Ukraine
@@ -480,7 +480,7 @@ sources:
   domain: nbcnews.com
   reason: cited by ChinaTalk, FDD, Gateway House
   added: '2026-11-21'
-  last_qualified: '2026-11-26'
+  last_qualified: '2026-11-28'
   samples:
   - Trump says he won't allow U.S. companies to build data centers outside the country
   - Trump calling Putin ‘my friend’ at APEC summit sparks backlash
@@ -511,7 +511,7 @@ sources:
   domain: africa.espn.com
   reason: 162 matching items via search
   added: '2026-11-22'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - 'NFL Week 11 predictions: Upsets, fantasy sleepers, stat lines, TD scorers, more'
   - Kings vs. Lakers (21 Nov, 2026) Video Highlights
@@ -526,7 +526,7 @@ sources:
   domain: livescore.com
   reason: 131 matching items via search
   added: '2026-11-22'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - New Liverpool transfer threatens record-breaking Richard Hughes signing
   - 'The Athletic: Premier League club ‘working on’ new deal for key player after MUFC establish interest in Jan transfer'
@@ -541,7 +541,7 @@ sources:
   domain: energynow.com
   reason: 35 matching items via search
   added: '2026-11-23'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - 'ALASKA UPDATE: Alaska Crude Oil Production to Rise 13% in 2027, EIA Says'
   - US Crude Output to Fall Next Decade on Sub-$70 Brent Price Forecast, EIA Says
@@ -556,7 +556,7 @@ sources:
   domain: sportsmole.co.uk
   reason: 21 matching items via search
   added: '2026-11-23'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - Man Utd, Tottenham in 'transfer battle' for £50m Bundesliga forward
   - 'Spurs transfer news: Can Mikey Moore be recalled from FC Koln in January?'
@@ -587,7 +587,7 @@ sources:
   domain: investing.com
   reason: 29 matching items via search
   added: '2026-11-24'
-  last_qualified: '2026-11-26'
+  last_qualified: '2026-11-28'
   samples:
   - Fed’s Cook says September rate hike likely insufficient to curb price pressures
   - UBS flags further gold weakness before Fed rate-cut expectations return
@@ -602,7 +602,7 @@ sources:
   domain: immigration-analytics.com
   reason: 26 matching items via search
   added: '2026-11-24'
-  last_qualified: '2026-11-27'
+  last_qualified: '2026-11-28'
   samples:
   - 'ICE Arrest of U.S. Citizens in Oakland: What Federal Law Allows'
   - 'Provo ICE Arrest: DHS Ties Visa Overstay to Trump Threat Stickers'
